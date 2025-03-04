@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 03, 2025
+title: Latest 15 Papers - March 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An Analytical Study of the Min-Sum Approximation for Polar Codes](http://arxiv.org/abs/2501.13092v2)** | 2025-03-03 |  |
+| **[SURGE: On the Potential of Large Language Models as General-Purpose Surrogate Code Executors](http://arxiv.org/abs/2502.11167v2)** | 2025-03-03 |  |
+| **[The Rise and Down of Babel Tower: Investigating the Evolution Process of Multilingual Code Large Language Model](http://arxiv.org/abs/2412.07298v2)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
+| **[Learned codes for broadcast channels with feedback](http://arxiv.org/abs/2411.04083v2)** | 2025-03-03 | accept to ICC 2025 |
+| **[A Deterministic Construction of a Large Distance Code from the Wozencraft Ensemble](http://arxiv.org/abs/2305.02484v3)** | 2025-03-03 |  |
+| **[We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs](http://arxiv.org/abs/2406.10279v3)** | 2025-03-02 | <details><summary>To ap...</summary><p>To appear in the 2025 USENIX Security Symposium. 22 pages, 14 figures, 8 tables. Edited from original version for submission to a different conference. No change to original results or findings</p></details> |
+| **[The Good, the Bad, and the (Un)Usable: A Rapid Literature Review on Privacy as Code](http://arxiv.org/abs/2412.16667v2)** | 2025-03-02 | <details><summary>Accep...</summary><p>Accepted at the 18th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE '25)</p></details> |
+| **[Steering Large Language Models between Code Execution and Textual Reasoning](http://arxiv.org/abs/2410.03524v2)** | 2025-03-02 | <details><summary>32 pa...</summary><p>32 pages, 12 figures, 12 tables</p></details> |
+| **[Spike Talk: Genesis and Neural Coding Scheme Translations](http://arxiv.org/abs/2408.00773v2)** | 2025-03-02 | <details><summary>This ...</summary><p>This paper is accepted for publication in IEEE Transactions on Smart Grid</p></details> |
+| **[CAT and DOG: Improved Codes for Private Distributed Matrix Multiplication](http://arxiv.org/abs/2501.12371v3)** | 2025-03-01 |  |
+| **[A Unified Framework for Automated Code Transformation and Pragma Insertion](http://arxiv.org/abs/2405.03058v6)** | 2025-03-01 |  |
 | **[RuCCoD: Towards Automated ICD Coding in Russian](http://arxiv.org/abs/2502.21263v1)** | 2025-02-28 |  |
 | **[Efficient Transformer-based Decoder for Varshamov-Tenengolts Codes](http://arxiv.org/abs/2502.21060v1)** | 2025-02-28 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 9 tables</p></details> |
 | **[Vibrotactile information coding strategies for a body-worn vest to aid robot-human collaboration](http://arxiv.org/abs/2502.21056v1)** | 2025-02-28 |  |
 | **[Pragmatic Reasoning improves LLM Code Generation](http://arxiv.org/abs/2502.15835v2)** | 2025-02-28 |  |
-| **[ChartMimic: Evaluating LMM's Cross-Modal Reasoning Capability via Chart-to-Code Generation](http://arxiv.org/abs/2406.09961v2)** | 2025-02-28 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025. Data and code are available at https://github.com/ChartMimic/ChartMimic</p></details> |
-| **[Quantum error-correcting codes from projective Reed-Muller codes and their hull variation problem](http://arxiv.org/abs/2312.15308v4)** | 2025-02-28 |  |
-| **[Beyond Natural Language Perplexity: Detecting Dead Code Poisoning in Code Generation Datasets](http://arxiv.org/abs/2502.20246v2)** | 2025-02-28 |  |
-| **[Detection of LLM-Paraphrased Code and Identification of the Responsible LLM Using Coding Style Features](http://arxiv.org/abs/2502.17749v2)** | 2025-02-28 |  |
-| **[Overlapped Arithmetic Codes](http://arxiv.org/abs/2502.20781v1)** | 2025-02-28 | <details><summary>An ac...</summary><p>An accompanying software package is available on https://github.com/fy79/NOW-FTCIT. This work was supported by the National Science Foundation of China under Grant 62350069 and Grant 62141101. arXiv admin note: text overlap with arXiv:2309.04309</p></details> |
-| **[Measuring Determinism in Large Language Models for Software Code Review](http://arxiv.org/abs/2502.20747v1)** | 2025-02-28 |  |
-| **[Generating CAD Code with Vision-Language Models for 3D Designs](http://arxiv.org/abs/2410.05340v2)** | 2025-02-28 |  |
-| **[Near-Optimal List-Recovery of Linear Code Families](http://arxiv.org/abs/2502.13877v2)** | 2025-02-27 | 13 pages |
-| **[Multi-Turn Code Generation Through Single-Step Rewards](http://arxiv.org/abs/2502.20380v1)** | 2025-02-27 | <details><summary>9 pag...</summary><p>9 pages (not including references or appendix); 6 figures (in main paper); (v1) preprint</p></details> |
-| **[Moderate-length lifted quantum Tanner codes](http://arxiv.org/abs/2502.20297v1)** | 2025-02-27 |  |
-| **[Code Style Sheets: CSS for Code](http://arxiv.org/abs/2502.09386v5)** | 2025-02-27 | <details><summary>OOPSL...</summary><p>OOPSLA 2025 Paper + Appendices</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mixed-Integer Conic Program for the Multi-Agent Moving-Target Traveling Salesman Problem](http://arxiv.org/abs/2501.06130v2)** | 2025-03-02 | 7 pages, 3 figures |
+| **[Learning Task Decomposition to Assist Humans in Competitive Programming](http://arxiv.org/abs/2406.04604v4)** | 2025-03-01 | <details><summary>ACL 2...</summary><p>ACL 2024 Main Conference</p></details> |
+| **[LTLf Synthesis on First-Order Agent Programs in Nondeterministic Environments](http://arxiv.org/abs/2410.00726v3)** | 2025-03-01 | AAAI'25 |
+| **[How Consistent Are Humans When Grading Programming Assignments?](http://arxiv.org/abs/2409.12967v2)** | 2025-02-28 |  |
 | **[Need Help? Designing Proactive AI Assistants for Programming](http://arxiv.org/abs/2410.04596v2)** | 2025-02-28 | CHI 2025 |
 | **[Extending the OmpSs-2 Programming Model for Hybrid Quantum-Classical Programming](http://arxiv.org/abs/2502.21104v1)** | 2025-02-28 |  |
 | **[ProBench: Benchmarking Large Language Models in Competitive Programming](http://arxiv.org/abs/2502.20868v1)** | 2025-02-28 |  |
@@ -37,8 +41,4 @@ labels: documentation
 | **[Programming Really Is Simple Mathematics](http://arxiv.org/abs/2502.17149v3)** | 2025-02-27 |  |
 | **[LangProBe: a Language Programs Benchmark](http://arxiv.org/abs/2502.20315v1)** | 2025-02-27 |  |
 | **[Bugfix: a standard language, database schema and repository for research on bugs and automatic program repair](http://arxiv.org/abs/2502.15599v2)** | 2025-02-27 |  |
-| **[Program Synthesis Dialog Agents for Interactive Decision-Making](http://arxiv.org/abs/2502.19610v1)** | 2025-02-26 |  |
-| **[Multi-Language Probabilistic Programming](http://arxiv.org/abs/2502.19538v1)** | 2025-02-26 | <details><summary>Accep...</summary><p>Accepted for publication at OOPSLA 2025 (R1)</p></details> |
-| **[Verde: Verification via Refereed Delegation for Machine Learning Programs](http://arxiv.org/abs/2502.19405v1)** | 2025-02-26 |  |
-| **[Foundations for Deductive Verification of Continuous Probabilistic Programs: From Lebesgue to Riemann and Back](http://arxiv.org/abs/2502.19388v1)** | 2025-02-26 | <details><summary>Full ...</summary><p>Full version of OOPSLA 25 paper, 55 pages</p></details> |
 
