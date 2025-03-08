@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 07, 2025
+title: Latest 15 Papers - March 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 | **[Trim My View: An LLM-Based Code Query System for Module Retrieval in Robotic Firmware](http://arxiv.org/abs/2503.03969v1)** | 2025-03-05 | 11 pages, 5 figures |
 | **[Construction and Decoding of Quantum Margulis Codes](http://arxiv.org/abs/2503.03936v1)** | 2025-03-05 | <details><summary>15 pa...</summary><p>15 pages, 12 figures. Part of this work was presented at the 60th Annual Allerton Conference on Communication, Control and Computing, in Urbana, IL, USA</p></details> |
 | **[Assessing Correctness in LLM-Based Code Generation via Uncertainty Estimation](http://arxiv.org/abs/2502.11620v2)** | 2025-03-05 | <details><summary>18 pa...</summary><p>18 pages and 3 References Pages</p></details> |
+| **[Beyond Matryoshka: Revisiting Sparse Coding for Adaptive Representation](http://arxiv.org/abs/2503.01776v2)** | 2025-03-05 | <details><summary>A nov...</summary><p>A novel sparse coding framework designed for learning adaptive representation</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
