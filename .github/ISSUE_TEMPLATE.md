@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 10, 2025
+title: Latest 15 Papers - March 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,33 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Bias Unveiled: Investigating Social Bias in LLM-Generated Code](http://arxiv.org/abs/2411.10351v4)** | 2025-03-07 | <details><summary>accep...</summary><p>accepted for publication in the Association for the Advancement of Artificial Intelligence (AAAI), 2025</p></details> |
-| **[Grammar-Based Code Representation: Is It a Worthy Pursuit for LLMs?](http://arxiv.org/abs/2503.05507v1)** | 2025-03-07 |  |
-| **[A Bot-based Approach to Manage Codes of Conduct in Open-Source Projects](http://arxiv.org/abs/2503.05479v1)** | 2025-03-07 | <details><summary>Accep...</summary><p>Accepted at the 2025 IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS)</p></details> |
-| **[AILS-NTUA at SemEval-2025 Task 8: Language-to-Code prompting and Error Fixing for Tabular Question Answering](http://arxiv.org/abs/2503.00435v2)** | 2025-03-07 |  |
-| **[LoRACode: LoRA Adapters for Code Embeddings](http://arxiv.org/abs/2503.05315v1)** | 2025-03-07 | <details><summary>Accep...</summary><p>Accepted at the Deep Learning for Code (DL4C) Workshop at ICLR 2025</p></details> |
-| **[Assisted morbidity coding: the SISCO.web use case for identifying the main diagnosis in Hospital Discharge Records](http://arxiv.org/abs/2412.09651v2)** | 2025-03-07 | 18 pages |
-| **[How Diversely Can Language Models Solve Problems? Exploring the Algorithmic Diversity of Model-Generated Code](http://arxiv.org/abs/2503.00691v2)** | 2025-03-07 |  |
-| **[Quasi-linear time decoding of RS and AG codes for burst errors up to the Singleton bound](http://arxiv.org/abs/2503.05062v1)** | 2025-03-07 |  |
-| **[Double Backdoored: Converting Code Large Language Model Backdoors to Traditional Malware via Adversarial Instruction Tuning Attacks](http://arxiv.org/abs/2404.18567v2)** | 2025-03-07 |  |
-| **[Ultra-Low-Latency Edge Intelligent Sensing: A Source-Channel Tradeoff and Its Application to Coding Rate Adaptation](http://arxiv.org/abs/2503.04645v1)** | 2025-03-06 |  |
-| **[Equivalence of Families of Polycyclic Codes over Finite Fields](http://arxiv.org/abs/2503.04498v1)** | 2025-03-06 |  |
-| **[Exit the Code: A Model for Understanding Career Abandonment Intention Among Software Developers](http://arxiv.org/abs/2503.04460v1)** | 2025-03-06 |  |
-| **[Learning Transformer-based World Models with Contrastive Predictive Coding](http://arxiv.org/abs/2503.04416v1)** | 2025-03-06 |  |
-| **[LONGCODEU: Benchmarking Long-Context Language Models on Long Code Understanding](http://arxiv.org/abs/2503.04359v1)** | 2025-03-06 | 18 pages |
-| **[scDD: Latent Codes Based scRNA-seq Dataset Distillation with Foundation Model Knowledge](http://arxiv.org/abs/2503.04357v1)** | 2025-03-06 |  |
+| **[RepoST: Scalable Repository-Level Coding Environment Construction with Sandbox Testing](http://arxiv.org/abs/2503.07358v1)** | 2025-03-10 |  |
+| **[Beyond the Edge of Function: Unraveling the Patterns of Type Recovery in Binary Code](http://arxiv.org/abs/2503.07243v1)** | 2025-03-10 |  |
+| **[Explainable Android Malware Detection and Malicious Code Localization Using Graph Attention](http://arxiv.org/abs/2503.07109v1)** | 2025-03-10 | <details><summary>This ...</summary><p>This paper has 13 pages and contains 5 images (3 figures within the paper and 2 author photos). It is being submitted to IEEE Transactions on Information Forensics and Security for consideration</p></details> |
+| **[Quantizing Large Language Models for Code Generation: A Differentiated Replication](http://arxiv.org/abs/2503.07103v1)** | 2025-03-10 |  |
+| **[CoIR: A Comprehensive Benchmark for Code Information Retrieval Models](http://arxiv.org/abs/2407.02883v2)** | 2025-03-10 |  |
+| **[ProjectEval: A Benchmark for Programming Agents Automated Evaluation on Project-Level Code Generation](http://arxiv.org/abs/2503.07010v1)** | 2025-03-10 | <details><summary>17 pa...</summary><p>17 pages (9 Appendix pages), 4 figures, 7 tables</p></details> |
+| **[Beyond Code Generation: LLM-supported Exploration of the Program Design Space](http://arxiv.org/abs/2503.06911v1)** | 2025-03-10 | <details><summary>17 pa...</summary><p>17 pages; 4 figures; 1 table; to appear in CHI '25</p></details> |
+| **[AutoMisty: A Multi-Agent LLM Framework for Automated Code Generation in the Misty Social Robot](http://arxiv.org/abs/2503.06791v1)** | 2025-03-09 |  |
+| **[SABER: Model-agnostic Backdoor Attack on Chain-of-Thought in Neural Code Generation](http://arxiv.org/abs/2412.05829v2)** | 2025-03-09 | UNDER REVIEW |
+| **[FEA-Bench: A Benchmark for Evaluating Repository-Level Code Generation for Feature Implementation](http://arxiv.org/abs/2503.06680v1)** | 2025-03-09 |  |
+| **[Is Your Benchmark (Still) Useful? Dynamic Benchmarking for Code Language Models](http://arxiv.org/abs/2503.06643v1)** | 2025-03-09 | 14 pages, 7 figures |
+| **[AIGCodeSet: A New Annotated Dataset for AI Generated Code Detection](http://arxiv.org/abs/2412.16594v2)** | 2025-03-09 |  |
+| **[Deep Phase Coded Image Prior](http://arxiv.org/abs/2404.03906v2)** | 2025-03-09 |  |
+| **[PerfRL: A Small Language Model Framework for Efficient Code Optimization](http://arxiv.org/abs/2312.05657v2)** | 2025-03-09 |  |
+| **[CodeBrain: Imputing Any Brain MRI via Modality- and Instance-Specific Codes](http://arxiv.org/abs/2501.18328v2)** | 2025-03-09 | CodeBrain v2 |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimal Operation of Renewable Energy Communities under Demand Response Programs](http://arxiv.org/abs/2503.07149v1)** | 2025-03-10 |  |
+| **[ProjectEval: A Benchmark for Programming Agents Automated Evaluation on Project-Level Code Generation](http://arxiv.org/abs/2503.07010v1)** | 2025-03-10 | <details><summary>17 pa...</summary><p>17 pages (9 Appendix pages), 4 figures, 7 tables</p></details> |
+| **[Beyond Code Generation: LLM-supported Exploration of the Program Design Space](http://arxiv.org/abs/2503.06911v1)** | 2025-03-10 | <details><summary>17 pa...</summary><p>17 pages; 4 figures; 1 table; to appear in CHI '25</p></details> |
+| **[Multimodal Programming in Computer Science with Interactive Assistance Powered by Large Language Model](http://arxiv.org/abs/2503.06552v1)** | 2025-03-09 | <details><summary>Accep...</summary><p>Accepted in Proceedings of the 27th International Conference on. Human-Computer Interaction, 2025</p></details> |
+| **[Exploring and Lifting the Robustness of LLM-powered Automated Program Repair with Metamorphic Testing](http://arxiv.org/abs/2410.07516v2)** | 2025-03-09 |  |
+| **[Less is More: Adaptive Program Repair with Bug Localization and Preference Learning](http://arxiv.org/abs/2503.06510v1)** | 2025-03-09 | <details><summary>accep...</summary><p>accepted by AAAI2025 Oral</p></details> |
+| **[Functional Reactive Programming with Effects, A More Permissive Approach](http://arxiv.org/abs/2503.06162v1)** | 2025-03-08 |  |
+| **[Satire: Computing Rigorous Bounds for Floating-Point Rounding Error in Mixed-Precision Loop-Free Programs](http://arxiv.org/abs/2503.05924v1)** | 2025-03-07 | <details><summary>22 pg...</summary><p>22 pgs, 8 figures, 4 tables</p></details> |
 | **[Data-Driven Invariant Learning for Probabilistic Programs](http://arxiv.org/abs/2106.05421v4)** | 2025-03-07 | 37 pages |
 | **[Parameterized Algorithms for Matching Integer Programs with Additional Rows and Columns](http://arxiv.org/abs/2503.05548v1)** | 2025-03-07 |  |
 | **[Static Program Analysis Guided LLM Based Unit Test Generation](http://arxiv.org/abs/2503.05394v1)** | 2025-03-07 |  |
@@ -33,12 +41,4 @@ labels: documentation
 | **[On the Logical Content of Logic Programs](http://arxiv.org/abs/2503.05355v1)** | 2025-03-07 |  |
 | **[AutoIOT: LLM-Driven Automated Natural Language Programming for AIoT Applications](http://arxiv.org/abs/2503.05346v1)** | 2025-03-07 |  |
 | **[Mining Q&A Platforms for Empirical Evidence on Quantum Software Programming](http://arxiv.org/abs/2503.05240v1)** | 2025-03-07 |  |
-| **[ESSPI: ECDSA/Schnorr Signed Program Input for BitVMX](http://arxiv.org/abs/2503.02772v2)** | 2025-03-07 |  |
-| **[Word2Wave: Language Driven Mission Programming for Efficient Subsea Deployments of Marine Robots](http://arxiv.org/abs/2409.18405v2)** | 2025-03-06 |  |
-| **[Modular Reasoning about Error Bounds for Concurrent Probabilistic Programs](http://arxiv.org/abs/2503.04512v1)** | 2025-03-06 |  |
-| **[Learning Object Placement Programs for Indoor Scene Synthesis with Iterative Self Training](http://arxiv.org/abs/2503.04496v1)** | 2025-03-06 | <details><summary>21 pa...</summary><p>21 pages, 20 figures Subjects: Graphics (cs.GR), Computer Vision and Pattern Recognition (cs.CV), Machine Learning (cs.LG)</p></details> |
-| **[Prompt Programming: A Platform for Dialogue-based Computational Problem Solving with Generative AI Models](http://arxiv.org/abs/2503.04267v1)** | 2025-03-06 | <details><summary>Prepr...</summary><p>Preprint of the ITiCSE'25 paper</p></details> |
-| **[AI-based Programming Assistants for Privacy-related Code Generation: The Developers' Experience](http://arxiv.org/abs/2503.03988v1)** | 2025-03-06 |  |
-| **[Endpoint-Explicit Differential Dynamic Programming via Exact Resolution](http://arxiv.org/abs/2503.03897v1)** | 2025-03-05 | <details><summary>7 pag...</summary><p>7 pages, IEEE ICRA paper</p></details> |
-| **[AEGIS: Towards Formalized and Practical Memory-Safe Execution of C programs via MSWASM](http://arxiv.org/abs/2503.03698v1)** | 2025-03-05 |  |
 
