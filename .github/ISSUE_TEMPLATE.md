@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 16, 2025
+title: Latest 15 Papers - March 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ASMA-Tune: Unlocking LLMs' Assembly Code Comprehension via Structural-Semantic Instruction Tuning](http://arxiv.org/abs/2503.11617v1)** | 2025-03-14 | <details><summary>19 pa...</summary><p>19 pages, multiple figures</p></details> |
+| **[Do Comments and Expertise Still Matter? An Experiment on Programmers' Adoption of AI-Generated JavaScript Code](http://arxiv.org/abs/2503.11453v1)** | 2025-03-14 |  |
+| **[Quality In, Quality Out: Investigating Training Data's Role in AI Code Generation](http://arxiv.org/abs/2503.11402v1)** | 2025-03-14 | <details><summary>Accep...</summary><p>Accepted to the 33rd IEEE/ACM International Conference on Program Comprehension (ICPC 2025)</p></details> |
+| **[On the permutation automorphisms of binary cubic codes](http://arxiv.org/abs/2402.10667v2)** | 2025-03-14 | <details><summary>11 pa...</summary><p>11 pages, for cubic codes of length smaller than 30, new computational results are added by the first author</p></details> |
+| **[OASIS: Order-Augmented Strategy for Improved Code Search](http://arxiv.org/abs/2503.08161v3)** | 2025-03-14 |  |
+| **[Collaboration is all you need: LLM Assisted Safe Code Translation](http://arxiv.org/abs/2503.11237v1)** | 2025-03-14 |  |
+| **[RetrieveGPT: Merging Prompts and Mathematical Models for Enhanced Code-Mixed Information Retrieval](http://arxiv.org/abs/2411.04752v2)** | 2025-03-14 | <details><summary>There...</summary><p>There are errors in the results and conclusion section of the paper due to which i want to withdraw</p></details> |
+| **[About the generalized Hamming weights of matrix-product codes](http://arxiv.org/abs/2407.11810v2)** | 2025-03-14 |  |
+| **[Prompt Alchemy: Automatic Prompt Refinement for Enhancing Code Generation](http://arxiv.org/abs/2503.11085v1)** | 2025-03-14 |  |
+| **[LLMs are Bug Replicators: An Empirical Study on LLMs' Capability in Completing Bug-prone Code](http://arxiv.org/abs/2503.11082v1)** | 2025-03-14 |  |
+| **[Abdominal aortic aneurysm wall stress: A 7-line code in MATLAB and a one-click software application](http://arxiv.org/abs/2407.05242v3)** | 2025-03-14 |  |
+| **[Commenting Higher-level Code Unit: Full Code, Reduced Code, or Hierarchical Code Summarization](http://arxiv.org/abs/2503.10737v1)** | 2025-03-13 |  |
 | **[DynaCode: A Dynamic Complexity-Aware Code Benchmark for Evaluating Large Language Models in Code Generation](http://arxiv.org/abs/2503.10452v1)** | 2025-03-13 | 16 pages, 11 figures |
 | **[Assessing Vulnerability in Smart Contracts: The Role of Code Complexity Metrics in Security Analysis](http://arxiv.org/abs/2411.17343v3)** | 2025-03-13 |  |
 | **[Simultaneous Decoding of Classical Coset Codes over $3-$User Quantum Interference Channel : New Achievable Rate Regions](http://arxiv.org/abs/2503.07804v2)** | 2025-03-13 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2203.00110</p></details> |
-| **[Unlocking Historical Clinical Trial Data with ALIGN: A Compositional Large Language Model System for Medical Coding](http://arxiv.org/abs/2411.13163v2)** | 2025-03-13 |  |
-| **[Structured Codes for Distributed Matrix Multiplication](http://arxiv.org/abs/2501.00371v3)** | 2025-03-13 | <details><summary>Prepr...</summary><p>Preprint. A preliminary version of this work was presented in parts at the 2024 Int. Symp. Inf. Theory, Athens, Greece</p></details> |
-| **[CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics](http://arxiv.org/abs/2411.17274v4)** | 2025-03-13 |  |
-| **[On the List-Decodability of Random (Linear) Sum-Rank Metric Codes](http://arxiv.org/abs/2503.10234v1)** | 2025-03-13 | 23 pages |
-| **[On an analogue of the doubling method in coding theory](http://arxiv.org/abs/2503.10201v1)** | 2025-03-13 | 27 pages |
-| **[The Shamrock code: I- Smoothed Particle Hydrodynamics on GPUs](http://arxiv.org/abs/2503.09713v1)** | 2025-03-12 | <details><summary>Accep...</summary><p>Accepted for publication in MNRAS</p></details> |
-| **[A Prototype VS Code Extension to Improve Web Accessible Development](http://arxiv.org/abs/2503.09673v1)** | 2025-03-12 | 6 pages |
-| **[Prompt Engineering Using GPT for Word-Level Code-Mixed Language Identification in Low-Resource Dravidian Languages](http://arxiv.org/abs/2411.04025v2)** | 2025-03-12 | <details><summary>Updat...</summary><p>Updated and Final Version</p></details> |
-| **[Automating Code Review: A Systematic Literature Review](http://arxiv.org/abs/2503.09510v1)** | 2025-03-12 |  |
-| **[CASTLE: Benchmarking Dataset for Static Code Analyzers and LLMs towards CWE Detection](http://arxiv.org/abs/2503.09433v1)** | 2025-03-12 |  |
-| **[VeCoGen: Automating Generation of Formally Verified C Code with Large Language Models](http://arxiv.org/abs/2411.19275v2)** | 2025-03-12 |  |
-| **[OASIS: Order-Augmented Strategy for Improved Code Search](http://arxiv.org/abs/2503.08161v2)** | 2025-03-12 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TikZero: Zero-Shot Text-Guided Graphics Program Synthesis](http://arxiv.org/abs/2503.11509v1)** | 2025-03-14 | <details><summary>Proje...</summary><p>Project page: https://github.com/potamides/DeTikZify</p></details> |
+| **[The Road to Hybrid Quantum Programs: Characterizing the Evolution from Classical to Hybrid Quantum Software](http://arxiv.org/abs/2503.11450v1)** | 2025-03-14 |  |
+| **[Configuration Design of Mechanical Assemblies using an Estimation of Distribution Algorithm and Constraint Programming](http://arxiv.org/abs/2503.11002v1)** | 2025-03-14 |  |
+| **[Hercules: A Compiler for Productive Programming of Heterogeneous Systems](http://arxiv.org/abs/2503.10855v1)** | 2025-03-13 |  |
 | **[Concurrent Scheduling of High-Level Parallel Programs on Multi-GPU Systems](http://arxiv.org/abs/2503.10516v1)** | 2025-03-13 |  |
 | **[Computational Complexity and Integer Programming Formulation of the Oredango Puzzle](http://arxiv.org/abs/2503.10393v1)** | 2025-03-13 | 12 pages |
 | **[Can LLMs Reason About Program Semantics? A Comprehensive Evaluation of LLMs on Formal Specification Inference](http://arxiv.org/abs/2503.04779v2)** | 2025-03-13 |  |
@@ -37,8 +41,4 @@ labels: documentation
 | **[Evaluating the Generalizability of LLMs in Automated Program Repair](http://arxiv.org/abs/2503.09217v1)** | 2025-03-12 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, to be published in ICSE2025-NIER</p></details> |
 | **[Large Language Models-Aided Program Debloating](http://arxiv.org/abs/2503.08969v1)** | 2025-03-12 |  |
 | **[Large Neighborhood Search and Bitmask Dynamic Programming for Wireless Mobile Charging Electric Vehicle Routing Problems in Medical Transportation](http://arxiv.org/abs/2503.08752v1)** | 2025-03-11 | 33 pages, 12 figures |
-| **[Evaluating Interpretable Reinforcement Learning by Distilling Policies into Programs](http://arxiv.org/abs/2503.08322v1)** | 2025-03-11 | <details><summary>12 pa...</summary><p>12 pages of main text, under review</p></details> |
-| **[RL-MILP Solver: A Reinforcement Learning Approach for Solving Mixed-Integer Linear Programs with Graph Neural Networks](http://arxiv.org/abs/2411.19517v4)** | 2025-03-11 | <details><summary>Exten...</summary><p>Extended version (17 pages, 8 figures). Accepted at the 2025 AAAI Workshop on AI to Accelerate Science and Engineering (AI2ASE)</p></details> |
-| **[Shedding Light in Task Decomposition in Program Synthesis: The Driving Force of the Synthesizer Model](http://arxiv.org/abs/2503.08738v1)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025 Workshop Deep Learning for Code</p></details> |
-| **[Agentic Bug Reproduction for Effective Automated Program Repair at Google](http://arxiv.org/abs/2502.01821v2)** | 2025-03-11 |  |
 
