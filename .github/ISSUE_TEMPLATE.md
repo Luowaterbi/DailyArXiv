@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 22, 2025
+title: Latest 15 Papers - March 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -36,9 +36,9 @@ labels: documentation
 | **[Beyond Local Selection: Global Cut Selection for Enhanced Mixed-Integer Programming](http://arxiv.org/abs/2503.15847v1)** | 2025-03-20 |  |
 | **[On the Stability of Undesirable Equilibria in the Quadratic Program Framework for Safety-Critical Control](http://arxiv.org/abs/2402.08027v2)** | 2025-03-20 | <details><summary>Submi...</summary><p>Submitted to IFAC Automatica. Under review</p></details> |
 | **[Data Spatial Programming](http://arxiv.org/abs/2503.15812v1)** | 2025-03-20 | <details><summary>7 pag...</summary><p>7 pages, 11 pages with appendix</p></details> |
+| **[Hoare meets Heisenberg: A Lightweight Logic for Quantum Programs](http://arxiv.org/abs/2101.08939v5)** | 2025-03-20 | 52 pages, 3 figures |
 | **[GeoCode: Interpretable Shape Programs](http://arxiv.org/abs/2212.11715v2)** | 2025-03-20 | <details><summary>proje...</summary><p>project page: https://threedle.github.io/GeoCode/</p></details> |
 | **[Combining Static Analysis Techniques for Program Comprehension Using Slicito](http://arxiv.org/abs/2503.15675v1)** | 2025-03-19 |  |
 | **[Radon: a Programming Model and Platform for Computing Continuum Systems](http://arxiv.org/abs/2503.15199v1)** | 2025-03-19 | <details><summary>Submi...</summary><p>Submitted to EDCCS 2025</p></details> |
 | **[TikZero: Zero-Shot Text-Guided Graphics Program Synthesis](http://arxiv.org/abs/2503.11509v2)** | 2025-03-19 | <details><summary>Proje...</summary><p>Project page: https://github.com/potamides/DeTikZify</p></details> |
-| **[LLM-Aided Customizable Profiling of Code Data Based On Programming Language Concepts](http://arxiv.org/abs/2503.15571v1)** | 2025-03-19 | 21 pages |
 
