@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 03, 2025
+title: Latest 15 Papers - April 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **["I Feel Like I'm Teaching in a Gladiator Ring": Barriers and Benefits of Live Coding in Classroom Settings](http://arxiv.org/abs/2504.02585v1)** | 2025-04-03 |  |
+| **[Predictive Coding for Decision Transformer](http://arxiv.org/abs/2410.03408v2)** | 2025-04-03 | <details><summary>8 pag...</summary><p>8 pages, IROS 2024. The first two authors are equally contributed (Code: https://github.com/tunglm2203/pcdt)</p></details> |
+| **[SURGE: On the Potential of Large Language Models as General-Purpose Surrogate Code Executors](http://arxiv.org/abs/2502.11167v3)** | 2025-04-03 |  |
+| **[Image Coding for Machines via Feature-Preserving Rate-Distortion Optimization](http://arxiv.org/abs/2504.02216v1)** | 2025-04-03 |  |
+| **[RobuNFR: Evaluating the Robustness of Large Language Models on Non-Functional Requirements Aware Code Generation](http://arxiv.org/abs/2503.22851v2)** | 2025-04-03 | <details><summary>Corre...</summary><p>Corrected metadata: fixed author name in submission form (TeX file was already correct)</p></details> |
+| **[On Simulation-Guided LLM-based Code Generation for Safe Autonomous Driving Software](http://arxiv.org/abs/2504.02141v1)** | 2025-04-02 | <details><summary>Accep...</summary><p>Accepted in the 29th International Conference on Evaluation and Assessment in Software Engineering (EASE)</p></details> |
 | **[OpenCodeReasoning: Advancing Data Distillation for Competitive Coding](http://arxiv.org/abs/2504.01943v1)** | 2025-04-02 | Work in progress |
 | **[Semidefinite lower bounds for covering codes](http://arxiv.org/abs/2504.01932v1)** | 2025-04-02 |  |
 | **[Source Coding for a Wiener Process](http://arxiv.org/abs/2504.01929v1)** | 2025-04-02 |  |
@@ -16,16 +22,16 @@ labels: documentation
 | **[Code Generation and Algorithmic Problem Solving Using Llama 3.1 405B](http://arxiv.org/abs/2409.19027v2)** | 2025-04-02 | updated version |
 | **[From Code Generation to Software Testing: AI Copilot with Context-Based RAG](http://arxiv.org/abs/2504.01866v1)** | 2025-04-02 | <details><summary>This ...</summary><p>This work has been accepted for publication in IEEE Software (DOI: 10.1109/MS.2025.3549628)</p></details> |
 | **[Spatially-Coupled QLDPC Codes](http://arxiv.org/abs/2305.00137v6)** | 2025-04-02 | <details><summary>36 pa...</summary><p>36 pages, 10 figures. Accepted for publication at Quantum Journal</p></details> |
-| **[Code Red! On the Harmfulness of Applying Off-the-shelf Large Language Models to Programming Tasks](http://arxiv.org/abs/2504.01850v1)** | 2025-04-02 | <details><summary>FSE'2...</summary><p>FSE'25 Technical Track</p></details> |
-| **[Investigating and Scaling up Code-Switching for Multilingual Language Model Pre-Training](http://arxiv.org/abs/2504.01801v1)** | 2025-04-02 |  |
-| **[Linear Time Iterative Decoders for Hypergraph-Product and Lifted-Product Codes](http://arxiv.org/abs/2504.01728v1)** | 2025-04-02 | 33 pages |
-| **[Construction of MDS Euclidean Self-Dual Codes via Multiple Subsets](http://arxiv.org/abs/2504.01717v1)** | 2025-04-02 |  |
-| **[AgentForge: A Flexible Low-Code Platform for Reinforcement Learning Agent Design](http://arxiv.org/abs/2410.19528v4)** | 2025-04-02 | <details><summary>This ...</summary><p>This paper has been accepted at the 17th International Conference on Agents and Artificial Intelligence (ICAART 2025)</p></details> |
-| **[LOCO Codes Can Correct as Well: Error-Correction Constrained Coding for DNA Data Storage](http://arxiv.org/abs/2504.01262v1)** | 2025-04-02 | <details><summary>13 pa...</summary><p>13 pages (double column), 2 figures, submitted to the IEEE Transactions on Communications (TCOM)</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BOOST: Bootstrapping Strategy-Driven Reasoning Programs for Program-Guided Fact-Checking](http://arxiv.org/abs/2504.02467v1)** | 2025-04-03 | 18 pages, 5 figures |
+| **[Unlocking LLM Repair Capabilities in Low-Resource Programming Languages Through Cross-Language Translation and Multi-Agent Refinement](http://arxiv.org/abs/2503.22512v2)** | 2025-04-03 |  |
+| **[C*: Unifying Programming and Verification in C](http://arxiv.org/abs/2504.02246v1)** | 2025-04-03 |  |
+| **[Data Spatial Programming](http://arxiv.org/abs/2503.15812v3)** | 2025-04-03 | <details><summary>17 pa...</summary><p>17 pages, 24 pages with appendix</p></details> |
+| **[Extending quantum annealing to continuous domains: a hybrid method for quadratic programming](http://arxiv.org/abs/2504.02073v1)** | 2025-04-02 | 21 pages, 5 figures |
+| **[Enhancing LLMs in Long Code Translation through Instrumentation and Program State Alignment](http://arxiv.org/abs/2504.02017v1)** | 2025-04-02 | 20 pages |
 | **[Adapting Knowledge Prompt Tuning for Enhanced Automated Program Repair](http://arxiv.org/abs/2504.01523v1)** | 2025-04-02 |  |
 | **[Integer Programming for Learning Directed Acyclic Graphs from Non-identifiable Gaussian Models](http://arxiv.org/abs/2404.12592v3)** | 2025-04-02 |  |
 | **[Facilitating Instructors-LLM Collaboration for Problem Design in Introductory Programming Classrooms](http://arxiv.org/abs/2504.01259v1)** | 2025-04-02 | <details><summary>Accep...</summary><p>Accepted at CHI 2025 Workshop on Augmented Educators and AI: Shaping the Future of Human and AI Cooperation in Learning</p></details> |
@@ -35,10 +41,4 @@ labels: documentation
 | **[cozy: Comparative Symbolic Execution for Binary Programs](http://arxiv.org/abs/2504.00151v1)** | 2025-03-31 | <details><summary>to ap...</summary><p>to appear in the proceedings of the Workshop on Binary Analysis Research (BAR) 2025, winner of the BAR 2025 distinguished paper award</p></details> |
 | **[Feasibility Evaluation of Quadratic Programs for Constrained Control](http://arxiv.org/abs/2502.12005v2)** | 2025-03-31 | <details><summary>Submi...</summary><p>Submitted to CDC 2025</p></details> |
 | **[Machine Learning for Identifying Potential Participants in Uruguayan Social Programs](http://arxiv.org/abs/2504.01045v1)** | 2025-03-31 | in Spanish language |
-| **[ObfusQate: Unveiling the First Quantum Program Obfuscation Framework](http://arxiv.org/abs/2503.23785v1)** | 2025-03-31 |  |
-| **[Information Theoretic One-Time Programs from Geometrically Local $\text{QNC}_0$ Adversaries](http://arxiv.org/abs/2503.22016v2)** | 2025-03-31 |  |
-| **[Codehacks: A Dataset of Adversarial Tests for Competitive Programming Problems Obtained from Codeforces](http://arxiv.org/abs/2503.23466v1)** | 2025-03-30 | <details><summary>Accep...</summary><p>Accepted for publication at the 18th IEEE International Conference on Software Testing, Verification and Validation (ICST 2025)</p></details> |
-| **[Data Spatial Programming](http://arxiv.org/abs/2503.15812v2)** | 2025-03-30 | <details><summary>9 pag...</summary><p>9 pages, 16 pages with appendix</p></details> |
-| **[MoTCoder: Elevating Large Language Models with Modular of Thought for Challenging Programming Tasks](http://arxiv.org/abs/2312.15960v5)** | 2025-03-30 | <details><summary>Data:...</summary><p>Data: https://huggingface.co/datasets/JingyaoLi/MoTCode-Data,MoTCoder-32B: https://huggingface.co/JingyaoLi/MoTCoder-32B-V1.5,MoTCoder-7B: https://huggingface.co/JingyaoLi/MoTCoder-7B-v1.5,Code: https://github.com/dvlab-research/MoTCoder, Paper: arXiv:2312.15960</p></details> |
-| **[The Scene Language: Representing Scenes with Programs, Words, and Embeddings](http://arxiv.org/abs/2410.16770v2)** | 2025-03-29 | <details><summary>CVPR ...</summary><p>CVPR 2025. Project page: https://ai.stanford.edu/~yzzhang/projects/scene-language/</p></details> |
 
