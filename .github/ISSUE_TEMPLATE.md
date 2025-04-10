@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 09, 2025
+title: Latest 15 Papers - April 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DeCoMa: Detecting and Purifying Code Dataset Watermarks through Dual Channel Code Abstraction](http://arxiv.org/abs/2504.07002v1)** | 2025-04-09 | <details><summary>Accep...</summary><p>Accepted to ISSTA 2025. Code is available at https://github.com/xiaoyuanpigo/DeCoMa</p></details> |
+| **[CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding & Reasoning Capabilities of CodeLLMs](http://arxiv.org/abs/2410.01999v4)** | 2025-04-09 |  |
+| **[A Survey of Source Code Representations for Machine Learning-Based Cybersecurity Tasks](http://arxiv.org/abs/2403.10646v2)** | 2025-04-09 |  |
+| **[FeedbackEval: A Benchmark for Evaluating Large Language Models in Feedback-Driven Code Repair Tasks](http://arxiv.org/abs/2504.06939v1)** | 2025-04-09 |  |
+| **[Random Reed-Solomon Codes and Random Linear Codes are Locally Equivalent](http://arxiv.org/abs/2406.02238v6)** | 2025-04-09 |  |
+| **[The geometry of covering codes in the sum-rank metric](http://arxiv.org/abs/2410.12393v2)** | 2025-04-09 |  |
+| **[Locally Repairable Convertible Codes: Improved Lower Bound and General Construction](http://arxiv.org/abs/2504.06734v1)** | 2025-04-09 |  |
+| **[The Method for Storing Patterns in Neural Networks-Memorization and Recall of QR code Patterns-](http://arxiv.org/abs/2504.06631v1)** | 2025-04-09 | 14 pages, 6 figures |
+| **[RETROcode: Leveraging a Code Database for Improved Natural Language to Code Generation](http://arxiv.org/abs/2504.05759v2)** | 2025-04-09 |  |
+| **[Several new infinite families of NMDS codes with arbitrary dimensions supporting $t$-designs](http://arxiv.org/abs/2504.06546v1)** | 2025-04-09 |  |
 | **[Unbounded Error Correcting Codes](http://arxiv.org/abs/2411.04803v2)** | 2025-04-08 |  |
 | **[KnowCoder-X: Boosting Multilingual Information Extraction via Code](http://arxiv.org/abs/2411.04794v2)** | 2025-04-08 | 26 pages, 3 figures |
 | **[Optuna vs Code Llama: Are LLMs a New Paradigm for Hyperparameter Tuning?](http://arxiv.org/abs/2504.06006v1)** | 2025-04-08 |  |
 | **[Old and New Results on Alphabetic Codes](http://arxiv.org/abs/2504.05959v1)** | 2025-04-08 | <details><summary>Publi...</summary><p>Published in: Information Theory and Related Fields, Lecture Notes in Computer Science</p></details> |
 | **[UVG-VPC: Voxelized Point Cloud Dataset for Visual Volumetric Video-based Coding](http://arxiv.org/abs/2504.05888v1)** | 2025-04-08 | <details><summary>Point...</summary><p>Point cloud compression;Geometry;Visualization;Three-dimensional displays;Video sequences;Transform coding;Media;Open dataset;point cloud;Visual Volumetric Video-based Coding (V3C);Video-based Point Cloud Compression (V-PCC);Extended Reality (XR)</p></details> |
-| **[CodeEditorBench: Evaluating Code Editing Capability of Large Language Models](http://arxiv.org/abs/2404.03543v3)** | 2025-04-08 |  |
-| **[Identifying and Replicating Code Patterns Driving Performance Regressions in Software Systems](http://arxiv.org/abs/2504.05851v1)** | 2025-04-08 | <details><summary>9 pag...</summary><p>9 pages, 22nd International Conference on Mining Software Repositories (MSR) - Registered Reports</p></details> |
-| **[Selfdual skew cyclic codes](http://arxiv.org/abs/2410.12340v2)** | 2025-04-08 |  |
-| **[RETROcode: Leveraging a Code Database for Improved Natural Language to Code Generation](http://arxiv.org/abs/2504.05759v1)** | 2025-04-08 |  |
-| **[Genetic Instruct: Scaling up Synthetic Generation of Coding Instructions for Large Language Models](http://arxiv.org/abs/2407.21077v2)** | 2025-04-07 |  |
-| **[Evaluating the Generalization Capabilities of Large Language Models on Code Reasoning](http://arxiv.org/abs/2504.05518v1)** | 2025-04-07 |  |
-| **[What Makes Large Language Models Reason in (Multi-Turn) Code Generation?](http://arxiv.org/abs/2410.08105v3)** | 2025-04-07 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025</p></details> |
-| **[Prism: Dynamic and Flexible Benchmarking of LLMs Code Generation with Monte Carlo Tree Search](http://arxiv.org/abs/2504.05500v1)** | 2025-04-07 |  |
-| **[Theoretical Analysis of Multi-coding with Arbitrary Correlations Among the Codes](http://arxiv.org/abs/2503.07765v2)** | 2025-04-07 | 11 pages, 4 figures |
-| **[DeepSeek-V3, GPT-4, Phi-4, and LLaMA-3.3 generate correct code for LoRaWAN-related engineering tasks](http://arxiv.org/abs/2502.14926v3)** | 2025-04-07 | <details><summary>The p...</summary><p>The peer-reviewed version of this paper is published in Electronics at https://doi.org/10.3390/electronics14071428. This version is typeset by the authors and differs only in pagination and typographical detail</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pruner: A Draft-then-Verify Exploration Mechanism to Accelerate Tensor Program Tuning](http://arxiv.org/abs/2402.02361v3)** | 2025-04-09 |  |
+| **[Context Switching for Secure Multi-programming of Near-Term Quantum Computers](http://arxiv.org/abs/2504.07048v1)** | 2025-04-09 |  |
+| **[Design2GarmentCode: Turning Design Concepts to Tangible Garments Through Program Synthesis](http://arxiv.org/abs/2412.08603v3)** | 2025-04-09 | <details><summary>The I...</summary><p>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (2025)</p></details> |
+| **[Genetic Programming for Explainable Manifold Learning](http://arxiv.org/abs/2403.14139v2)** | 2025-04-08 | <details><summary>Pre-r...</summary><p>Pre-review pre-print of paper accepted by IEEE Transactions on Emerging Topics in Computational Intelligence</p></details> |
 | **[Improving Genetic Programming for Symbolic Regression with Equality Graphs](http://arxiv.org/abs/2501.17848v2)** | 2025-04-08 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 4 tables. In Genetic and Evolutionary Computation Conference (GECCO 25)</p></details> |
 | **[Mixed-Precision Quantization for Deep Vision Models with Integer Quadratic Programming](http://arxiv.org/abs/2307.05657v2)** | 2025-04-08 |  |
 | **[Evolving Financial Trading Strategies with Vectorial Genetic Programming](http://arxiv.org/abs/2504.05418v1)** | 2025-04-07 | 9 pages, 6 figures |
@@ -37,8 +41,4 @@ labels: documentation
 | **[Parallel Batch Scheduling With Incompatible Job Families Via Constraint Programming](http://arxiv.org/abs/2410.11981v3)** | 2025-04-07 | 16 pages, 9 figures |
 | **[Bounded Exhaustive Random Program Generation for Testing Solidity Compilers and Analyzers](http://arxiv.org/abs/2503.20332v2)** | 2025-04-07 |  |
 | **[High Probability Complexity Bounds of Trust-Region Stochastic Sequential Quadratic Programming with Heavy-Tailed Noise](http://arxiv.org/abs/2503.19091v2)** | 2025-04-06 | 50 pages, 5 figures |
-| **[Distributed Mixed-Integer Quadratic Programming for Mixed-Traffic Intersection Control](http://arxiv.org/abs/2504.04618v1)** | 2025-04-06 | 13 pages |
-| **[MCP-Solver: Integrating Language Models with Constraint Programming Systems](http://arxiv.org/abs/2501.00539v2)** | 2025-04-06 |  |
-| **[Automated Assessment in Mobile Programming Courses: Leveraging GitHub Classroom and Flutter for Enhanced Student Outcomes](http://arxiv.org/abs/2504.04230v1)** | 2025-04-05 |  |
-| **[Ranking and Invariants for Lower-Bound Inference in Quantitative Verification of Probabilistic Programs](http://arxiv.org/abs/2504.04132v1)** | 2025-04-05 |  |
 
