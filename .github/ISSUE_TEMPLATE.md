@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 13, 2025
+title: Latest 15 Papers - April 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,31 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards an Understanding of Context Utilization in Code Intelligence](http://arxiv.org/abs/2504.08734v1)** | 2025-04-11 |  |
+| **[DocAgent: A Multi-Agent System for Automated Code Documentation Generation](http://arxiv.org/abs/2504.08725v1)** | 2025-04-11 |  |
+| **[SWE-PolyBench: A multi-language benchmark for repository level evaluation of coding agents](http://arxiv.org/abs/2504.08703v1)** | 2025-04-11 | 20 pages, 6 figures |
+| **[Quality evaluation of Tabby coding assistant using real source code snippets](http://arxiv.org/abs/2504.08650v1)** | 2025-04-11 | 10 pages, 4 figures |
+| **[Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts](http://arxiv.org/abs/2504.07589v2)** | 2025-04-11 | <details><summary>Accep...</summary><p>Accepted by ISSTA2025</p></details> |
+| **[Simultaneous Rational Number Codes: Decoding Beyond Half the Minimum Distance with Multiplicities and Bad Primes](http://arxiv.org/abs/2504.08472v1)** | 2025-04-11 |  |
+| **[A 120 lines code for isogeometric topology optimization and its extension to 3D in MATLAB](http://arxiv.org/abs/2504.08233v1)** | 2025-04-11 |  |
+| **[CoSQA+: Pioneering the Multi-Choice Code Search Benchmark with Test-Driven Agents](http://arxiv.org/abs/2406.11589v5)** | 2025-04-11 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, journal</p></details> |
+| **[A Vulnerability Code Intent Summary Dataset](http://arxiv.org/abs/2504.08180v1)** | 2025-04-11 |  |
+| **[Large Language Model for Verilog Generation with Code-Structure-Guided Reinforcement Learning](http://arxiv.org/abs/2407.18271v3)** | 2025-04-10 |  |
 | **[Intersection of linear and multi-twisted codes with applications](http://arxiv.org/abs/2503.24303v2)** | 2025-04-10 |  |
 | **[Function-Correcting Codes for $ρ$-locally $λ$-functions](http://arxiv.org/abs/2504.07804v1)** | 2025-04-10 |  |
 | **[A Systematic Approach to Hyperbolic Quantum Error Correction Codes](http://arxiv.org/abs/2504.07800v1)** | 2025-04-10 | <details><summary>10 pa...</summary><p>10 pages, 4 figures; submitted to Quantum Algorithms Technical Papers Track (QALG) of IEEE Quantum Week 2025 (QCE25) as submission no. 179; link to GitHub repository with corresponding code is included within manuscript</p></details> |
 | **[Zero-Shot Cross-Domain Code Search without Fine-Tuning](http://arxiv.org/abs/2504.07740v1)** | 2025-04-10 |  |
-| **[Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts](http://arxiv.org/abs/2504.07589v1)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted by ISSTA2025</p></details> |
 | **[From Token to Line: Enhancing Code Generation with a Long-Term Perspective](http://arxiv.org/abs/2504.07433v1)** | 2025-04-10 |  |
-| **[AI Coding with Few-Shot Prompting for Thematic Analysis](http://arxiv.org/abs/2504.07408v1)** | 2025-04-10 |  |
-| **[Prism: Dynamic and Flexible Benchmarking of LLMs Code Generation with Monte Carlo Tree Search](http://arxiv.org/abs/2504.05500v2)** | 2025-04-10 |  |
-| **[Code Generation with Small Language Models: A Deep Evaluation on Codeforces](http://arxiv.org/abs/2504.07343v1)** | 2025-04-09 |  |
-| **[How Accurately Do Large Language Models Understand Code?](http://arxiv.org/abs/2504.04372v2)** | 2025-04-09 | <details><summary>This ...</summary><p>This paper is currently Under Review. It consists of 11 pages, 12 Figures, and 5 Tables</p></details> |
-| **[DeCoMa: Detecting and Purifying Code Dataset Watermarks through Dual Channel Code Abstraction](http://arxiv.org/abs/2504.07002v1)** | 2025-04-09 | <details><summary>Accep...</summary><p>Accepted to ISSTA 2025. Code is available at https://github.com/xiaoyuanpigo/DeCoMa</p></details> |
-| **[CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding & Reasoning Capabilities of CodeLLMs](http://arxiv.org/abs/2410.01999v4)** | 2025-04-09 |  |
-| **[A Survey of Source Code Representations for Machine Learning-Based Cybersecurity Tasks](http://arxiv.org/abs/2403.10646v2)** | 2025-04-09 |  |
-| **[FeedbackEval: A Benchmark for Evaluating Large Language Models in Feedback-Driven Code Repair Tasks](http://arxiv.org/abs/2504.06939v1)** | 2025-04-09 |  |
-| **[Random Reed-Solomon Codes and Random Linear Codes are Locally Equivalent](http://arxiv.org/abs/2406.02238v6)** | 2025-04-09 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DeQompile: quantum circuit decompilation using genetic programming for explainable quantum architecture search](http://arxiv.org/abs/2504.08310v1)** | 2025-04-11 |  |
+| **[Interior Point Differential Dynamic Programming, Redux](http://arxiv.org/abs/2504.08278v1)** | 2025-04-11 |  |
+| **[Data Spatial Programming](http://arxiv.org/abs/2503.15812v5)** | 2025-04-11 | <details><summary>27 pa...</summary><p>27 pages, 41 pages with appendix</p></details> |
+| **[The nature of loops in programming](http://arxiv.org/abs/2504.08126v1)** | 2025-04-10 |  |
+| **[Threading the Needle: Test and Evaluation of Early Stage UAS Capabilities to Autonomously Navigate GPS-Denied Environments in the DARPA Fast Lightweight Autonomy (FLA) Program](http://arxiv.org/abs/2504.08122v1)** | 2025-04-10 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Robotics and Automation (ICRA) 2025, Workshop on 25 Years of Aerial Robotics: Challenges and Opportunities, Atlanta, Georgia, USA, May 2025</p></details> |
+| **[L0-Reasoning Bench: Evaluating Procedural Correctness in Language Models via Simple Program Execution](http://arxiv.org/abs/2503.22832v2)** | 2025-04-10 |  |
 | **[Genetic Programming with Reinforcement Learning Trained Transformer for Real-World Dynamic Scheduling Problems](http://arxiv.org/abs/2504.07779v1)** | 2025-04-10 |  |
 | **[From Observation to Orientation: an Adaptive Integer Programming Approach to Intervention Design](http://arxiv.org/abs/2504.03122v2)** | 2025-04-10 |  |
 | **[Efficient Formal Verification of Quantum Error Correcting Programs](http://arxiv.org/abs/2504.07732v1)** | 2025-04-10 | 41 pages, 10 figures |
@@ -35,10 +41,4 @@ labels: documentation
 | **[Cache-a-lot: Pushing the Limits of Unsatisfiable Core Reuse in SMT-Based Program Analysis](http://arxiv.org/abs/2504.07642v1)** | 2025-04-10 |  |
 | **[Towards a Computational Quantum Logic: An Overview of an Ongoing Research Program](http://arxiv.org/abs/2504.07609v1)** | 2025-04-10 | <details><summary>Invit...</summary><p>Invited talk at the Quantum Computing session at CiE 2025</p></details> |
 | **[Program Skeletons for Automated Program Translation](http://arxiv.org/abs/2504.07483v1)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted by PLDI 2025 (46th ACM SIGPLAN Conference on Programming Language Design and Implementation)</p></details> |
-| **[Resource-efficient Inference with Foundation Model Programs](http://arxiv.org/abs/2504.07247v1)** | 2025-04-09 |  |
-| **[Pruner: A Draft-then-Verify Exploration Mechanism to Accelerate Tensor Program Tuning](http://arxiv.org/abs/2402.02361v3)** | 2025-04-09 |  |
-| **[Context Switching for Secure Multi-programming of Near-Term Quantum Computers](http://arxiv.org/abs/2504.07048v1)** | 2025-04-09 |  |
-| **[Design2GarmentCode: Turning Design Concepts to Tangible Garments Through Program Synthesis](http://arxiv.org/abs/2412.08603v3)** | 2025-04-09 | <details><summary>The I...</summary><p>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (2025)</p></details> |
-| **[Genetic Programming for Explainable Manifold Learning](http://arxiv.org/abs/2403.14139v2)** | 2025-04-08 | <details><summary>Pre-r...</summary><p>Pre-review pre-print of paper accepted by IEEE Transactions on Emerging Topics in Computational Intelligence</p></details> |
-| **[Improving Genetic Programming for Symbolic Regression with Equality Graphs](http://arxiv.org/abs/2501.17848v2)** | 2025-04-08 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 4 tables. In Genetic and Evolutionary Computation Conference (GECCO 25)</p></details> |
 
