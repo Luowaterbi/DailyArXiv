@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 16, 2025
+title: Latest 15 Papers - April 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,26 +7,32 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Code Reborn AI-Driven Legacy Systems Modernization from COBOL to Java](http://arxiv.org/abs/2504.11335v1)** | 2025-04-15 |  |
-| **[Easy repair via codes with simplex locality](http://arxiv.org/abs/2504.11251v1)** | 2025-04-15 |  |
-| **[Automated Proof Generation for Rust Code via Self-Evolution](http://arxiv.org/abs/2410.15756v2)** | 2025-04-15 |  |
-| **[DPS: Design Pattern Summarisation Using Code Features](http://arxiv.org/abs/2504.11081v1)** | 2025-04-15 | <details><summary>26 pa...</summary><p>26 pages, 2 figures, 5 tables</p></details> |
-| **[New Constructions of Binary Cyclic Codes with Both Relatively Large Minimum Distance and Dual Distance](http://arxiv.org/abs/2504.11010v1)** | 2025-04-15 |  |
-| **[Enhancing Code LLM Training with Programmer Attention](http://arxiv.org/abs/2503.14936v2)** | 2025-04-15 |  |
-| **[Uplink Assisted Joint Channel Estimation and CSI Feedback: An Approach Based on Deep Joint Source-Channel Coding](http://arxiv.org/abs/2504.10836v1)** | 2025-04-15 |  |
-| **[SWE-PolyBench: A multi-language benchmark for repository level evaluation of coding agents](http://arxiv.org/abs/2504.08703v2)** | 2025-04-14 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, edited website links</p></details> |
-| **[Keyword Extraction, and Aspect Classification in Sinhala, English, and Code-Mixed Content](http://arxiv.org/abs/2504.10679v1)** | 2025-04-14 | <details><summary>6 Pag...</summary><p>6 Pages, 2 figures, 7 Tables</p></details> |
-| **[Lattice Surgery Compilation Beyond the Surface Code](http://arxiv.org/abs/2504.10591v1)** | 2025-04-14 | 12 pages, 11 figures |
-| **[AI-Driven Code Refactoring: Using Graph Neural Networks to Enhance Software Maintainability](http://arxiv.org/abs/2504.10412v1)** | 2025-04-14 |  |
-| **[Unique Decoding of Reed-Solomon and Related Codes for Semi-Adversarial Errors](http://arxiv.org/abs/2504.10399v1)** | 2025-04-14 | 45 pages |
-| **[SymRTLO: Enhancing RTL Code Optimization with LLMs and Neuron-Inspired Symbolic Reasoning](http://arxiv.org/abs/2504.10369v1)** | 2025-04-14 | <details><summary>16 pa...</summary><p>16 pages, 8 figures, 7 tables. Under Review</p></details> |
-| **[The Code Barrier: What LLMs Actually Understand?](http://arxiv.org/abs/2504.10557v1)** | 2025-04-14 |  |
-| **[A Semantic-based Optimization Approach for Repairing LLMs: Case Study on Code Generation](http://arxiv.org/abs/2503.12899v2)** | 2025-04-14 | <details><summary>12 pa...</summary><p>12 pages, 6 figure, 6 tables, under peer-review</p></details> |
+| **[Kernels for Storage Capacity and Dual Index Coding](http://arxiv.org/abs/2504.12274v1)** | 2025-04-16 | 15 pages |
+| **[Coding-Prior Guided Diffusion Network for Video Deblurring](http://arxiv.org/abs/2504.12222v1)** | 2025-04-16 |  |
+| **[Separate Source Channel Coding Is Still What You Need: An LLM-based Rethinking](http://arxiv.org/abs/2501.04285v3)** | 2025-04-16 |  |
+| **[CodingHomo: Bootstrapping Deep Homography With Video Coding](http://arxiv.org/abs/2504.12165v1)** | 2025-04-16 |  |
+| **[Overlapping Error Correction Codes on Two-Dimensional Structures](http://arxiv.org/abs/2504.12142v1)** | 2025-04-16 |  |
+| **[Improvement of the square-root low bounds on the minimum distances of BCH codes and Matrix-product codes](http://arxiv.org/abs/2504.12116v1)** | 2025-04-16 | <details><summary>29 pa...</summary><p>29 pages, submitted to IEEE</p></details> |
+| **[Successive-Cancellation Flip and Perturbation Decoder of Polar Codes](http://arxiv.org/abs/2504.12102v1)** | 2025-04-16 | <details><summary>6 pag...</summary><p>6 pages, 9 figures, 1 table. Presented in IEEE WCNC 2025, Milan, Italy</p></details> |
+| **[Generalized Restart Mechanism for Successive-Cancellation Flip Decoding of Polar Codes](http://arxiv.org/abs/2504.12071v1)** | 2025-04-16 | <details><summary>Accep...</summary><p>Accepted in Journal of Signal Processing Systems, 21 pages, 8 figures, 6 tables</p></details> |
+| **[Proof-Carrying Neuro-Symbolic Code](http://arxiv.org/abs/2504.12031v1)** | 2025-04-16 | <details><summary>Invit...</summary><p>Invited paper at CiE 2025. arXiv admin note: text overlap with arXiv:2501.05867</p></details> |
+| **[On Codes from Split Metacyclic Groups](http://arxiv.org/abs/2504.11960v1)** | 2025-04-16 |  |
+| **[Puncturing Quantum Stabilizer Codes](http://arxiv.org/abs/2410.17754v3)** | 2025-04-16 | <details><summary>Accep...</summary><p>Accepted version for IEEE Journal on Selected Areas in Information Theory</p></details> |
+| **[From Data Behavior to Code Analysis: A Multimodal Study on Security and Privacy Challenges in Blockchain-Based DApp](http://arxiv.org/abs/2504.11860v1)** | 2025-04-16 |  |
+| **[Local Grammar-Based Coding Revisited](http://arxiv.org/abs/2209.13636v3)** | 2025-04-16 | 41 pages, no figures |
+| **[Natural Language Outlines for Code: Literate Programming in the LLM Era](http://arxiv.org/abs/2408.04820v3)** | 2025-04-16 | <details><summary>Accep...</summary><p>Accepted to FSE'25 Industry Track</p></details> |
+| **[DALC: Distributed Arithmetic Coding Aided by Linear Codes](http://arxiv.org/abs/2504.11784v1)** | 2025-04-16 | 7 pages, 7 figures |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Bounded Exhaustive Random Program Generation for Testing Solidity Compilers and Analyzers](http://arxiv.org/abs/2503.20332v4)** | 2025-04-15 |  |
+| **[Combining Declarative and Linear Programming for Application Management in the Cloud-Edge Continuum](http://arxiv.org/abs/2504.12032v1)** | 2025-04-16 |  |
+| **[Broadening Participation through Physical Computing: Replicating Sensor-Based Programming Workshops for Rural Students in Sri Lanka](http://arxiv.org/abs/2504.11913v1)** | 2025-04-16 | <details><summary>Accep...</summary><p>Accepted to ITiCSE 2025</p></details> |
+| **[Natural Language Outlines for Code: Literate Programming in the LLM Era](http://arxiv.org/abs/2408.04820v3)** | 2025-04-16 | <details><summary>Accep...</summary><p>Accepted to FSE'25 Industry Track</p></details> |
+| **[Bounded Exhaustive Random Program Generation for Testing Solidity Compilers and Analyzers](http://arxiv.org/abs/2503.20332v5)** | 2025-04-16 |  |
+| **[Probing the Unknown: Exploring Student Interactions with Probeable Problems at Scale in Introductory Programming](http://arxiv.org/abs/2504.11723v1)** | 2025-04-16 | <details><summary>Accep...</summary><p>Accepted at ITiCSE 2025</p></details> |
+| **[Unravelling Technical debt topics through Time, Programming Languages and Repository](http://arxiv.org/abs/2504.11714v1)** | 2025-04-16 |  |
+| **[The Hitchhiker's Guide to Program Analysis, Part II: Deep Thoughts by LLMs](http://arxiv.org/abs/2504.11711v1)** | 2025-04-16 |  |
 | **[PGU-SGP: A Pheno-Geno Unified Surrogate Genetic Programming For Real-life Container Terminal Truck Scheduling](http://arxiv.org/abs/2504.11280v1)** | 2025-04-15 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, 8 tables. Accepted as full paper at ACM GECCO 2025</p></details> |
 | **[Kozax: Flexible and Scalable Genetic Programming in JAX](http://arxiv.org/abs/2502.03047v2)** | 2025-04-15 | <details><summary>6 fig...</summary><p>6 figures, 3 tables, 1 algorithm, 13 pages</p></details> |
 | **[Finding Locally Densest Subgraphs: Convex Programming with Edge and Triangle Density](http://arxiv.org/abs/2504.10937v1)** | 2025-04-15 |  |
@@ -35,10 +41,4 @@ labels: documentation
 | **[Finding Pathways in Reaction Networks guided by Energy Barriers using Integer Linear Programming](http://arxiv.org/abs/2504.10609v1)** | 2025-04-14 |  |
 | **[Radon: a Programming Model and Platform for Computing Continuum Systems](http://arxiv.org/abs/2503.15199v2)** | 2025-04-14 | <details><summary>Submi...</summary><p>Submitted to EDCCS 2025</p></details> |
 | **[Rel: A Programming Language for Relational Data](http://arxiv.org/abs/2504.10323v1)** | 2025-04-14 |  |
-| **[TinyverseGP: Towards a Modular Cross-domain Benchmarking Framework for Genetic Programming](http://arxiv.org/abs/2504.10253v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted for presentation as a poster at the Genetic and Evolutionary Computation Conference (GECCO) and will appear in the GECCO'25 companion. GECCO'25 will be held July 14-18, 2025 in M\'alaga, Spain</p></details> |
-| **[MSCoT: Structured Chain-of-Thought Generation for Multiple Programming Languages](http://arxiv.org/abs/2504.10178v1)** | 2025-04-14 | Accepted |
-| **[Automated Verification of Equivalence Properties in Advanced Logic Programs -- Bachelor Thesis](http://arxiv.org/abs/2310.19806v6)** | 2025-04-14 | <details><summary>Bache...</summary><p>Bachelor Thesis at the University of Potsdam</p></details> |
-| **[Context Switching for Secure Multi-programming of Near-Term Quantum Computers](http://arxiv.org/abs/2504.07048v2)** | 2025-04-14 |  |
-| **[Executable Functional Abstractions: Inferring Generative Programs for Advanced Math Problems](http://arxiv.org/abs/2504.09763v1)** | 2025-04-14 | <details><summary>Proje...</summary><p>Project Page: https://zaidkhan.me/EFAGen/</p></details> |
-| **[Generating Planning Feedback for Open-Ended Programming Exercises with LLMs](http://arxiv.org/abs/2504.08958v1)** | 2025-04-11 | <details><summary>Accep...</summary><p>Accepted as full paper at AIED 2025</p></details> |
 
