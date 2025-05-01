@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 30, 2025
+title: Latest 15 Papers - May 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,32 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the Efficacy of the Peeling Decoder for the Quantum Expander Code](http://arxiv.org/abs/2504.21845v1)** | 2025-04-30 |  |
+| **[Enumeration of minimum weight codewords of affine Cartesian codes](http://arxiv.org/abs/2504.21816v1)** | 2025-04-30 | 31 pages |
+| **[An Empirical Study on the Effectiveness of Large Language Models for Binary Code Understanding](http://arxiv.org/abs/2504.21803v1)** | 2025-04-30 | 38 pages, 9 figures |
+| **[CodeFlowBench: A Multi-turn, Iterative Benchmark for Complex Code Generation](http://arxiv.org/abs/2504.21751v1)** | 2025-04-30 |  |
+| **[A Unit Proofing Framework for Code-level Verification: A Research Agenda](http://arxiv.org/abs/2410.14818v2)** | 2025-04-30 | 5 pages, 2 figures |
+| **[WARP-LCA: Efficient Convolutional Sparse Coding with Locally Competitive Algorithm](http://arxiv.org/abs/2410.18794v2)** | 2025-04-30 |  |
+| **[Invariant Bridges Between Four Successive Points: A New Tool for Data Coding](http://arxiv.org/abs/2504.21473v1)** | 2025-04-30 | <details><summary>12 pa...</summary><p>12 pages, submitted to arXiv</p></details> |
+| **[Assessing LLM code generation quality through path planning tasks](http://arxiv.org/abs/2504.21276v1)** | 2025-04-30 |  |
+| **[4DGS-CC: A Contextual Coding Framework for 4D Gaussian Splatting Data Compression](http://arxiv.org/abs/2504.18925v2)** | 2025-04-30 |  |
+| **[SecRepoBench: Benchmarking LLMs for Secure Code Generation in Real-World Repositories](http://arxiv.org/abs/2504.21205v1)** | 2025-04-29 |  |
+| **[Iceberg Beyond the Tip: Co-Compilation of a Quantum Error Detection Code and a Quantum Algorithm](http://arxiv.org/abs/2504.21172v1)** | 2025-04-29 |  |
+| **[Learning Code-Edit Embedding to Model Student Debugging Behavior](http://arxiv.org/abs/2502.19407v2)** | 2025-04-29 | <details><summary>Publi...</summary><p>Published on the 26th International Conference on Artificial Intelligence in Education (AIED 2025)</p></details> |
+| **[Automated Test Generation from Program Documentation Encoded in Code Comments](http://arxiv.org/abs/2504.21161v1)** | 2025-04-29 |  |
 | **[MANILA: A Low-Code Application to Benchmark Machine Learning Models and Fairness-Enhancing Methods](http://arxiv.org/abs/2504.20907v1)** | 2025-04-29 | <details><summary>Accep...</summary><p>Accepted at FSE 2025 Demonstration Track</p></details> |
-| **[LocAgent: Graph-Guided LLM Agents for Code Localization](http://arxiv.org/abs/2503.09089v2)** | 2025-04-29 |  |
-| **[Secure Coding with AI, From Creation to Inspection](http://arxiv.org/abs/2504.20814v1)** | 2025-04-29 |  |
-| **[Hallucination by Code Generation LLMs: Taxonomy, Benchmarks, Mitigation, and Challenges](http://arxiv.org/abs/2504.20799v1)** | 2025-04-29 | 15 pages, 4 figures |
-| **[CoCo-Bench: A Comprehensive Code Benchmark For Multi-task Large Language Model Evaluation](http://arxiv.org/abs/2504.20673v1)** | 2025-04-29 | <details><summary>Submi...</summary><p>Submitted to ACL 2025. Under review</p></details> |
-| **[On the Optimal Source Key Size of Secure Gradient Coding](http://arxiv.org/abs/2504.20662v1)** | 2025-04-29 |  |
-| **[ComplexVCoder: An LLM-Driven Framework for Systematic Generation of Complex Verilog Code](http://arxiv.org/abs/2504.20653v1)** | 2025-04-29 |  |
-| **[The Hidden Risks of LLM-Generated Web Application Code: A Security-Centric Evaluation of Code Generation Capabilities in Large Language Models](http://arxiv.org/abs/2504.20612v1)** | 2025-04-29 | 9 pages |
-| **[Sleeping Giants -- Activating Dormant Java Deserialization Gadget Chains through Stealthy Code Changes](http://arxiv.org/abs/2504.20485v1)** | 2025-04-29 |  |
-| **[On Weight Enumeration and Structure Characterization of Polar Codes via Group Actions](http://arxiv.org/abs/2504.19544v2)** | 2025-04-29 | <details><summary>A sho...</summary><p>A short version of this article was accepted at ISIT 2025</p></details> |
-| **[ARCS: Agentic Retrieval-Augmented Code Synthesis with Iterative Refinement](http://arxiv.org/abs/2504.20434v1)** | 2025-04-29 |  |
-| **[List Decoding Expander-Based Codes up to Capacity in Near-Linear Time](http://arxiv.org/abs/2504.20333v1)** | 2025-04-29 |  |
-| **[RocketPPA: Ultra-Fast LLM-Based PPA Estimator at Code-Level Abstraction](http://arxiv.org/abs/2503.21971v2)** | 2025-04-29 |  |
-| **[Prompting LLMs for Code Editing: Struggles and Remedies](http://arxiv.org/abs/2504.20196v1)** | 2025-04-28 |  |
-| **[Hierarchical Coded Caching with Low Subpacketization and Coding Delay using Combinatorial t-Designs](http://arxiv.org/abs/2405.12747v3)** | 2025-04-28 | <details><summary>IEEE ...</summary><p>IEEE Internet of Things Journal (Accepted for publication). The Hierarchical coded caching scheme in this updated version unifies the scheme in the previous version and the schemes in arxiv:2402.07188. This version includes a more comprehensive performance analysis. To reflect these the title has been updated</p></details> |
+| **[A Systematic Literature Review of Parameter-Efficient Fine-Tuning for Large Code Models](http://arxiv.org/abs/2504.21569v1)** | 2025-04-29 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hexcute: A Tile-based Programming Language with Automatic Layout and Task-Mapping Synthesis](http://arxiv.org/abs/2504.16214v2)** | 2025-04-30 | 17 pages, 24 figures |
+| **[InvAASTCluster: On Applying Invariant-Based Program Clustering to Introductory Programming Assignments](http://arxiv.org/abs/2206.14175v3)** | 2025-04-30 | <details><summary>31 pa...</summary><p>31 pages, 21 Figures, 5 Tables. Accepted for publication at the Journal of Systems and Software. GitHub repo: https://github.com/pmorvalho/InvAASTCluster</p></details> |
+| **[Testing CPS with Design Assumptions-Based Metamorphic Relations and Genetic Programming](http://arxiv.org/abs/2412.03330v2)** | 2025-04-30 |  |
+| **[Real-time Program Evaluation using Anytime-valid Rank Tests](http://arxiv.org/abs/2504.21595v1)** | 2025-04-30 |  |
+| **[Using Read Promotion and Mixed Isolation Levels for Performant Yet Serializable Execution of Transaction Programs](http://arxiv.org/abs/2501.18377v2)** | 2025-04-30 |  |
+| **[An Intermediate Program Representation for Optimizing Stream-Based Languages](http://arxiv.org/abs/2504.21458v1)** | 2025-04-30 |  |
+| **[Efficient Quantum-Safe Homomorphic Encryption for Quantum Computer Programs](http://arxiv.org/abs/2504.21235v1)** | 2025-04-30 |  |
 | **[The Development of Reflective Practice on a Work-Based Software Engineering Program: A Longitudinal Study](http://arxiv.org/abs/2504.20956v1)** | 2025-04-29 |  |
 | **[Mìmir: A real-time interactive visualization library for CUDA programs](http://arxiv.org/abs/2504.20937v1)** | 2025-04-29 |  |
 | **[Bayesian Inference in Quantum Programs](http://arxiv.org/abs/2504.20732v1)** | 2025-04-29 | <details><summary>This ...</summary><p>This is the full version of the paper "Bayesian Inference in Quantum Programs" appearing at ICALP 2025</p></details> |
@@ -34,11 +41,4 @@ labels: documentation
 | **[Hetu v2: A General and Scalable Deep Learning System with Hierarchical and Heterogeneous Single Program Multiple Data Annotations](http://arxiv.org/abs/2504.20490v1)** | 2025-04-29 |  |
 | **[Adjusted Objects: An Efficient and Principled Approach to Scalable Programming (Extended Version)](http://arxiv.org/abs/2504.19495v2)** | 2025-04-29 | <details><summary>A sho...</summary><p>A shorter version of this work has appeared in the proceedings of the 26th ACM/IFIP International Middleware Conference (Middleware '25)</p></details> |
 | **[Synthesis of Discrete-time Control Barrier Functions for Polynomial Systems Based on Sum-of-Squares Programming](http://arxiv.org/abs/2504.19330v2)** | 2025-04-29 |  |
-| **[Undecidability of the Emptiness Problem of Deterministic Propositional While Programs with Graph Loop: Hypothesis Elimination Using Loops](http://arxiv.org/abs/2504.20415v1)** | 2025-04-29 |  |
-| **[An Anatomy of 488 Faults from Defects4J Based on the Control- and Data-Flow Graph Representations of Programs](http://arxiv.org/abs/2502.02299v2)** | 2025-04-28 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, EASE 2025 conference</p></details> |
-| **[Modified Control Barrier Function for Quadratic Program Based Control Design via Sum-of-Squares Programming](http://arxiv.org/abs/2504.19796v1)** | 2025-04-28 |  |
-| **[Triton-distributed: Programming Overlapping Kernels on Distributed AI Systems with the Triton Compiler](http://arxiv.org/abs/2504.19442v1)** | 2025-04-28 |  |
-| **[Providing Information About Implemented Algorithms Improves Program Comprehension: A Controlled Experiment](http://arxiv.org/abs/2504.19225v1)** | 2025-04-27 | EASE 2025 |
-| **[TileLang: A Composable Tiled Programming Model for AI Systems](http://arxiv.org/abs/2504.17577v2)** | 2025-04-27 |  |
-| **[A Quadratic Programming Approach to Flight Envelope Protection Using Control Barrier Functions](http://arxiv.org/abs/2504.18951v1)** | 2025-04-26 | <details><summary>27 pa...</summary><p>27 pages, 12 figures, submitted to the AIAA Journal of Guidance, Control, and Dynamics as an Engineering Note</p></details> |
 
