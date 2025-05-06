@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 05, 2025
+title: Latest 15 Papers - May 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Micro-Patterns in Solidity Code](http://arxiv.org/abs/2505.01282v1)** | 2025-05-02 |  |
-| **[Collaborative Coded Caching for Partially Connected Networks](http://arxiv.org/abs/2501.13298v3)** | 2025-05-02 |  |
-| **[Detecting the Root Cause Code Lines in Bug-Fixing Commits by Heterogeneous Graph Learning](http://arxiv.org/abs/2505.01022v1)** | 2025-05-02 |  |
-| **[Identifying Root Cause of bugs by Capturing Changed Code Lines with Relational Graph Neural Networks](http://arxiv.org/abs/2505.00990v1)** | 2025-05-02 |  |
-| **[On the Worst-Case Complexity of Gibbs Decoding for Reed--Muller Codes](http://arxiv.org/abs/2505.00974v1)** | 2025-05-02 |  |
-| **[A Multi-Language Perspective on the Robustness of LLM Code Generation](http://arxiv.org/abs/2504.19108v2)** | 2025-05-01 |  |
-| **[ICQuant: Index Coding enables Low-bit LLM Quantization](http://arxiv.org/abs/2505.00850v1)** | 2025-05-01 |  |
-| **[Error Exponents for Oblivious Relaying and Connections to Source Coding with a Helper](http://arxiv.org/abs/2505.00567v1)** | 2025-05-01 |  |
-| **[On the Reliability of Information Retrieval From MDS Coded Data in DNA Storage](http://arxiv.org/abs/2502.06618v2)** | 2025-05-01 | <details><summary>A sho...</summary><p>A shorter version of this paper has been accepted for presentation at ISIT 2025</p></details> |
-| **[Two-dimensional Constacyclic Codes over $\mathbb{F}_q$](http://arxiv.org/abs/2412.09915v2)** | 2025-05-01 | 25 pages, 1 figure |
-| **[CICADA: Cross-Domain Interpretable Coding for Anomaly Detection and Adaptation in Multivariate Time Series](http://arxiv.org/abs/2505.00415v1)** | 2025-05-01 |  |
-| **[Enhancing the Security of Semantic Communication via Knowledge-Aided Coding and Jamming](http://arxiv.org/abs/2504.16960v2)** | 2025-05-01 |  |
-| **[ReasoningV: Efficient Verilog Code Generation with Adaptive Hybrid Reasoning Model](http://arxiv.org/abs/2504.14560v3)** | 2025-05-01 | 9 pages, 4 figures |
-| **[From Effectiveness to Efficiency: Uncovering Linguistic Bias in Large Language Model-based Code Generation](http://arxiv.org/abs/2406.00602v2)** | 2025-05-01 |  |
-| **[Empirical Evaluation of Progressive Coding for Sparse Autoencoders](http://arxiv.org/abs/2505.00190v1)** | 2025-04-30 |  |
+| **[A Rate-Quality Model for Learned Video Coding](http://arxiv.org/abs/2505.02720v1)** | 2025-05-05 |  |
+| **[From Human Judgements to Predictive Models: Unravelling Acceptability in Code-Mixed Sentences](http://arxiv.org/abs/2405.05572v2)** | 2025-05-05 |  |
+| **[Griesmer type bounds for additive codes over finite fields, integral and fractional MDS codes](http://arxiv.org/abs/2406.08916v5)** | 2025-05-05 |  |
+| **[Targeted Fuzzing for Unsafe Rust Code: Leveraging Selective Instrumentation](http://arxiv.org/abs/2505.02464v1)** | 2025-05-05 | <details><summary>This ...</summary><p>This paper has been accepted at the International Conference on Evaluation and Assessment in Software Engineering (EASE) 2025</p></details> |
+| **[Integrating Symbolic Execution into the Fine-Tuning of Code-Generating LLMs](http://arxiv.org/abs/2504.15210v2)** | 2025-05-05 |  |
+| **[A Slicing-Based Approach for Detecting and Patching Vulnerable Code Clones](http://arxiv.org/abs/2505.02349v1)** | 2025-05-05 |  |
+| **[An Empirical Study on the Performance and Energy Usage of Compiled Python Code](http://arxiv.org/abs/2505.02346v1)** | 2025-05-05 |  |
+| **[LASSI: An LLM-based Automated Self-Correcting Pipeline for Translating Parallel Scientific Codes](http://arxiv.org/abs/2407.01638v2)** | 2025-05-04 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 7 tables</p></details> |
+| **[Leveraging LLMs to Automate Energy-Aware Refactoring of Parallel Scientific Codes](http://arxiv.org/abs/2505.02184v1)** | 2025-05-04 | 11 pages, 4 figures |
+| **[Dihedral Quantum Codes](http://arxiv.org/abs/2310.15092v3)** | 2025-05-04 |  |
+| **[Enhancing LLM Code Generation: A Systematic Evaluation of Multi-Agent Collaboration and Runtime Debugging for Improved Accuracy, Reliability, and Latency](http://arxiv.org/abs/2505.02133v1)** | 2025-05-04 |  |
+| **[Sparse Code Transceiver Design for Unsourced Random Access with Analytical Power Division in Gaussian MAC](http://arxiv.org/abs/2505.01988v1)** | 2025-05-04 |  |
+| **[Explainability by design: an experimental analysis of the legal coding process](http://arxiv.org/abs/2505.01944v1)** | 2025-05-03 |  |
+| **[Explicit Construction of Quantum Quasi-Cyclic Low-Density Parity-Check Codes with Column Weight 2 and Girth 12](http://arxiv.org/abs/2501.13444v2)** | 2025-05-03 | <details><summary>7 pag...</summary><p>7 pages, 1 fugure, 1 table</p></details> |
+| **[CoDe: Blockwise Control for Denoising Diffusion Models](http://arxiv.org/abs/2502.00968v2)** | 2025-05-03 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Smoothing of Headland Path Edges and Headland-to-Mainfield Lane Transitions Based on a Spatial Domain Transformation and Linear Programming](http://arxiv.org/abs/2407.05979v3)** | 2025-05-05 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, 4 tables</p></details> |
+| **[RouthSearch: Inferring PID Parameter Specification for Flight Control Program by Coordinate Search](http://arxiv.org/abs/2505.02357v1)** | 2025-05-05 | <details><summary>Accep...</summary><p>Accepted by the 34rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)</p></details> |
+| **[Conformal Predictive Programming for Chance Constrained Optimization](http://arxiv.org/abs/2402.07407v2)** | 2025-05-05 |  |
+| **[LLM-Guided Probabilistic Program Induction for POMDP Model Estimation](http://arxiv.org/abs/2505.02216v1)** | 2025-05-04 |  |
+| **[Data-Driven Team Selection in Fantasy Premier League Using Integer Programming and Predictive Modeling Approach](http://arxiv.org/abs/2505.02170v1)** | 2025-05-04 |  |
+| **[QiMeng-Xpiler: Transcompiling Tensor Programs for Deep Learning Systems with a Neural-Symbolic Approach](http://arxiv.org/abs/2505.02146v1)** | 2025-05-04 | <details><summary>Accep...</summary><p>Accepted to OSDI 2025</p></details> |
+| **[Prompt-Based Cost-Effective Evaluation and Operation of ChatGPT as a Computer Programming Teaching Assistant](http://arxiv.org/abs/2501.17176v3)** | 2025-05-04 |  |
+| **[Triton-distributed: Programming Overlapping Kernels on Distributed AI Systems with the Triton Compiler](http://arxiv.org/abs/2504.19442v2)** | 2025-05-04 |  |
+| **[Are Programming Paradigms Paradigms? A Critical Examination of Floyd's Appropriation of Kuhn's Philosophy](http://arxiv.org/abs/2505.01901v1)** | 2025-05-03 |  |
+| **[Program Synthesis From Partial Traces](http://arxiv.org/abs/2504.14480v2)** | 2025-05-03 | <details><summary>To ap...</summary><p>To appear at PLDI 2025 (46th ACM SIGPLAN Conference on Programming Language Design and Implementation)</p></details> |
+| **[Morello: Compiling Fast Neural Networks with Dynamic Programming and Spatial Compression](http://arxiv.org/abs/2505.01637v1)** | 2025-05-03 | 13 pages, 2 figures |
+| **[CHORUS: Zero-shot Hierarchical Retrieval and Orchestration for Generating Linear Programming Code](http://arxiv.org/abs/2505.01485v1)** | 2025-05-02 | <details><summary>This ...</summary><p>This paper has been accepted for presentation at the 19th Learning and Intelligent Optimization Conference (LION 19)</p></details> |
 | **[Platoon Coordination and Leader Selection in Mixed Transportation Systems via Dynamic Programming](http://arxiv.org/abs/2505.00847v1)** | 2025-05-01 |  |
 | **[Beyond Affine Loops: A Geometric Approach to Program Synthesis](http://arxiv.org/abs/2505.00620v1)** | 2025-05-01 |  |
 | **[Integer linear programming for unsupervised training set selection in molecular machine learning](http://arxiv.org/abs/2410.16122v2)** | 2025-05-01 | <details><summary>29 pa...</summary><p>29 pages + SI (15 pages)</p></details> |
-| **[The Development of Reflective Practice on a Work-Based Software Engineering Program: A Longitudinal Study](http://arxiv.org/abs/2504.20956v2)** | 2025-05-01 |  |
-| **[PDCS: A Primal-Dual Large-Scale Conic Programming Solver with GPU Enhancements](http://arxiv.org/abs/2505.00311v1)** | 2025-05-01 | 42 pages, 6 figures |
-| **[Hexcute: A Tile-based Programming Language with Automatic Layout and Task-Mapping Synthesis](http://arxiv.org/abs/2504.16214v2)** | 2025-04-30 | 17 pages, 24 figures |
-| **[InvAASTCluster: On Applying Invariant-Based Program Clustering to Introductory Programming Assignments](http://arxiv.org/abs/2206.14175v3)** | 2025-04-30 | <details><summary>31 pa...</summary><p>31 pages, 21 Figures, 5 Tables. Accepted for publication at the Journal of Systems and Software. GitHub repo: https://github.com/pmorvalho/InvAASTCluster</p></details> |
-| **[Testing CPS with Design Assumptions-Based Metamorphic Relations and Genetic Programming](http://arxiv.org/abs/2412.03330v2)** | 2025-04-30 |  |
-| **[Real-time Program Evaluation using Anytime-valid Rank Tests](http://arxiv.org/abs/2504.21595v1)** | 2025-04-30 |  |
-| **[Using Read Promotion and Mixed Isolation Levels for Performant Yet Serializable Execution of Transaction Programs](http://arxiv.org/abs/2501.18377v2)** | 2025-04-30 |  |
-| **[An Intermediate Program Representation for Optimizing Stream-Based Languages](http://arxiv.org/abs/2504.21458v1)** | 2025-04-30 |  |
-| **[Efficient Quantum-Safe Homomorphic Encryption for Quantum Computer Programs](http://arxiv.org/abs/2504.21235v1)** | 2025-04-30 |  |
-| **[Mìmir: A real-time interactive visualization library for CUDA programs](http://arxiv.org/abs/2504.20937v1)** | 2025-04-29 |  |
-| **[Bayesian Inference in Quantum Programs](http://arxiv.org/abs/2504.20732v1)** | 2025-04-29 | <details><summary>This ...</summary><p>This is the full version of the paper "Bayesian Inference in Quantum Programs" appearing at ICALP 2025</p></details> |
-| **[Cognitive maps are generative programs](http://arxiv.org/abs/2504.20628v1)** | 2025-04-29 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, to be published in Cognitive Sciences Society proceedings</p></details> |
 
