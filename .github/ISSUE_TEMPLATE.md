@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 14, 2025
+title: Latest 15 Papers - May 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,30 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Coded Downlink Massive Random Access and a Finite de Finetti Theorem](http://arxiv.org/abs/2405.08301v4)** | 2025-05-14 | <details><summary>18 Pa...</summary><p>18 Pages. Accepted in IEEE Transactions on Information Theory</p></details> |
+| **[MIGRATION-BENCH: Repository-Level Code Migration Benchmark from Java 8](http://arxiv.org/abs/2505.09569v1)** | 2025-05-14 |  |
+| **[Function-Correcting $b$-symbol Codes for Locally $(λ, ρ,b)$-Functions](http://arxiv.org/abs/2505.09473v1)** | 2025-05-14 |  |
+| **[Synchronization of strongly connected partial DFAs and prefix codes](http://arxiv.org/abs/2101.05057v2)** | 2025-05-14 | <details><summary>Full ...</summary><p>Full version of the paper at STACS 2021</p></details> |
+| **[Comparing Quantum Annealing and Spiking Neuromorphic Computing for Sampling Binary Sparse Coding QUBO Problems](http://arxiv.org/abs/2405.20525v2)** | 2025-05-14 |  |
+| **[Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving](http://arxiv.org/abs/2505.07773v2)** | 2025-05-14 |  |
+| **[Variational Prefix Tuning for Diverse and Accurate Code Summarization Using Pre-trained Language Models](http://arxiv.org/abs/2505.09062v1)** | 2025-05-14 | <details><summary>Accep...</summary><p>Accepted by the Journal of Systems and Software</p></details> |
+| **[Unencrypted Flying Objects: Security Lessons from University Small Satellite Developers and Their Code](http://arxiv.org/abs/2505.09038v1)** | 2025-05-14 |  |
+| **[Tests as Prompt: A Test-Driven-Development Benchmark for LLM Code Generation](http://arxiv.org/abs/2505.09027v1)** | 2025-05-13 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2409.05177</p></details> |
+| **[AI-Mediated Code Comment Improvement](http://arxiv.org/abs/2505.09021v1)** | 2025-05-13 |  |
 | **[CAD-Coder:Text-Guided CAD Files Code Generation](http://arxiv.org/abs/2505.08686v1)** | 2025-05-13 |  |
 | **[Claycode: Stylable and Deformable 2D Scannable Codes](http://arxiv.org/abs/2505.08666v1)** | 2025-05-13 |  |
+| **[Short Wins Long: Short Codes with Language Model Semantic Correction Outperform Long Codes](http://arxiv.org/abs/2505.08536v1)** | 2025-05-13 | 6 pages, 3 figures |
 | **[Interactive Oracle Proofs of Proximity to Codes on Graphs](http://arxiv.org/abs/2501.14337v2)** | 2025-05-13 |  |
 | **[MARCO: A Multi-Agent System for Optimizing HPC Code Generation Using Large Language Models](http://arxiv.org/abs/2505.03906v2)** | 2025-05-13 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 2 tables</p></details> |
-| **[On the hull-variation problem of equivalent vector rank metric codes](http://arxiv.org/abs/2505.08506v1)** | 2025-05-13 |  |
-| **[Hallucination by Code Generation LLMs: Taxonomy, Benchmarks, Mitigation, and Challenges](http://arxiv.org/abs/2504.20799v2)** | 2025-05-13 | 15 pages, 4 figures |
-| **[Detecting the Root Cause Code Lines in Bug-Fixing Commits by Heterogeneous Graph Learning](http://arxiv.org/abs/2505.01022v3)** | 2025-05-13 |  |
-| **[Coding Theorem for Generalized Reed-Solomon Codes](http://arxiv.org/abs/2505.08326v1)** | 2025-05-13 | 26 pages, 10 figures |
-| **[Ultra Lowrate Image Compression with Semantic Residual Coding and Compression-aware Diffusion](http://arxiv.org/abs/2505.08281v1)** | 2025-05-13 |  |
-| **[LLM-Based Detection of Tangled Code Changes for Higher-Quality Method-Level Bug Datasets](http://arxiv.org/abs/2505.08263v1)** | 2025-05-13 |  |
-| **[Generalized LDPC codes with low-complexity decoding and fast convergence](http://arxiv.org/abs/2505.08030v1)** | 2025-05-12 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Assessing the Bug-Proneness of Refactored Code: A Longitudinal Multi-Project Study](http://arxiv.org/abs/2505.08005v1)** | 2025-05-12 |  |
-| **[Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving](http://arxiv.org/abs/2505.07773v1)** | 2025-05-12 |  |
-| **[Enhancing Code Generation via Bidirectional Comment-Level Mutual Grounding](http://arxiv.org/abs/2505.07768v1)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted to ICSE 2025</p></details> |
-| **[The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-Based Code Generation](http://arxiv.org/abs/2411.06774v2)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted by ISSTA 2025</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Securing P4 Programs by Information Flow Control](http://arxiv.org/abs/2505.09221v1)** | 2025-05-14 | <details><summary>33 pa...</summary><p>33 pages, including references and appendix. Extended version of paper accepted to CSF 2025</p></details> |
+| **[Efficient Local and Tabu Search Strategies for Large-Scale Quadratic Integer Programming](http://arxiv.org/abs/2409.14176v2)** | 2025-05-14 | 39 pages, 8 figures |
+| **[Evaluating Mutation-based Fault Localization for Quantum Programs](http://arxiv.org/abs/2505.09059v1)** | 2025-05-14 | <details><summary>6 pag...</summary><p>6 pages, Accepted at Short Papers, Emerging Results in the International Conference on Evaluation and Assessment in Software Engineering (EASE), 2025</p></details> |
+| **[Reinforcement Learning-based Heuristics to Guide Domain-Independent Dynamic Programming](http://arxiv.org/abs/2503.16371v2)** | 2025-05-13 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, to be published in CPAIOR 2025 (https://sites.google.com/view/cpaior2025)</p></details> |
+| **[Comparing Parallel Functional Array Languages: Programming and Performance](http://arxiv.org/abs/2505.08906v1)** | 2025-05-13 |  |
 | **[Cryptography without Long-Term Quantum Memory and Global Entanglement: Classical Setups for One-Time Programs, Copy Protection, and Stateful Obfuscation](http://arxiv.org/abs/2504.21842v2)** | 2025-05-13 |  |
 | **[CursorCore: Assist Programming through Aligning Anything](http://arxiv.org/abs/2410.07002v3)** | 2025-05-13 |  |
 | **[A Quantum Constraint Generation Framework for Binary Linear Programs](http://arxiv.org/abs/2503.21222v2)** | 2025-05-13 |  |
@@ -36,9 +41,4 @@ labels: documentation
 | **[A Black-box Testing Framework for Oracle Quantum Programs](http://arxiv.org/abs/2505.07243v1)** | 2025-05-12 | 35 pages, 8 figures |
 | **[LLM-Guided Probabilistic Program Induction for POMDP Model Estimation](http://arxiv.org/abs/2505.02216v2)** | 2025-05-12 |  |
 | **[Crypto-Economic Analysis of Web3 Funding Programs Using the Grant Maturity Framework](http://arxiv.org/abs/2505.06801v1)** | 2025-05-11 |  |
-| **[Reliable Collaborative Conversational Agent System Based on LLMs and Answer Set Programming](http://arxiv.org/abs/2505.06438v1)** | 2025-05-09 | 14 pages |
-| **[From Observation to Orientation: an Adaptive Integer Programming Approach to Intervention Design](http://arxiv.org/abs/2504.03122v3)** | 2025-05-09 |  |
-| **[JustinANN: Realistic Test Generation for Java Programs Driven by Annotations](http://arxiv.org/abs/2505.05715v1)** | 2025-05-09 |  |
-| **[ICNN-enhanced 2SP: Leveraging input convex neural networks for solving two-stage stochastic programming](http://arxiv.org/abs/2505.05261v1)** | 2025-05-08 |  |
-| **[Neural Pathways to Program Success: Hopfield Networks for PERT Analysis](http://arxiv.org/abs/2505.05047v1)** | 2025-05-08 |  |
 
