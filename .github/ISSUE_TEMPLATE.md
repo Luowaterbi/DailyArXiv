@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 18, 2025
+title: Latest 15 Papers - May 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Improving Assembly Code Performance with Large Language Models via Reinforcement Learning](http://arxiv.org/abs/2505.11480v1)** | 2025-05-16 |  |
+| **[Is Compression Really Linear with Code Intelligence?](http://arxiv.org/abs/2505.11441v1)** | 2025-05-16 | work in progress |
+| **[The dimension and Bose distance of certain primitive BCH codes](http://arxiv.org/abs/2503.01118v2)** | 2025-05-16 |  |
+| **[StRuCom: A Novel Dataset of Structured Code Comments in Russian](http://arxiv.org/abs/2505.11026v1)** | 2025-05-16 |  |
+| **[Automated Synthesis of Fault-Tolerant State Preparation Circuits for Quantum Error Correction Codes](http://arxiv.org/abs/2408.11894v3)** | 2025-05-16 | <details><summary>32 pa...</summary><p>32 pages, 21 figures Version 2: included some references, fixed error in printed circuits Version 3: journal publication update, extended evaluations</p></details> |
+| **[New Wide Locally Recoverable Codes with Unified Locality](http://arxiv.org/abs/2505.06819v2)** | 2025-05-16 |  |
+| **[Code-Driven Planning in Grid Worlds with Large Language Models](http://arxiv.org/abs/2505.10749v1)** | 2025-05-15 |  |
+| **[Do Current Language Models Support Code Intelligence for R Programming Language?](http://arxiv.org/abs/2410.07793v3)** | 2025-05-15 |  |
+| **[InfraFix: Technology-Agnostic Repair of Infrastructure as Code](http://arxiv.org/abs/2503.17220v2)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted at ISSTA 2025</p></details> |
 | **[MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning](http://arxiv.org/abs/2505.10557v1)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Findings</p></details> |
 | **[Can You Really Trust Code Copilots? Evaluating Large Language Models from a Code Security Perspective](http://arxiv.org/abs/2505.10494v1)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted by ACL2025 Main Conference</p></details> |
 | **[SceneGenAgent: Precise Industrial Scene Generation with Coding Agent](http://arxiv.org/abs/2410.21909v2)** | 2025-05-15 |  |
 | **[Unified Modeling Language Code Generation from Diagram Images Using Multimodal Large Language Models](http://arxiv.org/abs/2503.12293v2)** | 2025-05-15 | <details><summary>Publi...</summary><p>Published in the Journal of Machine Learning with Applications, Author Contributions: Averi Bates: Methodology, Development, Analysis, Data Curation, Drafting, Review. Ryan Vavricka: Data Curation, Development, Review. Shane Carleton: Supervision, Funding. Ruosi Shao: Review. Chongle Pan: Supervision, Review</p></details> |
 | **[Are Large Language Models Robust in Understanding Code Against Semantics-Preserving Mutations?](http://arxiv.org/abs/2505.10443v1)** | 2025-05-15 | <details><summary>10 pa...</summary><p>10 pages, 5 tables, 1 figure</p></details> |
 | **[Rethinking Repetition Problems of LLMs in Code Generation](http://arxiv.org/abs/2505.10402v1)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (main)</p></details> |
-| **[Solar-CSK: Decoding Color Coded Visible Light Communications using Solar Cells](http://arxiv.org/abs/2505.10226v1)** | 2025-05-15 | 14 pages, 25 figures |
-| **[MORepair: Teaching LLMs to Repair Code via Multi-Objective Fine-tuning](http://arxiv.org/abs/2404.12636v3)** | 2025-05-15 |  |
-| **[The Schur product of evaluation codes and its application to CSS-T quantum codes and private information retrieval](http://arxiv.org/abs/2505.10068v1)** | 2025-05-15 |  |
-| **[GBM Returns the Best Prediction Performance among Regression Approaches: A Case Study of Stack Overflow Code Quality](http://arxiv.org/abs/2505.10019v1)** | 2025-05-15 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 3 tables</p></details> |
-| **[Low-Complexity Decoding for Low-Rate Block Codes of Short Length Based on Concatenated Coding Structure](http://arxiv.org/abs/2505.09978v1)** | 2025-05-15 |  |
-| **[TransPL: VQ-Code Transition Matrices for Pseudo-Labeling of Time Series Unsupervised Domain Adaptation](http://arxiv.org/abs/2505.09955v1)** | 2025-05-15 | ICML 2025 Accept |
-| **[Compact Lattice-Coded (Multi-Recipient) Kyber without CLT Independence Assumption](http://arxiv.org/abs/2504.17185v2)** | 2025-05-15 | 8 Tables, 3 Figures |
-| **[UICopilot: Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs](http://arxiv.org/abs/2505.09904v1)** | 2025-05-15 | WWW' 2025 |
-| **[On null completely regular codes in Manhattan metric](http://arxiv.org/abs/2505.09893v1)** | 2025-05-15 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Automated Identification of Logical Errors in Programs: Advancing Scalable Analysis of Student Misconceptions](http://arxiv.org/abs/2505.10913v1)** | 2025-05-16 | <details><summary>Accep...</summary><p>Accepted for publication at the 18th International Conference on Educational Data Mining (EDM), 2025</p></details> |
+| **[The Curious Case of Class Accuracy Imbalance in LLMs: Post-hoc Debiasing via Nonlinear Integer Programming](http://arxiv.org/abs/2405.07623v6)** | 2025-05-16 |  |
+| **[Tensor Network Structure Search with Program Synthesis](http://arxiv.org/abs/2502.02711v3)** | 2025-05-16 |  |
+| **[Do Current Language Models Support Code Intelligence for R Programming Language?](http://arxiv.org/abs/2410.07793v3)** | 2025-05-15 |  |
 | **[SnapNCode: An Integrated Development Environment for Programming Physical Objects Interactions](http://arxiv.org/abs/2505.09882v1)** | 2025-05-15 | 18 pages, HCII 2025 |
 | **[Quadratic Transform for Fractional Programming in Signal Processing and Machine Learning](http://arxiv.org/abs/2503.09977v3)** | 2025-05-14 | 20 pages |
 | **[Securing P4 Programs by Information Flow Control](http://arxiv.org/abs/2505.09221v1)** | 2025-05-14 | <details><summary>33 pa...</summary><p>33 pages, including references and appendix. Extended version of paper accepted to CSF 2025</p></details> |
@@ -37,8 +41,4 @@ labels: documentation
 | **[CursorCore: Assist Programming through Aligning Anything](http://arxiv.org/abs/2410.07002v3)** | 2025-05-13 |  |
 | **[A Quantum Constraint Generation Framework for Binary Linear Programs](http://arxiv.org/abs/2503.21222v2)** | 2025-05-13 |  |
 | **[The Failure of Plagiarism Detection in Competitive Programming](http://arxiv.org/abs/2505.08244v1)** | 2025-05-13 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, 2 tables, submitted for publication</p></details> |
-| **[Will Your Next Pair Programming Partner Be Human? An Empirical Evaluation of Generative AI as a Collaborative Teammate in a Semester-Long Classroom Setting](http://arxiv.org/abs/2505.08119v1)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted by Learning @ Scale 2025</p></details> |
-| **[Adaptive Learning-based Surrogate Method for Stochastic Programs with Implicitly Decision-dependent Uncertainty](http://arxiv.org/abs/2505.07298v1)** | 2025-05-12 |  |
-| **[ATiM: Autotuning Tensor Programs for Processing-in-DRAM](http://arxiv.org/abs/2412.19630v2)** | 2025-05-12 | 17 pages, 15 figures |
-| **[A Black-box Testing Framework for Oracle Quantum Programs](http://arxiv.org/abs/2505.07243v1)** | 2025-05-12 | 35 pages, 8 figures |
 
