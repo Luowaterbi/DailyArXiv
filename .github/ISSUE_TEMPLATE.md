@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 25, 2025
+title: Latest 15 Papers - May 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,31 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Training with Pseudo-Code for Instruction Following](http://arxiv.org/abs/2505.18011v1)** | 2025-05-23 | Under Review |
+| **[Towards Practical Defect-Focused Automated Code Review](http://arxiv.org/abs/2505.17928v1)** | 2025-05-23 | <details><summary>Accep...</summary><p>Accepted to Forty-Second International Conference on Machine Learning (ICML 2025)</p></details> |
+| **[Protograph-Based LDPC Codes with Local Irregularity](http://arxiv.org/abs/2505.17837v1)** | 2025-05-23 | <details><summary>Confe...</summary><p>Conference paper: International Symposium on Information Theory 2025. 6 pages (last one is for references)</p></details> |
+| **[Hybrid Mamba-Transformer Decoder for Error-Correcting Codes](http://arxiv.org/abs/2505.17834v1)** | 2025-05-23 |  |
+| **[Function-Correcting $b$-symbol Codes for Locally $(λ, ρ,b)$-Functions](http://arxiv.org/abs/2505.09473v2)** | 2025-05-23 |  |
+| **[EpiCoder: Encompassing Diversity and Complexity in Code Generation](http://arxiv.org/abs/2501.04694v2)** | 2025-05-23 | ICML 2025 |
+| **[D3C2-Net: Dual-Domain Deep Convolutional Coding Network for Compressive Sensing](http://arxiv.org/abs/2207.13560v2)** | 2025-05-23 | <details><summary>accep...</summary><p>accepted by IEEE TCSVT</p></details> |
+| **[UICopilot: Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs](http://arxiv.org/abs/2505.09904v2)** | 2025-05-23 | WWW' 2025 |
+| **[Distilling LLM Agent into Small Models with Retrieval and Code Tools](http://arxiv.org/abs/2505.17612v1)** | 2025-05-23 | preprint, v1 |
+| **[Nodal surfaces in $\mathbb{P}^3$ and coding theory](http://arxiv.org/abs/2505.17531v1)** | 2025-05-23 | 11 pages |
+| **[Optimal additive quaternary codes of dimension $3.5$](http://arxiv.org/abs/2410.07650v3)** | 2025-05-23 | <details><summary>16 pa...</summary><p>16 pages, 2 tables; typos corrected, extended details, more results for dimension 4</p></details> |
+| **[MARCO: Meta-Reflection with Cross-Referencing for Code Reasoning](http://arxiv.org/abs/2505.17481v1)** | 2025-05-23 |  |
+| **[Learning to Focus: Context Extraction for Efficient Code Vulnerability Detection with Language Models](http://arxiv.org/abs/2505.17460v1)** | 2025-05-23 |  |
+| **[Genetic Instruct: Scaling up Synthetic Generation of Coding Instructions for Large Language Models](http://arxiv.org/abs/2407.21077v3)** | 2025-05-22 | <details><summary>Accep...</summary><p>Accepted to be presented in ACL 2025</p></details> |
 | **[Blank Space: Adaptive Causal Coding for Streaming Communications Over Multi-Hop Networks](http://arxiv.org/abs/2502.11984v3)** | 2025-05-22 |  |
-| **[Multilevel lattice codes from Hurwitz quaternion integers](http://arxiv.org/abs/2401.10773v3)** | 2025-05-22 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 4 tables</p></details> |
-| **[Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks](http://arxiv.org/abs/2505.16901v1)** | 2025-05-22 | 31 pages, 9 figures |
-| **[Bounds on $k$-hash distances and rates of linear codes](http://arxiv.org/abs/2505.05239v2)** | 2025-05-22 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2401.16288</p></details> |
-| **[Towards Machine-Generated Code for the Resolution of User Intentions](http://arxiv.org/abs/2504.17531v3)** | 2025-05-22 |  |
-| **[ASMA-Tune: Unlocking LLMs' Assembly Code Comprehension via Structural-Semantic Instruction Tuning](http://arxiv.org/abs/2503.11617v2)** | 2025-05-22 | <details><summary>9 pag...</summary><p>9 pages, multiple figures</p></details> |
-| **[AutoMCQ -- Automatically Generate Code Comprehension Questions using GenAI](http://arxiv.org/abs/2505.16430v1)** | 2025-05-22 |  |
-| **[Unlocking Smarter Device Control: Foresighted Planning with a World Model-Driven Code Execution Approach](http://arxiv.org/abs/2505.16422v1)** | 2025-05-22 |  |
-| **[UBGAN: Enhancing Coded Speech with Blind and Guided Bandwidth Extension](http://arxiv.org/abs/2505.16404v1)** | 2025-05-22 |  |
-| **[AceReason-Nemotron: Advancing Math and Code Reasoning through Reinforcement Learning](http://arxiv.org/abs/2505.16400v1)** | 2025-05-22 | <details><summary>We re...</summary><p>We release the model at: https://huggingface.co/nvidia/AceReason-Nemotron-14B</p></details> |
-| **[Half-Marker Codes for Deletion Channels with Applications in DNA Storage](http://arxiv.org/abs/2505.16344v1)** | 2025-05-22 |  |
-| **[Rethinking Code Review Workflows with LLM Assistance: An Empirical Study](http://arxiv.org/abs/2505.16339v1)** | 2025-05-22 |  |
-| **[CodeMind: Evaluating Large Language Models for Code Reasoning](http://arxiv.org/abs/2402.09664v5)** | 2025-05-22 |  |
-| **[To Code or not to Code? Adaptive Tool Integration for Math Language Models via Expectation-Maximization](http://arxiv.org/abs/2502.00691v3)** | 2025-05-22 | Accepted to ACL 2025 |
-| **[Don't Judge Code by Its Cover: Exploring Biases in LLM Judges for Code Evaluation](http://arxiv.org/abs/2505.16222v1)** | 2025-05-22 | 26 pages |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Retrieval-Augmented Fine-Tuning With Preference Optimization For Visual Program Generation](http://arxiv.org/abs/2502.16529v2)** | 2025-05-23 | <details><summary>Accep...</summary><p>Accepted at ACL 2025 (Main, long paper)</p></details> |
+| **[Gradient-Based Program Repair: Fixing Bugs in Continuous Program Spaces](http://arxiv.org/abs/2505.17703v1)** | 2025-05-23 |  |
+| **[GeoGramBench: Benchmarking the Geometric Program Reasoning in Modern LLMs](http://arxiv.org/abs/2505.17653v1)** | 2025-05-23 | 23 pages, 13 figures |
+| **[ProTAL: A Drag-and-Link Video Programming Framework for Temporal Action Localization](http://arxiv.org/abs/2505.17555v1)** | 2025-05-23 | Accepted at CHI'25 |
+| **[Planning-Driven Programming: A Large Language Model Programming Workflow](http://arxiv.org/abs/2411.14503v3)** | 2025-05-23 |  |
+| **[From a Constraint Logic Programming Language to a Formal Verification Tool](http://arxiv.org/abs/2505.17350v1)** | 2025-05-23 | <details><summary>Submi...</summary><p>Submitted to Theory and Practice of Logic Programming</p></details> |
 | **[Towards Better Understanding of Program-of-Thought Reasoning in Cross-Lingual and Multilingual Environments](http://arxiv.org/abs/2502.17956v2)** | 2025-05-22 |  |
 | **[Can a domain-specific language improve program structure comprehension of data pipelines? A mixed-methods study](http://arxiv.org/abs/2505.16764v1)** | 2025-05-22 |  |
 | **[Distributed alternating gradient descent for convex semi-infinite programs over a network](http://arxiv.org/abs/2408.11937v2)** | 2025-05-22 | 16 pages, 1 figure |
@@ -34,11 +40,5 @@ labels: documentation
 | **[Agentic AI Software Engineers: Programming with Trust](http://arxiv.org/abs/2502.13767v3)** | 2025-05-22 | 5 pages |
 | **[Logic-of-Thought: Empowering Large Language Models with Logic Programs for Solving Puzzles in Natural Language](http://arxiv.org/abs/2505.16114v1)** | 2025-05-22 |  |
 | **[MPL: Multiple Programming Languages with Large Language Models for Information Extraction](http://arxiv.org/abs/2505.16107v1)** | 2025-05-22 | Findings of ACL2025 |
-| **[Data-driven Verification of Procedural Programs with Integer Arrays](http://arxiv.org/abs/2505.15958v1)** | 2025-05-21 |  |
-| **[An Intermediate Program Representation for Optimizing Stream-Based Languages](http://arxiv.org/abs/2504.21458v2)** | 2025-05-21 |  |
-| **[Let's Take Esoteric Programming Languages Seriously](http://arxiv.org/abs/2505.15327v1)** | 2025-05-21 | 13 pages, 7 figures |
-| **[LogiCase: Effective Test Case Generation from Logical Description in Competitive Programming](http://arxiv.org/abs/2505.15039v1)** | 2025-05-21 |  |
-| **[EquiBench: Benchmarking Large Language Models' Understanding of Program Semantics via Equivalence Checking](http://arxiv.org/abs/2502.12466v2)** | 2025-05-20 |  |
-| **[Cassandra: Efficient Enforcement of Sequential Execution for Cryptographic Programs (Extended Version)](http://arxiv.org/abs/2406.04290v2)** | 2025-05-20 | <details><summary>17 pa...</summary><p>17 pages, 9 figures, 4 tables, 1 listing</p></details> |
-| **[Verifying Tree-Manipulating Programs via CHCs](http://arxiv.org/abs/2505.14092v1)** | 2025-05-20 |  |
+| **[Predicting At-Risk Programming Students in Small Imbalanced Datasets using Synthetic Data](http://arxiv.org/abs/2505.17128v1)** | 2025-05-21 | <details><summary>To be...</summary><p>To be published in the Doctoral Consortium Track at AIED 2025, (Pre-Print)</p></details> |
 
