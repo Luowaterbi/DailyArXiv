@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 28, 2025
+title: Latest 15 Papers - May 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bivariate Linear Operator Codes](http://arxiv.org/abs/2411.16596v2)** | 2025-05-28 |  |
+| **[On Function-Correcting Codes](http://arxiv.org/abs/2404.15135v6)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Information Theory; Recent arXiv publications on Function-Correcting Codes added; 15 pages (double column), 6 figures and one table</p></details> |
+| **[ToPSen: Task-Oriented Priming and Sensory Alignment for Comparing Coding Strategies Between Sighted and Blind Programmers](http://arxiv.org/abs/2505.22414v1)** | 2025-05-28 | Accepted at DIS'25 |
+| **[Can Code-Switched Texts Activate a Knowledge Switch in LLMs? A Case Study on English-Korean Code-Switching](http://arxiv.org/abs/2410.18436v2)** | 2025-05-28 | 25 pages, 8 figures |
+| **[Edge-Spreading Raptor-Like LDPC Codes for 6G Wireless Systems](http://arxiv.org/abs/2410.16875v2)** | 2025-05-28 | <details><summary>accep...</summary><p>accepted by IEEE Transactions on Communications</p></details> |
+| **[Towards Practical Defect-Focused Automated Code Review](http://arxiv.org/abs/2505.17928v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted as Spotlight at the 42nd International Conference on Machine Learning (ICML 2025)</p></details> |
+| **[Interpolation of Quantum Polar Codes and Quantum Reed-Muller Codes](http://arxiv.org/abs/2505.22142v1)** | 2025-05-28 |  |
+| **[When Feedback Empowers the Uplink: Integrating Adaptive Coding with Wireless Power Transfer](http://arxiv.org/abs/2505.21951v1)** | 2025-05-28 |  |
+| **[Reinforcement Learning for Out-of-Distribution Reasoning in LLMs: An Empirical Study on Diagnosis-Related Group Coding](http://arxiv.org/abs/2505.21908v1)** | 2025-05-28 |  |
+| **[Edit Distance Robust Watermarks via Indexing Pseudorandom Codes](http://arxiv.org/abs/2406.02633v2)** | 2025-05-27 | <details><summary>Appea...</summary><p>Appeared in NeurIPS 2024</p></details> |
+| **[Residual Diffusion Models for Variable-Rate Joint Source Channel Coding of MIMO CSI](http://arxiv.org/abs/2505.21681v1)** | 2025-05-27 | 13 pages, 11 figures |
+| **[R1-Code-Interpreter: Training LLMs to Reason with Code via Supervised and Reinforcement Learning](http://arxiv.org/abs/2505.21668v1)** | 2025-05-27 | 33 pages, 8 figures |
 | **[GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation](http://arxiv.org/abs/2505.21425v1)** | 2025-05-27 | under review |
 | **[rStar-Coder: Scaling Competitive Code Reasoning with a Large-Scale Verified Dataset](http://arxiv.org/abs/2505.21297v1)** | 2025-05-27 |  |
 | **[JavaSith: A Client-Side Framework for Analyzing Potentially Malicious Extensions in Browsers, VS Code, and NPM Packages](http://arxiv.org/abs/2505.21263v1)** | 2025-05-27 | <details><summary>28 pa...</summary><p>28 pages , 11 figures</p></details> |
-| **[Language Models Surface the Unwritten Code of Science and Society](http://arxiv.org/abs/2505.18942v2)** | 2025-05-27 |  |
-| **[GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding](http://arxiv.org/abs/2409.04183v2)** | 2025-05-27 | <details><summary>ACL 2...</summary><p>ACL 2025 camera-ready</p></details> |
-| **[Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement](http://arxiv.org/abs/2502.17442v2)** | 2025-05-27 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 8 tables</p></details> |
-| **[Conversational Code Generation: a Case Study of Designing a Dialogue System for Generating Driving Scenarios for Testing Autonomous Vehicles](http://arxiv.org/abs/2410.09829v2)** | 2025-05-27 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 2 tables</p></details> |
-| **[WizardCoder: Empowering Code Large Language Models with Evol-Instruct](http://arxiv.org/abs/2306.08568v2)** | 2025-05-27 | <details><summary>Large...</summary><p>Large Language model, Code Generation, Code LLMs.This paper has been accepted to ICLR 2024. Please cite the ICLR version</p></details> |
-| **[Enhancing Code LLMs with Reinforcement Learning in Code Generation: A Survey](http://arxiv.org/abs/2412.20367v3)** | 2025-05-27 |  |
-| **[ChartCoder: Advancing Multimodal Large Language Model for Chart-to-Code Generation](http://arxiv.org/abs/2501.06598v2)** | 2025-05-27 | <details><summary>Accep...</summary><p>Accepted by ACL 2025 Main, Camera Ready</p></details> |
-| **[SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis](http://arxiv.org/abs/2505.20630v1)** | 2025-05-27 |  |
-| **[Towards the Automated Extraction and Refactoring of NoSQL Schemas from Application Code](http://arxiv.org/abs/2505.20230v1)** | 2025-05-26 | <details><summary>Submi...</summary><p>Submitted to Journal Systems and Software, 23 pages</p></details> |
-| **[Evaluating Large Language Models for Code Review](http://arxiv.org/abs/2505.20206v1)** | 2025-05-26 |  |
-| **[CodeTaxo: Enhancing Taxonomy Expansion with Limited Examples via Code Language Prompts](http://arxiv.org/abs/2408.09070v2)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted by ACL2025 Findings</p></details> |
-| **[An Empirical Study on Strong-Weak Model Collaboration for Repo-level Code Generation](http://arxiv.org/abs/2505.20182v1)** | 2025-05-26 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CADReview: Automatically Reviewing CAD Programs with Error Detection and Correction](http://arxiv.org/abs/2505.22304v1)** | 2025-05-28 | <details><summary>ACL 2...</summary><p>ACL 2025 main conference</p></details> |
+| **[(Near)-Optimal Algorithms for Sparse Separable Convex Integer Programs](http://arxiv.org/abs/2505.22212v1)** | 2025-05-28 | <details><summary>28 pa...</summary><p>28 pages, will appear at IPCO 2025</p></details> |
+| **[Symbolically Regressing Fish Biomass Spectral Data: A Linear Genetic Programming Method with Tunable Primitives](http://arxiv.org/abs/2505.21901v1)** | 2025-05-28 |  |
 | **[Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming](http://arxiv.org/abs/2505.21486v1)** | 2025-05-27 |  |
 | **[Can Large Language Models Understand Symbolic Graphics Programs?](http://arxiv.org/abs/2408.08313v4)** | 2025-05-27 | <details><summary>ICLR ...</summary><p>ICLR 2025 Spotlight (v4: 47 pages, 26 figures, project page: https://sgp-bench.github.io/)</p></details> |
 | **[BIPNN: Learning to Solve Binary Integer Programming via Hypergraph Neural Networks](http://arxiv.org/abs/2505.20997v1)** | 2025-05-27 |  |
@@ -38,7 +41,4 @@ labels: documentation
 | **[High-Dimensional Sparse Clustering via Iterative Semidefinite Programming Relaxed K-Means](http://arxiv.org/abs/2505.20478v1)** | 2025-05-26 | <details><summary>107 p...</summary><p>107 pages, 4 figures, 3 tables, 6 algorithms; Main text 21 pages, 2 figures, 1 table, 3 algorithms</p></details> |
 | **[Program of Equations Thoughts to Solve Algebra Word Problems](http://arxiv.org/abs/2505.20170v1)** | 2025-05-26 |  |
 | **[Finding Pathways in Reaction Networks guided by Energy Barriers using Integer Linear Programming](http://arxiv.org/abs/2504.10609v2)** | 2025-05-26 | 29 pages |
-| **[Large Language Models as Autonomous Spacecraft Operators in Kerbal Space Program](http://arxiv.org/abs/2505.19896v1)** | 2025-05-26 | <details><summary>Non r...</summary><p>Non revised version for paper going to be published in Journal of Advances in Space Research</p></details> |
-| **[Proceedings 16th International Workshop on Programming Language Approaches to Concurrency and Communication-cEntric Software](http://arxiv.org/abs/2505.19078v1)** | 2025-05-25 |  |
-| **[Visual Program Distillation with Template-Based Augmentation](http://arxiv.org/abs/2412.08564v3)** | 2025-05-25 |  |
 
