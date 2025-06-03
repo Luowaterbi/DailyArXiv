@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 02, 2025
+title: Latest 15 Papers - June 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LoRACode: LoRA Adapters for Code Embeddings](http://arxiv.org/abs/2503.05315v2)** | 2025-06-02 | <details><summary>Accep...</summary><p>Accepted at the Deep Learning for Code (DL4C) Workshop at ICLR 2025</p></details> |
+| **[An Insight into Security Code Review with LLMs: Capabilities, Obstacles, and Influential Factors](http://arxiv.org/abs/2401.16310v4)** | 2025-06-02 | <details><summary>21 pa...</summary><p>21 pages, 5 images, 8 tables, Manuscript submitted to a journal (2025)</p></details> |
+| **[Tadashi: Enabling AI-Based Automated Code Generation With Guaranteed Correctness](http://arxiv.org/abs/2410.03210v2)** | 2025-06-02 | Submitted to SC25 |
+| **[Information-Set Decoding for Convolutional Codes](http://arxiv.org/abs/2408.07621v4)** | 2025-06-01 |  |
+| **[Improving the Context Length and Efficiency of Code Retrieval for Tracing Security Vulnerability Fixes](http://arxiv.org/abs/2503.22935v2)** | 2025-05-31 |  |
+| **[NoCodeGPT: A No-Code Interface for Building Web Apps with Language Models](http://arxiv.org/abs/2310.14843v3)** | 2025-05-31 | <details><summary>Accep...</summary><p>Accepted at Software: Practice and Experience. Open access version available at: https://doi.org/10.1002/spe.3432</p></details> |
+| **[Utilizing Precise and Complete Code Context to Guide LLM in Automatic False Positive Mitigation](http://arxiv.org/abs/2411.03079v2)** | 2025-05-31 | 13 pages |
+| **[StarVector: Generating Scalable Vector Graphics Code from Images and Text](http://arxiv.org/abs/2312.11556v4)** | 2025-05-31 |  |
+| **[ProjectEval: A Benchmark for Programming Agents Automated Evaluation on Project-Level Code Generation](http://arxiv.org/abs/2503.07010v2)** | 2025-05-31 | <details><summary>17 pa...</summary><p>17 pages (9 Appendix pages), 4 figures, 7 tables</p></details> |
+| **[CodeReviewQA: The Code Review Comprehension Assessment for Large Language Models](http://arxiv.org/abs/2503.16167v2)** | 2025-05-31 | <details><summary>The p...</summary><p>The paper is published in Findings of the Association for Computational Linguistics (ACL 2025)</p></details> |
+| **[KnowCoder-X: Boosting Multilingual Information Extraction via Code](http://arxiv.org/abs/2411.04794v3)** | 2025-05-31 | ACL 2025 Findings |
+| **[Calibration of Large Language Models on Code Summarization](http://arxiv.org/abs/2404.19318v3)** | 2025-05-30 |  |
+| **[HiLDe: Intentional Code Generation via Human-in-the-Loop Decoding](http://arxiv.org/abs/2505.22906v2)** | 2025-05-30 | 10 pages, 6 figures |
+| **[Afterburner: Reinforcement Learning Facilitates Self-Improving Code Efficiency Optimization](http://arxiv.org/abs/2505.23387v2)** | 2025-05-30 |  |
 | **[ToolCoder: A Systematic Code-Empowered Tool Learning Framework for Large Language Models](http://arxiv.org/abs/2502.11404v2)** | 2025-05-30 | Accepted to ACL 2025 |
-| **[CoRet: Improved Retriever for Code Editing](http://arxiv.org/abs/2505.24715v1)** | 2025-05-30 | ACL 2025 |
-| **[Maximally recoverable codes with locality and availability](http://arxiv.org/abs/2505.24573v1)** | 2025-05-30 |  |
-| **[Deep Holes of Twisted Reed-Solomon Codes](http://arxiv.org/abs/2403.11436v2)** | 2025-05-30 |  |
-| **[Towards Effective Code-Integrated Reasoning](http://arxiv.org/abs/2505.24480v1)** | 2025-05-30 | <details><summary>Techn...</summary><p>Technical Report on Slow Thinking with LLMs: Code-Integrated Reasoning</p></details> |
-| **[VietMix: A Naturally Occurring Vietnamese-English Code-Mixed Corpus with Iterative Augmentation for Machine Translation](http://arxiv.org/abs/2505.24472v1)** | 2025-05-30 |  |
-| **[Nested Hash Layer: A Plug-and-play Module for Multiple-length Hash Code Learning](http://arxiv.org/abs/2412.08922v2)** | 2025-05-30 |  |
-| **[SwiftEval: Developing a Language-Specific Benchmark for LLM-generated Code Evaluation](http://arxiv.org/abs/2505.24324v1)** | 2025-05-30 | <details><summary>Accep...</summary><p>Accepted to FORGE'25 Benchmarking on 15.01.2025, to be published by IEEE under the CC BY-NC-ND 4.0 license. This is the accepted version of the article (5 pages, 2 figures, 1 table). DOI will be added upon publication</p></details> |
-| **[Computing Vanishing Ideals for Toric Codes](http://arxiv.org/abs/2207.01061v2)** | 2025-05-30 | 17 pages, shortened |
-| **[MGS3: A Multi-Granularity Self-Supervised Code Search Framework](http://arxiv.org/abs/2505.24274v1)** | 2025-05-30 |  |
-| **[Repo2Run: Automated Building Executable Environment for Code Repository at Scale](http://arxiv.org/abs/2502.13681v3)** | 2025-05-30 |  |
-| **[A Reward-driven Automated Webshell Malicious-code Generator for Red-teaming](http://arxiv.org/abs/2505.24252v1)** | 2025-05-30 |  |
-| **[Fine-Tune an SLM or Prompt an LLM? The Case of Generating Low-Code Workflows](http://arxiv.org/abs/2505.24189v1)** | 2025-05-30 |  |
-| **[Disturbance-based Discretization, Differentiable IDS Channel, and an IDS-Correcting Code for DNA Storage](http://arxiv.org/abs/2407.18929v4)** | 2025-05-30 |  |
-| **[LLM Benchmarking with LLaMA2: Evaluating Code Development Performance Across Multiple Programming Languages](http://arxiv.org/abs/2503.19217v2)** | 2025-05-30 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SwingArena: Competitive Programming Arena for Long-context GitHub Issue Solving](http://arxiv.org/abs/2505.23932v2)** | 2025-06-02 |  |
+| **[Can a domain-specific language improve program structure comprehension of data pipelines? A mixed-methods study](http://arxiv.org/abs/2505.16764v2)** | 2025-06-02 | <details><summary>Use o...</summary><p>Use of standard two-sided hypothesis tests and improved presentation</p></details> |
+| **[RL-SPH: Learning to Achieve Feasible Solutions for Integer Linear Programs](http://arxiv.org/abs/2411.19517v6)** | 2025-06-02 | <details><summary>Exten...</summary><p>Extended version (19 pages, 7 figures). Accepted at the 2025 AAAI Workshop on AI to Accelerate Science and Engineering (AI2ASE)</p></details> |
+| **[ATiM: Autotuning Tensor Programs for Processing-in-DRAM](http://arxiv.org/abs/2412.19630v3)** | 2025-06-02 | 17 pages, 15 figures |
+| **[Towards a Neural Lambda Calculus: Neurosymbolic AI Applied to the Foundations of Functional Programming](http://arxiv.org/abs/2304.09276v2)** | 2025-06-01 | <details><summary>Keywo...</summary><p>Keywords: Machine Learning, Lambda Calculus, Neurosymbolic AI, Neural Networks, Transformer Model, Sequence-to-Sequence Models, Computational Models</p></details> |
+| **[EVALOOP: Assessing LLM Robustness in Programming from a Self-consistency Perspective](http://arxiv.org/abs/2505.12185v2)** | 2025-06-01 | 19 pages, 11 figures |
+| **[PBEBench: A Multi-Step Programming by Examples Reasoning Benchmark inspired by Historical Linguistics](http://arxiv.org/abs/2505.23126v2)** | 2025-06-01 |  |
+| **[StatWhy: Formal Verification Tool for Statistical Hypothesis Testing Programs](http://arxiv.org/abs/2405.17492v3)** | 2025-06-01 | <details><summary>Accep...</summary><p>Accepted to CAV 2025 (the 37th International Conference on Computer Aided Verification)</p></details> |
+| **[High-level quantum algorithm programming using Silq](http://arxiv.org/abs/2409.10231v2)** | 2025-05-31 | 11 pages |
+| **[ProjectEval: A Benchmark for Programming Agents Automated Evaluation on Project-Level Code Generation](http://arxiv.org/abs/2503.07010v2)** | 2025-05-31 | <details><summary>17 pa...</summary><p>17 pages (9 Appendix pages), 4 figures, 7 tables</p></details> |
+| **[Quadratic Transform for Fractional Programming in Signal Processing and Machine Learning](http://arxiv.org/abs/2503.09977v4)** | 2025-05-31 | 20 pages |
+| **[LLM-Powered Test Case Generation for Detecting Bugs in Plausible Programs](http://arxiv.org/abs/2404.10304v2)** | 2025-05-31 | <details><summary>Accep...</summary><p>Accepted by the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025) Main Track</p></details> |
+| **[The Hitchhiker's Guide to Program Analysis, Part II: Deep Thoughts by LLMs](http://arxiv.org/abs/2504.11711v3)** | 2025-05-31 |  |
+| **[How Do Transformers Learn Variable Binding in Symbolic Programs?](http://arxiv.org/abs/2505.20896v2)** | 2025-05-30 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 1 table. To appear in the Proceedings of the 42nd International Conference on Machine Learning (ICML 2025). v2: Added link to Variable Scope in abstract</p></details> |
 | **[Incremental Gain Computation and Regulation of Discrete-time Positive Luré Systems using Linear Programming](http://arxiv.org/abs/2505.24386v1)** | 2025-05-30 | 13 pages, 4 images |
-| **[Improving Parallel Program Performance with LLM Optimizers via Agent-System Interfaces](http://arxiv.org/abs/2410.15625v4)** | 2025-05-30 |  |
-| **[LLM Benchmarking with LLaMA2: Evaluating Code Development Performance Across Multiple Programming Languages](http://arxiv.org/abs/2503.19217v2)** | 2025-05-30 |  |
-| **[SwingArena: Competitive Programming Arena for Long-context GitHub Issue Solving](http://arxiv.org/abs/2505.23932v1)** | 2025-05-29 |  |
-| **[Can LLMs Reason About Program Semantics? A Comprehensive Evaluation of LLMs on Formal Specification Inference](http://arxiv.org/abs/2503.04779v4)** | 2025-05-29 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Main Conference)</p></details> |
-| **[PBEBench: A Multi-Step Programming by Examples Reasoning Benchmark inspired by Historical Linguistics](http://arxiv.org/abs/2505.23126v1)** | 2025-05-29 |  |
-| **[Integer Programming for Generalized Causal Bootstrap Designs](http://arxiv.org/abs/2410.21464v3)** | 2025-05-29 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
-| **[Training Language Models to Generate Quality Code with Program Analysis Feedback](http://arxiv.org/abs/2505.22704v1)** | 2025-05-28 | 10 pages, 3 figures |
-| **[CADReview: Automatically Reviewing CAD Programs with Error Detection and Correction](http://arxiv.org/abs/2505.22304v1)** | 2025-05-28 | <details><summary>ACL 2...</summary><p>ACL 2025 main conference</p></details> |
-| **[(Near)-Optimal Algorithms for Sparse Separable Convex Integer Programs](http://arxiv.org/abs/2505.22212v1)** | 2025-05-28 | <details><summary>28 pa...</summary><p>28 pages, will appear at IPCO 2025</p></details> |
-| **[Symbolically Regressing Fish Biomass Spectral Data: A Linear Genetic Programming Method with Tunable Primitives](http://arxiv.org/abs/2505.21901v1)** | 2025-05-28 |  |
-| **[Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming](http://arxiv.org/abs/2505.21486v1)** | 2025-05-27 |  |
-| **[Can Large Language Models Understand Symbolic Graphics Programs?](http://arxiv.org/abs/2408.08313v4)** | 2025-05-27 | <details><summary>ICLR ...</summary><p>ICLR 2025 Spotlight (v4: 47 pages, 26 figures, project page: https://sgp-bench.github.io/)</p></details> |
-| **[BIPNN: Learning to Solve Binary Integer Programming via Hypergraph Neural Networks](http://arxiv.org/abs/2505.20997v1)** | 2025-05-27 |  |
-| **[How Do Transformers Learn Variable Binding in Symbolic Programs?](http://arxiv.org/abs/2505.20896v1)** | 2025-05-27 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 1 table. To appear in the Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)</p></details> |
 
