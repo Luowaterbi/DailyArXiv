@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 05, 2025
+title: Latest 15 Papers - June 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AceReason-Nemotron: Advancing Math and Code Reasoning through Reinforcement Learning](http://arxiv.org/abs/2505.16400v3)** | 2025-06-05 | <details><summary>Add p...</summary><p>Add pass@1024 evaluation results for LiveCodeBench v6. We release the models at: https://huggingface.co/collections/nvidia/acereason-682f4e1261dc22f697fd1485</p></details> |
+| **[Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting](http://arxiv.org/abs/2506.05280v1)** | 2025-06-05 | <details><summary>Proje...</summary><p>Project page: https://bigcileng.github.io/bilateral-driving; Code: https://github.com/BigCiLeng/bilateral-driving</p></details> |
+| **[Rényi divergence guarantees for hashing with linear codes](http://arxiv.org/abs/2405.04406v2)** | 2025-06-05 | <details><summary>Minor...</summary><p>Minor changes from v1. Final version, to appear in IEEE Transactions on Information Theory</p></details> |
+| **[Optimizing hypergraph product codes with random walks, simulated annealing and reinforcement learning](http://arxiv.org/abs/2501.09622v3)** | 2025-06-05 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Parity-check matrices available as text files. Accepted for publication at the IEEE 2025 ISIT</p></details> |
+| **[Divisible minimal codes](http://arxiv.org/abs/2312.00885v3)** | 2025-06-05 | <details><summary>22 pa...</summary><p>22 pages, 2 tables; typos corrected</p></details> |
+| **[Simultaneous Rational Number Codes: Decoding Beyond Half the Minimum Distance with Multiplicities and Bad Primes](http://arxiv.org/abs/2504.08472v2)** | 2025-06-05 |  |
+| **[Deconstructing Obfuscation: A four-dimensional framework for evaluating Large Language Models assembly code deobfuscation capabilities](http://arxiv.org/abs/2505.19887v2)** | 2025-06-05 |  |
+| **[COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing](http://arxiv.org/abs/2503.21670v2)** | 2025-06-05 |  |
+| **[Seed-Coder: Let the Code Model Curate Data for Itself](http://arxiv.org/abs/2506.03524v2)** | 2025-06-05 |  |
+| **[hdl2v: A Code Translation Dataset for Enhanced LLM Verilog Generation](http://arxiv.org/abs/2506.04544v1)** | 2025-06-05 |  |
+| **[Leveraging Reward Models for Guiding Code Review Comment Generation](http://arxiv.org/abs/2506.04464v1)** | 2025-06-04 |  |
+| **[Learning to Solve and Verify: A Self-Play Framework for Code and Test Generation](http://arxiv.org/abs/2502.14948v3)** | 2025-06-04 | 14 pages, 5 figures |
+| **[MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale](http://arxiv.org/abs/2506.04405v1)** | 2025-06-04 |  |
 | **[On the Synthetic Channels in Polar Codes over Binary-Input Discrete Memoryless Channels](http://arxiv.org/abs/2506.04163v1)** | 2025-06-04 |  |
 | **[Some constructions of non-generalized Reed-Solomon MDS Codes](http://arxiv.org/abs/2506.04080v1)** | 2025-06-04 |  |
-| **[AG Codes Achieve List-decoding Capacity over Constant-sized Fields](http://arxiv.org/abs/2310.12898v3)** | 2025-06-04 | <details><summary>45 pa...</summary><p>45 pages, to appear in IEEE Transactions on Information Theory</p></details> |
-| **[Generalized GM-MDS: Polynomial Codes are Higher Order MDS](http://arxiv.org/abs/2310.12888v3)** | 2025-06-04 | 36 pages |
-| **[Generating Automotive Code: Large Language Models for Software Development and Verification in Safety-Critical Systems](http://arxiv.org/abs/2506.04038v1)** | 2025-06-04 | <details><summary>8 pag...</summary><p>8 pages; Accepted for publication at the 36th IEEE Intelligent Vehicles Symposium (IV), Cluj-Napoca, Romania, June 22-25, 2025</p></details> |
-| **[CETBench: A Novel Dataset constructed via Transformations over Programs for Benchmarking LLMs for Code-Equivalence Checking](http://arxiv.org/abs/2506.04019v1)** | 2025-06-04 |  |
-| **[VisCoder: Fine-Tuning LLMs for Executable Python Visualization Code Generation](http://arxiv.org/abs/2506.03930v1)** | 2025-06-04 |  |
-| **[LLM Code Customization with Visual Results: A Benchmark on TikZ](http://arxiv.org/abs/2505.04670v2)** | 2025-06-04 |  |
-| **[The equivalent condition for GRL codes to be MDS, AMDS or self-dual](http://arxiv.org/abs/2506.03874v1)** | 2025-06-04 | 18 pages |
-| **[On the class of coding optimality of human languages and the origins of Zipf's law](http://arxiv.org/abs/2505.20015v3)** | 2025-06-04 |  |
-| **[Codes on Weighted Projective Planes](http://arxiv.org/abs/2410.11968v2)** | 2025-06-04 |  |
-| **[Additive codes from linear codes](http://arxiv.org/abs/2506.03805v1)** | 2025-06-04 |  |
-| **[Unifying Uniform and Binary-coding Quantization for Accurate Compression of Large Language Models](http://arxiv.org/abs/2506.03781v1)** | 2025-06-04 | ACL 2025 Main Track |
-| **[GenTT: Generate Vectorized Codes for General Tensor Permutation](http://arxiv.org/abs/2506.03686v1)** | 2025-06-04 | 11 pages, 9 figures |
-| **[VecTrans: Enhancing Compiler Auto-Vectorization through LLM-Assisted Code Transformations](http://arxiv.org/abs/2503.19449v3)** | 2025-06-04 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Triton-distributed: Programming Overlapping Kernels on Distributed AI Systems with the Triton Compiler](http://arxiv.org/abs/2504.19442v3)** | 2025-06-05 |  |
+| **[Efficient Formal Verification of Quantum Error Correcting Programs](http://arxiv.org/abs/2504.07732v2)** | 2025-06-05 | <details><summary>41 pa...</summary><p>41 pages, 10 figures, 4 tables; v2: Extended version of the paper in PLDI 2025; Evaluated artifact at https://doi.org/10.5281/zenodo.15267327</p></details> |
+| **[An Expansion-Based Approach for Quantified Integer Programming](http://arxiv.org/abs/2506.04452v1)** | 2025-06-04 |  |
+| **[Maximizing Seaweed Growth on Autonomous Farms: A Dynamic Programming Approach for Underactuated Systems Navigating on Uncertain Ocean Currents](http://arxiv.org/abs/2307.01916v3)** | 2025-06-04 | <details><summary>8 pag...</summary><p>8 pages, submitted to IEEE Robotics and Automation Letters (RA-L) Matthias Killer and Marius Wiggert contributed equally to this work</p></details> |
 | **[Image Editing As Programs with Diffusion Models](http://arxiv.org/abs/2506.04158v1)** | 2025-06-04 |  |
 | **[CETBench: A Novel Dataset constructed via Transformations over Programs for Benchmarking LLMs for Code-Equivalence Checking](http://arxiv.org/abs/2506.04019v1)** | 2025-06-04 |  |
 | **[MacroSwarm: A Field-based Compositional Framework for Swarm Programming](http://arxiv.org/abs/2401.10969v3)** | 2025-06-04 |  |
@@ -37,8 +41,4 @@ labels: documentation
 | **[Learning 3D Representations from Procedural 3D Programs](http://arxiv.org/abs/2411.17467v2)** | 2025-06-04 | <details><summary>SynDa...</summary><p>SynData4CV @ CVPR2025 | Project Page: https://point-mae-zero.cs.virginia.edu/</p></details> |
 | **[Design of a visual environment for programming by direct data manipulation](http://arxiv.org/abs/2506.03720v1)** | 2025-06-04 | in French language |
 | **[Across Programming Language Silos: A Study on Cross-Lingual Retrieval-augmented Code Generation](http://arxiv.org/abs/2506.03535v1)** | 2025-06-04 |  |
-| **[Meaning-Typed Programming: Language Abstraction and Runtime for Model-Integrated Applications](http://arxiv.org/abs/2405.08965v4)** | 2025-06-04 |  |
-| **[Empirical Evaluation of Generalizable Automated Program Repair with Large Language Models](http://arxiv.org/abs/2506.03283v1)** | 2025-06-03 |  |
-| **[It's Not Easy Being Green: On the Energy Efficiency of Programming Languages](http://arxiv.org/abs/2410.05460v3)** | 2025-06-03 | 12 pages |
-| **[Speculative Automated Refactoring of Imperative Deep Learning Programs to Graph Execution](http://arxiv.org/abs/2504.05424v2)** | 2025-06-03 |  |
 
