@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 11, 2025
+title: Latest 15 Papers - June 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Linear exact repair schemes for free MDS and Reed-Solomon codes over Galois rings](http://arxiv.org/abs/2506.09017v1)** | 2025-06-10 |  |
-| **[AdaDec: Uncertainty-Guided Adaptive Decoding for LLM-based Code Generation](http://arxiv.org/abs/2506.08980v1)** | 2025-06-10 |  |
-| **[Who is using AI to code? Global diffusion and impact of generative AI](http://arxiv.org/abs/2506.08945v1)** | 2025-06-10 | 42 pages |
-| **[Improved Variational Inference in Discrete VAEs using Error Correcting Codes](http://arxiv.org/abs/2410.07840v2)** | 2025-06-10 | <details><summary>Accep...</summary><p>Accepted at UAI 2025 Conference</p></details> |
-| **[Bounds on MLDR Codes Over ${\mathbb Z}_{p^t}$](http://arxiv.org/abs/2408.11107v3)** | 2025-06-10 | 17 pages |
-| **[On The Impact of Merge Request Deviations on Code Review Practices](http://arxiv.org/abs/2506.08860v1)** | 2025-06-10 |  |
-| **[Do Generative AI Tools Ensure Green Code? An Investigative Study](http://arxiv.org/abs/2506.08790v1)** | 2025-06-10 | <details><summary>4 pag...</summary><p>4 pages. To be published in the proceedings of 2nd International Workshop on Responsible AI Engineering (RAIE '24), co-located with ICSE '24, Lisbon, Portugal</p></details> |
-| **[A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Code Smell Detection](http://arxiv.org/abs/2412.13801v2)** | 2025-06-10 | <details><summary>36 pa...</summary><p>36 pages, 7 images, 11 tables, Manuscript revision submitted to a journal (2025)</p></details> |
-| **[Optuna vs Code Llama: Are LLMs a New Paradigm for Hyperparameter Tuning?](http://arxiv.org/abs/2504.06006v3)** | 2025-06-10 |  |
-| **[Reed-Muller Codes for Quantum Pauli and Multiple Access Channels](http://arxiv.org/abs/2506.08651v1)** | 2025-06-10 |  |
-| **[Evaluating the Performance and Efficiency of Sentence-BERT for Code Comment Classification](http://arxiv.org/abs/2506.08581v1)** | 2025-06-10 | <details><summary>4th I...</summary><p>4th Intl. Workshop on NL-based Software Engineering (NLBSE)</p></details> |
-| **[CoMuMDR: Code-mixed Multi-modal Multi-domain corpus for Discourse paRsing in conversations](http://arxiv.org/abs/2506.08504v1)** | 2025-06-10 | <details><summary>Accep...</summary><p>Accepted at ACL Findings 2025 (16 pages: 5 pages main content + 3 pages references + 8 pages appendix)</p></details> |
-| **[From Output to Evaluation: Does Raw Instruction-Tuned Code LLMs Output Suffice for Fill-in-the-Middle Code Generation?](http://arxiv.org/abs/2505.18789v2)** | 2025-06-09 | Work in progress |
-| **[Adversarial Attack Classification and Robustness Testing for Large Language Models for Code](http://arxiv.org/abs/2506.07942v1)** | 2025-06-09 |  |
-| **[WebUIBench: A Comprehensive Benchmark for Evaluating Multimodal Large Language Models in WebUI-to-Code](http://arxiv.org/abs/2506.07818v1)** | 2025-06-09 |  |
+| **[Execution Guided Line-by-Line Code Generation](http://arxiv.org/abs/2506.10948v1)** | 2025-06-12 |  |
+| **[Evaluating Large Language Models on Non-Code Software Engineering Tasks](http://arxiv.org/abs/2506.10833v1)** | 2025-06-12 |  |
+| **[Chain-of-Code Collapse: Reasoning Failures in LLMs via Adversarial Prompting in Code Generation](http://arxiv.org/abs/2506.06971v2)** | 2025-06-12 |  |
+| **[VeriContaminated: Assessing LLM-Driven Verilog Coding for Data Contamination](http://arxiv.org/abs/2503.13572v3)** | 2025-06-12 |  |
+| **[CoRT: Code-integrated Reasoning within Thinking](http://arxiv.org/abs/2506.09820v2)** | 2025-06-12 | work in progress |
+| **[Not One to Rule Them All: Mining Meaningful Code Review Orders From GitHub](http://arxiv.org/abs/2506.10654v1)** | 2025-06-12 |  |
+| **[Robust Unsupervised Adaptation of a Speech Recogniser Using Entropy Minimisation and Speaker Codes](http://arxiv.org/abs/2506.10653v1)** | 2025-06-12 |  |
+| **[Deep Learning-Based Digitization of Overlapping ECG Images with Open-Source Python Code](http://arxiv.org/abs/2506.10617v1)** | 2025-06-12 |  |
+| **[Downlink CSIT under Compressed Feedback: Joint vs. Separate Source-Channel Coding](http://arxiv.org/abs/2506.10554v1)** | 2025-06-12 |  |
+| **[AdaptiveLLM: A Framework for Selecting Optimal Cost-Efficient LLM for Code-Generation Based on CoT Length](http://arxiv.org/abs/2506.10525v1)** | 2025-06-12 | <details><summary>Accep...</summary><p>Accepted by Internetware 2025</p></details> |
+| **[Rethinking Generative Human Video Coding with Implicit Motion Transformation](http://arxiv.org/abs/2506.10453v1)** | 2025-06-12 |  |
+| **[Trace duality and additive complementary pairs of additive cyclic codes over finite chain rings](http://arxiv.org/abs/2506.10381v1)** | 2025-06-12 |  |
+| **[AutoGEEval++: A Multi-Level and Multi-Geospatial-Modality Automated Evaluation Framework for Large Language Models in Geospatial Code Generation on Google Earth Engine](http://arxiv.org/abs/2506.10365v1)** | 2025-06-12 |  |
+| **[Decoding for Punctured Convolutional and Turbo Codes: A Deep Learning Solution for Protocols Compliance](http://arxiv.org/abs/2502.15475v2)** | 2025-06-12 |  |
+| **[Code Execution as Grounded Supervision for LLM Reasoning](http://arxiv.org/abs/2506.10343v1)** | 2025-06-12 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Boosting Rust Unit Test Coverage through Hybrid Program Analysis and Large Language Models](http://arxiv.org/abs/2506.09002v1)** | 2025-06-10 | 13 pages, 5 figures |
+| **[A Quadratic Programming Approach to Flight Envelope Protection Using Control Barrier Functions](http://arxiv.org/abs/2504.18951v2)** | 2025-06-12 | <details><summary>26 pa...</summary><p>26 pages, 12 figures, submitted to the AIAA Journal of Guidance, Control, and Dynamics as an Engineering Note</p></details> |
+| **[AProVE: Modular Termination Analysis of Memory-Manipulating C Programs](http://arxiv.org/abs/2302.02382v2)** | 2025-06-12 |  |
+| **[Time To Impeach LLM-as-a-Judge: Programs are the Future of Evaluation](http://arxiv.org/abs/2506.10403v1)** | 2025-06-12 |  |
+| **[Multi-task Representation Learning for Mixed Integer Linear Programming](http://arxiv.org/abs/2412.14409v2)** | 2025-06-11 |  |
+| **[Balans: Multi-Armed Bandits-based Adaptive Large Neighborhood Search for Mixed-Integer Programming Problem](http://arxiv.org/abs/2412.14382v2)** | 2025-06-11 |  |
+| **[The Effects of GitHub Copilot on Computing Students' Programming Effectiveness, Efficiency, and Processes in Brownfield Programming Tasks](http://arxiv.org/abs/2506.10051v1)** | 2025-06-11 | 14 pages, 5 figures |
+| **[Non-Euclidean dual gradient ascent for entropically regularized linear and semidefinite programming](http://arxiv.org/abs/2506.09711v1)** | 2025-06-11 |  |
+| **[Boosting Rust Unit Test Coverage through Hybrid Program Analysis and Large Language Models](http://arxiv.org/abs/2506.09002v2)** | 2025-06-11 | 10 pages, 5 figures |
+| **[Causal Graph Recovery in Neuroimaging through Answer Set Programming](http://arxiv.org/abs/2506.09286v1)** | 2025-06-10 |  |
+| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](http://arxiv.org/abs/2506.06821v2)** | 2025-06-10 | 37 pages, 22 figures |
 | **[Program Synthesis from Partial Traces](http://arxiv.org/abs/2504.14480v3)** | 2025-06-10 | <details><summary>To ap...</summary><p>To appear at PLDI 2025 (46th ACM SIGPLAN Conference on Programming Language Design and Implementation)</p></details> |
 | **[Relational decomposition for program synthesis](http://arxiv.org/abs/2408.12212v3)** | 2025-06-10 |  |
 | **[Cross-lingual Transfer in Programming Languages: An Extensive Empirical Study](http://arxiv.org/abs/2310.16937v3)** | 2025-06-10 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (06/2025) 26 pages, 5 figures, 10 tables</p></details> |
 | **[Exploring the Evidence-Based Beliefs of LLM-Based Programming Assistants](http://arxiv.org/abs/2407.13900v2)** | 2025-06-10 |  |
 | **[Outcome Logic: A Unified Approach to the Metatheory of Program Logics with Branching Effects](http://arxiv.org/abs/2401.04594v3)** | 2025-06-10 |  |
-| **[Interior Point Differential Dynamic Programming, Redux](http://arxiv.org/abs/2504.08278v2)** | 2025-06-10 |  |
-| **[Discovering Continuous-Time Memory-Based Symbolic Policies using Genetic Programming](http://arxiv.org/abs/2406.02765v6)** | 2025-06-10 | <details><summary>25 pa...</summary><p>25 pages including references and appendix, 7 figures, 1 algorithm, 6 tables</p></details> |
-| **[Linguine: A Natural-Language Programming Language with Formal Semantics and a Clean Compiler Pipeline](http://arxiv.org/abs/2506.08396v1)** | 2025-06-10 |  |
-| **[Compiling Metric Temporal Answer Set Programming](http://arxiv.org/abs/2506.08150v1)** | 2025-06-09 |  |
-| **[Reliable Collaborative Conversational Agent System Based on LLMs and Answer Set Programming](http://arxiv.org/abs/2505.06438v2)** | 2025-06-09 | 9 pages |
-| **[Execution-Aware Program Reduction for WebAssembly via Record and Replay](http://arxiv.org/abs/2506.07834v1)** | 2025-06-09 |  |
-| **[MacroSwarm: A Field-based Compositional Framework for Swarm Programming](http://arxiv.org/abs/2401.10969v4)** | 2025-06-09 |  |
-| **[New Limits on Distributed Quantum Advantage: Dequantizing Linear Programs](http://arxiv.org/abs/2506.07574v1)** | 2025-06-09 |  |
-| **[Pel, A Programming Language for Orchestrating AI Agents](http://arxiv.org/abs/2505.13453v2)** | 2025-06-09 | <details><summary>1. Up...</summary><p>1. Updated author email address (I graduated so I added my alumni email). 2. Changed mono-font color to blue for better readability</p></details> |
 
