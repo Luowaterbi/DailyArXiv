@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 17, 2025
+title: Latest 15 Papers - June 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unifying Uniform and Binary-coding Quantization for Accurate Compression of Large Language Models](http://arxiv.org/abs/2506.03781v2)** | 2025-06-16 | ACL 2025 Main Track |
-| **[DesignCoder: Hierarchy-Aware and Self-Correcting UI Code Generation with Large Language Models](http://arxiv.org/abs/2506.13663v1)** | 2025-06-16 | 11 pages,6 figures |
-| **[Dynamic Layered Decoding Scheduling for LDPC Codes Aided by Check Node Error Probabilities](http://arxiv.org/abs/2506.13507v1)** | 2025-06-16 | 5 pages, 4 figures |
-| **[Ultra-Resilient Superimposed Codes: Near-Optimal Construction and Applications](http://arxiv.org/abs/2506.13489v1)** | 2025-06-16 |  |
-| **[New characterization of full weight spectrum one-orbit cyclic subspace codes](http://arxiv.org/abs/2506.13418v1)** | 2025-06-16 |  |
-| **[From Reasoning to Code: GRPO Optimization for Underrepresented Languages](http://arxiv.org/abs/2506.11027v2)** | 2025-06-16 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[AceReason-Nemotron 1.1: Advancing Math and Code Reasoning through SFT and RL Synergy](http://arxiv.org/abs/2506.13284v1)** | 2025-06-16 | <details><summary>The A...</summary><p>The AceReason-Nemotron collection: https://huggingface.co/collections/nvidia/acereason-682f4e1261dc22f697fd1485</p></details> |
-| **[EffiCoder: Enhancing Code Generation in Large Language Models through Efficiency-Aware Fine-tuning](http://arxiv.org/abs/2410.10209v4)** | 2025-06-16 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
-| **[Screen Reader Users in the Vibe Coding Era: Adaptation, Empowerment, and New Accessibility Landscape](http://arxiv.org/abs/2506.13270v1)** | 2025-06-16 |  |
-| **[Spectral Comb Shaping by Polar Codes](http://arxiv.org/abs/2506.13230v1)** | 2025-06-16 | 11 pages, 8 figures |
-| **[AlphaEvolve: A coding agent for scientific and algorithmic discovery](http://arxiv.org/abs/2506.13131v1)** | 2025-06-16 |  |
-| **[Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks](http://arxiv.org/abs/2505.16901v2)** | 2025-06-16 | 31 pages, 9 figures |
-| **[Detecting Hard-Coded Credentials in Software Repositories via LLMs](http://arxiv.org/abs/2506.13090v1)** | 2025-06-16 | <details><summary>Accep...</summary><p>Accepted to the ACM Digital Threats: Research and Practice (DTRAP)</p></details> |
-| **[Optimal Reconstruction Codes with Given Reads in Multiple Burst-Substitutions Channels](http://arxiv.org/abs/2506.12924v1)** | 2025-06-15 |  |
-| **[Retrieval-augmented code completion for local projects using large language models](http://arxiv.org/abs/2408.05026v2)** | 2025-06-15 | <details><summary>30 pa...</summary><p>30 pages, 15 figures; Accepted manuscript for Expert Systems with Applications</p></details> |
+| **[Union-Intersection Union-Find for Decoding Depolarizing Errors in Topological Codes](http://arxiv.org/abs/2506.14745v1)** | 2025-06-17 | 13 pages, 17 figures |
+| **[Synthesizing Performance Constraints for Evaluating and Improving Code Efficiency](http://arxiv.org/abs/2505.23471v2)** | 2025-06-17 | 30 pages, 3 figures |
+| **[Idioms: Neural Decompilation With Joint Code and Type Definition Prediction](http://arxiv.org/abs/2502.04536v2)** | 2025-06-17 |  |
+| **[Issue Retrieval and Verification Enhanced Supplementary Code Comment Generation](http://arxiv.org/abs/2506.14649v1)** | 2025-06-17 | 12 pages, 8 figures |
+| **[AIn't Nothing But a Survey? Using Large Language Models for Coding German Open-Ended Survey Responses on Survey Motivation](http://arxiv.org/abs/2506.14634v1)** | 2025-06-17 | <details><summary>to ap...</summary><p>to appear in Survey Research Methods</p></details> |
+| **[Low-code to fight climate change: the Climaborough project](http://arxiv.org/abs/2506.14623v1)** | 2025-06-17 | <details><summary>This ...</summary><p>This paper was presented in the Research Projects Track of the 19th International Conference on Research Challenges in Information Science (RCIS 2025)</p></details> |
+| **[Automatic Qiskit Code Refactoring Using Large Language Models](http://arxiv.org/abs/2506.14535v1)** | 2025-06-17 | <details><summary>Submi...</summary><p>Submitted for review to "Taller Latinoamericano de Ingenier\'ia de Software Cu\'antico" (https://www.ripaisc.net/call-for-papers-tlisc-2025/)</p></details> |
+| **[AST-Enhanced or AST-Overloaded? The Surprising Impact of Hybrid Graph Representations on Code Clone Detection](http://arxiv.org/abs/2506.14470v1)** | 2025-06-17 |  |
+| **[MALSIGHT: Exploring Malicious Source Code and Benign Pseudocode for Iterative Binary Malware Summarization](http://arxiv.org/abs/2406.18379v3)** | 2025-06-17 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Information Forensics & Security</p></details> |
+| **[AsyncSwitch: Asynchronous Text-Speech Adaptation for Code-Switched ASR](http://arxiv.org/abs/2506.14190v1)** | 2025-06-17 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. This paper is a preprint version submitted to the 2025 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU 2025)</p></details> |
+| **[Can we train ASR systems on Code-switch without real code-switch data? Case study for Singapore's languages](http://arxiv.org/abs/2506.14177v1)** | 2025-06-17 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2025</p></details> |
+| **[Efficient Reconciliation of Continuous Variable Quantum Key Distribution with Multiplicatively Repeated Non-Binary LDPC Codes](http://arxiv.org/abs/2501.11009v2)** | 2025-06-17 | 31 pages, 12 figures |
+| **[Lost in the Mix: Evaluating LLM Understanding of Code-Switched Text](http://arxiv.org/abs/2506.14012v1)** | 2025-06-16 |  |
+| **[Amortized Locally Decodable Codes](http://arxiv.org/abs/2502.10538v2)** | 2025-06-16 |  |
+| **[CodeImprove: Program Adaptation for Deep Code Models](http://arxiv.org/abs/2501.15804v2)** | 2025-06-16 | <details><summary>In Pr...</summary><p>In Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025)</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Qwerty: A Basis-Oriented Quantum Programming Language](http://arxiv.org/abs/2404.12603v2)** | 2025-06-17 | <details><summary>21 pa...</summary><p>21 pages, 38 figures; revised syntax and examples, added program-tracing figures</p></details> |
+| **[Non-Interactive Oblivious Transfer and One-Time Programs from Noisy Quantum Storage](http://arxiv.org/abs/2410.08367v2)** | 2025-06-17 | <details><summary>Title...</summary><p>Title and paper changed to include OTM/OTP results. (34 pages, 2 figures)</p></details> |
+| **[GenerationPrograms: Fine-grained Attribution with Executable Programs](http://arxiv.org/abs/2506.14580v1)** | 2025-06-17 | <details><summary>27 Pa...</summary><p>27 Pages. Code: https://github.com/meetdavidwan/generationprograms</p></details> |
+| **[Learning Traffic Signal Control via Genetic Programming](http://arxiv.org/abs/2403.17328v3)** | 2025-06-17 |  |
+| **[The Teacher's Dilemma: Balancing Trade-Offs in Programming Education for Emergent Bilingual Students](http://arxiv.org/abs/2506.14147v1)** | 2025-06-17 |  |
+| **[CodeImprove: Program Adaptation for Deep Code Models](http://arxiv.org/abs/2501.15804v2)** | 2025-06-16 | <details><summary>In Pr...</summary><p>In Proceedings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025)</p></details> |
 | **[Refining Ky Fan's majorization relation with linear programming](http://arxiv.org/abs/2410.18254v3)** | 2025-06-16 | <details><summary>versi...</summary><p>version 2, 36 pages, 2 figures, error in version 1 corrected; version 3, published version</p></details> |
 | **[Programming and Reasoning in Partially Observable Probabilistic Environments](http://arxiv.org/abs/2506.13491v1)** | 2025-06-16 | <details><summary>54 pa...</summary><p>54 pages, 6 figures, to be published in QEST + FORMATS 2025</p></details> |
 | **[Finding Thermodynamically Favorable Pathways in Chemical Reaction Networks Using Flows in Hypergraphs and Mixed-Integer Linear Programming](http://arxiv.org/abs/2411.15900v2)** | 2025-06-16 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 6 tables</p></details> |
 | **[Empirical Evaluation of Large Language Models in Automated Program Repair](http://arxiv.org/abs/2506.13186v1)** | 2025-06-16 |  |
+| **[Structured Program Synthesis using LLMs: Results and Insights from the IPARC Challenge](http://arxiv.org/abs/2506.13820v1)** | 2025-06-15 |  |
 | **[Engineering Scientific Assistants using Interactive Structured Induction of Programs](http://arxiv.org/abs/2503.14488v2)** | 2025-06-15 |  |
 | **[How Are We Doing With Using AI-Based Programming Assistants For Privacy-Related Code Generation? The Developers' Experience](http://arxiv.org/abs/2503.03988v2)** | 2025-06-15 | <details><summary>Accep...</summary><p>Accepted for publication at EASE'25 - short papers and emerging results track</p></details> |
 | **[COGNATE: Acceleration of Sparse Tensor Programs on Emerging Hardware using Transfer Learning](http://arxiv.org/abs/2506.00424v2)** | 2025-06-15 | <details><summary>Accep...</summary><p>Accepted at the 42nd International Conference on Machine Learning</p></details> |
 | **[Quantum Register Machine: Efficient Implementation of Quantum Recursive Programs](http://arxiv.org/abs/2408.10054v3)** | 2025-06-14 | <details><summary>63 pa...</summary><p>63 pages, 25 figures. Extended version of PLDI 2025 publication</p></details> |
-| **[Context-Augmented Code Generation Using Programming Knowledge Graphs](http://arxiv.org/abs/2410.18251v2)** | 2025-06-13 | 20 pages, Conference |
-| **[Partial identification via conditional linear programs: estimation and policy learning](http://arxiv.org/abs/2506.12215v1)** | 2025-06-13 |  |
-| **[A Fast, Reliable, and Secure Programming Language for LLM Agents with Code Actions](http://arxiv.org/abs/2506.12202v1)** | 2025-06-13 |  |
-| **[PRO-V: An Efficient Program Generation Multi-Agent System for Automatic RTL Verification](http://arxiv.org/abs/2506.12200v1)** | 2025-06-13 |  |
-| **[LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?](http://arxiv.org/abs/2506.11928v1)** | 2025-06-13 | <details><summary>Proje...</summary><p>Project Page at https://livecodebenchpro.com/</p></details> |
-| **[Interior Point Differential Dynamic Programming, Redux](http://arxiv.org/abs/2504.08278v3)** | 2025-06-13 |  |
-| **[KEENHash: Hashing Programs into Function-Aware Embeddings for Large-Scale Binary Code Similarity Analysis](http://arxiv.org/abs/2506.11612v1)** | 2025-06-13 |  |
 
