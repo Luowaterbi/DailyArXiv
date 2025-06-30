@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 29, 2025
+title: Latest 15 Papers - June 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[L2MAC: Large Language Model Automatic Computer for Extensive Code Generation](http://arxiv.org/abs/2310.02003v6)** | 2025-06-27 | <details><summary>Publi...</summary><p>Published in The Twelfth International Conference on Learning Representations (ICLR), 2024. Copyright 2023 by the author(s)</p></details> |
+| **[Multi-Turn Code Generation Through Single-Step Rewards](http://arxiv.org/abs/2502.20380v2)** | 2025-06-27 | <details><summary>9 pag...</summary><p>9 pages (not including references or appendix); 5 figures (in main paper); (v2) camera-ready version</p></details> |
+| **[SAGE: Spliced-Audio Generated Data for Enhancing Foundational Models in Low-Resource Arabic-English Code-Switched Speech Recognition](http://arxiv.org/abs/2506.22143v1)** | 2025-06-27 | <details><summary>Accep...</summary><p>Accepted for IEEE MLSP 2025</p></details> |
+| **[LMPVC and Policy Bank: Adaptive voice control for industrial robots with code generating LLMs and reusable Pythonic policies](http://arxiv.org/abs/2506.22028v1)** | 2025-06-27 | <details><summary>Accep...</summary><p>Accepted by the 2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). For further information, videos and code, see https://github.com/ozzyuni/LMPVC</p></details> |
+| **[AnyAni: An Interactive System with Generative AI for Animation Effect Creation and Code Understanding in Web Development](http://arxiv.org/abs/2506.21962v1)** | 2025-06-27 |  |
 | **[DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation](http://arxiv.org/abs/2506.20639v2)** | 2025-06-26 | minor update |
 | **[Large Language Model-Powered Agent for C to Rust Code Translation](http://arxiv.org/abs/2505.15858v2)** | 2025-06-26 |  |
 | **[Linear codes arising from the point-hyperplane geometry-Part I: the Segre embedding](http://arxiv.org/abs/2506.21309v1)** | 2025-06-26 | 29 pages |
@@ -17,15 +22,13 @@ labels: documentation
 | **[CodeGuard: A Generalized and Stealthy Backdoor Watermarking for Generative Code Models](http://arxiv.org/abs/2506.20926v1)** | 2025-06-26 | 13 pages |
 | **[CodeLutra: Boosting LLM Code Generation via Preference-Guided Refinement](http://arxiv.org/abs/2411.05199v3)** | 2025-06-25 | TMLR 2025 |
 | **[CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency](http://arxiv.org/abs/2506.20558v1)** | 2025-06-25 | <details><summary>This ...</summary><p>This manuscript is under review</p></details> |
-| **[Large Language Model-Driven Code Compliance Checking in Building Information Modeling](http://arxiv.org/abs/2506.20551v1)** | 2025-06-25 |  |
-| **[ReCode: Updating Code API Knowledge with Reinforcement Learning](http://arxiv.org/abs/2506.20495v1)** | 2025-06-25 | Work in progress |
-| **[MARCO: Multi-Agent Code Optimization with Real-Time Knowledge Integration for High-Performance Computing](http://arxiv.org/abs/2505.03906v3)** | 2025-06-25 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 2 tables</p></details> |
-| **[Probing AI Safety with Source Code](http://arxiv.org/abs/2506.20471v1)** | 2025-06-25 |  |
-| **[Learning Moderately Input-Sensitive Functions: A Case Study in QR Code Decoding](http://arxiv.org/abs/2506.20305v1)** | 2025-06-25 | 17 pages, 13 figures |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reinforcement Learning with Physics-Informed Symbolic Program Priors for Zero-Shot Wireless Indoor Navigation](http://arxiv.org/abs/2506.22365v1)** | 2025-06-27 | <details><summary>Spotl...</summary><p>Spotlight paper at Reinforcement Learning Conference 2025, Workshop on Inductive Biases in Reinforcement Learning</p></details> |
+| **[Programming Distributed Collective Processes in the eXchange Calculus](http://arxiv.org/abs/2401.11212v4)** | 2025-06-27 | 41 pages, 17 figures |
+| **[AeroDaaS: Towards an Application Programming Framework for Drones-as-a-Service](http://arxiv.org/abs/2504.03802v2)** | 2025-06-27 | <details><summary>27 pa...</summary><p>27 pages, To Appear as a Short Paper at the 2025 IEEE International Conference on Web Services (ICWS)</p></details> |
 | **[KOALA: a Configurable Tool for Collecting IDE Data When Solving Programming Tasks](http://arxiv.org/abs/2506.21266v1)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted to CompEd'25, 7 pages, 4 figures</p></details> |
 | **[$T^3$: Multi-level Tree-based Automatic Program Repair with Large Language Models](http://arxiv.org/abs/2506.21211v1)** | 2025-06-26 |  |
 | **[Our Coding Adventure: Using LLMs to Personalise the Narrative of a Tangible Programming Robot for Preschoolers](http://arxiv.org/abs/2506.20982v1)** | 2025-06-26 | <details><summary>accep...</summary><p>accepted at D-SAIL Workshop - Transformative Curriculum Design: Digitalization, Sustainability, and AI Literacy for 21st Century Learning</p></details> |
@@ -38,7 +41,4 @@ labels: documentation
 | **[Integrating Pair Programming as a Work Practice](http://arxiv.org/abs/2506.19511v1)** | 2025-06-24 | <details><summary>The p...</summary><p>The pre-print is submitted to the Journal of Systems and Software</p></details> |
 | **[The Elements of Differentiable Programming](http://arxiv.org/abs/2403.14606v3)** | 2025-06-24 | Draft version 3 |
 | **[Total Outcome Logic: Unified Reasoning for a Taxonomy of Program Logics](http://arxiv.org/abs/2411.00197v2)** | 2025-06-23 |  |
-| **[Programming by Backprop: LLMs Acquire Reusable Algorithmic Abstractions During Code Training](http://arxiv.org/abs/2506.18777v1)** | 2025-06-23 |  |
-| **[Semidefinite Programming for the Asymmetric Stochastic Block Model](http://arxiv.org/abs/2506.18754v1)** | 2025-06-23 |  |
-| **[Bloch Vector Assertions for Debugging Quantum Programs](http://arxiv.org/abs/2506.18458v1)** | 2025-06-23 | <details><summary>Journ...</summary><p>Journal Submission, 40 pages</p></details> |
 
