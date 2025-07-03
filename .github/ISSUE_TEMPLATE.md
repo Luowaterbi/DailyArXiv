@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 02, 2025
+title: Latest 15 Papers - July 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A hierarchical invariant for line bundles and its applications in algebraic geometry codes](http://arxiv.org/abs/2507.01859v1)** | 2025-07-02 | <details><summary>All c...</summary><p>All comments are welcome</p></details> |
+| **[The Anatomy of Evidence: An Investigation Into Explainable ICD Coding](http://arxiv.org/abs/2507.01802v1)** | 2025-07-02 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Findings</p></details> |
+| **[Half Spatially Coupled Turbo-Like Codes](http://arxiv.org/abs/2507.01685v1)** | 2025-07-02 | <details><summary>This ...</summary><p>This is an extended version of conference paper "Half Spatially Coupled Turbo-Like Codes" accepted by 2025 IEEE Information Theory Workshop</p></details> |
+| **[Perception-Oriented Latent Coding for High-Performance Compressed Domain Semantic Inference](http://arxiv.org/abs/2507.01608v1)** | 2025-07-02 | <details><summary>Inter...</summary><p>International Conference on Multimedia and Expo (ICME), 2025</p></details> |
+| **[MCCoder: Streamlining Motion Control with LLM-Assisted Code Generation and Rigorous Verification](http://arxiv.org/abs/2410.15154v3)** | 2025-07-02 | <details><summary>IEEE ...</summary><p>IEEE CASE 2025 Best Student Paper Finalists</p></details> |
+| **[Coding for Quasi-Static Fading Channel with Imperfect CSI at the Transmitter and Quantized Feedback](http://arxiv.org/abs/2507.01464v1)** | 2025-07-02 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, conference, this paper will be presented at the 2025 IEEE ITW</p></details> |
+| **[ChartCoder: Advancing Multimodal Large Language Model for Chart-to-Code Generation](http://arxiv.org/abs/2501.06598v3)** | 2025-07-02 | <details><summary>Accep...</summary><p>Accepted by ACL 2025 Main, Camera Ready</p></details> |
+| **[On Securing Berrut Approximated Coded Computing Through Discrete Cosine Transforms](http://arxiv.org/abs/2507.01330v1)** | 2025-07-02 | <details><summary>To ap...</summary><p>To appear in the proceedings of IEEE Information Theory Workshop (ITW) 2025</p></details> |
+| **[Context-Aware Code Wiring Recommendation with LLM-based Agent](http://arxiv.org/abs/2507.01315v1)** | 2025-07-02 |  |
+| **[Quasi-twisted codes: decoding and applications in code-based cryptography](http://arxiv.org/abs/2507.01118v1)** | 2025-07-01 |  |
 | **[Source-Channel Separation Theorems for Distortion Perception Coding](http://arxiv.org/abs/2501.17706v2)** | 2025-07-01 | 1 figure, 6 pages |
 | **[Enabling mixed-precision in spectral element codes](http://arxiv.org/abs/2503.02134v2)** | 2025-07-01 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2405.11065</p></details> |
+| **[On Hierarchical Coded Caching with Offline Users](http://arxiv.org/abs/2507.00727v1)** | 2025-07-01 | <details><summary>A sho...</summary><p>A short version of this is accepted for presentation in 2025 IEEE Information Theory Workshop; 8 pages, one figure</p></details> |
 | **[Assessing Correctness in LLM-Based Code Generation via Uncertainty Estimation](http://arxiv.org/abs/2502.11620v3)** | 2025-07-01 | <details><summary>18 pa...</summary><p>18 pages and 3 References Pages</p></details> |
-| **[Towards the Training of Deeper Predictive Coding Neural Networks](http://arxiv.org/abs/2506.23800v2)** | 2025-07-01 | 18 Pages, 7 figures |
-| **[Beyond Code: The Multidimensional Impacts of Large Language Models in Software Development](http://arxiv.org/abs/2506.22704v2)** | 2025-07-01 |  |
-| **[A Metascience Study of the Low-Code Scientific Field](http://arxiv.org/abs/2408.05975v2)** | 2025-06-30 |  |
-| **[Optimally Decoding Two-Dimensional Reed-Solomon Codes Against Deletion Errors](http://arxiv.org/abs/2412.20771v2)** | 2025-06-30 |  |
-| **[Combinatorial Multi-Access Coded Caching with Private Caches under Intersecting Index Constraints](http://arxiv.org/abs/2506.24060v1)** | 2025-06-30 | <details><summary>9 pag...</summary><p>9 pages and 3 figures</p></details> |
-| **[Unsupervised Sparse Coding-based Spiking Neural Network for Real-time Spike Sorting](http://arxiv.org/abs/2506.24041v1)** | 2025-06-30 | <details><summary>Main ...</summary><p>Main article : 16 pages, 7 figures and 4 tables. Supplementary Material starts at page 17 with 7 figures</p></details> |
-| **[Detecting Convolutional Codes: A Markovian Approach with LRT and DNN](http://arxiv.org/abs/2501.11487v3)** | 2025-06-30 | <details><summary>Error...</summary><p>Error in analysis. The Markovian nature assumption of noise affected convolutional code outputs is incorrect</p></details> |
-| **[Design and Analysis of a Concatenated Code for Intersymbol Interference Wiretap Channels](http://arxiv.org/abs/2501.07561v2)** | 2025-06-30 |  |
-| **[ISI-Aware Code Design: A Linear Approach Towards Reliable Molecular Communication](http://arxiv.org/abs/2506.23787v1)** | 2025-06-30 | 23 pages, 14 figures |
-| **[Error Optimization: Overcoming Exponential Signal Decay in Deep Predictive Coding Networks](http://arxiv.org/abs/2505.20137v2)** | 2025-06-30 | <details><summary>All c...</summary><p>All code available at https://github.com/cgoemaere/pc_error_optimization</p></details> |
-| **[Decoding Quantum LDPC Codes using Collaborative Check Node Removal](http://arxiv.org/abs/2501.08036v2)** | 2025-06-30 | 13 pages, 7 figures |
-| **[Comparative Analysis of the Code Generated by Popular Large Language Models (LLMs) for MISRA C++ Compliance](http://arxiv.org/abs/2506.23535v1)** | 2025-06-30 |  |
+| **[A Hierarchical and Evolvable Benchmark for Fine-Grained Code Instruction Following with Multi-Turn Feedback](http://arxiv.org/abs/2507.00699v1)** | 2025-07-01 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A computationally frugal open-source foundation model for thoracic disease detection in lung cancer screening programs](http://arxiv.org/abs/2507.01881v1)** | 2025-07-02 |  |
+| **[APRMCTS: Improving LLM-based Automated Program Repair with Iterative Tree Search](http://arxiv.org/abs/2507.01827v1)** | 2025-07-02 |  |
+| **[Tensor Program Optimization for the RISC-V Vector Extension Using Probabilistic Programs](http://arxiv.org/abs/2507.01457v1)** | 2025-07-02 | <details><summary>9 pag...</summary><p>9 pages, 10 figures, 2 algorithms</p></details> |
+| **[An Error Bound for Aggregation in Approximate Dynamic Programming](http://arxiv.org/abs/2507.01324v1)** | 2025-07-02 |  |
+| **[Quantum Speedups for Polynomial-Time Dynamic Programming Algorithms](http://arxiv.org/abs/2507.00823v1)** | 2025-07-01 | <details><summary>This ...</summary><p>This is the extended version of a paper to appear at the 19th Algorithms and Data Structures Symposium (WADS 2025)</p></details> |
 | **[Program of Equations Thoughts to Solve Algebra Word Problems](http://arxiv.org/abs/2505.20170v2)** | 2025-07-01 | <details><summary>Withd...</summary><p>Withdrawn pending institutional authorization and core revisions to address methodological inconsistencies in Sections 3-4</p></details> |
 | **[Non-Euclidean dual gradient ascent for entropically regularized linear and semidefinite programming](http://arxiv.org/abs/2506.09711v2)** | 2025-07-01 |  |
+| **[Partnering with AI: A Pedagogical Feedback System for LLM Integration into Programming Education](http://arxiv.org/abs/2507.00406v1)** | 2025-07-01 | <details><summary>This ...</summary><p>This is an extended version of a poster paper accepted and published at ECTEL-2025</p></details> |
+| **[Teaching Programming in the Age of Generative AI: Insights from Literature, Pedagogical Proposals, and Student Perspectives](http://arxiv.org/abs/2507.00108v1)** | 2025-06-30 |  |
 | **[Bug Fixing with Broader Context: Enhancing LLM-Based Program Repair via Layered Knowledge Injection](http://arxiv.org/abs/2506.24015v1)** | 2025-06-30 |  |
 | **[Using Read Promotion and Mixed Isolation Levels for Performant Yet Serializable Execution of Transaction Programs](http://arxiv.org/abs/2501.18377v3)** | 2025-06-30 |  |
 | **[A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications](http://arxiv.org/abs/2506.23749v1)** | 2025-06-30 |  |
 | **[What Challenges Do Developers Face When Using Verification-Aware Programming Languages?](http://arxiv.org/abs/2506.23696v1)** | 2025-06-30 |  |
 | **[Vibe coding: programming through conversation with artificial intelligence](http://arxiv.org/abs/2506.23253v1)** | 2025-06-29 |  |
 | **[Repair Ingredients Are All You Need: Improving Large Language Model-Based Program Repair via Repair Ingredients Search](http://arxiv.org/abs/2506.23100v1)** | 2025-06-29 | <details><summary>Accep...</summary><p>Accepted by ICSE 2026. Jiayi Zhang and Kai Huang contributed equally to this work</p></details> |
-| **[Evaluating and Improving Large Language Models for Competitive Program Generation](http://arxiv.org/abs/2506.22954v1)** | 2025-06-28 |  |
-| **[Which Programming Language and What Features at Pre-training Stage Affect Downstream Logical Inference Performance?](http://arxiv.org/abs/2410.06735v2)** | 2025-06-28 | <details><summary>Accep...</summary><p>Accepted to EMNLP2024</p></details> |
-| **[Reinforcement Learning with Physics-Informed Symbolic Program Priors for Zero-Shot Wireless Indoor Navigation](http://arxiv.org/abs/2506.22365v1)** | 2025-06-27 | <details><summary>Spotl...</summary><p>Spotlight paper at Reinforcement Learning Conference 2025, Workshop on Inductive Biases in Reinforcement Learning</p></details> |
-| **[Programming Distributed Collective Processes in the eXchange Calculus](http://arxiv.org/abs/2401.11212v4)** | 2025-06-27 | 41 pages, 17 figures |
-| **[Correlated Mutations for Integer Programming](http://arxiv.org/abs/2506.22526v1)** | 2025-06-27 |  |
-| **[AeroDaaS: Towards an Application Programming Framework for Drones-as-a-Service](http://arxiv.org/abs/2504.03802v2)** | 2025-06-27 | <details><summary>27 pa...</summary><p>27 pages, To Appear as a Short Paper at the 2025 IEEE International Conference on Web Services (ICWS)</p></details> |
-| **[KOALA: a Configurable Tool for Collecting IDE Data When Solving Programming Tasks](http://arxiv.org/abs/2506.21266v1)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted to CompEd'25, 7 pages, 4 figures</p></details> |
 
