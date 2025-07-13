@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 12, 2025
+title: Latest 15 Papers - July 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -37,8 +37,8 @@ labels: documentation
 | **[Fractional Programming for Stochastic Precoding over Generalized Fading Channels](http://arxiv.org/abs/2507.06944v1)** | 2025-07-09 | 11 pages |
 | **[Sound Interval-Based Synthesis for Probabilistic Programs](http://arxiv.org/abs/2507.06939v1)** | 2025-07-09 |  |
 | **[Optimizing Multiple-Control Toffoli Quantum Circuit Design with Constraint Programming](http://arxiv.org/abs/2404.14384v3)** | 2025-07-09 |  |
+| **[Online Dynamic Programming](http://arxiv.org/abs/1706.00834v4)** | 2025-07-08 |  |
 | **[RefineX: Learning to Refine Pre-training Data at Scale from Expert-Guided Programs](http://arxiv.org/abs/2507.03253v2)** | 2025-07-08 |  |
 | **[The Impact of Prompt Programming on Function-Level Code Generation](http://arxiv.org/abs/2412.20545v2)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted at Transactions on Software Engineering (TSE). CodePromptEval dataset and replication package on GitHub: https://github.com/icetlab/CodePromptEval</p></details> |
 | **[Argumentative Characterizations of (Extended) Disjunctive Logic Programs](http://arxiv.org/abs/2306.07126v2)** | 2025-07-08 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
-| **[AutoTriton: Automatic Triton Programming with Reinforcement Learning in LLMs](http://arxiv.org/abs/2507.05687v1)** | 2025-07-08 |  |
 
