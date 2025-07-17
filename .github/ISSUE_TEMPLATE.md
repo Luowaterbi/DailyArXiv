@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 16, 2025
+title: Latest 15 Papers - July 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sharp Error-Rate Transitions in Quantum QC-LDPC Codes under Joint BP Decoding](http://arxiv.org/abs/2507.11534v1)** | 2025-07-15 |  |
-| **[Modeling Code: Is Text All You Need?](http://arxiv.org/abs/2507.11467v1)** | 2025-07-15 |  |
-| **[Secure Cooperative Gradient Coding: Optimality, Reliability, and Global Privacy](http://arxiv.org/abs/2507.07565v2)** | 2025-07-15 |  |
-| **[Neural Coding Is Not Always Semantic: Towards the Standardized Coding Workflow in Semantic Communications](http://arxiv.org/abs/2505.18637v2)** | 2025-07-15 |  |
-| **[Partition Map-Based Fast Block Partitioning for VVC Inter Coding](http://arxiv.org/abs/2504.18398v2)** | 2025-07-15 | <details><summary>23 pa...</summary><p>23 pages, 26 figures. Project page: https://github.com/ustcivclab/IPM</p></details> |
-| **[Fine-Grained Chinese Hate Speech Understanding: Span-Level Resources, Coded Term Lexicon, and Enhanced Detection Frameworks](http://arxiv.org/abs/2507.11292v1)** | 2025-07-15 |  |
-| **[GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation](http://arxiv.org/abs/2505.21425v2)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted by SEKE 2025</p></details> |
-| **[Temperature and Persona Shape LLM Agent Consensus With Minimal Accuracy Gains in Qualitative Coding](http://arxiv.org/abs/2507.11198v1)** | 2025-07-15 | <details><summary>Manus...</summary><p>Manuscript submitted for review</p></details> |
-| **[Is Compression Really Linear with Code Intelligence?](http://arxiv.org/abs/2505.11441v4)** | 2025-07-15 | work in progress |
-| **[MT4DP: Data Poisoning Attack Detection for DL-based Code Search Models via Metamorphic Testing](http://arxiv.org/abs/2507.11092v1)** | 2025-07-15 | 27 pages |
-| **[Function-to-Style Guidance of LLMs for Code Translation](http://arxiv.org/abs/2507.11083v1)** | 2025-07-15 | <details><summary>This ...</summary><p>This paper has been accepted by ICML 2025. Models and benchmarks can be found at https://www.modelscope.cn/collections/F2STrans-42526ff95dd843</p></details> |
-| **[From Code to Play: Benchmarking Program Search for Games Using Large Language Models](http://arxiv.org/abs/2412.04057v2)** | 2025-07-15 | <details><summary>Submi...</summary><p>Submitted to Transactions on Games Special Issue on Large Language Models and Games, standardised LLMs used and run more experiments</p></details> |
-| **[SIMCODE: A Benchmark for Natural Language to ns-3 Network Simulation Code Generation](http://arxiv.org/abs/2507.11014v1)** | 2025-07-15 | <details><summary>This ...</summary><p>This paper has been accepted for presentation at the 50th IEEE Conference on Local Computer Networks (LCN) - special track on Large Language Models and Networking</p></details> |
-| **[Asymptotically Optimal Repair of Reed-Solomon Codes with Small Sub-Packetization under Rack-Aware Model](http://arxiv.org/abs/2507.11009v1)** | 2025-07-15 | <details><summary>This ...</summary><p>This work has been accepted by 2025 IEEE Information Theory Workshop</p></details> |
-| **[The GPT Surprise: Offering Large Language Model Chat in a Massive Coding Class Reduced Engagement but Increased Adopters Exam Performances](http://arxiv.org/abs/2407.09975v2)** | 2025-07-15 | <details><summary>32 pa...</summary><p>32 pages. Published at L@S 2025</p></details> |
+| **[SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?](http://arxiv.org/abs/2507.12415v1)** | 2025-07-16 |  |
+| **[GitChameleon: Evaluating AI Code Generation Against Python Library Version Incompatibilities](http://arxiv.org/abs/2507.12367v1)** | 2025-07-16 | <details><summary>Versi...</summary><p>Version 2 of the dataset from: arXiv:2411.05830</p></details> |
+| **[Bridging Predictive Coding and MDL: A Two-Part Code Framework for Deep Learning](http://arxiv.org/abs/2505.14635v2)** | 2025-07-16 | 24 pages, 2 figures |
+| **[Planning-Aware Code Infilling via Horizon-Length Prediction](http://arxiv.org/abs/2410.03103v3)** | 2025-07-16 |  |
+| **[Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models](http://arxiv.org/abs/2507.12318v1)** | 2025-07-16 | <details><summary>In su...</summary><p>In submission, 22 pages, 7 tables, 12 figures</p></details> |
+| **[Chain-of-Descriptions: Improving Code LLMs for VHDL Code Generation and Summarization](http://arxiv.org/abs/2507.12308v1)** | 2025-07-16 | <details><summary>10 pa...</summary><p>10 pages (6 content pages + 4 supplementary), 5 figures, Proceedings of the 2024 ACM/IEEE International Symposium on Machine Learning for CAD. 2024 (MLCAD'24)</p></details> |
+| **[Sharp Error-Rate Transitions in Quantum QC-LDPC Codes under Joint BP Decoding](http://arxiv.org/abs/2507.11534v2)** | 2025-07-16 |  |
+| **[MERA Code: A Unified Framework for Evaluating Code Generation Across Tasks](http://arxiv.org/abs/2507.12284v1)** | 2025-07-16 |  |
+| **[Characterization and constructions of binary self-orthogonal singly-even linear codes](http://arxiv.org/abs/2507.12240v1)** | 2025-07-16 |  |
+| **[Lowering Error Floors for Hard Decision Decoding of OFEC Code](http://arxiv.org/abs/2507.12155v1)** | 2025-07-16 | <details><summary>4 pag...</summary><p>4 pages, 4 figures; accepted to SC4 of ECOC 2025</p></details> |
+| **[Fast Algorithms and Implementations for Computing the Minimum Distance of Quantum Codes](http://arxiv.org/abs/2408.10743v2)** | 2025-07-16 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, 1 table</p></details> |
+| **[On the error correction of iterative bounded distance decoding of generalized LDPC codes](http://arxiv.org/abs/2507.12073v1)** | 2025-07-16 | <details><summary>Under...</summary><p>Under review in IEEE, Submitted: December 2024, Revised: July 2025</p></details> |
+| **[RNAMunin: A Deep Machine Learning Model for Non-coding RNA Discovery](http://arxiv.org/abs/2507.11950v1)** | 2025-07-16 |  |
+| **[ScaleRTL: Scaling LLMs with Reasoning Data and Test-Time Compute for Accurate RTL Code Generation](http://arxiv.org/abs/2506.05566v2)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted to MLCAD 2025</p></details> |
+| **[Picat Through the Lens of Advent of Code](http://arxiv.org/abs/2507.11731v1)** | 2025-07-15 | 14 pages |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mixed-integer Second-Order Cone Programming for Multi-period Scheduling of Flexible AC Transmission System Devices](http://arxiv.org/abs/2507.12327v1)** | 2025-07-16 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, submitted to CIGR\'E 2025 International Symposium, Paper 10998, PS1: System Enhancement, Markets and Regulation</p></details> |
+| **[Programming Distributed Collective Processes in the eXchange Calculus](http://arxiv.org/abs/2401.11212v5)** | 2025-07-16 | 41 pages, 17 figures |
+| **[Partially Observable Reference Policy Programming: Solving POMDPs Sans Numerical Optimisation](http://arxiv.org/abs/2507.12186v1)** | 2025-07-16 | <details><summary>8 pag...</summary><p>8 pages, 2 tables, 3 figures. To be presented at International Joint Conference on Artificial Intelligence 2025</p></details> |
+| **[Obfuscation of Unitary Quantum Programs](http://arxiv.org/abs/2507.11970v1)** | 2025-07-16 |  |
+| **[Approximation Fixpoint Theory as a Unifying Framework for Fuzzy Logic Programming Semantics (Extended Version)](http://arxiv.org/abs/2507.11961v1)** | 2025-07-16 |  |
+| **[Partnering with AI: A Pedagogical Feedback System for LLM Integration into Programming Education](http://arxiv.org/abs/2507.00406v2)** | 2025-07-16 | <details><summary>This ...</summary><p>This is an extended version of a poster paper accepted and published at ECTEL-2025</p></details> |
+| **[FAIR-CS: Framework for Interdisciplinary Research Collaborations in Online Computing Programs](http://arxiv.org/abs/2507.11802v1)** | 2025-07-15 |  |
+| **[Auto-Formulating Dynamic Programming Problems with Large Language Models](http://arxiv.org/abs/2507.11737v1)** | 2025-07-15 |  |
+| **[Anthem 2.0: Automated Reasoning for Answer Set Programming](http://arxiv.org/abs/2507.11704v1)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted to Theory and Practice of Logic Programming (ICLP 2025)</p></details> |
+| **[Counting Answer Sets of Disjunctive Answer Set Programs](http://arxiv.org/abs/2507.11655v1)** | 2025-07-15 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
+| **[A computationally frugal open-source foundation model for thoracic disease detection in lung cancer screening programs](http://arxiv.org/abs/2507.01881v2)** | 2025-07-15 |  |
 | **[Searching Latent Program Spaces](http://arxiv.org/abs/2411.08706v2)** | 2025-07-15 | <details><summary>Code ...</summary><p>Code available at https://github.com/clement-bonnet/lpn</p></details> |
 | **[REVA: Supporting LLM-Generated Programming Feedback Validation at Scale Through User Attention-based Adaptation](http://arxiv.org/abs/2507.11470v1)** | 2025-07-15 |  |
 | **[Parallel Batch Scheduling With Incompatible Job Families Via Constraint Programming](http://arxiv.org/abs/2410.11981v4)** | 2025-07-15 | 17 pages, 9 figures |
 | **[Assistance or Disruption? Exploring and Evaluating the Design and Trade-offs of Proactive AI Programming Support](http://arxiv.org/abs/2502.18658v3)** | 2025-07-15 |  |
-| **[Fine-grained Timing Analysis of Digital Integrated Circuits in Answer Set Programming](http://arxiv.org/abs/2507.11150v1)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted for publication in the issues of Theory and Practice of Logic Programming (TPLP) dedicated to ICLP 2025, 16 pages, 9 figures</p></details> |
-| **[A Distance Metric for Mixed Integer Programming Instances](http://arxiv.org/abs/2507.11063v1)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted to ECAI 2025</p></details> |
-| **[From Code to Play: Benchmarking Program Search for Games Using Large Language Models](http://arxiv.org/abs/2412.04057v2)** | 2025-07-15 | <details><summary>Submi...</summary><p>Submitted to Transactions on Games Special Issue on Large Language Models and Games, standardised LLMs used and run more experiments</p></details> |
-| **[BOOST: Bootstrapping Strategy-Driven Reasoning Programs for Program-Guided Fact-Checking](http://arxiv.org/abs/2504.02467v2)** | 2025-07-15 | Work in Progress |
-| **[Advancing Code Coverage: Incorporating Program Analysis with Large Language Models](http://arxiv.org/abs/2404.04966v2)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted by TOSEM (ACM Transactions on Software Engineering and Methodology)</p></details> |
-| **[Solving Linear Programs with Differential Privacy](http://arxiv.org/abs/2507.10946v1)** | 2025-07-15 |  |
-| **[Stream programs are monoid homomorphisms with state](http://arxiv.org/abs/2507.10799v1)** | 2025-07-14 |  |
-| **[Reasoning about Medical Triage Optimization with Logic Programming](http://arxiv.org/abs/2507.10781v1)** | 2025-07-14 | <details><summary>Accep...</summary><p>Accepted in International Conference on Logic Programming (ICLP 2025)</p></details> |
-| **[Speculative Automated Refactoring of Imperative Deep Learning Programs to Graph Execution](http://arxiv.org/abs/2504.05424v3)** | 2025-07-14 |  |
-| **[A Quantum Programming Language for Coherent Control](http://arxiv.org/abs/2507.10466v1)** | 2025-07-14 |  |
-| **[A Grounded Theory on the Teacher and Student Roles in Pair Programming](http://arxiv.org/abs/2507.10305v1)** | 2025-07-14 |  |
 
