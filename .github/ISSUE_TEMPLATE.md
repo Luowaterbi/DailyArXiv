@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 28, 2025
+title: Latest 15 Papers - July 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,31 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Running in CIRCLE? A Simple Benchmark for LLM Code Interpreter Security](http://arxiv.org/abs/2507.19399v1)** | 2025-07-25 |  |
-| **[ReCatcher: Towards LLMs Regression Testing for Code Generation](http://arxiv.org/abs/2507.19390v1)** | 2025-07-25 | <details><summary>24 pa...</summary><p>24 pages, 3 Figures, 2 Tables</p></details> |
-| **[On Anti-collusion Codes for Averaging Attack in Multimedia Fingerprinting](http://arxiv.org/abs/2507.19384v1)** | 2025-07-25 | 23 pages |
-| **[On the Security of a Code-Based PIR Scheme](http://arxiv.org/abs/2507.19295v1)** | 2025-07-25 |  |
-| **[Fine-Tuning Multilingual Language Models for Code Review: An Empirical Study on Industrial C# Projects](http://arxiv.org/abs/2507.19271v1)** | 2025-07-25 |  |
-| **[3LM: Bridging Arabic, STEM, and Code through Benchmarking](http://arxiv.org/abs/2507.15850v3)** | 2025-07-25 |  |
-| **[Automated Code Review Using Large Language Models at Ericsson: An Experience Report](http://arxiv.org/abs/2507.19115v1)** | 2025-07-25 |  |
-| **[PurpCode: Reasoning for Safer Code Generation](http://arxiv.org/abs/2507.19060v1)** | 2025-07-25 |  |
-| **[SelfRACG: Enabling LLMs to Self-Express and Retrieve for Code Generation](http://arxiv.org/abs/2507.19033v1)** | 2025-07-25 | Tsinghua&Xiaohongshu |
-| **[A Formalization of the Yul Language and Some Verified Yul Code Transformations](http://arxiv.org/abs/2507.19012v1)** | 2025-07-25 | <details><summary>In Pr...</summary><p>In Proceedings ACL2 2025, arXiv:2507.18567</p></details> |
-| **[Sequence of Numbers of Linear Codes with Increasing Hull Dimensions](http://arxiv.org/abs/2402.01255v2)** | 2025-07-25 |  |
-| **[CoCoEvo: Co-Evolution of Programs and Test Cases to Enhance Code Generation](http://arxiv.org/abs/2502.10802v2)** | 2025-07-25 |  |
-| **[On Lattice Isomorphism Problems for Lattices from LCD Codes over Finite Rings](http://arxiv.org/abs/2507.09257v2)** | 2025-07-25 | 16 pages |
-| **[Difficulties Constructing Lattices with Exponential Kissing Number from Codes](http://arxiv.org/abs/2410.16660v2)** | 2025-07-24 |  |
-| **[Resolving Indirect Calls in Binary Code via Cross-Reference Augmented Graph Neural Networks](http://arxiv.org/abs/2507.18801v1)** | 2025-07-24 |  |
+| **[GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis](http://arxiv.org/abs/2507.21035v1)** | 2025-07-28 | 51 pages, 5 figures |
+| **[User-Centered Design with AI in the Loop: A Case Study of Rapid User Interface Prototyping with "Vibe Coding"](http://arxiv.org/abs/2507.21012v1)** | 2025-07-28 |  |
+| **[Secret Breach Detection in Source Code with Large Language Models](http://arxiv.org/abs/2504.18784v2)** | 2025-07-28 | <details><summary>19th ...</summary><p>19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2025) cameraready</p></details> |
+| **[Enhancing Project-Specific Code Completion by Inferring Internal API Information](http://arxiv.org/abs/2507.20888v1)** | 2025-07-28 |  |
+| **[Refactoring Deep Learning Code: A Study of Practices and Unsatisfied Tool Needs](http://arxiv.org/abs/2405.04861v2)** | 2025-07-28 | 12 pages, 6 figures |
+| **[Construction of non-generalized Reed-Solomon MDS codes based on systematic generator matrix](http://arxiv.org/abs/2507.20559v1)** | 2025-07-28 |  |
+| **[GeoJSEval: An Automated Evaluation Framework for Large Language Models on JavaScript-Based Geospatial Computation and Visualization Code Generation](http://arxiv.org/abs/2507.20553v1)** | 2025-07-28 |  |
+| **[Action-List Reinforcement Learning Syndrome Decoding for Binary Linear Block Codes](http://arxiv.org/abs/2507.17893v2)** | 2025-07-28 |  |
+| **[Neural Spectral Band Generation for Audio Coding](http://arxiv.org/abs/2506.06732v2)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2025</p></details> |
+| **[DD-JSCC: Dynamic Deep Joint Source-Channel Coding for Semantic Communications](http://arxiv.org/abs/2507.20467v1)** | 2025-07-28 |  |
+| **[When Prompts Go Wrong: Evaluating Code Model Robustness to Ambiguous, Contradictory, and Incomplete Task Descriptions](http://arxiv.org/abs/2507.20439v1)** | 2025-07-27 |  |
+| **[CodeNER: Code Prompting for Named Entity Recognition](http://arxiv.org/abs/2507.20423v1)** | 2025-07-27 | 18 pages, 6 figures |
+| **[Sparse Regression Codes for Secret Key Agreement: Achieving Strong Secrecy and Near-Optimal Rates for Gaussian Sources](http://arxiv.org/abs/2507.20157v1)** | 2025-07-27 | 15 pages, 5 figures |
+| **[Learning to Align Human Code Preferences](http://arxiv.org/abs/2507.20109v1)** | 2025-07-27 |  |
+| **[Selective Prompt Anchoring for Code Generation](http://arxiv.org/abs/2408.09121v6)** | 2025-07-26 | Accepted by ICML'25 |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Program Analysis for High-Value Smart Contract Vulnerabilities: Techniques and Insights](http://arxiv.org/abs/2507.20672v1)** | 2025-07-28 |  |
+| **[Semantics of Sets of Programs](http://arxiv.org/abs/2410.16102v2)** | 2025-07-27 | 47 pages, 8 Figures |
+| **[How to Save My Gas Fees: Understanding and Detecting Real-world Gas Issues in Solidity Programs](http://arxiv.org/abs/2403.02661v2)** | 2025-07-27 |  |
+| **[The Impact of Fine-tuning Large Language Models on Automated Program Repair](http://arxiv.org/abs/2507.19909v1)** | 2025-07-26 | <details><summary>Accep...</summary><p>Accepted for publication in the research track of the 41th International Conference on Software Maintenance and Evolution (ICSME 2025)</p></details> |
+| **[CrossPL: Evaluating Large Language Models on Cross Programming Language Code Generation](http://arxiv.org/abs/2507.19904v1)** | 2025-07-26 |  |
+| **[Binary Classification with the Maximum Score Model and Linear Programming](http://arxiv.org/abs/2507.19654v1)** | 2025-07-25 |  |
 | **[Resolving Build Conflicts via Example-Based and Rule-Based Program Transformations](http://arxiv.org/abs/2507.19432v1)** | 2025-07-25 |  |
 | **[A Programming Language for Feasible Solutions](http://arxiv.org/abs/2507.19176v1)** | 2025-07-25 |  |
 | **[Towards Bug-Free Distributed Go Programs](http://arxiv.org/abs/2506.15135v2)** | 2025-07-25 | <details><summary>Versi...</summary><p>Version 1. B.Comp. Dissertation</p></details> |
@@ -35,10 +41,4 @@ labels: documentation
 | **[Agentic Program Repair from Test Failures at Scale: A Neuro-symbolic approach with static analysis and test execution feedback](http://arxiv.org/abs/2507.18755v1)** | 2025-07-24 |  |
 | **[Program Logics via Distributive Monoidal Categories](http://arxiv.org/abs/2507.18238v1)** | 2025-07-24 | <details><summary>52 pa...</summary><p>52 pages, including appendix</p></details> |
 | **[Comparing Non-minimal Semantics for Disjunction in Answer Set Programming](http://arxiv.org/abs/2507.18198v1)** | 2025-07-24 |  |
-| **[Educational Insights from Code: Mapping Learning Challenges in Object-Oriented Programming through Code-Based Evidence](http://arxiv.org/abs/2507.17743v1)** | 2025-07-23 |  |
-| **[Balans: Multi-Armed Bandits-based Adaptive Large Neighborhood Search for Mixed-Integer Programming Problem](http://arxiv.org/abs/2412.14382v3)** | 2025-07-23 |  |
-| **[How Consistent Are Humans When Grading Programming Assignments?](http://arxiv.org/abs/2409.12967v3)** | 2025-07-23 |  |
-| **[Integrating Belief Domains into Probabilistic Logic Programs](http://arxiv.org/abs/2507.17291v1)** | 2025-07-23 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
-| **[Understanding Prompt Programming Tasks and Questions](http://arxiv.org/abs/2507.17264v1)** | 2025-07-23 |  |
-| **[Hiord: An Approach to the Specification and Verification of Higher-Order (C)LP Programs](http://arxiv.org/abs/2507.17233v1)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted for publication in Theory and Practice of Logic Programming (TPLP)</p></details> |
 
