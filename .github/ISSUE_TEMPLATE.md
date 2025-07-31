@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 30, 2025
+title: Latest 15 Papers - July 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ScreenCoder: Advancing Visual-to-Code Generation for Front-End Automation via Modular Multimodal Agents](http://arxiv.org/abs/2507.22827v1)** | 2025-07-30 |  |
+| **[DSPE: Profit Maximization in Edge-Cloud Storage System using Dynamic Space Partitioning with Erasure Code](http://arxiv.org/abs/2507.22801v1)** | 2025-07-30 |  |
+| **[Scoring Verifiers: Evaluating Synthetic Verification for Code and Reasoning](http://arxiv.org/abs/2502.13820v3)** | 2025-07-30 | COLM 2025 |
+| **[Exploring Student-AI Interactions in Vibe Coding](http://arxiv.org/abs/2507.22614v1)** | 2025-07-30 |  |
+| **[Metamorphic Testing of Deep Code Models: A Systematic Literature Review](http://arxiv.org/abs/2507.22610v1)** | 2025-07-30 |  |
+| **[CAT and DOG: Improved Codes for Private Distributed Matrix Multiplication](http://arxiv.org/abs/2501.12371v4)** | 2025-07-30 |  |
+| **[IFEvalCode: Controlled Code Generation](http://arxiv.org/abs/2507.22462v1)** | 2025-07-30 | 10 pages |
+| **[Understanding Power and Energy Utilization in Large Scale Production Physics Simulation Codes](http://arxiv.org/abs/2201.01278v2)** | 2025-07-30 | <details><summary>15 pa...</summary><p>15 pages; accepted to the International Journal of High Performance Computing Applications (IJHPCA)</p></details> |
+| **[From Articles to Code: On-Demand Generation of Core Algorithms from Scientific Publications](http://arxiv.org/abs/2507.22324v1)** | 2025-07-30 |  |
+| **[Automated Prompt Engineering for Cost-Effective Code Generation Using Evolutionary Algorithm](http://arxiv.org/abs/2408.11198v2)** | 2025-07-29 |  |
+| **[Secure coding for web applications: Frameworks, challenges, and the role of LLMs](http://arxiv.org/abs/2507.22223v1)** | 2025-07-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 3 tables, 6 listings</p></details> |
 | **[Fine-Tuning Code Language Models to Detect Cross-Language Bugs](http://arxiv.org/abs/2507.21954v1)** | 2025-07-29 | <details><summary>33 pa...</summary><p>33 pages, 6 images, 9 tables, Manuscript submitted to a journal (2025)</p></details> |
 | **[Vibe Coding as a Reconfiguration of Intent Mediation in Software Development: Definition, Implications, and Research Agenda](http://arxiv.org/abs/2507.21928v1)** | 2025-07-29 |  |
 | **[Introducing HALC: A general pipeline for finding optimal prompting strategies for automated coding with LLMs in the computational social sciences](http://arxiv.org/abs/2507.21831v1)** | 2025-07-29 | <details><summary>48 pa...</summary><p>48 pages, 9 figures and 8 tables</p></details> |
 | **[MultiAIGCD: A Comprehensive dataset for AI Generated Code Detection Covering Multiple Languages, Models,Prompts, and Scenarios](http://arxiv.org/abs/2507.21693v1)** | 2025-07-29 |  |
-| **[On the Hulls of Group Codes](http://arxiv.org/abs/2507.21623v1)** | 2025-07-29 | <details><summary>Submi...</summary><p>Submitted to Designs, Codes and Cryptography. Submission ID 64937899-ea28-4559-9d88-9de59566a860</p></details> |
-| **[Ethical Classification of Non-Coding Contributions in Open-Source Projects via Large Language Models](http://arxiv.org/abs/2507.21583v1)** | 2025-07-29 | <details><summary>Accep...</summary><p>Accepted at the 2025 8th AAAI/ACM Conference on AI, Ethics, and Society (AIES'25)</p></details> |
-| **[Kodezi Chronos: A Debugging-First Language Model for Repository-Scale Code Understanding](http://arxiv.org/abs/2507.12482v2)** | 2025-07-29 | <details><summary>27 pa...</summary><p>27 pages, 21 figures, 37 tables, 2 algorithms. Extended technical report. Introduces Chronos, an autonomous debugging system achieving 87.1% success rate on real-world bugs. Code and data available at https://github.com/Kodezi/chronos</p></details> |
-| **[HLSDebugger: Identification and Correction of Logic Bugs in HLS Code with LLM Solutions](http://arxiv.org/abs/2507.21485v1)** | 2025-07-29 | <details><summary>This ...</summary><p>This work has been accepted at ICCAD 2025 (International Conference on Computer-Aided Design)</p></details> |
-| **[Curiosity by Design: An LLM-based Coding Assistant Asking Clarification Questions](http://arxiv.org/abs/2507.21285v1)** | 2025-07-28 |  |
-| **[(2,2)-GB Codes: Classification and Comparison with weight-4 Surface Codes](http://arxiv.org/abs/2507.21237v1)** | 2025-07-28 |  |
-| **[GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis](http://arxiv.org/abs/2507.21035v1)** | 2025-07-28 | 51 pages, 5 figures |
-| **[User-Centered Design with AI in the Loop: A Case Study of Rapid User Interface Prototyping with "Vibe Coding"](http://arxiv.org/abs/2507.21012v1)** | 2025-07-28 |  |
-| **[Secret Breach Detection in Source Code with Large Language Models](http://arxiv.org/abs/2504.18784v2)** | 2025-07-28 | <details><summary>19th ...</summary><p>19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2025) cameraready</p></details> |
-| **[Enhancing Project-Specific Code Completion by Inferring Internal API Information](http://arxiv.org/abs/2507.20888v1)** | 2025-07-28 |  |
-| **[Refactoring Deep Learning Code: A Study of Practices and Unsatisfied Tool Needs](http://arxiv.org/abs/2405.04861v2)** | 2025-07-28 | 12 pages, 6 figures |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An integer programming-based approach to construct exact two-sample binomial tests with maximum power](http://arxiv.org/abs/2503.13689v2)** | 2025-07-30 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, 8 tables</p></details> |
+| **[Designing for Self-Regulation in Informal Programming Learning: Insights from a Storytelling-Centric Approach](http://arxiv.org/abs/2507.22671v1)** | 2025-07-30 | 10 pages, 9 figures |
+| **[Solving Random Hyperbolic Conservation Laws Using Linear Programming](http://arxiv.org/abs/2501.10104v2)** | 2025-07-29 |  |
 | **[Composable Effect Handling for Programming LLM-integrated Scripts](http://arxiv.org/abs/2507.22048v1)** | 2025-07-29 |  |
 | **[Perfect Graph Modification Problems: An Integer Programming Approach](http://arxiv.org/abs/2507.21987v1)** | 2025-07-29 |  |
 | **[Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms](http://arxiv.org/abs/2501.09144v2)** | 2025-07-29 |  |
@@ -38,7 +41,4 @@ labels: documentation
 | **[Program Analysis for High-Value Smart Contract Vulnerabilities: Techniques and Insights](http://arxiv.org/abs/2507.20672v1)** | 2025-07-28 |  |
 | **[Semantics of Sets of Programs](http://arxiv.org/abs/2410.16102v2)** | 2025-07-27 | 47 pages, 8 Figures |
 | **[How to Save My Gas Fees: Understanding and Detecting Real-world Gas Issues in Solidity Programs](http://arxiv.org/abs/2403.02661v2)** | 2025-07-27 |  |
-| **[The Impact of Fine-tuning Large Language Models on Automated Program Repair](http://arxiv.org/abs/2507.19909v1)** | 2025-07-26 | <details><summary>Accep...</summary><p>Accepted for publication in the research track of the 41th International Conference on Software Maintenance and Evolution (ICSME 2025)</p></details> |
-| **[CrossPL: Evaluating Large Language Models on Cross Programming Language Code Generation](http://arxiv.org/abs/2507.19904v1)** | 2025-07-26 |  |
-| **[Binary Classification with the Maximum Score Model and Linear Programming](http://arxiv.org/abs/2507.19654v1)** | 2025-07-25 |  |
 
