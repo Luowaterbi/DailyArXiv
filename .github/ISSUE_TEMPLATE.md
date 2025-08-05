@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 04, 2025
+title: Latest 15 Papers - August 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,32 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Code to Career: Assessing Competitive Programmers for Industry Placement](http://arxiv.org/abs/2508.00772v1)** | 2025-08-01 |  |
-| **[ITUNLP at SemEval-2025 Task 8: Question-Answering over Tabular Data: A Zero-Shot Approach using LLM-Driven Code Generation](http://arxiv.org/abs/2508.00762v1)** | 2025-08-01 |  |
-| **[Deep Joint Source-Channel Coding for Small Satellite Applications](http://arxiv.org/abs/2508.00715v1)** | 2025-08-01 |  |
-| **[Is LLM-Generated Code More Maintainable \& Reliable than Human-Written Code?](http://arxiv.org/abs/2508.00700v1)** | 2025-08-01 | Accepted ESEM2025 |
-| **[OpenACE: An Open Benchmark for Evaluating Audio Coding Performance](http://arxiv.org/abs/2409.08374v2)** | 2025-08-01 | ICASSP 2025 |
-| **[SPENCER: Self-Adaptive Model Distillation for Efficient Code Retrieval](http://arxiv.org/abs/2508.00546v1)** | 2025-08-01 |  |
-| **[Lattice Surgery Compilation Beyond the Surface Code](http://arxiv.org/abs/2504.10591v2)** | 2025-08-01 | 12 pages, 11 figures |
-| **[Clubs in projective spaces and three-weight rank-metric codes](http://arxiv.org/abs/2508.00502v1)** | 2025-08-01 |  |
-| **[IFEvalCode: Controlled Code Generation](http://arxiv.org/abs/2507.22462v2)** | 2025-08-01 | 10 pages |
-| **[Improving Code Switching with Supervised Fine Tuning and GELU Adapters](http://arxiv.org/abs/2506.00291v2)** | 2025-08-01 | Incorrect results |
-| **[Efficient and Universal Watermarking for LLM-Generated Code Detection](http://arxiv.org/abs/2402.07518v4)** | 2025-08-01 | <details><summary>This ...</summary><p>This work has been submitted to IEEE for possible publication</p></details> |
-| **[How Quantization Impacts Privacy Risk on LLMs for Code?](http://arxiv.org/abs/2508.00128v1)** | 2025-07-31 |  |
-| **[A Survey on Code Generation with LLM-based Agents](http://arxiv.org/abs/2508.00083v1)** | 2025-07-31 | Work in progress |
-| **[GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis](http://arxiv.org/abs/2507.21035v2)** | 2025-07-31 | <details><summary>51 pa...</summary><p>51 pages (13 pages for the main text, 9 pages for references, and 29 pages for the appendix)</p></details> |
-| **[White-Basilisk: A Hybrid Model for Code Vulnerability Detection](http://arxiv.org/abs/2507.08540v2)** | 2025-07-31 |  |
+| **[Meta-RAG on Large Codebases Using Code Summarization](http://arxiv.org/abs/2508.02611v1)** | 2025-08-04 |  |
+| **[The Length of Functional Batch and PIR Codes](http://arxiv.org/abs/2508.02586v1)** | 2025-08-04 |  |
+| **[Automatic Identification of Machine Learning-Specific Code Smells](http://arxiv.org/abs/2508.02541v1)** | 2025-08-04 |  |
+| **[AIAP: A No-Code Workflow Builder for Non-Experts with Natural Language and Multi-Agent Collaboration](http://arxiv.org/abs/2508.02470v1)** | 2025-08-04 | 14 pages, 6 figures |
+| **[TreeRanker: Fast and Model-agnostic Ranking System for Code Suggestions in IDEs](http://arxiv.org/abs/2508.02455v1)** | 2025-08-04 |  |
+| **[Refactoring Deep Learning Code: A Study of Practices and Unsatisfied Tool Needs](http://arxiv.org/abs/2405.04861v3)** | 2025-08-04 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, ICSME25 accept</p></details> |
+| **[Properties and Decoding of Twisted GRS Codes and Their Extensions](http://arxiv.org/abs/2508.02382v1)** | 2025-08-04 |  |
+| **[Tree-of-Code: A Tree-Structured Exploring Framework for End-to-End Code Generation and Execution in Complex Task Handling](http://arxiv.org/abs/2412.15305v2)** | 2025-08-04 | <details><summary>This ...</summary><p>This idea was first submitted to the NeuralPS Workshop "System 2 Reasoning At Scale" in September 2024. Its OpenReview: https://openreview.net/forum?id=8NKAL8Ngxk&noteId=8NKAL8Ngxk. It was then submitted to the NAACL 2025 in October 2024, which is recorded in: https://openreview.net/forum?id=S0ZUWD3Vy5&noteId=S0ZUWD3Vy5. Now this paper has been accepted for publication in ACL 2025 Findings</p></details> |
+| **[CodeIF: Benchmarking the Instruction-Following Capabilities of Large Language Models for Code Generation](http://arxiv.org/abs/2502.19166v3)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted as an ACL 2025 Industry Track paper (15 pages)</p></details> |
+| **[Confidence-Diversity Calibration of AI Judgement Enables Reliable Qualitative Coding](http://arxiv.org/abs/2508.02029v1)** | 2025-08-04 | <details><summary>23 pa...</summary><p>23 pages, 5 figures. Code and data available at https://doi.org/10.7910/DVN/G1AYGK</p></details> |
+| **[Secure coding for web applications: Frameworks, challenges, and the role of LLMs](http://arxiv.org/abs/2507.22223v2)** | 2025-08-03 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 3 tables, 6 listings</p></details> |
+| **[Explicit Function-Correcting Code Constructions for Lee Metric Channels](http://arxiv.org/abs/2508.01702v1)** | 2025-08-03 | <details><summary>16 pa...</summary><p>16 pages, 4 tables and 1 figure</p></details> |
+| **[Exploring Direct Instruction and Summary-Mediated Prompting in LLM-Assisted Code Modification](http://arxiv.org/abs/2508.01523v1)** | 2025-08-02 |  |
+| **[TreeDiff: AST-Guided Code Generation with Diffusion LLMs](http://arxiv.org/abs/2508.01473v1)** | 2025-08-02 |  |
+| **[Understanding User Mental Models in AI-Driven Code Completion Tools: Insights from an Elicitation Study](http://arxiv.org/abs/2502.02194v2)** | 2025-08-02 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Proceedings 14th International Workshop on Trends in Functional Programming in Education](http://arxiv.org/abs/2508.02305v1)** | 2025-08-04 |  |
+| **[IMoRe: Implicit Program-Guided Reasoning for Human Motion Q&A](http://arxiv.org/abs/2508.01984v1)** | 2025-08-04 | <details><summary>*Equa...</summary><p>*Equal contribution. Accepted by the International Conference on Computer Vision (ICCV 2025)</p></details> |
+| **[MacroSwarm: A Field-based Compositional Framework for Swarm Programming](http://arxiv.org/abs/2401.10969v5)** | 2025-08-03 |  |
+| **[Optimizing Return Distributions with Distributional Dynamic Programming](http://arxiv.org/abs/2501.13028v2)** | 2025-08-03 |  |
+| **[Modeling Deontic Modal Logic in the s(CASP) Goal-directed Predicate Answer Set Programming System](http://arxiv.org/abs/2507.05519v4)** | 2025-08-02 |  |
+| **[AgentArmor: Enforcing Program Analysis on Agent Runtime Trace to Defend Against Prompt Injection](http://arxiv.org/abs/2508.01249v1)** | 2025-08-02 |  |
+| **[Efficient compilation and execution of synchronous programs via type-state programming](http://arxiv.org/abs/2508.01199v1)** | 2025-08-02 |  |
 | **[From Dynamic Programs to Greedy Algorithms](http://arxiv.org/abs/2508.00776v1)** | 2025-08-01 | 14 pages, 2 figures |
 | **[Towards a unified framework for programming paradigms: A systematic review of classification formalisms and methodological foundations](http://arxiv.org/abs/2508.00534v1)** | 2025-08-01 | <details><summary>Prepr...</summary><p>Preprint submitted to the Journal of Object Technology on July 29, 2025. Data available upon request until peer-review is completed</p></details> |
 | **[Managing Power Gaps as a Topic of Pair Programming Skill: A Grounded Theory](http://arxiv.org/abs/2508.00462v1)** | 2025-08-01 |  |
@@ -34,11 +41,4 @@ labels: documentation
 | **[Functional vs. Object-Oriented: Comparing How Programming Paradigms Affect the Architectural Characteristics of Systems](http://arxiv.org/abs/2508.00244v1)** | 2025-08-01 | <details><summary>11 pa...</summary><p>11 pages, 16 figures (1 table, 3 diagrams, 5 graphics, 7 listings), submitted to CTICQS capstone project competition at SBQS 2025</p></details> |
 | **[Line-Search Filter Differential Dynamic Programming for Optimal Control with Nonlinear Equality Constraints](http://arxiv.org/abs/2504.08278v4)** | 2025-07-31 |  |
 | **[An integer programming-based approach to construct exact two-sample binomial tests with maximum power](http://arxiv.org/abs/2503.13689v2)** | 2025-07-30 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, 8 tables</p></details> |
-| **[Designing for Self-Regulation in Informal Programming Learning: Insights from a Storytelling-Centric Approach](http://arxiv.org/abs/2507.22671v1)** | 2025-07-30 | 10 pages, 9 figures |
-| **[Solving Random Hyperbolic Conservation Laws Using Linear Programming](http://arxiv.org/abs/2501.10104v2)** | 2025-07-29 |  |
-| **[Composable Effect Handling for Programming LLM-integrated Scripts](http://arxiv.org/abs/2507.22048v1)** | 2025-07-29 |  |
-| **[Perfect Graph Modification Problems: An Integer Programming Approach](http://arxiv.org/abs/2507.21987v1)** | 2025-07-29 |  |
-| **[Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms](http://arxiv.org/abs/2501.09144v2)** | 2025-07-29 |  |
-| **[Unrolling Dynamic Programming via Graph Filters](http://arxiv.org/abs/2507.21705v1)** | 2025-07-29 |  |
-| **[Collaborative State Machines: A Better Programming Model for the Cloud-Edge-IoT Continuum](http://arxiv.org/abs/2507.21685v1)** | 2025-07-29 |  |
 
