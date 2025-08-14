@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 13, 2025
+title: Latest 15 Papers - August 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AutoCodeBench: Large Language Models are Automatic Code Benchmark Generators](http://arxiv.org/abs/2508.09101v1)** | 2025-08-12 | <details><summary>Homep...</summary><p>Homepage: https://autocodebench.github.io/</p></details> |
-| **[Generalized Bicycle Codes with Low Connectivity: Minimum Distance Bounds and Hook Errors](http://arxiv.org/abs/2508.09082v1)** | 2025-08-12 | 18 pages, 8 figures |
-| **[LyS at SemEval 2025 Task 8: Zero-Shot Code Generation for Tabular QA](http://arxiv.org/abs/2508.09012v1)** | 2025-08-12 | <details><summary>Accep...</summary><p>Accepted to SemEval 2025. Camera-ready version</p></details> |
-| **[GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation](http://arxiv.org/abs/2505.21425v3)** | 2025-08-12 | <details><summary>Accep...</summary><p>Accepted by SEKE 2025</p></details> |
-| **[Reducing Cognitive Load in Multi-Agent Reinforcement Learning for Mathematical Problem Solving: Decoupling Reasoning and Code Generation](http://arxiv.org/abs/2508.08882v1)** | 2025-08-12 |  |
-| **[Adaptive High-Frequency Preprocessing for Video Coding](http://arxiv.org/abs/2508.08849v1)** | 2025-08-12 |  |
-| **[Optimized Arithmetic Coding for Efficient Data Compression in the Resource-Constrained Internet of Things(IoT)](http://arxiv.org/abs/2508.08840v1)** | 2025-08-12 |  |
-| **[Geometry of the symplectic group and optimal EAQECC codes](http://arxiv.org/abs/2501.15465v2)** | 2025-08-12 | 11 pages |
-| **[Bio-Inspired Artificial Neural Networks based on Predictive Coding](http://arxiv.org/abs/2508.08762v1)** | 2025-08-12 |  |
-| **[Optimum 1-Step Majority-Logic Decoding of Binary Reed-Muller Codes](http://arxiv.org/abs/2508.08736v1)** | 2025-08-12 |  |
-| **[Hallucinations in Code Change to Natural Language Generation: Prevalence and Evaluation of Detection Metrics](http://arxiv.org/abs/2508.08661v1)** | 2025-08-12 | <details><summary>8 mai...</summary><p>8 main pages, 5 figures</p></details> |
-| **[Construction of Self-Orthogonal Quasi-Cyclic Codes and Their Application to Quantum Error-Correcting Codes](http://arxiv.org/abs/2507.17319v2)** | 2025-08-12 |  |
-| **[Linear complementary dual quasi-cyclic codes of index 2](http://arxiv.org/abs/2504.09126v2)** | 2025-08-11 |  |
-| **[Adaptive Source-Channel Coding for Semantic Communications](http://arxiv.org/abs/2508.07958v1)** | 2025-08-11 |  |
-| **[GPU-Accelerated Syndrome Decoding for Quantum LDPC Codes below the 63 $μ$s Latency Threshold](http://arxiv.org/abs/2508.07879v1)** | 2025-08-11 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 1 table</p></details> |
+| **[Asymptotic performance of double and four circulant codes with small hull dimension](http://arxiv.org/abs/2401.07017v5)** | 2025-08-13 | <details><summary>We ha...</summary><p>We have added a new co-author and decided to withdraw all versions of this submission. Some of our earlier generalizations may be misleading due to differing approaches in the literature. To prevent confusion and ensure accurate interpretation of prior results, we are withdrawing the paper entirely</p></details> |
+| **[Improving quantum communication rates with permutation-invariant codes](http://arxiv.org/abs/2508.09978v1)** | 2025-08-13 | <details><summary>54 pa...</summary><p>54 pages, 11 figures, 5 tables. Code available at https://github.com/sujeet-bhalerao/perm-inv-codes</p></details> |
+| **[Leveraging Reviewer Experience in Code Review Comment Generation](http://arxiv.org/abs/2409.10959v2)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted at ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
+| **[VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models](http://arxiv.org/abs/2508.09945v1)** | 2025-08-13 |  |
+| **[Perfect message authentication codes are robust to small deviations from uniform key distributions](http://arxiv.org/abs/2508.09783v1)** | 2025-08-13 |  |
+| **[ORCAS Codes: A Flexible Generalization of Polar Codes with Low-Complexity Decoding](http://arxiv.org/abs/2508.09744v1)** | 2025-08-13 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Submitted to IEEE for possible publication</p></details> |
+| **[Hermitian Self-dual Twisted Generalized Reed-Solomon Codes](http://arxiv.org/abs/2508.09687v1)** | 2025-08-13 | <details><summary>This ...</summary><p>This manuscript has been submitted to the IEEE Transactions on Information Theory for possible publication</p></details> |
+| **[DeputyDev -- AI Powered Developer Assistant: Breaking the Code Review Logjam through Contextual AI to Boost Developer Productivity](http://arxiv.org/abs/2508.09676v1)** | 2025-08-13 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 6 pages of supplementary materials</p></details> |
+| **[On the Service Rate Region of Reed-Muller Codes](http://arxiv.org/abs/2501.13105v5)** | 2025-08-13 | Abstract update |
+| **[EvoCurr: Self-evolving Curriculum with Behavior Code Generation for Complex Decision-making](http://arxiv.org/abs/2508.09586v1)** | 2025-08-13 |  |
+| **[Your Coding Intent is Secretly in the Context and You Should Deliberately Infer It Before Completion](http://arxiv.org/abs/2508.09537v1)** | 2025-08-13 |  |
+| **[Leveraging Zipformer Model for Effective Language Identification in Code-Switched Child-Directed Speech](http://arxiv.org/abs/2508.09430v1)** | 2025-08-13 |  |
+| **[Robo-Instruct: Simulator-Augmented Instruction Alignment For Finetuning Code LLMs](http://arxiv.org/abs/2405.20179v4)** | 2025-08-12 |  |
+| **[Blink-to-code: real-time Morse code communication via eye blink detection and classification](http://arxiv.org/abs/2508.09344v1)** | 2025-08-12 | <details><summary>4 pag...</summary><p>4 pages, 4 figures. Preprint on blink-based Morse code communication via webcam for assistive technology. Relevant to computer vision and human-computer interaction</p></details> |
+| **[Teaching Code Refactoring Using LLMs](http://arxiv.org/abs/2508.09332v1)** | 2025-08-12 | <details><summary>Accep...</summary><p>Accepted for presentation at the Frontiers in Education Conference, Nashville, Tennessee, USA, 2-5 November 2025</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Differentiation Through Black-Box Quadratic Programming Solvers](http://arxiv.org/abs/2410.06324v3)** | 2025-08-12 |  |
 | **[Technical Report: Full-Stack Fine-Tuning for the Q Programming Language](http://arxiv.org/abs/2508.06813v2)** | 2025-08-12 | 40 pages |
 | **[Targeting Completeness: Automated Complexity Analysis of Integer Programs](http://arxiv.org/abs/2412.01832v2)** | 2025-08-12 | <details><summary>Journ...</summary><p>Journal version of IJCAR'22 (arXiv:2205.08869) and FroCoS'23 (arXiv:2307.06921) papers</p></details> |
 | **[ObfusQate: Unveiling the First Quantum Program Obfuscation Framework](http://arxiv.org/abs/2503.23785v2)** | 2025-08-12 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[GLIDR: Graph-Like Inductive Logic Programming with Differentiable Reasoning](http://arxiv.org/abs/2508.06716v1)** | 2025-08-08 |  |
 | **[Evaluating Robot Program Performance with Power Consumption Driven Metrics in Lightweight Industrial Robots](http://arxiv.org/abs/2508.06295v1)** | 2025-08-08 |  |
 | **[CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive Program Synthesis](http://arxiv.org/abs/2503.23145v2)** | 2025-08-08 |  |
-| **[Position: Intelligent Coding Systems Should Write Programs with Justifications](http://arxiv.org/abs/2508.06017v1)** | 2025-08-08 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work</p></details> |
 
