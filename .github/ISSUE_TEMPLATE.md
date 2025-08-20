@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 19, 2025
+title: Latest 15 Papers - August 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Channel Coding for Gaussian Channels with Mean and Variance Constraints](http://arxiv.org/abs/2501.10953v2)** | 2025-08-19 | <details><summary>Revis...</summary><p>Revised and accepted for publication in IEEE Information Theory</p></details> |
+| **[A Novel Attention-Augmented Wavelet YOLO System for Real-time Brain Vessel Segmentation on Transcranial Color-coded Doppler](http://arxiv.org/abs/2508.13875v1)** | 2025-08-19 |  |
+| **[ChangePrism: Visualizing the Essence of Code Changes](http://arxiv.org/abs/2508.12649v2)** | 2025-08-19 | <details><summary>(C) 2...</summary><p>(C) 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
+| **[Explicit Function-Correcting Code Constructions for Lee Metric Channels](http://arxiv.org/abs/2508.01702v2)** | 2025-08-19 | <details><summary>The P...</summary><p>The Plotkin-like bound for irregular Lee-distance codes has been revised. Accordingly, the lower bounds on the redundancy of function-correcting Lee codes for specific functions, which rely on this Plotkin-like bound, have also been modified. 16 pages, 4 tables and 1 figure</p></details> |
+| **[COMPASS: A Multi-Dimensional Benchmark for Evaluating Code Generation in Large Language Models](http://arxiv.org/abs/2508.13757v1)** | 2025-08-19 |  |
+| **["Haet Bhasha aur Diskrimineshun": Phonetic Perturbations in Code-Mixed Hinglish to Red-Team LLMs](http://arxiv.org/abs/2505.14226v2)** | 2025-08-19 |  |
+| **[On de Bruijn Array Codes Part II: Linear Codes](http://arxiv.org/abs/2501.12124v4)** | 2025-08-19 |  |
+| **[The Hidden Cost of Readability: How Code Formatting Silently Consumes Your LLM Budget](http://arxiv.org/abs/2508.13666v1)** | 2025-08-19 | <details><summary>Accep...</summary><p>Accepted by ICSE'26 (First Cycle)</p></details> |
+| **[AutoMPC: A Code Generator for MPC-based Automated Driving](http://arxiv.org/abs/2508.13656v1)** | 2025-08-19 | <details><summary>Techn...</summary><p>Technical Documentation</p></details> |
+| **[Breaking the SFT Plateau: Multimodal Structured Reinforcement Learning for Chart-to-Code Generation](http://arxiv.org/abs/2508.13587v1)** | 2025-08-19 | technical report |
+| **[End-to-End Audio-Visual Learning for Cochlear Implant Sound Coding in Noisy Environments](http://arxiv.org/abs/2508.13576v1)** | 2025-08-19 | 6 pages, 4 figures |
+| **[A Lightweight Dual-Mode Optimization for Generative Face Video Coding](http://arxiv.org/abs/2508.13547v1)** | 2025-08-19 |  |
+| **[Revisiting MLLM Token Technology through the Lens of Classical Visual Coding](http://arxiv.org/abs/2508.13460v1)** | 2025-08-19 |  |
+| **[Neural Coding Is Not Always Semantic: Toward the Standardized Coding Workflow in Semantic Communications](http://arxiv.org/abs/2505.18637v3)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted by IEEE COMSTD, project page: https://qin-jingyun.github.io/SemCod/</p></details> |
 | **[High-Fidelity And Complex Test Data Generation For Real-World SQL Code Generation Services](http://arxiv.org/abs/2504.17203v2)** | 2025-08-18 |  |
-| **[Towards No-Code Programming of Cobots: Experiments with Code Synthesis by Large Code Models for Conversational Programming](http://arxiv.org/abs/2409.11041v3)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted to ITL4HRI workshop at RO-MAN 2025 conference</p></details> |
-| **[SecFSM: Knowledge Graph-Guided Verilog Code Generation for Secure Finite State Machines in Systems-on-Chip](http://arxiv.org/abs/2508.12910v1)** | 2025-08-18 |  |
-| **[The covering radius of Butson Hadamard codes for the homogeneous metric](http://arxiv.org/abs/2508.12859v1)** | 2025-08-18 |  |
-| **[From Intent to Execution: Multimodal Chain-of-Thought Reinforcement Learning for Precise CAD Code Generation](http://arxiv.org/abs/2508.10118v2)** | 2025-08-18 |  |
-| **[GridCodex: A RAG-Driven AI Framework for Power Grid Code Reasoning and Compliance](http://arxiv.org/abs/2508.12682v1)** | 2025-08-18 |  |
-| **[ChangePrism: Visualizing the Essence of Code Changes](http://arxiv.org/abs/2508.12649v1)** | 2025-08-18 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, VISSOFT 2025</p></details> |
-| **[Embodied Long Horizon Manipulation with Closed-loop Code Generation and Incremental Few-shot Adaptation](http://arxiv.org/abs/2503.21969v2)** | 2025-08-18 | update ICRA 6 page |
-| **[Strengthening Programming Comprehension in Large Language Models through Code Generation](http://arxiv.org/abs/2508.12620v1)** | 2025-08-18 | 11 pages, 7 figures |
-| **[Illuminating LLM Coding Agents: Visual Analytics for Deeper Understanding and Enhancement](http://arxiv.org/abs/2508.12555v1)** | 2025-08-18 | 11 pages, 10 figures |
-| **[Algorithmic Improvements to List Decoding of Folded Reed-Solomon Codes](http://arxiv.org/abs/2508.12548v1)** | 2025-08-18 |  |
-| **[Uncovering Systematic Failures of LLMs in Verifying Code Against Natural Language Specifications](http://arxiv.org/abs/2508.12358v1)** | 2025-08-17 | <details><summary>Accep...</summary><p>Accepted to the NIER track of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)</p></details> |
-| **[Where Are Large Language Models for Code Generation on GitHub?](http://arxiv.org/abs/2406.19544v3)** | 2025-08-17 |  |
-| **[The extended code for a class of generalized Roth-Lempel codes and their properties](http://arxiv.org/abs/2508.12302v1)** | 2025-08-17 | 29pages |
-| **["My productivity is boosted, but ..." Demystifying Users' Perception on AI Coding Assistants](http://arxiv.org/abs/2508.12285v1)** | 2025-08-17 | <details><summary>13 pa...</summary><p>13 pages, Camera-Ready Version that will appear in ASE 2025</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Boolean Matrix Logic Programming on the GPU](http://arxiv.org/abs/2408.10369v3)** | 2025-08-19 |  |
+| **[Tensor Program Optimization for the RISC-V Vector Extension Using Probabilistic Programs](http://arxiv.org/abs/2507.01457v2)** | 2025-08-19 | <details><summary>9 pag...</summary><p>9 pages, 10 figures, 2 algorithms</p></details> |
+| **[Disciplined Geodesically Convex Programming](http://arxiv.org/abs/2407.05261v2)** | 2025-08-19 |  |
+| **[Hands-on Quantum Programming Labs for EECS Students](http://arxiv.org/abs/2308.14002v6)** | 2025-08-18 | <details><summary>Progr...</summary><p>Program templates have been updated based on Qiskit version 2.1. Latex handouts are located in the subdir 'handouts_latex,' and program templates can be found in the 'pub' folder. The commands to install the Qiskit as a shared virtual environment on a lab workstation can be found in the Appendices</p></details> |
 | **[Towards No-Code Programming of Cobots: Experiments with Code Synthesis by Large Code Models for Conversational Programming](http://arxiv.org/abs/2409.11041v3)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted to ITL4HRI workshop at RO-MAN 2025 conference</p></details> |
 | **[The linear programming optimum for packings in classical association schemes](http://arxiv.org/abs/2508.12806v1)** | 2025-08-18 | 70 pages |
 | **[Some optimization possibilities in data plane programming](http://arxiv.org/abs/2508.12767v1)** | 2025-08-18 |  |
@@ -37,8 +41,4 @@ labels: documentation
 | **[Semi-Infinite Programming for Collision-Avoidance in Optimal and Model Predictive Control](http://arxiv.org/abs/2508.12335v1)** | 2025-08-17 | 21 pages, 15 figures |
 | **[Complete Dynamic Logic of Communicating Hybrid Programs](http://arxiv.org/abs/2408.05012v2)** | 2025-08-17 |  |
 | **[EvoCut: Strengthening Integer Programs via Evolution-Guided Language Models](http://arxiv.org/abs/2508.11850v1)** | 2025-08-16 |  |
-| **[Finite Automata Extraction: Low-data World Model Learning as Programs from Gameplay Video](http://arxiv.org/abs/2508.11836v1)** | 2025-08-15 |  |
-| **[Swarm-in-Blocks: Simplifying Drone Swarm Programming with Block-Based Language](http://arxiv.org/abs/2508.11498v1)** | 2025-08-15 |  |
-| **[Tapas are free! Training-Free Adaptation of Programmatic Agents via LLM-Guided Program Synthesis in Dynamic Environments](http://arxiv.org/abs/2508.11425v1)** | 2025-08-15 | Under Review |
-| **[Automating the Derivation of Unification Algorithms: A Case Study in Deductive Program Synthesis](http://arxiv.org/abs/2508.11136v1)** | 2025-08-15 | 92 pages |
 
