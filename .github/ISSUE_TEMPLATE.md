@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 25, 2025
+title: Latest 15 Papers - August 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhanced Successive Cancellation List Decoder for Long Polar Codes Targeting 6G Air Interface](http://arxiv.org/abs/2508.16498v1)** | 2025-08-22 |  |
-| **[AutoVerus: Automated Proof Generation for Rust Code](http://arxiv.org/abs/2409.13082v3)** | 2025-08-22 | OOPSLA 2025 |
-| **[MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds](http://arxiv.org/abs/2508.14879v2)** | 2025-08-22 |  |
-| **[Enhancing Code-switched Text-to-Speech Synthesis Capability in Large Language Models with only Monolingual Corpora](http://arxiv.org/abs/2409.10969v2)** | 2025-08-22 | Accepted to ASRU2025 |
-| **[Blink-to-code: real-time Morse code communication via eye blink detection and classification](http://arxiv.org/abs/2508.09344v2)** | 2025-08-22 | <details><summary>4 pag...</summary><p>4 pages, 4 figures. Preprint on blink-based Morse code communication via webcam for assistive technology. Relevant to computer vision and human-computer interaction</p></details> |
-| **[Optimum 1-Step Majority-Logic Decoding of Binary Reed-Muller Codes](http://arxiv.org/abs/2508.08736v2)** | 2025-08-22 | <details><summary>Types...</summary><p>Typesetting improvement</p></details> |
-| **[Design and Analysis of a Concatenated Code for Intersymbol Interference Wiretap Channels](http://arxiv.org/abs/2501.07561v3)** | 2025-08-22 |  |
-| **[Self-Healing Network of Interconnected Edge Devices Empowered by Infrastructure-as-Code and LoRa Communication](http://arxiv.org/abs/2508.16268v1)** | 2025-08-22 |  |
-| **[The Fools are Certain; the Wise are Doubtful: Exploring LLM Confidence in Code Completion](http://arxiv.org/abs/2508.16131v1)** | 2025-08-22 | 30 pages, 10 figures |
-| **[Measuring the effectiveness of code review comments in GitHub repositories: A machine learning approach](http://arxiv.org/abs/2508.16053v1)** | 2025-08-22 |  |
-| **[Representation Learning with Adaptive Superpixel Coding](http://arxiv.org/abs/2508.15959v1)** | 2025-08-21 |  |
-| **[Colour Codes Reach Surface Code Performance using Vibe Decoding](http://arxiv.org/abs/2508.15743v1)** | 2025-08-21 |  |
-| **[Knowledge-Guided Prompt Learning for Request Quality Assurance in Public Code Review](http://arxiv.org/abs/2410.21673v3)** | 2025-08-21 | <details><summary>27 pa...</summary><p>27 pages, 5 images, 12 tables, Manuscript revision submitted to a journal (2025)</p></details> |
-| **[RefineCoder: Iterative Improving of Large Language Models via Adaptive Critique Refinement for Code Generation](http://arxiv.org/abs/2502.09183v2)** | 2025-08-21 |  |
-| **[SecFSM: Knowledge Graph-Guided Verilog Code Generation for Secure Finite State Machines in Systems-on-Chip](http://arxiv.org/abs/2508.12910v2)** | 2025-08-21 |  |
+| **[A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](http://arxiv.org/abs/2508.18106v1)** | 2025-08-25 |  |
+| **[Fermion-to-Fermion Low-Density Parity-Check Codes](http://arxiv.org/abs/2508.15323v2)** | 2025-08-25 | <details><summary>21 pa...</summary><p>21 pages (including supplemental material), 11 figures. This version corrects some typos</p></details> |
+| **[A $k^{\frac{q}{q-2}}$ Lower Bound for Odd Query Locally Decodable Codes from Bipartite Kikuchi Graphs](http://arxiv.org/abs/2411.14276v2)** | 2025-08-25 |  |
+| **[Unveiling Code Clone Patterns in Open Source VR Software: An Empirical Study](http://arxiv.org/abs/2501.07165v2)** | 2025-08-25 |  |
+| **[Three Families of Projective Binary Linear Codes of at Most Four Weights](http://arxiv.org/abs/2508.18030v1)** | 2025-08-25 |  |
+| **[Previously on... Automating Code Review](http://arxiv.org/abs/2508.18003v1)** | 2025-08-25 | <details><summary>Prepr...</summary><p>Preprint currently under review</p></details> |
+| **[Pandora: Leveraging Code-driven Knowledge Transfer for Unified Structured Knowledge Reasoning](http://arxiv.org/abs/2508.17905v1)** | 2025-08-25 |  |
+| **[SolEval: Benchmarking Large Language Models for Repository-level Solidity Code Generation](http://arxiv.org/abs/2502.18793v2)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted By EMNLP'25-Main</p></details> |
+| **[RepoTransAgent: Multi-Agent LLM Framework for Repository-Aware Code Translation](http://arxiv.org/abs/2508.17720v1)** | 2025-08-25 |  |
+| **[Code Difference Guided Fuzzing for FPGA Logic Synthesis Compilers via Bayesian Optimization](http://arxiv.org/abs/2508.17713v1)** | 2025-08-25 |  |
+| **[A2HCoder: An LLM-Driven Coding Agent for Hierarchical Algorithm-to-HDL Translation](http://arxiv.org/abs/2508.10904v2)** | 2025-08-25 | 15 pages, 6 figures |
+| **[ChartMaster: Advancing Chart-to-Code Generation with Real-World Charts and Chart Similarity Reinforcement Learning](http://arxiv.org/abs/2508.17608v1)** | 2025-08-25 |  |
+| **[VeriCoder: Enhancing LLM-Based RTL Code Generation through Functional Correctness Validation](http://arxiv.org/abs/2504.15659v2)** | 2025-08-24 |  |
+| **[ICQuant: Index Coding enables Low-bit LLM Quantization](http://arxiv.org/abs/2505.00850v2)** | 2025-08-24 |  |
+| **[AutoMisty: A Multi-Agent LLM Framework for Automated Code Generation in the Misty Social Robot](http://arxiv.org/abs/2503.06791v2)** | 2025-08-24 | <details><summary>Accep...</summary><p>Accepted by IROS 2025</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Data-Driven Discovery of Interpretable Kalman Filter Variants through Large Language Models and Genetic Programming](http://arxiv.org/abs/2508.11703v2)** | 2025-08-25 |  |
+| **[Boosting Redundancy-based Automated Program Repair by Fine-grained Pattern Mining](http://arxiv.org/abs/2312.15955v2)** | 2025-08-25 | <details><summary>This ...</summary><p>This paper has been accepted by ICSME 2025</p></details> |
+| **[Modular electronic microrobots with on board sensor-program steered locomotion](http://arxiv.org/abs/2508.17390v1)** | 2025-08-24 |  |
+| **[DeeP-Mod: Deep Dynamic Programming based Environment Modelling using Feature Extraction](http://arxiv.org/abs/2504.20535v2)** | 2025-08-24 | <details><summary>This ...</summary><p>This is an author's version. Paper has been accepted to 19th International Symposium on Neural Networks and was presented in August 2025 in China</p></details> |
+| **[Borrowing Dirty Qubits in Quantum Programs](http://arxiv.org/abs/2508.17190v1)** | 2025-08-24 |  |
+| **[Chemical classification program synthesis using generative artificial intelligence](http://arxiv.org/abs/2505.18470v2)** | 2025-08-24 |  |
+| **[Products of Recursive Programs for Hypersafety Verification (Extended Version)](http://arxiv.org/abs/2504.10800v2)** | 2025-08-23 | <details><summary>26 pa...</summary><p>26 pages of main text (7 figures) and 45 pages in total; extended version of the paper "Products of Recursive Programs for Hypersafety Verification" accepted at OOPSLA 2025</p></details> |
+| **[HoarePrompt: Structural Reasoning About Program Correctness in Natural Language](http://arxiv.org/abs/2503.19599v2)** | 2025-08-23 |  |
+| **[On systematic construction of correct logic programs](http://arxiv.org/abs/2508.16782v1)** | 2025-08-22 | <details><summary>21 pa...</summary><p>21 pages. Accepted for ICLP 2025 (The 41st International Conference on Logic Programming)</p></details> |
 | **[On the Duality of Task and Actor Programming Models](http://arxiv.org/abs/2508.16522v1)** | 2025-08-22 |  |
 | **[How Small is Enough? Empirical Evidence of Quantized Small Language Models for Automated Program Repair](http://arxiv.org/abs/2508.16499v1)** | 2025-08-22 |  |
 | **[AetherCode: Evaluating LLMs' Ability to Win In Premier Programming Competitions](http://arxiv.org/abs/2508.16402v1)** | 2025-08-22 | 15 pages |
 | **[SPL-LNS: Sampling-Enhanced Large Neighborhood Search for Solving Integer Linear Programs](http://arxiv.org/abs/2508.16171v1)** | 2025-08-22 |  |
 | **[GPLight+: A Genetic Programming Method for Learning Symmetric Traffic Signal Control Policy](http://arxiv.org/abs/2508.16090v1)** | 2025-08-22 |  |
 | **[From Benchmark Data To Applicable Program Repair: An Experience Report](http://arxiv.org/abs/2508.16071v1)** | 2025-08-22 |  |
-| **[The Teacher's Dilemma: Balancing Trade-Offs in Programming Education for Emergent Bilingual Students](http://arxiv.org/abs/2506.14147v2)** | 2025-08-22 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 1 table, Workshop</p></details> |
-| **[Prover-Adversary games for systems over (non-deterministic) branching programs](http://arxiv.org/abs/2508.16014v1)** | 2025-08-22 | 34 pages, 8 figures |
-| **[A User Manual for cuHALLaR: A GPU Accelerated Low-Rank Semidefinite Programming Solver](http://arxiv.org/abs/2508.15951v1)** | 2025-08-21 |  |
-| **[Active Learning for Neurosymbolic Program Synthesis](http://arxiv.org/abs/2508.15750v1)** | 2025-08-21 |  |
-| **[Structural Temporal Logic for Mechanized Program Verification](http://arxiv.org/abs/2410.14906v7)** | 2025-08-21 |  |
-| **[Polytope Volume Monitoring Problem: Formulation and Solution via Parametric Linear Program Based Control Barrier Function](http://arxiv.org/abs/2503.12546v3)** | 2025-08-21 | <details><summary>An ex...</summary><p>An extension version of the accepted CDC2025</p></details> |
-| **[On the need to perform comprehensive evaluations of automated program repair benchmarks: Sorald case study](http://arxiv.org/abs/2508.15135v1)** | 2025-08-21 |  |
-| **[Tuning Random Generators: Property-Based Testing as Probabilistic Programming](http://arxiv.org/abs/2508.14394v1)** | 2025-08-20 | <details><summary>Exten...</summary><p>Extended version of OOPSLA '25 paper</p></details> |
-| **[To Zip Through the Cost Analysis of Probabilistic Programs](http://arxiv.org/abs/2508.14249v1)** | 2025-08-19 |  |
 
