@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 26, 2025
+title: Latest 15 Papers - August 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,27 +7,30 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](http://arxiv.org/abs/2508.18106v1)** | 2025-08-25 |  |
-| **[Fermion-to-Fermion Low-Density Parity-Check Codes](http://arxiv.org/abs/2508.15323v2)** | 2025-08-25 | <details><summary>21 pa...</summary><p>21 pages (including supplemental material), 11 figures. This version corrects some typos</p></details> |
-| **[A $k^{\frac{q}{q-2}}$ Lower Bound for Odd Query Locally Decodable Codes from Bipartite Kikuchi Graphs](http://arxiv.org/abs/2411.14276v2)** | 2025-08-25 |  |
-| **[Unveiling Code Clone Patterns in Open Source VR Software: An Empirical Study](http://arxiv.org/abs/2501.07165v2)** | 2025-08-25 |  |
-| **[Three Families of Projective Binary Linear Codes of at Most Four Weights](http://arxiv.org/abs/2508.18030v1)** | 2025-08-25 |  |
-| **[Previously on... Automating Code Review](http://arxiv.org/abs/2508.18003v1)** | 2025-08-25 | <details><summary>Prepr...</summary><p>Preprint currently under review</p></details> |
-| **[Pandora: Leveraging Code-driven Knowledge Transfer for Unified Structured Knowledge Reasoning](http://arxiv.org/abs/2508.17905v1)** | 2025-08-25 |  |
-| **[SolEval: Benchmarking Large Language Models for Repository-level Solidity Code Generation](http://arxiv.org/abs/2502.18793v2)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted By EMNLP'25-Main</p></details> |
-| **[RepoTransAgent: Multi-Agent LLM Framework for Repository-Aware Code Translation](http://arxiv.org/abs/2508.17720v1)** | 2025-08-25 |  |
-| **[Code Difference Guided Fuzzing for FPGA Logic Synthesis Compilers via Bayesian Optimization](http://arxiv.org/abs/2508.17713v1)** | 2025-08-25 |  |
-| **[A2HCoder: An LLM-Driven Coding Agent for Hierarchical Algorithm-to-HDL Translation](http://arxiv.org/abs/2508.10904v2)** | 2025-08-25 | 15 pages, 6 figures |
-| **[ChartMaster: Advancing Chart-to-Code Generation with Real-World Charts and Chart Similarity Reinforcement Learning](http://arxiv.org/abs/2508.17608v1)** | 2025-08-25 |  |
-| **[VeriCoder: Enhancing LLM-Based RTL Code Generation through Functional Correctness Validation](http://arxiv.org/abs/2504.15659v2)** | 2025-08-24 |  |
-| **[ICQuant: Index Coding enables Low-bit LLM Quantization](http://arxiv.org/abs/2505.00850v2)** | 2025-08-24 |  |
-| **[AutoMisty: A Multi-Agent LLM Framework for Automated Code Generation in the Misty Social Robot](http://arxiv.org/abs/2503.06791v2)** | 2025-08-24 | <details><summary>Accep...</summary><p>Accepted by IROS 2025</p></details> |
+| **[Image Coding for Machines via Feature-Preserving Rate-Distortion Optimization](http://arxiv.org/abs/2504.02216v2)** | 2025-08-26 |  |
+| **[GitTaskBench: A Benchmark for Code Agents Solving Real-World Tasks Through Code Repository Leveraging](http://arxiv.org/abs/2508.18993v1)** | 2025-08-26 | <details><summary>Highl...</summary><p>Highly practical, Well-motivated, Actionable</p></details> |
+| **[Lossless 4:2:0 Screen Content Coding Using Luma-Guided Soft Context Formation](http://arxiv.org/abs/2508.18968v1)** | 2025-08-26 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 3 tables, accepted to EUSIPCO 2025</p></details> |
+| **[VISION: Robust and Interpretable Code Vulnerability Detection Leveraging Counterfactual Augmentation](http://arxiv.org/abs/2508.18933v1)** | 2025-08-26 |  |
+| **[On decoding extended Han-Zhang codes](http://arxiv.org/abs/2508.18845v1)** | 2025-08-26 | <details><summary>An ex...</summary><p>An extension of part of the results in arXiv:2401.04360v2</p></details> |
+| **[The second minimum weight of Grassmann codes](http://arxiv.org/abs/2508.18844v1)** | 2025-08-26 |  |
+| **[CASP: An evaluation dataset for formal verification of C code](http://arxiv.org/abs/2508.18798v1)** | 2025-08-26 |  |
+| **[Does AI Code Review Lead to Code Changes? A Case Study of GitHub Actions](http://arxiv.org/abs/2508.18771v1)** | 2025-08-26 |  |
+| **[Efficient Decoding of Insertion and Deletion Errors for Helberg Codes](http://arxiv.org/abs/2508.18699v1)** | 2025-08-26 | 22 pages |
+| **[Requirements Development and Formalization for Reliable Code Generation: A Multi-Agent Vision](http://arxiv.org/abs/2508.18675v1)** | 2025-08-26 |  |
+| **[SolEval: Benchmarking Large Language Models for Repository-level Solidity Code Generation](http://arxiv.org/abs/2502.18793v3)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted By EMNLP'25-Main</p></details> |
+| **[New Kid in the Classroom: Exploring Student Perceptions of AI Coding Assistants](http://arxiv.org/abs/2507.22900v2)** | 2025-08-26 | <details><summary>A sho...</summary><p>A shorter version of the manuscript (16 pages) has been accepted to be published in Proceedings of 19th Colombian Conference on Computing, CCC 2025</p></details> |
+| **[Targeted Clifford logical gates for hypergraph product codes](http://arxiv.org/abs/2411.17050v2)** | 2025-08-26 | Final version, 46pp |
+| **[How do Humans and LLMs Process Confusing Code?](http://arxiv.org/abs/2508.18547v1)** | 2025-08-25 |  |
+| **[VERIRL: Boosting the LLM-based Verilog Code Generation via Reinforcement Learning](http://arxiv.org/abs/2508.18462v1)** | 2025-08-25 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Slice-Based Change Impact Analysis for Regression Test Case Prioritization of Object-Oriented Programs](http://arxiv.org/abs/2508.19056v1)** | 2025-08-26 |  |
+| **[Constraint Matters: Multi-Modal Representation for Reducing Mixed-Integer Linear programming](http://arxiv.org/abs/2508.18742v1)** | 2025-08-26 |  |
+| **[Boosting Redundancy-based Automated Program Repair by Fine-grained Pattern Mining](http://arxiv.org/abs/2312.15955v3)** | 2025-08-26 | <details><summary>This ...</summary><p>This paper has been accepted by ICSME 2025</p></details> |
+| **[Reformulations of Quadratic Programs for Lipschitz Continuity](http://arxiv.org/abs/2508.18530v1)** | 2025-08-25 | <details><summary>Submi...</summary><p>Submitted to IEEE Control Systems Letters (L-CSS)</p></details> |
 | **[Data-Driven Discovery of Interpretable Kalman Filter Variants through Large Language Models and Genetic Programming](http://arxiv.org/abs/2508.11703v2)** | 2025-08-25 |  |
-| **[Boosting Redundancy-based Automated Program Repair by Fine-grained Pattern Mining](http://arxiv.org/abs/2312.15955v2)** | 2025-08-25 | <details><summary>This ...</summary><p>This paper has been accepted by ICSME 2025</p></details> |
 | **[Modular electronic microrobots with on board sensor-program steered locomotion](http://arxiv.org/abs/2508.17390v1)** | 2025-08-24 |  |
 | **[DeeP-Mod: Deep Dynamic Programming based Environment Modelling using Feature Extraction](http://arxiv.org/abs/2504.20535v2)** | 2025-08-24 | <details><summary>This ...</summary><p>This is an author's version. Paper has been accepted to 19th International Symposium on Neural Networks and was presented in August 2025 in China</p></details> |
 | **[Borrowing Dirty Qubits in Quantum Programs](http://arxiv.org/abs/2508.17190v1)** | 2025-08-24 |  |
@@ -38,7 +41,4 @@ labels: documentation
 | **[On the Duality of Task and Actor Programming Models](http://arxiv.org/abs/2508.16522v1)** | 2025-08-22 |  |
 | **[How Small is Enough? Empirical Evidence of Quantized Small Language Models for Automated Program Repair](http://arxiv.org/abs/2508.16499v1)** | 2025-08-22 |  |
 | **[AetherCode: Evaluating LLMs' Ability to Win In Premier Programming Competitions](http://arxiv.org/abs/2508.16402v1)** | 2025-08-22 | 15 pages |
-| **[SPL-LNS: Sampling-Enhanced Large Neighborhood Search for Solving Integer Linear Programs](http://arxiv.org/abs/2508.16171v1)** | 2025-08-22 |  |
-| **[GPLight+: A Genetic Programming Method for Learning Symmetric Traffic Signal Control Policy](http://arxiv.org/abs/2508.16090v1)** | 2025-08-22 |  |
-| **[From Benchmark Data To Applicable Program Repair: An Experience Report](http://arxiv.org/abs/2508.16071v1)** | 2025-08-22 |  |
 
