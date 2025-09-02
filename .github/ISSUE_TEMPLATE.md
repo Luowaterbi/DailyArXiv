@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 01, 2025
+title: Latest 15 Papers - September 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -8,6 +8,20 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Detecting Stealthy Data Poisoning Attacks in AI Code Generators](http://arxiv.org/abs/2508.21636v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted to the 3rd IEEE International Workshop on Reliable and Secure AI for Software Engineering (ReSAISE, 2025), co-located with ISSRE 2025</p></details> |
+| **[Human-Written vs. AI-Generated Code: A Large-Scale Study of Defects, Vulnerabilities, and Complexity](http://arxiv.org/abs/2508.21634v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted to the 36th IEEE International Symposium on Software Reliability Engineering (ISSRE, 2025)</p></details> |
+| **[Targeted Clifford logical gates for hypergraph product codes](http://arxiv.org/abs/2411.17050v3)** | 2025-08-29 | Final version, 46pp |
+| **[On the Weight Distribution of Concatenated Code Ensemble Based on the Plotkin Construction](http://arxiv.org/abs/2508.21515v1)** | 2025-08-29 |  |
+| **[Explicit Residual-Based Scalable Image Coding for Humans and Machines](http://arxiv.org/abs/2506.19297v2)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted to IEEE 27th International Workshop on Multimedia Signal Processing (MMSP 2025)</p></details> |
+| **[RepoMark: A Code Usage Auditing Framework for Code Large Language Models](http://arxiv.org/abs/2508.21432v1)** | 2025-08-29 |  |
+| **[RoboInspector: Unveiling the Unreliability of Policy Code for LLM-enabled Robotic Manipulation](http://arxiv.org/abs/2508.21378v1)** | 2025-08-29 |  |
+| **[QHackBench: Benchmarking Large Language Models for Quantum Code Generation Using PennyLane Hackathon Challenges](http://arxiv.org/abs/2506.20008v2)** | 2025-08-29 | <details><summary>To ap...</summary><p>To appear at the IEEE International Conference on Quantum Artificial Intelligence (QAI), Naples, Italy, November 2025</p></details> |
+| **[Towards Automated Detection of Inline Code Comment Smells](http://arxiv.org/abs/2504.18956v2)** | 2025-08-29 |  |
+| **[Efficient Code Embeddings from Code Generation Models](http://arxiv.org/abs/2508.21290v1)** | 2025-08-29 | <details><summary>9 pag...</summary><p>9 pages, table and evaluations 5-9</p></details> |
+| **[Efficient Sparse Coding with the Adaptive Locally Competitive Algorithm for Speech Classification](http://arxiv.org/abs/2409.08188v4)** | 2025-08-29 | <details><summary>Inter...</summary><p>Internal technical report, Department of Electrical Engineering, University of Sherbrooke</p></details> |
+| **[Random Reed-Solomon Codes Achieve List-Decoding Capacity With Linear-Sized Alphabets](http://arxiv.org/abs/2304.09445v6)** | 2025-08-28 | <details><summary>Merge...</summary><p>Merged journal version of arXiv:2304.09445v5 and arXiv:2304.01403v2</p></details> |
+| **[On the non-existence of perfect codes in the sum-rank metric](http://arxiv.org/abs/2508.20940v1)** | 2025-08-28 |  |
+| **[Vibe Coding: Is Human Nature the Ghost in the Machine?](http://arxiv.org/abs/2508.20918v1)** | 2025-08-28 |  |
+| **[Quantum Verifiable Rewards for Post-Training Qiskit Code Assistant](http://arxiv.org/abs/2508.20907v1)** | 2025-08-28 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
