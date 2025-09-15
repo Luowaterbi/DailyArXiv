@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 14, 2025
+title: Latest 15 Papers - September 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quantum $(r,δ)$-locally recoverable codes](http://arxiv.org/abs/2412.16590v2)** | 2025-09-12 | <details><summary>23 pa...</summary><p>23 pages; AMSLaTeX; Proof of Lemma 15 is corrected, optimal quantum LRCs are called as optimal pure quantum LRCs, and some theorems are renumbered in version 2</p></details> |
+| **[Channel Coding for Gaussian Channels with Mean and Variance Constraints](http://arxiv.org/abs/2501.10953v3)** | 2025-09-12 |  |
+| **[RefactorCoderQA: Benchmarking LLMs for Multi-Domain Coding Question Solutions in Cloud and Edge Deployment](http://arxiv.org/abs/2509.10436v1)** | 2025-09-12 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, submitted to IEEE Transactions on Services Computing</p></details> |
+| **[Developer-LLM Conversations: An Empirical Study of Interactions and Generated Code Quality](http://arxiv.org/abs/2509.10402v1)** | 2025-09-12 |  |
+| **[Near-Optimal Recovery Performance of PhaseLift for Phase Retrieval from Coded Diffraction Patterns](http://arxiv.org/abs/2509.10300v1)** | 2025-09-12 |  |
+| **[Stencil-Lifting: Hierarchical Recursive Lifting System for Extracting Summary of Stencil Kernel in Legacy Codes](http://arxiv.org/abs/2509.10236v1)** | 2025-09-12 | <details><summary>33 pa...</summary><p>33 pages, 12 figures. Submitted to OOPSLA2'25</p></details> |
+| **[Symplectic Lattices and GKP Codes -- Simple Randomized Constructions from Cryptographic Lattices](http://arxiv.org/abs/2509.10183v1)** | 2025-09-12 | 41 pages, 3 figures |
+| **[FGIT: Fault-Guided Fine-Tuning for Code Generation](http://arxiv.org/abs/2503.16913v2)** | 2025-09-12 |  |
+| **[A Symmetry-Integrated Approach to Surface Code Decoding](http://arxiv.org/abs/2509.10164v1)** | 2025-09-12 | 12 pages, 6 figures |
+| **[Generating Energy-Efficient Code via Large-Language Models -- Where are we now?](http://arxiv.org/abs/2509.10099v1)** | 2025-09-12 |  |
+| **[GeoJSON Agents:A Multi-Agent LLM Architecture for Geospatial Analysis-Function Calling vs Code Generation](http://arxiv.org/abs/2509.08863v2)** | 2025-09-12 |  |
+| **[Sparse Coding Representation of 2-way Data](http://arxiv.org/abs/2509.10033v1)** | 2025-09-12 |  |
+| **[Several new classes of optimal p-ary cyclic codes](http://arxiv.org/abs/2509.09951v1)** | 2025-09-12 |  |
+| **[Toward Green Code: Prompting Small Language Models for Energy-Efficient Code Generation](http://arxiv.org/abs/2509.09947v1)** | 2025-09-12 |  |
 | **[Data Compression with Relative Entropy Coding](http://arxiv.org/abs/2506.16309v2)** | 2025-09-11 | <details><summary>PhD T...</summary><p>PhD Thesis. 224 pages, 19 figures</p></details> |
-| **[I Know Who Clones Your Code: Interpretable Smart Contract Similarity Detection](http://arxiv.org/abs/2509.09630v1)** | 2025-09-11 |  |
-| **[Asynchronous-Many-Task Systems: Challenges and Opportunities -- Scaling an AMR Astrophysics Code on Exascale machines using Kokkos and HPX](http://arxiv.org/abs/2412.15518v2)** | 2025-09-11 |  |
-| **[Fast Polarisation-Aware Decoder for Non-Binary Polar Codes](http://arxiv.org/abs/2509.09554v1)** | 2025-09-11 | <details><summary>8 pag...</summary><p>8 pages and 8 figures. Paper submitted to Annals of Telecommunications (August 2025)</p></details> |
-| **[In-Loop Filtering Using Learned Look-Up Tables for Video Coding](http://arxiv.org/abs/2509.09494v1)** | 2025-09-11 | 25 pages |
-| **[Barycentric Coded Distributed Computing with Flexible Recovery Threshold for Collaborative Mobile Edge Computing](http://arxiv.org/abs/2509.09435v1)** | 2025-09-11 |  |
-| **[CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics](http://arxiv.org/abs/2411.17274v7)** | 2025-09-11 |  |
-| **[What You Code Is What We Prove: Translating BLE App Logic into Formal Models with LLMs for Vulnerability Detection](http://arxiv.org/abs/2509.09291v1)** | 2025-09-11 |  |
-| **[Visual Programmability: A Guide for Code-as-Thought in Chart Understanding](http://arxiv.org/abs/2509.09286v1)** | 2025-09-11 |  |
-| **[Probing Pre-trained Language Models on Code Changes: Insights from ReDef, a High-Confidence Just-in-Time Defect Prediction Dataset](http://arxiv.org/abs/2509.09192v1)** | 2025-09-11 | <details><summary>An an...</summary><p>An anonymous link containing the dataset, construction scripts, and experimental code is publicly available for reproducibility: https://figshare.com/s/4f202bc0921e26b41dc2</p></details> |
-| **[Klear-CodeTest: Scalable Test Case Generation for Code Reinforcement Learning](http://arxiv.org/abs/2508.05710v2)** | 2025-09-11 | 21 pages, 11 figures |
-| **[TigerCoder: A Novel Suite of LLMs for Code Generation in Bangla](http://arxiv.org/abs/2509.09101v1)** | 2025-09-11 |  |
-| **[CLARA: A Developer's Companion for Code Comprehension and Analysis](http://arxiv.org/abs/2509.09072v1)** | 2025-09-11 | <details><summary>In pr...</summary><p>In proceedings at the 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025</p></details> |
-| **[HARD: A Performance Portable Radiation Hydrodynamics Code based on FleCSI Framework](http://arxiv.org/abs/2509.08971v1)** | 2025-09-10 | 15 pages, 8 figures |
-| **[The Eigenvalue Method in Coding Theory](http://arxiv.org/abs/2509.08917v1)** | 2025-09-10 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Prompt Programming: A Platform for Dialogue-based Computational Problem Solving with Generative AI Models](http://arxiv.org/abs/2503.04267v2)** | 2025-09-12 | ITiCSE'25 paper |
+| **[Gaussian path model library for intuitive robot motion programming by demonstration](http://arxiv.org/abs/2509.10007v1)** | 2025-09-12 |  |
+| **[SLD-Spec: Enhancement LLM-assisted Specification Generation for Complex Loop Functions via Program Slicing and Logical Deletion](http://arxiv.org/abs/2509.09917v1)** | 2025-09-12 | <details><summary>22 pa...</summary><p>22 pages, 2 figures, conference</p></details> |
 | **[On Integrating Large Language Models and Scenario-Based Programming for Improving Software Reliability](http://arxiv.org/abs/2509.09194v1)** | 2025-09-11 |  |
 | **[Towards Verified Compilation of Floating-point Optimization in Scientific Computing Programs](http://arxiv.org/abs/2509.09019v1)** | 2025-09-10 |  |
 | **[Hiord#: An Approach to the Specification and Verification of Higher-Order (C)LP Programs](http://arxiv.org/abs/2507.17233v2)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted for publication in Theory and Practice of Logic Programming (TPLP)</p></details> |
@@ -38,7 +41,4 @@ labels: documentation
 | **[Specification-Guided Repair of Arithmetic Errors in Dafny Programs using LLMs](http://arxiv.org/abs/2507.03659v3)** | 2025-09-08 |  |
 | **[Assistance or Disruption? Exploring and Evaluating the Design and Trade-offs of Proactive AI Programming Support](http://arxiv.org/abs/2502.18658v4)** | 2025-09-08 |  |
 | **[Dato: A Task-Based Programming Model for Dataflow Accelerators](http://arxiv.org/abs/2509.06794v1)** | 2025-09-08 |  |
-| **[Termination Analysis of Linear-Constraint Programs](http://arxiv.org/abs/2509.06752v1)** | 2025-09-08 |  |
-| **[Towards No-Code Programming of Cobots: Experiments with Code Synthesis by Large Code Models for Conversational Programming](http://arxiv.org/abs/2409.11041v4)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted to ITL4HRI workshop at RO-MAN 2025 conference</p></details> |
-| **[MultiPL-MoE: Multi-Programming-Lingual Extension of Large Language Models through Hybrid Mixture-of-Experts](http://arxiv.org/abs/2508.19268v2)** | 2025-09-08 |  |
 
