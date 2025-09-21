@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 20, 2025
+title: Latest 15 Papers - September 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -33,6 +33,7 @@ labels: documentation
 | **[Meta-Optimization and Program Search using Language Models for Task and Motion Planning](http://arxiv.org/abs/2505.03725v2)** | 2025-09-17 | <details><summary>8 pag...</summary><p>8 pages main text, 11 pages appendix, accepted at the 9th Annual Conference on Robot Learning (CoRL 2025)</p></details> |
 | **[GPU Programming for AI Workflow Development on AWS SageMaker: An Instructional Approach](http://arxiv.org/abs/2509.13703v1)** | 2025-09-17 |  |
 | **[Hierarchical Reactive Grasping via Task-Space Velocity Fields and Joint-Space Quadratic Programming](http://arxiv.org/abs/2509.01044v2)** | 2025-09-17 | <details><summary>8 pag...</summary><p>8 pages, 12 figures, under review</p></details> |
+| **[Retrograde Program Analysis: A Practical Tutorial](http://arxiv.org/abs/1006.2534v9)** | 2025-09-16 | <details><summary>This ...</summary><p>This is a shorter, practical redaction; longer proofs and additional case studies</p></details> |
 | **[Trajectory Tracking with Reachability-Guided Quadratic Programming and Freeze-Resume](http://arxiv.org/abs/2509.13501v1)** | 2025-09-16 |  |
 | **[Evolution of Programmers' Trust in Generative AI Programming Assistants](http://arxiv.org/abs/2509.13253v1)** | 2025-09-16 | <details><summary>Koli ...</summary><p>Koli Calling 2025 conference</p></details> |
 | **[A Linear Programming Framework for Optimal Event-Triggered LQG Control](http://arxiv.org/abs/2509.10671v2)** | 2025-09-16 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Efficient Compilation of Algorithms into Compact Linear Programs](http://arxiv.org/abs/2509.13006v1)** | 2025-09-16 | <details><summary>Preli...</summary><p>Preliminary version will appear in CASCON 2025</p></details> |
 | **[Enhancing Automated Loop Invariant Generation for Complex Programs with Large Language Models](http://arxiv.org/abs/2412.10483v3)** | 2025-09-16 | 26 pages, 11 figures |
 | **[MTP: A Meaning-Typed Language Abstraction for AI-Integrated Programming](http://arxiv.org/abs/2405.08965v6)** | 2025-09-15 | OOPSLA 2025 |
-| **[AI Agentic Programming: A Survey of Techniques, Challenges, and Opportunities](http://arxiv.org/abs/2508.11126v2)** | 2025-09-15 |  |
 
