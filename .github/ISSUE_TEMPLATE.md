@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 21, 2025
+title: Latest 15 Papers - September 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,14 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FocalCodec-Stream: Streaming Low-Bitrate Speech Coding via Causal Distillation](http://arxiv.org/abs/2509.16195v1)** | 2025-09-19 | 5 pages, 1 figure |
+| **[MatchFixAgent: Language-Agnostic Autonomous Repository-Level Code Translation Validation and Repair](http://arxiv.org/abs/2509.16187v1)** | 2025-09-19 |  |
+| **[CodeRAG: Finding Relevant and Necessary Knowledge for Retrieval-Augmented Repository-Level Code Completion](http://arxiv.org/abs/2509.16112v1)** | 2025-09-19 | EMNLP 2025 |
+| **[Towards Better Code Generation: Adaptive Decoding with Uncertainty Guidance](http://arxiv.org/abs/2506.08980v3)** | 2025-09-19 | 21 pages, 7 figures |
+| **[Brevity is the Soul of Wit: Condensing Code Changes to Improve Commit Message Generation](http://arxiv.org/abs/2509.15567v1)** | 2025-09-19 |  |
+| **[MEC-Quant: Maximum Entropy Coding for Extremely Low Bit Quantization-Aware Training](http://arxiv.org/abs/2509.15514v1)** | 2025-09-19 | 7pages;on going work |
+| **[LoCaL: Countering Surface Bias in Code Evaluation Metrics](http://arxiv.org/abs/2509.15397v1)** | 2025-09-18 |  |
+| **[SeCodePLT: A Unified Platform for Evaluating the Security of Code GenAI](http://arxiv.org/abs/2410.11096v2)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted to NeurIPS D&B track 2025</p></details> |
 | **[Locally recoverable codes with multiple recovering sets from maximal curves](http://arxiv.org/abs/2509.15163v1)** | 2025-09-18 |  |
 | **[A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](http://arxiv.org/abs/2508.18106v3)** | 2025-09-18 |  |
 | **[Improved Constructions and Lower Bounds for Maximally Recoverable Grid Codes](http://arxiv.org/abs/2509.15013v1)** | 2025-09-18 | 16 pages |
@@ -14,19 +22,15 @@ labels: documentation
 | **[Four classes of LCD codes from (*)-(L,P)-twisted generalized Reed-Solomon codes](http://arxiv.org/abs/2509.14878v1)** | 2025-09-18 | 25pages |
 | **[Do Code Semantics Help? A Comprehensive Study on Execution Trace-Based Information for Code Large Language Models](http://arxiv.org/abs/2509.11686v2)** | 2025-09-18 | <details><summary>EMNLP...</summary><p>EMNLP2025-findings https://openreview.net/forum?id=d4ICISW2T4</p></details> |
 | **[CodeFuse-CR-Bench: A Comprehensiveness-aware Benchmark for End-to-End Code Review Evaluation in Python Projects](http://arxiv.org/abs/2509.14856v1)** | 2025-09-18 |  |
-| **[On Finite-Blocklength Noisy Classical-Quantum Channel Coding With Amplitude Damping Errors](http://arxiv.org/abs/2509.14852v1)** | 2025-09-18 | <details><summary>Paper...</summary><p>Paper accepted for presentation at the 2025 IEEE Information Theory Workshop (ITW 2025). Final conference version</p></details> |
-| **[RulER: Automated Rule-Based Semantic Error Localization and Repair for Code Translation](http://arxiv.org/abs/2509.14829v1)** | 2025-09-18 | <details><summary>Due t...</summary><p>Due to the limitation "The abstract field cannot be longer than 1,920 characters", the abstract here is shorter than that in the PDF file</p></details> |
-| **[On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub](http://arxiv.org/abs/2509.14745v1)** | 2025-09-18 |  |
-| **[On the Use of Agentic Coding Manifests: An Empirical Study of Claude Code](http://arxiv.org/abs/2509.14744v1)** | 2025-09-18 |  |
-| **[SWE-QA: Can Language Models Answer Repository-level Code Questions?](http://arxiv.org/abs/2509.14635v1)** | 2025-09-18 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/peng-weihan/SWE-QA-Bench</p></details> |
-| **[Interactive Face Video Coding: A Generative Compression Framework](http://arxiv.org/abs/2302.09919v2)** | 2025-09-18 |  |
-| **[Ensembling Large Language Models for Code Vulnerability Detection: An Empirical Evaluation](http://arxiv.org/abs/2509.12629v2)** | 2025-09-18 | 24 pages |
-| **[CodeLSI: Leveraging Foundation Models for Automated Code Generation with Low-Rank Optimization and Domain-Specific Instruction Tuning](http://arxiv.org/abs/2509.14373v1)** | 2025-09-17 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding the Role of Large Language Models in Competitive Programming](http://arxiv.org/abs/2509.15867v1)** | 2025-09-19 |  |
+| **[HyP-ASO: A Hybrid Policy-based Adaptive Search Optimization Framework for Large-Scale Integer Linear Programs](http://arxiv.org/abs/2509.15828v1)** | 2025-09-19 |  |
 | **[Weighted Automata for Exact Inference in Discrete Probabilistic Programs](http://arxiv.org/abs/2509.15074v1)** | 2025-09-18 |  |
+| **[Evaluating the Limitations of Local LLMs in Solving Complex Programming Challenges](http://arxiv.org/abs/2509.15283v1)** | 2025-09-18 | <details><summary>Comme...</summary><p>Comments: 16 pages, 3 figures, 8 tables, accepted to CCSC Eastern 2025</p></details> |
+| **[GenCAD-3D: CAD Program Generation using Multimodal Latent Space Alignment and Synthetic Dataset Balancing](http://arxiv.org/abs/2509.15246v1)** | 2025-09-17 | <details><summary>9 fig...</summary><p>9 figures, 15 pages. Accepted and soon published in the ASME Journal of Mechanical Design</p></details> |
 | **[Effort-Optimized, Accuracy-Driven Labelling and Validation of Test Inputs for DL Systems: A Mixed-Integer Linear Programming Approach](http://arxiv.org/abs/2507.04990v2)** | 2025-09-17 |  |
 | **[Parallelizable Feynman-Kac Models for Universal Probabilistic Programming](http://arxiv.org/abs/2509.14092v1)** | 2025-09-17 | <details><summary>In Pr...</summary><p>In Proceedings GandALF 2025, arXiv:2509.13258</p></details> |
 | **[Interleaving Natural Language Prompting with Code Editing for Solving Programming Tasks with Generative AI Models](http://arxiv.org/abs/2509.14088v1)** | 2025-09-17 |  |
@@ -37,8 +41,4 @@ labels: documentation
 | **[Trajectory Tracking with Reachability-Guided Quadratic Programming and Freeze-Resume](http://arxiv.org/abs/2509.13501v1)** | 2025-09-16 |  |
 | **[Evolution of Programmers' Trust in Generative AI Programming Assistants](http://arxiv.org/abs/2509.13253v1)** | 2025-09-16 | <details><summary>Koli ...</summary><p>Koli Calling 2025 conference</p></details> |
 | **[A Linear Programming Framework for Optimal Event-Triggered LQG Control](http://arxiv.org/abs/2509.10671v2)** | 2025-09-16 |  |
-| **[Pleasant Imperative Program Proofs with GallinaC](http://arxiv.org/abs/2509.13019v1)** | 2025-09-16 | <details><summary>In Pr...</summary><p>In Proceedings FROM 2025, arXiv:2509.11877</p></details> |
-| **[Efficient Compilation of Algorithms into Compact Linear Programs](http://arxiv.org/abs/2509.13006v1)** | 2025-09-16 | <details><summary>Preli...</summary><p>Preliminary version will appear in CASCON 2025</p></details> |
-| **[Enhancing Automated Loop Invariant Generation for Complex Programs with Large Language Models](http://arxiv.org/abs/2412.10483v3)** | 2025-09-16 | 26 pages, 11 figures |
-| **[MTP: A Meaning-Typed Language Abstraction for AI-Integrated Programming](http://arxiv.org/abs/2405.08965v6)** | 2025-09-15 | OOPSLA 2025 |
 
