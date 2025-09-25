@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 24, 2025
+title: Latest 15 Papers - September 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,28 +7,32 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[White-Basilisk: A Hybrid Model for Code Vulnerability Detection](http://arxiv.org/abs/2507.08540v3)** | 2025-09-24 |  |
+| **[Investigating Security Implications of Automatically Generated Code on the Software Supply Chain](http://arxiv.org/abs/2509.20277v1)** | 2025-09-24 |  |
+| **[Predictive Coding-based Deep Neural Network Fine-tuning for Computationally Efficient Domain Adaptation](http://arxiv.org/abs/2509.20269v1)** | 2025-09-24 | 20 pages, 4 figures |
+| **[The Cream Rises to the Top: Efficient Reranking Method for Verilog Code Generation](http://arxiv.org/abs/2509.20215v1)** | 2025-09-24 | <details><summary>Under...</summary><p>Under review ICASSP 2026</p></details> |
+| **[Benchmarking Web API Integration Code Generation](http://arxiv.org/abs/2509.20172v1)** | 2025-09-24 | <details><summary>To be...</summary><p>To be published in Proceedings of 2nd ACM International Conference on AI-powered Software, Benchmark & Dataset Track (AIware '25)</p></details> |
+| **[V-GameGym: Visual Game Generation for Code Large Language Models](http://arxiv.org/abs/2509.20136v1)** | 2025-09-24 |  |
+| **[Heterogeneous Directed Hypergraph Neural Network over abstract syntax tree (AST) for Code Classification](http://arxiv.org/abs/2305.04228v6)** | 2025-09-24 | <details><summary>Publi...</summary><p>Published in the 35th International Conference on Software Engineering and Knowledge Engineering (SEKE 2023) as a regular paper; the latest version is consistent with the official conference version</p></details> |
+| **[Beyond Language Barriers: Multi-Agent Coordination for Multi-Language Code Generation](http://arxiv.org/abs/2509.19918v1)** | 2025-09-24 |  |
+| **[Do Code Semantics Help? A Comprehensive Study on Execution Trace-Based Information for Code Large Language Models](http://arxiv.org/abs/2509.11686v3)** | 2025-09-24 | <details><summary>EMNLP...</summary><p>EMNLP2025-findings https://openreview.net/forum?id=d4ICISW2T4</p></details> |
+| **[Agentic Metacognition: Designing a "Self-Aware" Low-Code Agent for Failure Prediction and Human Handoff](http://arxiv.org/abs/2509.19783v1)** | 2025-09-24 | 7 pages, 2 tables |
+| **[Automated Repair of Ambiguous Problem Descriptions for LLM-Based Code Generation](http://arxiv.org/abs/2505.07270v3)** | 2025-09-24 |  |
+| **[Assertion Messages with Large Language Models (LLMs) for Code](http://arxiv.org/abs/2509.19673v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted at Proceedings of the 2025 Evaluation and Assessment in Software Engineering (EASE '25)</p></details> |
+| **[Reverse Engineering User Stories from Code using Large Language Models](http://arxiv.org/abs/2509.19587v1)** | 2025-09-23 |  |
+| **[Embedding Alignment in Code Generation for Audio](http://arxiv.org/abs/2508.05473v2)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 AI4Music Workshop</p></details> |
 | **[A Preliminary Study on the Robustness of Code Generation by Large Language Models](http://arxiv.org/abs/2503.20197v4)** | 2025-09-23 | 10 pages |
-| **[QSpark: Towards Reliable Qiskit Code Generation](http://arxiv.org/abs/2507.12642v2)** | 2025-09-23 |  |
-| **[LLM-based Vulnerability Discovery through the Lens of Code Metrics](http://arxiv.org/abs/2509.19117v1)** | 2025-09-23 |  |
-| **[Code Driven Planning with Domain-Adaptive Critic](http://arxiv.org/abs/2509.19077v1)** | 2025-09-23 |  |
-| **[Phantora: Maximizing Code Reuse in Simulation-based Machine Learning System Performance Estimation](http://arxiv.org/abs/2505.01616v2)** | 2025-09-23 |  |
-| **[Pandora: A Code-Driven Large Language Model Agent for Unified Reasoning Across Diverse Structured Knowledge](http://arxiv.org/abs/2504.12734v2)** | 2025-09-23 | <details><summary>New v...</summary><p>New version is arXiv:2508.17905</p></details> |
-| **[SR-Eval: Evaluating LLMs on Code Generation under Stepwise Requirement Refinement](http://arxiv.org/abs/2509.18808v1)** | 2025-09-23 |  |
-| **[Detection of security smells in IaC scripts through semantics-aware code and language processing](http://arxiv.org/abs/2509.18790v1)** | 2025-09-23 |  |
-| **[Security smells in infrastructure as code: a taxonomy update beyond the seven sins](http://arxiv.org/abs/2509.18761v1)** | 2025-09-23 |  |
-| **[Fermion-to-Fermion Low-Density Parity-Check Codes](http://arxiv.org/abs/2508.15323v3)** | 2025-09-23 | <details><summary>21 pa...</summary><p>21 pages (including supplemental material), 11 figures. This version corrects some typos</p></details> |
-| **[Ruled surfaces over finite fields, and some codes over them](http://arxiv.org/abs/2509.18698v1)** | 2025-09-23 |  |
-| **[A topological theory for qLDPC: non-Clifford gates and magic state fountain on homological product codes with constant rate and beyond the $N^{1/3}$ distance barrier](http://arxiv.org/abs/2501.19375v3)** | 2025-09-23 | <details><summary>52 pa...</summary><p>52 pages, 24 figures. Significant update in v3 by defining codes on CW complexes obtained from deformation retraction from the underlying manifold in the new Section VI</p></details> |
-| **[GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding](http://arxiv.org/abs/2409.04183v4)** | 2025-09-23 | ACL 2025 |
-| **[Growing with Your Embodied Agent: A Human-in-the-Loop Lifelong Code Generation Framework for Long-Horizon Manipulation Skills](http://arxiv.org/abs/2509.18597v1)** | 2025-09-23 | <details><summary>uploa...</summary><p>upload 9 main page - v1</p></details> |
-| **[ATLAS: Benchmarking and Adapting LLMs for Global Trade via Harmonized Tariff Code Classification](http://arxiv.org/abs/2509.18400v1)** | 2025-09-22 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Functional vs. Object-Oriented: Comparing How Programming Paradigms Affect the Architectural Characteristics of Systems](http://arxiv.org/abs/2508.00244v2)** | 2025-09-24 | <details><summary>11 pa...</summary><p>11 pages, 15 figures (1 table, 3 diagrams, 4 graphics, 7 listings), accepted to the CTICQS capstone project competition at SBQS 2025</p></details> |
+| **[Error Propagation in Dynamic Programming: From Stochastic Control to Option Pricing](http://arxiv.org/abs/2509.20239v1)** | 2025-09-24 |  |
+| **[Quantum Simulation Programming via Typing](http://arxiv.org/abs/2509.17343v3)** | 2025-09-24 | <details><summary>accep...</summary><p>accepted talk paper in the 22nd International Conference on Quantum Physics and Logic (QPL 2025)</p></details> |
+| **[Analysis of approximate linear programming solution to Markov decision problem with log barrier function](http://arxiv.org/abs/2509.19800v1)** | 2025-09-24 |  |
+| **[linrax: A JAX Compatible, Simplex Method Linear Program Solver](http://arxiv.org/abs/2509.19484v1)** | 2025-09-23 | 8 pages, 3 figures |
 | **[Integrating Belief Domains into Probabilistic Logic Programs](http://arxiv.org/abs/2507.17291v2)** | 2025-09-23 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
 | **[Adaptive Fast-and-Slow Visual Program Reasoning for Long-Form VideoQA](http://arxiv.org/abs/2509.17743v2)** | 2025-09-23 |  |
-| **[Quantum Simulation Programming via Typing](http://arxiv.org/abs/2509.17343v2)** | 2025-09-23 | <details><summary>Paper...</summary><p>Paper accepted to the Quantum Programming Languages (QPL) 2025 conference; available from: https://qpl2025.github.io/accepted/</p></details> |
 | **[Program Synthesis via Test-Time Transduction](http://arxiv.org/abs/2509.17393v2)** | 2025-09-23 | NeurIPS 2025 |
 | **[Petri Nets-based Methods on Automatically Detecting for Concurrency Bugs in Rust Programs](http://arxiv.org/abs/2212.02754v3)** | 2025-09-23 |  |
 | **[SLICET5: Static Program Slicing using Language Models with Copy Mechanism and Constrained Decoding](http://arxiv.org/abs/2509.17338v1)** | 2025-09-22 | <details><summary>3 tab...</summary><p>3 tables, 6 Figures, 12 pages</p></details> |
@@ -37,8 +41,4 @@ labels: documentation
 | **[Out-of-Distribution Generalization in the ARC-AGI Domain: Comparing Execution-Guided Neural Program Synthesis and Test-Time Fine-Tuning](http://arxiv.org/abs/2507.15877v2)** | 2025-09-21 | <details><summary>this ...</summary><p>this version fixes errors in AlphaEvolve total % calculation, Table 3 DSL description, and adds clarifications in response to review criticisms</p></details> |
 | **[Agentic AI Software Engineers: Programming with Trust](http://arxiv.org/abs/2502.13767v4)** | 2025-09-21 | 5 pages |
 | **[Differential Privacy for Euclidean Jordan Algebra with Applications to Private Symmetric Cone Programming](http://arxiv.org/abs/2509.16915v1)** | 2025-09-21 | NeurIPS 2025 |
-| **[RelRepair: Enhancing Automated Program Repair by Retrieving Relevant Code](http://arxiv.org/abs/2509.16701v1)** | 2025-09-20 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, under review at TSE</p></details> |
-| **[Is Measurement Enough? Rethinking Output Validation in Quantum Program Testing](http://arxiv.org/abs/2509.16595v1)** | 2025-09-20 | <details><summary>This ...</summary><p>This paper will be appeared in the proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025), NIER track, Seoul, South Korea, November 16 -20, 2025</p></details> |
-| **[EquiBench: Benchmarking Large Language Models' Reasoning about Program Semantics via Equivalence Checking](http://arxiv.org/abs/2502.12466v3)** | 2025-09-19 |  |
-| **[LiteRSan: Lightweight Memory Safety Via Rust-specific Program Analysis and Selective Instrumentation](http://arxiv.org/abs/2509.16389v1)** | 2025-09-19 | <details><summary>14 pa...</summary><p>14 pages (main text), 18 pages including references and appendix, 2 figures</p></details> |
 
