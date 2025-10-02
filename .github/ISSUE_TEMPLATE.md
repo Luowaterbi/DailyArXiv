@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 01, 2025
+title: Latest 15 Papers - October 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Code Like Humans: A Multi-Agent Solution for Medical Coding](http://arxiv.org/abs/2509.05378v2)** | 2025-10-01 | EMNLP Findings 2025 |
+| **[Secure coding for web applications: Frameworks, challenges, and the role of LLMs](http://arxiv.org/abs/2507.22223v3)** | 2025-09-30 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 3 tables, 6 listings</p></details> |
 | **[Towards Verified Code Reasoning by LLMs](http://arxiv.org/abs/2509.26546v1)** | 2025-09-30 | 43 pages |
 | **[Regression Language Models for Code](http://arxiv.org/abs/2509.26476v1)** | 2025-09-30 |  |
 | **[From Code to Concept: Evaluating Multiple Coordinated Views in Introductory Programming](http://arxiv.org/abs/2509.26466v1)** | 2025-09-30 |  |
@@ -20,12 +22,12 @@ labels: documentation
 | **[EfficientEdit: Accelerating Code Editing via Edit-Oriented Speculative Decoding](http://arxiv.org/abs/2506.02780v2)** | 2025-09-30 | Accepted by ASE 2025 |
 | **[Lita: Light Agent Uncovers the Agentic Coding Capabilities of LLMs](http://arxiv.org/abs/2509.25873v1)** | 2025-09-30 |  |
 | **[A Preference-Driven Methodology for High-Quality Solidity Code Generation](http://arxiv.org/abs/2506.03006v3)** | 2025-09-30 |  |
-| **[Long-Horizon Visual Imitation Learning via Plan and Code Reflection](http://arxiv.org/abs/2509.05368v2)** | 2025-09-30 | 9 pages, 4 figures |
-| **[CADmium: Fine-Tuning Code Language Models for Text-Driven Sequential CAD Design](http://arxiv.org/abs/2507.09792v2)** | 2025-09-30 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Certifiably Optimal Estimation and Calibration in Robotics via Trace-Constrained Semi-Definite Programming](http://arxiv.org/abs/2509.23656v2)** | 2025-10-01 | <details><summary>Manus...</summary><p>Manuscript submitted to American Control Conference (ACC) 2026</p></details> |
+| **[EVALOOOP: A Self-Consistency-Centered Framework for Assessing Large Language Model Robustness in Programming](http://arxiv.org/abs/2505.12185v4)** | 2025-10-01 | 20 pages, 4 figures |
 | **[The Trajectory Bundle Method: Unifying Sequential-Convex Programming and Sampling-Based Trajectory Optimization](http://arxiv.org/abs/2509.26575v1)** | 2025-09-30 |  |
 | **[A systematic comparison of Large Language Models for automated assignment assessment in programming education: Exploring the importance of architecture and vendor](http://arxiv.org/abs/2509.26483v1)** | 2025-09-30 |  |
 | **[From Code to Concept: Evaluating Multiple Coordinated Views in Introductory Programming](http://arxiv.org/abs/2509.26466v1)** | 2025-09-30 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Data-Driven Discrete Geofence Design Using Binary Quadratic Programming](http://arxiv.org/abs/2509.24679v1)** | 2025-09-29 | <details><summary>17 pa...</summary><p>17 pages, 17 figures, 2 tables</p></details> |
 | **[Agentic Specification Generator for Move Programs](http://arxiv.org/abs/2509.24515v1)** | 2025-09-29 | <details><summary>18 pa...</summary><p>18 pages; Extended version of ASE'25 paper with extra appendices</p></details> |
 | **[Toward Causal-Visual Programming: Enhancing Agentic Reasoning in Low-Code Environments](http://arxiv.org/abs/2509.25282v1)** | 2025-09-29 | 5 pages, 1 table |
-| **[FMIP: Joint Continuous-Integer Flow For Mixed-Integer Linear Programming](http://arxiv.org/abs/2507.23390v2)** | 2025-09-29 | <details><summary>FMIP ...</summary><p>FMIP is a generative framework that jointly models integer and continuous variables in MILP, achieving a 41.34% reduction in primal gap and demonstrating compatibility with various solvers and applications</p></details> |
-| **[PALM: Synergizing Program Analysis and LLMs to Enhance Rust Unit Test Coverage](http://arxiv.org/abs/2506.09002v3)** | 2025-09-29 | <details><summary>Accep...</summary><p>Accepted to ASE 2025 (Research Paper Track). 11 pages, 5 figures</p></details> |
 
