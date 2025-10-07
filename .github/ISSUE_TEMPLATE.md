@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 06, 2025
+title: Latest 15 Papers - October 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tuning LLM-based Code Optimization via Meta-Prompting: An Industrial Perspective](http://arxiv.org/abs/2508.01443v2)** | 2025-10-03 | <details><summary>Accep...</summary><p>Accepted by ASE'25 Industry Showcase</p></details> |
-| **[On the Hardness of the One-Sided Code Sparsifier Problem](http://arxiv.org/abs/2510.03184v1)** | 2025-10-03 | 9 pages, LaTeX |
-| **[When Names Disappear: Revealing What LLMs Actually Understand About Code](http://arxiv.org/abs/2510.03178v1)** | 2025-10-03 |  |
-| **[Investigating The Smells of LLM Generated Code](http://arxiv.org/abs/2510.03029v1)** | 2025-10-03 |  |
-| **[Model-Agnostic Correctness Assessment for LLM-Generated Code via Dynamic Internal Representation Selection](http://arxiv.org/abs/2510.02934v1)** | 2025-10-03 |  |
-| **[Mechanistic Interpretability of Code Correctness in LLMs via Sparse Autoencoders](http://arxiv.org/abs/2510.02917v1)** | 2025-10-03 |  |
-| **[GramTrans: A Better Code Representation Approach in Code Generation](http://arxiv.org/abs/2510.02887v1)** | 2025-10-03 |  |
-| **[Universal classical-quantum channel resolvability and private channel coding](http://arxiv.org/abs/2510.02883v1)** | 2025-10-03 | 39 pages |
-| **[Vibe coding: programming through conversation with artificial intelligence](http://arxiv.org/abs/2506.23253v2)** | 2025-10-03 | <details><summary>Sarka...</summary><p>Sarkar, A., & Drosos, I. (2025). Vibe coding: Programming through conversation with artificial intelligence. In Proceedings of the 36th Annual Conference of the Psychology of Programming Interest Group (PPIG 2025)</p></details> |
-| **[Automatic Building Code Review: A Case Study](http://arxiv.org/abs/2510.02634v1)** | 2025-10-03 |  |
-| **[Analyzing Latent Concepts in Code Language Models](http://arxiv.org/abs/2510.00476v2)** | 2025-10-02 |  |
-| **[RedCodeAgent: Automatic Red-teaming Agent against Diverse Code Agents](http://arxiv.org/abs/2510.02609v1)** | 2025-10-02 |  |
-| **[Unmasking the Genuine Type Inference Capabilities of LLMs for Java Code Snippets](http://arxiv.org/abs/2503.04076v2)** | 2025-10-02 | under review |
-| **[cAST: Enhancing Code Retrieval-Augmented Generation with Structural Chunking via Abstract Syntax Tree](http://arxiv.org/abs/2506.15655v2)** | 2025-10-02 |  |
-| **[LitterBox+: An Extensible Framework for LLM-enhanced Scratch Static Code Analysis](http://arxiv.org/abs/2509.12021v2)** | 2025-10-02 | <details><summary>ASE 2...</summary><p>ASE 2025 Tool Demonstration Track</p></details> |
+| **[KEEP: Integrating Medical Ontologies with Clinical Data for Robust Code Embeddings](http://arxiv.org/abs/2510.05049v1)** | 2025-10-06 |  |
+| **[Retrieval-Augmented Code Generation: A Survey with Focus on Repository-Level Approaches](http://arxiv.org/abs/2510.04905v1)** | 2025-10-06 |  |
+| **[Understanding User Mental Models in AI-Driven Code Completion Tools: Insights from an Elicitation Study](http://arxiv.org/abs/2502.02194v3)** | 2025-10-06 |  |
+| **[FreshBrew: A Benchmark for Evaluating AI Agents on Java Code Migration](http://arxiv.org/abs/2510.04852v1)** | 2025-10-06 | 18 pages, 11 figures |
+| **[InsightQL: Advancing Human-Assisted Fuzzing with a Unified Code Database and Parameterized Query Interface](http://arxiv.org/abs/2510.04835v1)** | 2025-10-06 |  |
+| **[Sliding Window Codes: Near-Optimality and Q-Learning for Zero-Delay Coding](http://arxiv.org/abs/2310.06742v4)** | 2025-10-06 |  |
+| **[RevMine: An LLM-Assisted Tool for Code Review Mining and Analysis Across Git Platforms](http://arxiv.org/abs/2510.04796v1)** | 2025-10-06 |  |
+| **[Online automatic code generation for robot swarms: LLMs and self-organizing hierarchy](http://arxiv.org/abs/2510.04774v1)** | 2025-10-06 |  |
+| **[Semantic Channel Equalization Strategies for Deep Joint Source-Channel Coding](http://arxiv.org/abs/2510.04674v1)** | 2025-10-06 | <details><summary>Proce...</summary><p>Proceedings of IEEE Globecom 2025 Workshops</p></details> |
+| **[Code World Models for General Game Playing](http://arxiv.org/abs/2510.04542v1)** | 2025-10-06 |  |
+| **[On the Reliability of Information Retrieval From MDS Coded Data in DNA Storage](http://arxiv.org/abs/2502.06618v3)** | 2025-10-06 | <details><summary>An ea...</summary><p>An earlier version of this paper was presented in part at ISIT 2025</p></details> |
+| **[NaturalEdit: Code Modification through Direct Interaction with Adaptive Natural Language Representation](http://arxiv.org/abs/2510.04494v1)** | 2025-10-06 |  |
+| **[Code Generation and Conic Constraints for Model-Predictive Control on Microcontrollers with Conic-TinyMPC](http://arxiv.org/abs/2403.18149v2)** | 2025-10-06 | <details><summary>First...</summary><p>First three authors contributed equally</p></details> |
+| **[Challenge on Optimization of Context Collection for Code Completion](http://arxiv.org/abs/2510.04349v1)** | 2025-10-05 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 5 tables. A report on the Context Collection Workshop co-located with ASE'25</p></details> |
+| **[MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science](http://arxiv.org/abs/2506.04405v2)** | 2025-10-05 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Abstain and Validate: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair](http://arxiv.org/abs/2510.03217v1)** | 2025-10-03 |  |
-| **[Hierarchical Knowledge Injection for Improving LLM-based Program Repair](http://arxiv.org/abs/2506.24015v3)** | 2025-10-03 | <details><summary>Accep...</summary><p>Accepted at IEEE/ACM Automated Software Engineering (ASE) 2025 Conference</p></details> |
-| **[It's Not Easy Being Green: On the Energy Efficiency of Programming Languages](http://arxiv.org/abs/2410.05460v4)** | 2025-10-03 | <details><summary>12 pa...</summary><p>12 pages, to appear at ASE'25</p></details> |
-| **[Smart Contract Intent Detection with Pre-trained Programming Language Model](http://arxiv.org/abs/2508.20086v3)** | 2025-10-03 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, conference</p></details> |
-| **[Progressive Bound Strengthening via Doubly Nonnegative Cutting Planes for Nonconvex Quadratic Programs](http://arxiv.org/abs/2510.02948v1)** | 2025-10-03 |  |
-| **[New Limits on Distributed Quantum Advantage: Dequantizing Linear Programs](http://arxiv.org/abs/2506.07574v2)** | 2025-10-03 | <details><summary>Accep...</summary><p>Accepted to DISC 2025</p></details> |
-| **[Vibe coding: programming through conversation with artificial intelligence](http://arxiv.org/abs/2506.23253v2)** | 2025-10-03 | <details><summary>Sarka...</summary><p>Sarkar, A., & Drosos, I. (2025). Vibe coding: Programming through conversation with artificial intelligence. In Proceedings of the 36th Annual Conference of the Psychology of Programming Interest Group (PPIG 2025)</p></details> |
-| **[Automated Repair of OpenID Connect Programs (Extended Version)](http://arxiv.org/abs/2510.02773v1)** | 2025-10-03 | <details><summary>This ...</summary><p>This is an extended version. The original paper is accepted to ASE 2025</p></details> |
-| **[EvoSpeak: Large Language Models for Interpretable Genetic Programming-Evolved Heuristics](http://arxiv.org/abs/2510.02686v1)** | 2025-10-03 |  |
-| **[Programming with Pixels: Can Computer-Use Agents do Software Engineering?](http://arxiv.org/abs/2502.18525v2)** | 2025-10-03 |  |
-| **[Designing Walrus: Relational Programming with Rich Types, On-Demand Laziness, and Structured Traces](http://arxiv.org/abs/2510.02579v1)** | 2025-10-02 | <details><summary>20 pa...</summary><p>20 pages, miniKanren 2025</p></details> |
-| **[Galley: Modern Query Optimization for Sparse Tensor Programs](http://arxiv.org/abs/2408.14706v5)** | 2025-10-02 |  |
-| **[Programming Distributed Collective Processes in the eXchange Calculus](http://arxiv.org/abs/2401.11212v6)** | 2025-10-02 |  |
-| **[AlgoTune: Can Language Models Speed Up General-Purpose Numerical Programs?](http://arxiv.org/abs/2507.15887v3)** | 2025-10-02 |  |
-| **[Towards Speeding up Program Repair with Non-Autoregressive Model](http://arxiv.org/abs/2510.01825v1)** | 2025-10-02 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 7 tables. arXiv admin note: substantial text overlap with arXiv:2406.16526</p></details> |
+| **[Modeling Student Learning with 3.8 Million Program Traces](http://arxiv.org/abs/2510.05056v1)** | 2025-10-06 |  |
+| **[Optimal participation of energy communities in electricity markets under uncertainty. A multi-stage stochastic programming approach](http://arxiv.org/abs/2510.04965v1)** | 2025-10-06 |  |
+| **[Speculative Automated Refactoring of Imperative Deep Learning Programs to Graph Execution](http://arxiv.org/abs/2504.05424v4)** | 2025-10-06 |  |
+| **[Functional vs. Object-Oriented: Comparing How Programming Paradigms Affect the Architectural Characteristics of Systems](http://arxiv.org/abs/2508.00244v3)** | 2025-10-06 | <details><summary>11 pa...</summary><p>11 pages, 15 figures (1 table, 3 diagrams, 4 graphics, 7 listings), accepted to the CTICQS capstone project competition at SBQS 2025</p></details> |
+| **[Program Synthesis Benchmark for Visual Programming in XLogoOnline Environment](http://arxiv.org/abs/2406.11334v2)** | 2025-10-06 | ACL'25 paper |
+| **[Optimization under uncertainty: understanding orders and testing programs with specifications](http://arxiv.org/abs/2503.18561v2)** | 2025-10-06 |  |
+| **[Inverse Mixed-Integer Programming: Learning Constraints then Objective Functions](http://arxiv.org/abs/2510.04455v1)** | 2025-10-06 | 33 pages |
+| **[Influence branching for learning to solve mixed-integer programs online](http://arxiv.org/abs/2510.04273v1)** | 2025-10-05 | 11 pages |
+| **[A Conformal Prediction-Based Chance-Constrained Programming Approach for 24/7 Carbon-Free Data Center Operation Scheduling](http://arxiv.org/abs/2510.04053v1)** | 2025-10-05 |  |
+| **[A Dynamic Programming Approach to Evader Pathfinding in Static Pursuit Scenarios](http://arxiv.org/abs/2510.04050v1)** | 2025-10-05 |  |
+| **[Teaching with AI: A Systematic Review of Chatbots, Generative Tools, and Tutoring Systems in Programming Education](http://arxiv.org/abs/2510.03884v1)** | 2025-10-04 |  |
+| **[A Survey of LLM-Based Applications in Programming Education: Balancing Automation and Human Oversight](http://arxiv.org/abs/2510.03719v1)** | 2025-10-04 | <details><summary>2025 ...</summary><p>2025 EMNLP HCI+NLP Workshop Short Paper</p></details> |
+| **[High-Dimensional Sparse Clustering via Iterative Semidefinite Programming Relaxed K-Means](http://arxiv.org/abs/2505.20478v2)** | 2025-10-04 | <details><summary>123 p...</summary><p>123 pages, 5 figures, 12 tables, 6 algorithms; Main text 24 pages, 2 figures, 2 table, 3 algorithms</p></details> |
+| **[LLM-Guided Evolutionary Program Synthesis for Quasi-Monte Carlo Design](http://arxiv.org/abs/2510.03650v1)** | 2025-10-04 |  |
+| **[REFINE: Enhancing Program Repair Agents through Context-Aware Patch Refinement](http://arxiv.org/abs/2510.03588v1)** | 2025-10-04 | <details><summary>We al...</summary><p>We also open source our code at https://anonymous.4open.science/r/SemAgent-7B2F/README.md</p></details> |
 
