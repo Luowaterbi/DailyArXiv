@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 08, 2025
+title: Latest 15 Papers - October 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EmbodiedCoder: Parameterized Embodied Mobile Manipulation via Modern Coding Model](http://arxiv.org/abs/2510.06207v1)** | 2025-10-07 | <details><summary>Demo ...</summary><p>Demo Page: https://anonymous.4open.science/w/Embodied-Coder/</p></details> |
-| **[Automated Program Repair of Uncompilable Student Code](http://arxiv.org/abs/2510.06187v1)** | 2025-10-07 |  |
-| **[RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback](http://arxiv.org/abs/2510.06186v1)** | 2025-10-07 | <details><summary>Code ...</summary><p>Code and dataset are available at github.com/ChunyuMiao98/RECODE</p></details> |
-| **[Probabilistic Guarantees to Explicit Constructions: Local Properties of Linear Codes](http://arxiv.org/abs/2510.06185v1)** | 2025-10-07 | 40 pages |
-| **[Toward Green Code: Prompting Small Language Models for Energy-Efficient Code Generation](http://arxiv.org/abs/2509.09947v2)** | 2025-10-07 |  |
-| **[Explaining Code Risk in OSS: Towards LLM-Generated Fault Prediction Interpretations](http://arxiv.org/abs/2510.06104v1)** | 2025-10-07 |  |
-| **[The Valley of Code Reasoning: Scaling Knowledge Distillation of Large Language Models](http://arxiv.org/abs/2510.06101v1)** | 2025-10-07 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop on Deep Learning for Code (DL4C), Project page: https://collinear.ai/valley-of-reasoning</p></details> |
-| **[Recursive construction and enumeration of self-orthogonal and self-dual codes over finite commutative chain rings of even characteristic - I](http://arxiv.org/abs/2510.06082v1)** | 2025-10-07 |  |
-| **[Recursive construction and enumeration of self-orthogonal and self-dual codes over finite commutative chain rings of even characteristic - II](http://arxiv.org/abs/2510.06069v1)** | 2025-10-07 |  |
-| **[Code Smell Detection via Pearson Correlation and ML Hyperparameter Optimization](http://arxiv.org/abs/2510.05835v1)** | 2025-10-07 |  |
-| **[Mellum: Production-Grade in-IDE Contextual Code Completion with Multi-File Project Understanding](http://arxiv.org/abs/2510.05788v1)** | 2025-10-07 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 3 tables</p></details> |
-| **[A geometric invariant of linear rank-metric codes](http://arxiv.org/abs/2411.19087v2)** | 2025-10-07 | 21 pages, 2 figures |
-| **[Nested Symmetric Polar Codes](http://arxiv.org/abs/2410.23885v2)** | 2025-10-07 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Presented at ICC 2025</p></details> |
-| **[Code-Switching In-Context Learning for Cross-Lingual Transfer of Large Language Models](http://arxiv.org/abs/2510.05678v1)** | 2025-10-07 |  |
-| **[Generating High-Quality Datasets for Code Editing via Open-Source Language Models](http://arxiv.org/abs/2509.25203v3)** | 2025-10-07 | 23 pages, 8 figures |
+| **[Vibe Checker: Aligning Code Evaluation with Human Preference](http://arxiv.org/abs/2510.07315v1)** | 2025-10-08 | Preprint |
+| **[Prompt, Synthesize, Fine-Tune: A Secure Code Generation Recipe](http://arxiv.org/abs/2510.07189v1)** | 2025-10-08 |  |
+| **[Diffusion Codes: Self-Correction from Small(er)-Set Expansion with Tunable Non-locality](http://arxiv.org/abs/2510.07179v1)** | 2025-10-08 | 48 pages, 6 figures |
+| **[Haar random codes attain the quantum Hamming bound, approximately](http://arxiv.org/abs/2510.07158v1)** | 2025-10-08 | 19 pages |
+| **[Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models](http://arxiv.org/abs/2510.07037v1)** | 2025-10-08 |  |
+| **[Multi-hop Deep Joint Source-Channel Coding with Deep Hash Distillation for Semantically Aligned Image Retrieval](http://arxiv.org/abs/2510.06868v1)** | 2025-10-08 |  |
+| **[Near-Asymptotically-Good Quantum Codes with Transversal CCZ Gates and Sublinear-Weight Parity-Checks](http://arxiv.org/abs/2510.06798v1)** | 2025-10-08 | <details><summary>this ...</summary><p>this article restates and builds upon some results in arXiv:2411.03646</p></details> |
+| **[Constant-Overhead Addressable Gates via Single-Shot Code Switching](http://arxiv.org/abs/2510.06760v1)** | 2025-10-08 |  |
+| **[Toward Causal-Visual Programming: Enhancing Agentic Reasoning in Low-Code Environments](http://arxiv.org/abs/2509.25282v2)** | 2025-10-08 | 5 pages, 1 table |
+| **[Hint of Pseudo Code (HoPC): Zero-Shot Step by Step Pseudo Code Reasoning Prompting](http://arxiv.org/abs/2305.11461v8)** | 2025-10-08 |  |
+| **[Code Like Humans: A Multi-Agent Solution for Medical Coding](http://arxiv.org/abs/2509.05378v3)** | 2025-10-08 | EMNLP Findings 2025 |
+| **[Code Agent can be an End-to-end System Hacker: Benchmarking Real-world Threats of Computer-use Agent](http://arxiv.org/abs/2510.06607v1)** | 2025-10-08 |  |
+| **[Beyond More Context: How Granularity and Order Drive Code Completion Quality](http://arxiv.org/abs/2510.06606v1)** | 2025-10-08 |  |
+| **[Analyzing and Mitigating Surface Bias in Code Evaluation Metrics](http://arxiv.org/abs/2509.15397v2)** | 2025-10-07 |  |
+| **[Code Semantic Zooming](http://arxiv.org/abs/2510.06452v1)** | 2025-10-07 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Inductive Learning for Possibilistic Logic Programs Under Stable Models](http://arxiv.org/abs/2510.07069v1)** | 2025-10-08 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
+| **[A Duality Theorem for Classical-Quantum States with Applications to Complete Relational Program Logics](http://arxiv.org/abs/2510.07051v1)** | 2025-10-08 | <details><summary>63 pa...</summary><p>63 pages, 11 figures, 4 tables</p></details> |
+| **[Toward Causal-Visual Programming: Enhancing Agentic Reasoning in Low-Code Environments](http://arxiv.org/abs/2509.25282v2)** | 2025-10-08 | 5 pages, 1 table |
 | **[Automated Program Repair of Uncompilable Student Code](http://arxiv.org/abs/2510.06187v1)** | 2025-10-07 |  |
 | **[ConstraintLLM: A Neuro-Symbolic Framework for Industrial-Level Constraint Programming](http://arxiv.org/abs/2510.05774v1)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted to the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025), Main Conference</p></details> |
 | **[PLSemanticsBench: Large Language Models As Programming Language Interpreters](http://arxiv.org/abs/2510.03415v2)** | 2025-10-07 |  |
@@ -38,7 +41,4 @@ labels: documentation
 | **[Optimization under uncertainty: understanding orders and testing programs with specifications](http://arxiv.org/abs/2503.18561v2)** | 2025-10-06 |  |
 | **[Inverse Mixed-Integer Programming: Learning Constraints then Objective Functions](http://arxiv.org/abs/2510.04455v1)** | 2025-10-06 | 33 pages |
 | **[Influence branching for learning to solve mixed-integer programs online](http://arxiv.org/abs/2510.04273v1)** | 2025-10-05 | 11 pages |
-| **[A Conformal Prediction-Based Chance-Constrained Programming Approach for 24/7 Carbon-Free Data Center Operation Scheduling](http://arxiv.org/abs/2510.04053v1)** | 2025-10-05 |  |
-| **[A Dynamic Programming Approach to Evader Pathfinding in Static Pursuit Scenarios](http://arxiv.org/abs/2510.04050v1)** | 2025-10-05 |  |
-| **[Teaching with AI: A Systematic Review of Chatbots, Generative Tools, and Tutoring Systems in Programming Education](http://arxiv.org/abs/2510.03884v1)** | 2025-10-04 |  |
 
