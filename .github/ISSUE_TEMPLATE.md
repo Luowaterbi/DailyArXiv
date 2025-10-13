@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 12, 2025
+title: Latest 15 Papers - October 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,27 +7,32 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AutoMLGen: Navigating Fine-Grained Optimization for Coding Agents](http://arxiv.org/abs/2510.08511v1)** | 2025-10-09 |  |
-| **[Codeword Stabilized Codes from m-Uniform Graph States](http://arxiv.org/abs/2405.06142v4)** | 2025-10-09 | <details><summary>A sho...</summary><p>A shorter version of this manuscript is available in the Proceedings of the 2024 International Symposium on Information Theory (ISIT 2024)</p></details> |
-| **[Phantora: Maximizing Code Reuse in Simulation-based Machine Learning System Performance Estimation](http://arxiv.org/abs/2505.01616v3)** | 2025-10-09 |  |
-| **[Exponential Error Bounds for Information Bottleneck Source Coding Problems](http://arxiv.org/abs/2510.08364v1)** | 2025-10-09 |  |
-| **[SelfRACG: Enabling LLMs to Self-Express and Retrieve for Code Generation](http://arxiv.org/abs/2507.19033v2)** | 2025-10-09 | Tsinghua&Xiaohongshu |
-| **[ARM2: Adaptive Reasoning Model with Vision Understanding and Executable Code](http://arxiv.org/abs/2510.08163v1)** | 2025-10-09 | Work in Progress |
-| **[The Geometry of Codes for Random Access in DNA Storage](http://arxiv.org/abs/2411.08924v2)** | 2025-10-09 |  |
-| **[Teaching Your Models to Understand Code via Focal Preference Alignment](http://arxiv.org/abs/2503.02783v4)** | 2025-10-09 | Accepted by EMNLP'25 |
-| **[Metric Calculating Benchmark: Code-Verifiable Complicate Instruction Following Benchmark for Large Language Models](http://arxiv.org/abs/2510.07892v1)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted to the EMNLP2025</p></details> |
-| **[EpiCoder: Encompassing Diversity and Complexity in Code Generation](http://arxiv.org/abs/2501.04694v3)** | 2025-10-09 | ICML 2025 |
-| **[CS3-Bench: Evaluating and Enhancing Speech-to-Speech LLMs for Mandarin-English Code-Switching](http://arxiv.org/abs/2510.07881v1)** | 2025-10-09 |  |
-| **[AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents](http://arxiv.org/abs/2502.05957v3)** | 2025-10-09 | <details><summary>Code:...</summary><p>Code: https://github.com/HKUDS/AutoAgent</p></details> |
-| **[Quantum Tanner Color Codes on Qubits with Transversal Gates](http://arxiv.org/abs/2510.07864v1)** | 2025-10-09 |  |
-| **[PiCo: Jailbreaking Multimodal Large Language Models via Pictorial Code Contextualization](http://arxiv.org/abs/2504.01444v4)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Multimedia and Expo (ICME) 2025</p></details> |
-| **[Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models](http://arxiv.org/abs/2510.07037v2)** | 2025-10-09 |  |
+| **[Robo-Instruct: Simulator-Augmented Instruction Alignment For Finetuning Code LLMs](http://arxiv.org/abs/2405.20179v5)** | 2025-10-10 | <details><summary>Confe...</summary><p>Conference on Language Modeling (COLM) 2025, Project site: https://amrl.cs.utexas.edu/robo-instruct/</p></details> |
+| **[On open-separating dominating codes in graphs](http://arxiv.org/abs/2402.03015v3)** | 2025-10-10 |  |
+| **[SMF: Template-free and Rig-free Animation Transfer using Kinetic Codes](http://arxiv.org/abs/2504.04831v2)** | 2025-10-10 | <details><summary>SIGGR...</summary><p>SIGGRAPH Asia 2025 [ACM Transactions on Graphics] | Project website: https://motionfields.github.io/</p></details> |
+| **[K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection](http://arxiv.org/abs/2208.08067v2)** | 2025-10-10 |  |
+| **[TIT: A Tree-Structured Instruction Tuning Approach for LLM-Based Code Translation](http://arxiv.org/abs/2510.09400v1)** | 2025-10-10 |  |
+| **[Identifying & Interactively Refining Ambiguous User Goals for Data Visualization Code Generation](http://arxiv.org/abs/2510.09390v1)** | 2025-10-10 |  |
+| **[On Developers' Self-Declaration of AI-Generated Code: An Analysis of Practices](http://arxiv.org/abs/2504.16485v3)** | 2025-10-10 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM), 2025</p></details> |
+| **[Issue Localization via LLM-Driven Iterative Code Graph Searching](http://arxiv.org/abs/2503.22424v3)** | 2025-10-10 | Accepted by ASE 2025 |
+| **[Using nonassociative algebras to classify skew polycyclic codes up to isometry and equivalence](http://arxiv.org/abs/2508.10139v2)** | 2025-10-10 | <details><summary>Impro...</summary><p>Improved second version, some results added in the last sections</p></details> |
+| **[Towards the Training of Deeper Predictive Coding Neural Networks](http://arxiv.org/abs/2506.23800v3)** | 2025-10-10 | 18 Pages, 7 figures |
+| **[RetouchLLM: Training-free Code-based Image Retouching with Vision Language Models](http://arxiv.org/abs/2510.08054v2)** | 2025-10-10 |  |
+| **[Model-Assisted and Human-Guided: Perceptions and Practices of Software Professionals Using LLMs for Coding](http://arxiv.org/abs/2510.09058v1)** | 2025-10-10 |  |
+| **[Optimal binary codes from $\mathcal{C}_{D}$-codes over a non-chain ring](http://arxiv.org/abs/2510.09057v1)** | 2025-10-10 |  |
+| **[MEC$^3$O: Multi-Expert Consensus for Code Time Complexity Prediction](http://arxiv.org/abs/2510.09049v1)** | 2025-10-10 | <details><summary>24 pa...</summary><p>24 pages, 11 figures, 10 tables</p></details> |
+| **[Cost-Efficient Long Code Translation using LLMs while Leveraging Identifier Replacements](http://arxiv.org/abs/2510.09045v1)** | 2025-10-10 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Multilingual Python Programming Language](http://arxiv.org/abs/2510.09591v1)** | 2025-10-10 | <details><summary>For p...</summary><p>For project homepage, see https://universalpython.github.io/</p></details> |
+| **[Enabling Population-Level Parallelism in Tree-Based Genetic Programming for GPU Acceleration](http://arxiv.org/abs/2501.17168v5)** | 2025-10-10 |  |
+| **[Sequence Variables: A Constraint Programming Computational Domain for Routing and Sequencing](http://arxiv.org/abs/2510.09373v1)** | 2025-10-10 |  |
+| **[Obfuscation of Unitary Quantum Programs](http://arxiv.org/abs/2507.11970v2)** | 2025-10-10 |  |
 | **[Validation of collision-free spheres of Stewart-Gough platforms for constant orientations using the Application Programming Interface of a CAD software](http://arxiv.org/abs/2510.08408v1)** | 2025-10-09 |  |
 | **[Adaptive Sparsification for Linear Programming](http://arxiv.org/abs/2510.08348v1)** | 2025-10-09 |  |
+| **[Concept-Based Generic Programming in C++](http://arxiv.org/abs/2510.08969v1)** | 2025-10-09 |  |
 | **[PDCS: A Primal-Dual Large-Scale Conic Programming Solver with GPU Enhancements](http://arxiv.org/abs/2505.00311v2)** | 2025-10-08 | 48 pages, 8 figures |
 | **[Optimizing Ethical Risk Reduction for Medical Intelligent Systems with Constraint Programming](http://arxiv.org/abs/2510.07491v1)** | 2025-10-08 |  |
 | **[Inductive Learning for Possibilistic Logic Programs Under Stable Models](http://arxiv.org/abs/2510.07069v1)** | 2025-10-08 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
@@ -36,9 +41,4 @@ labels: documentation
 | **[Automated Program Repair of Uncompilable Student Code](http://arxiv.org/abs/2510.06187v1)** | 2025-10-07 |  |
 | **[ConstraintLLM: A Neuro-Symbolic Framework for Industrial-Level Constraint Programming](http://arxiv.org/abs/2510.05774v1)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted to the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025), Main Conference</p></details> |
 | **[PLSemanticsBench: Large Language Models As Programming Language Interpreters](http://arxiv.org/abs/2510.03415v2)** | 2025-10-07 |  |
-| **[Exploring Student Choice and the Use of Multimodal Generative AI in Programming Learning](http://arxiv.org/abs/2510.05417v1)** | 2025-10-06 | <details><summary>7 pag...</summary><p>7 pages, accepted to SIGCSE2026</p></details> |
-| **[Modeling Student Learning with 3.8 Million Program Traces](http://arxiv.org/abs/2510.05056v1)** | 2025-10-06 |  |
-| **[Optimal participation of energy communities in electricity markets under uncertainty. A multi-stage stochastic programming approach](http://arxiv.org/abs/2510.04965v1)** | 2025-10-06 |  |
-| **[Speculative Automated Refactoring of Imperative Deep Learning Programs to Graph Execution](http://arxiv.org/abs/2504.05424v4)** | 2025-10-06 |  |
-| **[Functional vs. Object-Oriented: Comparing How Programming Paradigms Affect the Architectural Characteristics of Systems](http://arxiv.org/abs/2508.00244v3)** | 2025-10-06 | <details><summary>11 pa...</summary><p>11 pages, 15 figures (1 table, 3 diagrams, 4 graphics, 7 listings), accepted to the CTICQS capstone project competition at SBQS 2025</p></details> |
 
