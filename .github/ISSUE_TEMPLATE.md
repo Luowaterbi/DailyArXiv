@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 22, 2025
+title: Latest 15 Papers - October 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,26 +7,31 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EffiReasonTrans: RL-Optimized Reasoning for Code Translation](http://arxiv.org/abs/2510.18863v1)** | 2025-10-21 |  |
-| **[High-Fidelity And Complex Test Data Generation For Google SQL Code Generation Services](http://arxiv.org/abs/2504.17203v3)** | 2025-10-21 |  |
-| **[Undirected Multicast Network Coding Gaps via Locally Decodable Codes](http://arxiv.org/abs/2510.18737v1)** | 2025-10-21 | FOCS 2025 |
-| **[Adapting Language Balance in Code-Switching Speech](http://arxiv.org/abs/2510.18724v1)** | 2025-10-21 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
-| **[Exploring Influence Factors on LLM Suitability for No-Code Development of End User IoT Applications](http://arxiv.org/abs/2505.04710v2)** | 2025-10-21 |  |
-| **[ReVeal: Self-Evolving Code Agents via Reliable Self-Verification](http://arxiv.org/abs/2506.11442v2)** | 2025-10-21 |  |
-| **[A Structured Evaluation Framework for Low-Code Platform Selection: A Multi-Criteria Decision Model for Enterprise Digital Transformation](http://arxiv.org/abs/2510.18590v1)** | 2025-10-21 | <details><summary>15 pa...</summary><p>15 pages, 1 figure. PDF-only submission (XeLaTeX)</p></details> |
-| **[PEACE: Towards Efficient Project-Level Efficiency Optimization via Hybrid Code Editing](http://arxiv.org/abs/2510.17142v2)** | 2025-10-21 |  |
-| **[VAPU: System for Autonomous Legacy Code Modernization](http://arxiv.org/abs/2510.18509v1)** | 2025-10-21 | Table 13, figure 2 |
-| **[Exploring Data-Efficient Adaptation of Large Language Models for Code Generation](http://arxiv.org/abs/2403.00046v3)** | 2025-10-21 | Accepted by TOSEM |
-| **[CodeRL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment](http://arxiv.org/abs/2510.18471v1)** | 2025-10-21 |  |
-| **[Human to Document, AI to Code: Three Case Studies of Comparing GenAI for Notebook Competitions](http://arxiv.org/abs/2510.18430v1)** | 2025-10-21 |  |
-| **[RESCUE: Retrieval Augmented Secure Code Generation](http://arxiv.org/abs/2510.18204v1)** | 2025-10-21 |  |
-| **[Proof2Silicon: Prompt Repair for Verified Code and Hardware Generation via Reinforcement Learning](http://arxiv.org/abs/2509.06239v2)** | 2025-10-20 |  |
-| **[Self-planning Code Generation with Large Language Models](http://arxiv.org/abs/2303.06689v5)** | 2025-10-20 | Accepted by TOSEM |
+| **[Good quantum codes with addressable and parallelizable non-Clifford gates](http://arxiv.org/abs/2510.19809v1)** | 2025-10-22 |  |
+| **[On Scaling LT-Coded Blockchains in Heterogeneous Networks and their Vulnerabilities to DoS Threats](http://arxiv.org/abs/2402.05620v3)** | 2025-10-22 | <details><summary>To ap...</summary><p>To appear in Future Generation Computer Systems, 2025. This is an extended version of a shorter version that has appeared in IEEE ICC 2024</p></details> |
+| **[Hierarchical filtrations of line bundles and optimal algebraic geometry codes](http://arxiv.org/abs/2507.01859v5)** | 2025-10-22 | Comments are welcome |
+| **[Adapting Multilingual Models to Code-Mixed Tasks via Model Merging](http://arxiv.org/abs/2510.19782v1)** | 2025-10-22 | <details><summary>9 pag...</summary><p>9 pages, 5 tables, CODS 2025</p></details> |
+| **[Review of Tools for Zero-Code LLM Based Application Development](http://arxiv.org/abs/2510.19747v1)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted in 6th World Conference on Artificial Intelligence: Advances and Applications (WCAIAA 2025)</p></details> |
+| **[Toward Agentic Software Engineering Beyond Code: Framing Vision, Values, and Vocabulary](http://arxiv.org/abs/2510.19692v1)** | 2025-10-22 | 5 pages |
+| **[CircuitGuard: Mitigating LLM Memorization in RTL Code Generation Against IP Leakage](http://arxiv.org/abs/2510.19676v1)** | 2025-10-22 |  |
+| **[LLavaCode: Compressed Code Representations for Retrieval-Augmented Code Generation](http://arxiv.org/abs/2510.19644v1)** | 2025-10-22 |  |
+| **[QiMeng-MuPa: Mutual-Supervised Learning for Sequential-to-Parallel Code Translation](http://arxiv.org/abs/2506.11153v2)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted to NeurIPS'2025</p></details> |
+| **[QiMeng-SALV: Signal-Aware Learning for Verilog Code Generation](http://arxiv.org/abs/2510.19296v1)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
+| **[Code Sharing in Healthcare Research: A Practical Guide and Recommendations for Good Practice](http://arxiv.org/abs/2510.19279v1)** | 2025-10-22 |  |
+| **[Criss-Cross Deletion Correcting Codes: Optimal Constructions with Efficient Decoders](http://arxiv.org/abs/2506.07607v2)** | 2025-10-22 | <details><summary>Corre...</summary><p>Corrected some errors. All comments welcome</p></details> |
+| **[LongCodeBench: Evaluating Coding LLMs at 1M Context Windows](http://arxiv.org/abs/2505.07897v3)** | 2025-10-22 |  |
+| **[That's Deprecated! Understanding, Detecting, and Steering Knowledge Conflicts in Language Models for Code Generation](http://arxiv.org/abs/2510.19116v1)** | 2025-10-21 |  |
+| **[Maximally Extendable Product Codes are Good Coboundary Expanders](http://arxiv.org/abs/2501.01411v2)** | 2025-10-21 | <details><summary>13 pa...</summary><p>13 pages, 3 figures; accepted to the 66th IEEE Symposium on Foundations of Computer Science (FOCS 2025)</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Integrating Transparent Models, LLMs, and Practitioner-in-the-Loop: A Case of Nonprofit Program Evaluation](http://arxiv.org/abs/2510.19799v1)** | 2025-10-22 |  |
+| **[Type-aware LLM-based Regression Test Generation for Python Programs](http://arxiv.org/abs/2503.14000v2)** | 2025-10-22 |  |
+| **[Dependent Session Types for Verified Concurrent Programming](http://arxiv.org/abs/2510.19129v1)** | 2025-10-21 |  |
+| **[Simulation-Guided Planning of a Target Trial Emulated Cluster Randomized Trial for Mass Small-Quantity Lipid Nutrient Supplementation Combined with Expanded Program on Immunization in Rural Niger](http://arxiv.org/abs/2510.19077v1)** | 2025-10-21 |  |
 | **[A Systematic Literature Review on Large Language Models for Automated Program Repair](http://arxiv.org/abs/2405.01466v3)** | 2025-10-21 | <details><summary>updat...</summary><p>update new papers, up to September 2025</p></details> |
+| **[A Survey on Feedback Types in Automated Programming Assessment Systems](http://arxiv.org/abs/2510.18923v1)** | 2025-10-21 |  |
 | **[AlphaOPT: Formulating Optimization Programs with Self-Improving LLM Experience Library](http://arxiv.org/abs/2510.18428v1)** | 2025-10-21 |  |
 | **[Program Synthesis via Test-Time Transduction](http://arxiv.org/abs/2509.17393v3)** | 2025-10-21 | NeurIPS 2025 |
 | **[Combinatorial Algorithm for Tropical Linearly Factorized Programming](http://arxiv.org/abs/2507.07596v2)** | 2025-10-21 |  |
@@ -36,9 +41,4 @@ labels: documentation
 | **[M2QCode: A Model-Driven Framework for Generating Multi-Platform Quantum Programs](http://arxiv.org/abs/2510.17110v1)** | 2025-10-20 | <details><summary>This ...</summary><p>This paper was accepted by ASE2025</p></details> |
 | **[Co-Evolutionary Defence of Active Directory Attack Graphs via GNN-Approximated Dynamic Programming](http://arxiv.org/abs/2505.11710v2)** | 2025-10-20 |  |
 | **[Towards Automated Verification of LLM-Synthesized C Programs](http://arxiv.org/abs/2410.14835v2)** | 2025-10-20 |  |
-| **[When AI Takes the Wheel: Security Analysis of Framework-Constrained Program Generation](http://arxiv.org/abs/2510.16823v1)** | 2025-10-19 |  |
-| **[Is Measurement Enough? Rethinking Output Validation in Quantum Program Testing](http://arxiv.org/abs/2509.16595v2)** | 2025-10-19 | <details><summary>This ...</summary><p>This paper will be appeared in the proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025), NIER track, Seoul, South Korea, November 16 -20, 2025</p></details> |
-| **[The Strongly Stable Roommates Problem and Linear Programming](http://arxiv.org/abs/2510.16385v1)** | 2025-10-18 |  |
-| **[Imperative vs. Declarative Programming Paradigms for Open-Universe Scene Generation](http://arxiv.org/abs/2504.05482v2)** | 2025-10-17 |  |
-| **[Grassroots Logic Programs: A Secure, Multiagent, Concurrent, Logic Programming Language](http://arxiv.org/abs/2510.15747v1)** | 2025-10-17 |  |
 
