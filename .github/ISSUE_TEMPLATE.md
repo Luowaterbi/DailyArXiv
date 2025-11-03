@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 02, 2025
+title: Latest 15 Papers - November 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Process-based Indicators of Vulnerability Re-Introducing Code Changes: An Exploratory Case Study](http://arxiv.org/abs/2510.26676v1)** | 2025-10-30 | <details><summary>9 pag...</summary><p>9 pages, 6 figures; Samiha Shimmi and Nicholas M. Synovic contributed equally to this work (co-first authors); Mona Rahimi and George K. Thiruvathukal contributed equally to this work (co-supervisors)</p></details> |
-| **[SecureReviewer: Enhancing Large Language Models for Secure Code Review through Secure-aware Fine-tuning](http://arxiv.org/abs/2510.26457v1)** | 2025-10-30 | <details><summary>Accep...</summary><p>Accepted by ICSE 2026. Code and data: https://github.com/SIMIAO515/SecureReviewer</p></details> |
-| **[Wisdom and Delusion of LLM Ensembles for Code Generation and Repair](http://arxiv.org/abs/2510.21513v2)** | 2025-10-30 | <details><summary>Added...</summary><p>Added Acknowledgments section and hyphenated last names</p></details> |
-| **[Dissect-and-Restore: AI-based Code Verification with Transient Refactoring](http://arxiv.org/abs/2510.25406v2)** | 2025-10-30 |  |
-| **[Decoding for Punctured Convolutional and Turbo Codes: A Deep Learning Solution for Protocols Compliance](http://arxiv.org/abs/2502.15475v3)** | 2025-10-30 |  |
-| **[Unified Error Correction Code Transformer with Low Complexity](http://arxiv.org/abs/2410.03364v4)** | 2025-10-30 |  |
-| **[Coding for Ordered Composite DNA Sequences](http://arxiv.org/abs/2509.26119v3)** | 2025-10-30 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Information Theory</p></details> |
-| **[Real-Time Neural Video Compression with Unified Intra and Inter Coding](http://arxiv.org/abs/2510.14431v3)** | 2025-10-30 | 10 pages |
-| **[Beyond Synthetic Benchmarks: Evaluating LLM Performance on Real-World Class-Level Code Generation](http://arxiv.org/abs/2510.26130v1)** | 2025-10-30 | <details><summary>Pre-p...</summary><p>Pre-print prepared for journal submission</p></details> |
-| **[Security Vulnerabilities in AI-Generated Code: A Large-Scale Analysis of Public GitHub Repositories](http://arxiv.org/abs/2510.26103v1)** | 2025-10-30 | <details><summary>This ...</summary><p>This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this contribution is published in Volume 16219 of the Lecture Notes in Computer Science series, and is available online at https://doi.org/10.1007/978-981-95-3537-8_9</p></details> |
-| **[On the equivalence of NMDS codes](http://arxiv.org/abs/2509.25645v2)** | 2025-10-30 |  |
-| **[Efficient Online Learning with Predictive Coding Networks: Exploiting Temporal Correlations](http://arxiv.org/abs/2510.25993v1)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted at EdgeAI4R Workshop, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025</p></details> |
-| **[SymCode: A Neurosymbolic Approach to Mathematical Reasoning via Verifiable Code Generation](http://arxiv.org/abs/2510.25975v1)** | 2025-10-29 |  |
-| **[Towards Scaling Deep Neural Networks with Predictive Coding: Theory and Practice](http://arxiv.org/abs/2510.23323v2)** | 2025-10-29 | PhD thesis |
-| **[A Configuration-First Framework for Reproducible, Low-Code Localization](http://arxiv.org/abs/2510.25692v1)** | 2025-10-29 | <details><summary>20 pa...</summary><p>20 pages, 7 figures. Preprint submitted to ACM Transactions on Software Engineering and Methodology (TOSEM), 2025</p></details> |
+| **[On Selecting Few-Shot Examples for LLM-based Code Vulnerability Detection](http://arxiv.org/abs/2510.27675v1)** | 2025-10-31 |  |
+| **[Image Hashing via Cross-View Code Alignment in the Age of Foundation Models](http://arxiv.org/abs/2510.27584v1)** | 2025-10-31 |  |
+| **[CodeAlignBench: Assessing Code Generation Models on Developer-Preferred Code Adjustments](http://arxiv.org/abs/2510.27565v1)** | 2025-10-31 |  |
+| **[GenSwarm: Scalable Multi-Robot Code-Policy Generation and Deployment via Language Models](http://arxiv.org/abs/2503.23875v2)** | 2025-10-31 | <details><summary>This ...</summary><p>This article has been accepted for publication in npj Robotics</p></details> |
+| **[Generative Semantic Coding for Ultra-Low Bitrate Visual Communication and Analysis](http://arxiv.org/abs/2510.27324v1)** | 2025-10-31 |  |
+| **[Can Emulating Semantic Translation Help LLMs with Code Translation? A Study Based on Pseudocode](http://arxiv.org/abs/2510.00920v2)** | 2025-10-31 |  |
+| **[Human to Document, AI to Code: Comparing GenAI for Notebook Competitions](http://arxiv.org/abs/2510.18430v2)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted at the AIware 2025 - Main Track</p></details> |
+| **[UNGER: Generative Recommendation with A Unified Code via Semantic and Collaborative Integration](http://arxiv.org/abs/2502.06269v3)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted by TOIS 2025</p></details> |
+| **[LLM Based Long Code Translation using Identifier Replacement](http://arxiv.org/abs/2510.09045v2)** | 2025-10-31 |  |
+| **[RepoMasterEval: Evaluating Code Completion via Real-World Repositories](http://arxiv.org/abs/2408.03519v2)** | 2025-10-31 |  |
+| **[Vintage Code, Modern Judges: Meta-Validation in Low Data Regimes](http://arxiv.org/abs/2510.27244v1)** | 2025-10-31 |  |
+| **[Ten Simple Rules for AI-Assisted Coding in Science](http://arxiv.org/abs/2510.22254v2)** | 2025-10-31 | <details><summary>9 pag...</summary><p>9 pages of content; 1 table; 1 page appendix</p></details> |
+| **[On the Marriage of Theory and Practice in Data-Aware Business Processes via Low-Code](http://arxiv.org/abs/2510.27229v1)** | 2025-10-31 |  |
+| **[RepoMark: A Code Usage Auditing Framework for Code Large Language Models](http://arxiv.org/abs/2508.21432v2)** | 2025-10-31 |  |
+| **[Your Build Scripts Stink: The State of Code Smells in Build Scripts](http://arxiv.org/abs/2506.17948v4)** | 2025-10-31 | <details><summary>13 pa...</summary><p>13 pages, 5 tables, 2 figures</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
