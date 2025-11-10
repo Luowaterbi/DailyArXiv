@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 09, 2025
+title: Latest 15 Papers - November 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Random Construction of Quantum LDPC Codes](http://arxiv.org/abs/2511.04634v1)** | 2025-11-06 |  |
-| **[EDIT-Bench: Evaluating LLM Abilities to Perform Real-World Instructed Code Edits](http://arxiv.org/abs/2511.04486v1)** | 2025-11-06 |  |
-| **[Where Do LLMs Still Struggle? An In-Depth Analysis of Code Generation Benchmarks](http://arxiv.org/abs/2511.04355v1)** | 2025-11-06 | <details><summary>To be...</summary><p>To be published in Proceedings of 2025 2nd IEEE/ACM International Conference on AI-powered Software (AIware), Data & Benchmark Track</p></details> |
-| **[Vibe Coding as a Reconfiguration of Intent Mediation in Software Development: Definition, Implications, and Research Agenda](http://arxiv.org/abs/2507.21928v2)** | 2025-11-06 |  |
-| **[Pragmatic Reasoning improves LLM Code Generation](http://arxiv.org/abs/2502.15835v3)** | 2025-11-06 |  |
-| **[The (+)-(L, P)-TGRS code](http://arxiv.org/abs/2511.03398v2)** | 2025-11-06 | 23pages |
-| **[Shared Spatial Memory Through Predictive Coding](http://arxiv.org/abs/2511.04235v1)** | 2025-11-06 | <details><summary>We ha...</summary><p>We have prepared the open-source code and video demonstration pages: 1. Code: github.com/fangzr/SSM-PC 2. Demo: fangzr.github.io/SSM-PC/index.html</p></details> |
-| **[Style2Code: A Style-Controllable Code Generation Framework with Dual-Modal Contrastive Representation Learning](http://arxiv.org/abs/2505.19442v3)** | 2025-11-06 |  |
-| **[List Decoding of Folded Reed-Solomon Codes Over Galois Ring](http://arxiv.org/abs/2511.04135v1)** | 2025-11-06 | 32 pages |
-| **[How Natural Language Proficiency Shapes GenAI Code for Software Engineering Tasks](http://arxiv.org/abs/2511.04115v1)** | 2025-11-06 | <details><summary>7 pag...</summary><p>7 pages, 4 tables, 1 figure</p></details> |
-| **[PSD2Code: Automated Front-End Code Generation from Design Files via Multimodal Large Language Models](http://arxiv.org/abs/2511.04012v1)** | 2025-11-06 |  |
-| **[Autocomp: A Powerful and Portable Code Optimizer for Tensor Accelerators](http://arxiv.org/abs/2505.18574v5)** | 2025-11-05 | <details><summary>10 pa...</summary><p>10 pages + appendices</p></details> |
-| **[Secure Code Generation at Scale with Reflexion](http://arxiv.org/abs/2511.03898v1)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted for publication at the 2nd IEEE International Conference on AI-powered Software (AIware 2025)</p></details> |
-| **[How Different Tokenization Algorithms Impact LLMs and Transformer Models for Binary Code Analysis](http://arxiv.org/abs/2511.03825v1)** | 2025-11-05 | <details><summary>Publi...</summary><p>Publication Notice. This paper was published in the BAR 2025 Workshop (with NDSS 2025) and is for research and educational use. Copyright \c{opyright} 2025 Internet Society. All rights reserved. Personal/classroom reproduction is permitted with this notice and full paper citation. All other uses, including commercial, require prior written permission from the Internet Society</p></details> |
-| **[SecRepoBench: Benchmarking Code Agents for Secure Code Completion in Real-World Repositories](http://arxiv.org/abs/2504.21205v2)** | 2025-11-05 |  |
+| **[Linear codes arising from the point-hyperplane geometry-Part I: the Segre embedding](http://arxiv.org/abs/2506.21309v2)** | 2025-11-07 | <details><summary>31 pa...</summary><p>31 pages/revised version</p></details> |
+| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](http://arxiv.org/abs/2511.05476v1)** | 2025-11-07 | <details><summary>The p...</summary><p>The paper is currently under review at a peer-reviewed journal</p></details> |
+| **[SWE-Compass: Towards Unified Evaluation of Agentic Coding Abilities for Large Language Models](http://arxiv.org/abs/2511.05459v1)** | 2025-11-07 |  |
+| **[Shortest self-orthogonal embeddings of binary linear codes](http://arxiv.org/abs/2511.05440v1)** | 2025-11-07 | 17 pages |
+| **[Code Review Automation using Retrieval Augmented Generation](http://arxiv.org/abs/2511.05302v1)** | 2025-11-07 |  |
+| **[LLM4FaaS: No-Code Application Development using LLMs and FaaS](http://arxiv.org/abs/2502.14450v2)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted for publication in 2025 IEEE/ACM 18th International Conference on Utility and Cloud Computing</p></details> |
+| **[CodeMapper: A Language-Agnostic Approach to Mapping Code Regions Across Commits](http://arxiv.org/abs/2511.05205v1)** | 2025-11-07 |  |
+| **[Architecting Scalable Trapped Ion Quantum Computers using Surface Codes](http://arxiv.org/abs/2510.23519v2)** | 2025-11-07 | <details><summary>Submi...</summary><p>Submitted for review on March 12th 2025; Accepted to appear in ASPLOS 2026 on October 24th 2025; 15 pages, 13 figures</p></details> |
+| **[Deterministic list decoding of Reed-Solomon codes](http://arxiv.org/abs/2511.05176v1)** | 2025-11-07 | 33 Pages |
+| **[Generating Software Architecture Description from Source Code using Reverse Engineering and Large Language Model](http://arxiv.org/abs/2511.05165v1)** | 2025-11-07 |  |
+| **[Analyzing Variations in Dependency Distributions Due to Code Smell Interactions](http://arxiv.org/abs/2509.03896v3)** | 2025-11-07 |  |
+| **[Where Is Self-admitted Code Generated by Large Language Models on GitHub?](http://arxiv.org/abs/2406.19544v4)** | 2025-11-07 |  |
+| **[Adjoint and duality for rank-metric codes in a skew polynomial framework](http://arxiv.org/abs/2511.05084v1)** | 2025-11-07 |  |
+| **[UA-Code-Bench: A Competitive Programming Benchmark for Evaluating LLM Code Generation in Ukrainian](http://arxiv.org/abs/2511.05040v1)** | 2025-11-07 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. XI International conference "Informatics. Culture. Technique." (2025)</p></details> |
+| **[Software Defined Vehicle Code Generation: A Few-Shot Prompting Approach](http://arxiv.org/abs/2511.04849v1)** | 2025-11-06 | 6 pages, 3 figures |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UA-Code-Bench: A Competitive Programming Benchmark for Evaluating LLM Code Generation in Ukrainian](http://arxiv.org/abs/2511.05040v1)** | 2025-11-07 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. XI International conference "Informatics. Culture. Technique." (2025)</p></details> |
 | **[APRMCTS: Improving LLM-based Automated Program Repair with Iterative Tree Search](http://arxiv.org/abs/2507.01827v3)** | 2025-11-06 |  |
 | **[Scaffolding Metacognition in Programming Education: Understanding Student-AI Interactions and Design Implications](http://arxiv.org/abs/2511.04144v1)** | 2025-11-06 |  |
 | **[Collaborative Agents for Automated Program Repair in Ruby](http://arxiv.org/abs/2511.03925v1)** | 2025-11-06 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Application of the Lovász-Schrijver Lift-and-Project Operator to Compact Stable Set Integer Programs](http://arxiv.org/abs/2407.19290v3)** | 2025-11-04 |  |
 | **[Accelerating Graph Similarity Search through Integer Linear Programming](http://arxiv.org/abs/2511.02611v1)** | 2025-11-04 |  |
 | **[Chance-Constrained Neural MPC under Uncontrollable Agents via Sequential Convex Programming](http://arxiv.org/abs/2504.03293v2)** | 2025-11-04 |  |
-| **[AGNES: Adaptive Graph Neural Network and Dynamic Programming Hybrid Framework for Real-Time Nanopore Seed Chaining](http://arxiv.org/abs/2510.16013v3)** | 2025-11-04 | <details><summary>31 pa...</summary><p>31 pages, 12 figures, 6 tables. Submitted to ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB). Includes comprehensive evaluation with statistical validation, ablation studies, and open-source implementation</p></details> |
 
