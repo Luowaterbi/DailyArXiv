@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 12, 2025
+title: Latest 15 Papers - November 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -20,7 +20,7 @@ labels: documentation
 | **[Layered Subspace Codes for Network Coding](https://arxiv.org/pdf/1209.2894v1)** | 2012-09-14 | 13 pages, 6 figures |
 | **[Fourier Codes and Hartley Codes](https://arxiv.org/pdf/1502.02489v1)** | 2015-02-10 | <details><summary>5 pag...</summary><p>5 pages, 4 tables, 1 appedix. conference: XXV Simposio Brasileiro de Telecomunicacoes, SBrT'07, Recife, PE, Brazil, 2007</p></details> |
 | **[Golden-Coded Index Coding](https://arxiv.org/pdf/1704.07014v1)** | 2017-04-25 | <details><summary>5 pag...</summary><p>5 pages, 2 figures. Accepted for publication in 2017 IEEE ISIT</p></details> |
-| **[On Code Rates of Fractional Repetition Codes](https://arxiv.org/pdf/1711.08869v1)** | 2017-11-27 | 11 pages, 0 figures |
+| **[The Tap code - a code similar to Morse code for communication by tapping](https://arxiv.org/pdf/1304.5069v1)** | 2013-04-19 | 11 pages, 3 tables |
 | **[Extended codes and deep holes of MDS codes](https://arxiv.org/pdf/2312.05534v1)** | 2023-12-12 | <details><summary>22 pa...</summary><p>22 pages, submitted for possible publication</p></details> |
 
 ## Program
