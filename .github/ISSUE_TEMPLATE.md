@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 23, 2025
+title: Latest 15 Papers - November 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Coding Limits of Robust Watermarking for Generative Models](https://arxiv.org/abs/2509.10577v2)** | 2025-11-21 |  |
+| **[CATCODER: Repository-Level Code Generation with Relevant Code and Type Context](https://arxiv.org/abs/2406.03283v2)** | 2025-11-21 | <details><summary>Revis...</summary><p>Revised and extended version; To be published in ACM Transactions on Software Engineering and Methodology</p></details> |
+| **[Biologically Inspired Predictive Coding TCN-Transformer for Anticipatory Human-Robot Interaction in Shared Physical Spaces](https://arxiv.org/abs/2405.13955v3)** | 2025-11-21 | <details><summary>45 pa...</summary><p>45 pages, 12 figures, 6 tables</p></details> |
+| **[Platonic Representations for Poverty Mapping: Unified Vision-Language Codes or Agent-Induced Novelty?](https://arxiv.org/abs/2508.01109v2)** | 2025-11-21 | 7 figures |
+| **[Beyond Code Similarity: Benchmarking the Plausibility, Efficiency, and Complexity of LLM-Generated Smart Contracts](https://arxiv.org/abs/2511.16224v2)** | 2025-11-21 | 20 pages |
+| **[The Star Product of Uniformly Random Codes](https://arxiv.org/abs/2511.17236v1)** | 2025-11-21 |  |
+| **[Hierarchical Gradient Coding: From Optimal Design to Privacy at Intermediate Nodes](https://arxiv.org/abs/2502.18251v2)** | 2025-11-21 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Information Theory. Partly accepted at ISIT 2025</p></details> |
+| **[Generalization the parameters of minimal linear codes over the ring $\mathbb{Z}_{p^l}$ and $\mathbb{Z}_{{p_1}{p_2}}$](https://arxiv.org/abs/2404.09561v4)** | 2025-11-21 | <details><summary>The s...</summary><p>The submission was made prematurely. The manuscript was uploaded before completing essential experiments and validations. Because the current version is incomplete and not suitable for public dissemination, we request withdrawal</p></details> |
+| **[Guessing Decoding of Short Blocklength Codes](https://arxiv.org/abs/2511.12108v3)** | 2025-11-21 |  |
+| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v2)** | 2025-11-21 |  |
+| **[Towards Formal Verification of LLM-Generated Code from Natural Language Prompts](https://arxiv.org/abs/2507.13290v2)** | 2025-11-20 | 28 pages, 10 figures |
+| **[NALA_MAINZ at BLP-2025 Task 2: A Multi-agent Approach for Bangla Instruction to Python Code Generation](https://arxiv.org/abs/2511.16787v1)** | 2025-11-20 | <details><summary>BLP 2...</summary><p>BLP 2025 Shared Task 2 - Code Generation in Bangla</p></details> |
 | **[A Construction of Infinite Families of Self-Orthogonal Quasi-Cyclic Codes Using Constituent Codes.pdf](https://arxiv.org/abs/2511.02813v2)** | 2025-11-20 | 20 pages |
 | **[Non-Linear Precoding via Dirty Paper Coding for Near-Field Downlink MISO Communications](https://arxiv.org/abs/2510.13485v2)** | 2025-11-20 |  |
 | **[Who is using AI to code? Global diffusion and impact of generative AI](https://arxiv.org/abs/2506.08945v2)** | 2025-11-20 |  |
-| **[Guessing Decoding of Short Blocklength Codes](https://arxiv.org/abs/2511.12108v2)** | 2025-11-20 |  |
-| **[Beyond Code Similarity: Benchmarking the Plausibility, Efficiency, and Complexity of LLM-Generated Smart Contracts](https://arxiv.org/abs/2511.16224v1)** | 2025-11-20 | 20 pages |
-| **[Overlapped-repetition Shor codes achieving fourfold asymptotic rate](https://arxiv.org/abs/2510.21030v2)** | 2025-11-20 | <details><summary>6+2 p...</summary><p>6+2 pages, 3 tables; Correct the design of inner layer; Add more literature review</p></details> |
-| **[GAPO: Robust Advantage Estimation for Real-World Code LLMs](https://arxiv.org/abs/2510.21830v2)** | 2025-11-20 |  |
-| **[Probabilistic Guarantees to Explicit Constructions: Local Properties of Linear Codes](https://arxiv.org/abs/2510.06185v2)** | 2025-11-19 | 42 pages, 1 figure |
-| **[Generalized ovals, 2.5-dimensional additive codes, and multispreads](https://arxiv.org/abs/2511.15843v1)** | 2025-11-19 | 68 pages, 2 tables |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in \llm-Generated Code](https://arxiv.org/abs/2511.15817v1)** | 2025-11-19 |  |
-| **[Joint Semantic-Channel Coding and Modulation for Token Communications](https://arxiv.org/abs/2511.15699v1)** | 2025-11-19 | <details><summary>14 pa...</summary><p>14 pages, 14 figures, 2 tables</p></details> |
-| **[Quantum-Guided Test Case Minimization for LLM-Based Code Generation](https://arxiv.org/abs/2511.15665v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This is a preprint version, full paper has been accepted in IEEE CASCON 2025 and will appear on lEEE Xplore</p></details> |
-| **[CODE-II: A large-scale dataset for artificial intelligence in ECG analysis](https://arxiv.org/abs/2511.15632v1)** | 2025-11-19 |  |
-| **[CODE: A global approach to ODE dynamics learning](https://arxiv.org/abs/2511.15619v1)** | 2025-11-19 |  |
-| **[From Code Smells to Best Practices: Tackling Resource Leaks in PyTorch, TensorFlow, and Keras](https://arxiv.org/abs/2511.15229v1)** | 2025-11-19 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Agentic Program Verification](https://arxiv.org/abs/2511.17330v1)** | 2025-11-21 | 21 pages, 8 figures |
+| **[Is the Cure Still Worse Than the Disease? Test Overfitting by LLMs in Automated Program Repair](https://arxiv.org/abs/2511.16858v1)** | 2025-11-20 |  |
 | **[Tropical Mathematics and the Lambda-Calculus II: Tropical Geometry of Probabilistic Programming Languages](https://arxiv.org/abs/2501.15637v2)** | 2025-11-20 |  |
 | **[Oracular Programming: A Modular Foundation for Building LLM-Enabled Software](https://arxiv.org/abs/2502.05310v3)** | 2025-11-20 |  |
 | **[Design of a visual environment for programming by direct data manipulation](https://arxiv.org/abs/2506.03720v3)** | 2025-11-20 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Socrates or Smartypants: Testing Logic Reasoning Capabilities of Large Language Models with Logic Programming-based Test Oracles](https://arxiv.org/abs/2504.12312v3)** | 2025-11-19 |  |
 | **[DiverseClaire: Simulating Students to Improve Introductory Programming Course Materials for All CS1 Learners](https://arxiv.org/abs/2511.14198v1)** | 2025-11-18 | 2 pages |
 | **[AgentArmor: Enforcing Program Analysis on Agent Runtime Trace to Defend Against Prompt Injection](https://arxiv.org/abs/2508.01249v3)** | 2025-11-18 |  |
-| **[Infrequent Resolving Algorithm for Online Linear Programming](https://arxiv.org/abs/2408.00465v6)** | 2025-11-17 | <details><summary>With ...</summary><p>With very few resolvings, we can achieve constant regret (even without the non-degeneracy assumption) for OLP and NRM problems</p></details> |
-| **[KForge: Program Synthesis for Diverse AI Hardware Accelerators](https://arxiv.org/abs/2511.13274v1)** | 2025-11-17 | <details><summary>Under...</summary><p>Under review at MLSys 2026</p></details> |
 
