@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 01, 2025
+title: Latest 15 Papers - December 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,30 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Accelerated Execution of Bayesian Neural Networks using a Single Probabilistic Forward Pass and Code Generation](https://arxiv.org/abs/2511.23440v1)** | 2025-11-28 |  |
-| **[Chart2Code-MoLA: Efficient Multi-Modal Code Generation via Adaptive Expert Routing](https://arxiv.org/abs/2511.23321v1)** | 2025-11-28 |  |
-| **[Decoding Trombetti-Zhou codes: a new syndrome-based decoding approach](https://arxiv.org/abs/2511.23202v1)** | 2025-11-28 |  |
-| **[LockForge: Automating Paper-to-Code for Logic Locking with Multi-Agent Reasoning LLMs](https://arxiv.org/abs/2511.18531v2)** | 2025-11-28 |  |
-| **[A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space](https://arxiv.org/abs/2511.10555v5)** | 2025-11-28 | <details><summary>Code:...</summary><p>Code: https://github.com/Kwai-Kolors/CoTyle Demo: https://huggingface.co/spaces/Kwai-Kolors/CoTyle Homepage: https://kwai-kolors.github.io/CoTyle/</p></details> |
-| **[$μ$PC: Scaling Predictive Coding to 100+ Layer Networks](https://arxiv.org/abs/2505.13124v2)** | 2025-11-28 | 35 pages, 42 figures |
-| **[Lower Bounds on Conversion Bandwidth for MDS Convertible Codes in Split Regime](https://arxiv.org/abs/2511.00953v2)** | 2025-11-28 | <details><summary>This ...</summary><p>This submission corrects a computational error in the previous version</p></details> |
-| **[Barcode and QR Code Object Detection: An Experimental Study on YOLOv8 Models](https://arxiv.org/abs/2511.22937v1)** | 2025-11-28 | <details><summary>7 Pag...</summary><p>7 Pages, 16 figures, Presented at 2024 International Conference on Emerging Innovations and Advanced Computing (INNOCOMP) Conference</p></details> |
-| **[On minimal codes arising from projective embeddings of point-line geometries](https://arxiv.org/abs/2511.22747v1)** | 2025-11-27 | 20 pages |
-| **[TransCoder: A Neural-Enhancement Framework for Channel Codes](https://arxiv.org/abs/2511.22539v1)** | 2025-11-27 |  |
-| **[VinciCoder: Unifying Multimodal Code Generation via Coarse-to-fine Visual Reinforcement Learning](https://arxiv.org/abs/2511.00391v2)** | 2025-11-27 | 15 pages, 11 figures |
-| **[TreeCoder: Systematic Exploration and Optimisation of Decoding and Constraints for LLM Code Generation](https://arxiv.org/abs/2511.22277v1)** | 2025-11-27 |  |
-| **[Constructions of block MDS LDPC codes from punctured circulant matrices](https://arxiv.org/abs/2511.22183v1)** | 2025-11-27 |  |
-| **[Four classes of optimal p-ary cyclic codes](https://arxiv.org/abs/2511.22086v1)** | 2025-11-27 |  |
-| **[On the Quality of AI-Generated Source Code Comments: A Comprehensive Evaluation](https://arxiv.org/abs/2408.14007v2)** | 2025-11-27 |  |
+| **[LLM-Driven Corrective Robot Operation Code Generation with Static Text-Based Simulation](https://arxiv.org/abs/2512.02002v1)** | 2025-12-01 | 8 pages, 2 figures |
+| **[From Code Foundation Models to Agents and Applications: A Practical Guide to Code Intelligence](https://arxiv.org/abs/2511.18538v2)** | 2025-12-01 |  |
+| **[StarDist: A Code Generator for Distributed Graph Algorithms](https://arxiv.org/abs/2512.01646v1)** | 2025-12-01 |  |
+| **[On the Quality of AI-Generated Source Code Comments: A Comprehensive Evaluation](https://arxiv.org/abs/2408.14007v3)** | 2025-12-01 |  |
+| **[MERA Code: A Unified Framework for Evaluating Code Generation Across Tasks](https://arxiv.org/abs/2507.12284v3)** | 2025-12-01 |  |
+| **[Consistency Flow Model Achieves One-step Denoising Error Correction Codes](https://arxiv.org/abs/2512.01389v1)** | 2025-12-01 |  |
+| **[LAURA: Enhancing Code Review Generation with Context-Enriched Retrieval-Augmented LLM](https://arxiv.org/abs/2512.01356v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted by the 2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE). Copyright 2025 IEEE. This is the author's accepted manuscript. The final published version may differ and will be available from IEEE Xplore</p></details> |
+| **[Shared Spatial Memory Through Predictive Coding](https://arxiv.org/abs/2511.04235v2)** | 2025-12-01 | <details><summary>We ha...</summary><p>We have prepared the open-source code and video demonstration pages: 1. Code: github.com/fangzr/SSM-PC 2. Demo: fangzr.github.io/SSM-PC/index.html</p></details> |
+| **[Khovanov homology and quantum error-correcting codes](https://arxiv.org/abs/2410.11252v2)** | 2025-11-30 | <details><summary>48 pa...</summary><p>48 pages, many figures. V2: added an author, improved exposition, and corrected typos</p></details> |
+| **[CodeDistiller: Automatically Generating Code Libraries for Scientific Coding Agents](https://arxiv.org/abs/2512.01089v1)** | 2025-11-30 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 2 tables</p></details> |
+| **[Chain of Unit-Physics: A Primitive-Centric Approach to Scientific Code Synthesis](https://arxiv.org/abs/2512.01010v1)** | 2025-11-30 |  |
+| **[HLStrans: Dataset for C-to-HLS Hardware Code Synthesis](https://arxiv.org/abs/2507.04315v2)** | 2025-11-30 |  |
+| **[Attributional Safety Failures in Large Language Models under Code-Mixed Perturbations](https://arxiv.org/abs/2505.14469v2)** | 2025-11-30 |  |
+| **[Code Comments for Quantum Software Development Kits: An Empirical Study on Qiskit](https://arxiv.org/abs/2512.00766v1)** | 2025-11-30 | <details><summary>Zengh...</summary><p>Zenghui Zhou and Yuechen Li contributed equally to this work. Corresponding author is Zheng Zheng</p></details> |
+| **[MASCOT: Analyzing Malware Evolution Through A Well-Curated Source Code Dataset](https://arxiv.org/abs/2512.00741v1)** | 2025-11-30 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, conference paper; submitted to IEEE BigData 2025 CyberHunt workshop</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Integrating Artificial Intelligence and Mixed Integer Linear Programming: Explainable Graph-Based Instance Space Analysis in Air Transportation](https://arxiv.org/abs/2512.01698v1)** | 2025-12-01 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, presented at XXII SITRAER 2025, in processes for submission to JATM</p></details> |
+| **[Deep FlexQP: Accelerated Nonlinear Programming via Deep Unfolding](https://arxiv.org/abs/2512.01565v1)** | 2025-12-01 |  |
+| **[SizeGS: Size-aware Compression of 3D Gaussian Splatting via Mixed Integer Programming](https://arxiv.org/abs/2412.05808v2)** | 2025-11-29 | <details><summary>Autom...</summary><p>Automatically compressing 3DGS into the desired file size while maximizing the visual quality</p></details> |
+| **[UNIQ: Communication-Efficient Distributed Quantum Computing via Unified Nonlinear Integer Programming](https://arxiv.org/abs/2512.00401v1)** | 2025-11-29 |  |
+| **[Automated Program Repair of Uncompilable Student Code](https://arxiv.org/abs/2510.06187v2)** | 2025-11-28 | <details><summary>In Pr...</summary><p>In Proceedings of the 57th ACM Technical Symposium on Computer Science Education V.2 (SIGCSE TS 2026)</p></details> |
 | **[Functional Program Synthesis with Higher-Order Functions and Recursion Schemes](https://arxiv.org/abs/2511.23354v1)** | 2025-11-28 | Doctoral thesis |
 | **[All for One and One for All: Program Logics for Exploiting Internal Determinism in Parallel Programs](https://arxiv.org/abs/2511.23283v1)** | 2025-11-28 | <details><summary>32 pa...</summary><p>32 pages, 26 figures, extended version of the same paper accepted at POPL 2026</p></details> |
 | **[Gradient-Based Program Repair: Fixing Bugs in Continuous Program Spaces](https://arxiv.org/abs/2505.17703v2)** | 2025-11-28 |  |
@@ -36,9 +41,4 @@ labels: documentation
 | **[A programming language combining quantum and classical control](https://arxiv.org/abs/2511.22537v1)** | 2025-11-27 | <details><summary>Exten...</summary><p>Extended version of https://www.doi.org/10.1007/978-3-031-90897-2_8 and related to the PhD thesis at arXiv:2406.07216</p></details> |
 | **[Balancing Two-Dimensional Straight-Line Programs](https://arxiv.org/abs/2511.22212v1)** | 2025-11-27 |  |
 | **[Human-AI Programming Role Optimization: Developing a Personality-Driven Self-Determination Framework](https://arxiv.org/abs/2511.00417v2)** | 2025-11-27 | <details><summary>PhD D...</summary><p>PhD Dissertation, Prague University of Economics and Business, 2025. 323 pages. ACM CCS 2012: Human-computer interaction, Collaborative interaction, Human-AI collaborative systems, Pair programming, AI-assisted software engineering</p></details> |
-| **[PRO-V-R1: Reasoning Enhanced Programming Agent for RTL Verification](https://arxiv.org/abs/2506.12200v2)** | 2025-11-26 |  |
-| **[Arctic Auctions, Linear Fisher Markets, and Rational Convex Programs](https://arxiv.org/abs/2511.21637v1)** | 2025-11-26 | 24 pages |
-| **[MeshCone: Second-Order Cone Programming for Geometrically-Constrained Mesh Enhancement](https://arxiv.org/abs/2412.08484v4)** | 2025-11-26 |  |
-| **[Prune4Web: DOM Tree Pruning Programming for Web Agent](https://arxiv.org/abs/2511.21398v1)** | 2025-11-26 | <details><summary>Paper...</summary><p>Paper accepted to AAAI 2026</p></details> |
-| **[Quantum Programming Without the Quantum Physics](https://arxiv.org/abs/2408.16234v2)** | 2025-11-26 | <details><summary>20 pa...</summary><p>20 pages, 5 figures. Version accepted at APLAS 2024</p></details> |
 
