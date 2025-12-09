@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 08, 2025
+title: Latest 15 Papers - December 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SymPyBench: A Dynamic Benchmark for Scientific Reasoning with Executable Python Code](https://arxiv.org/abs/2512.05954v1)** | 2025-12-05 |  |
-| **[Characterization and constructions of binary self-orthogonal singly-even linear codes](https://arxiv.org/abs/2507.12240v2)** | 2025-12-05 |  |
-| **[Exploiting Spatial Multiplexing Based on Pixel Antennas: An Antenna Coding Approach](https://arxiv.org/abs/2512.05706v1)** | 2025-12-05 |  |
-| **[Hyperspectral Unmixing with 3D Convolutional Sparse Coding and Projected Simplex Volume Maximization](https://arxiv.org/abs/2512.05674v1)** | 2025-12-05 |  |
-| **[Optimized Many-Hypercube Codes toward Lower Logical Error Rates and Earlier Realization](https://arxiv.org/abs/2512.00561v3)** | 2025-12-05 | 17 pages, 10 figures |
-| **[DPS: Design Pattern Summarisation Using Code Features](https://arxiv.org/abs/2504.11081v3)** | 2025-12-05 | <details><summary>32 pa...</summary><p>32 pages, 2 figures, 8 tables</p></details> |
-| **[CodeNER: Code Prompting for Named Entity Recognition](https://arxiv.org/abs/2507.20423v2)** | 2025-12-05 | 18 pages, 6 figures |
-| **[Automated Code Review Assignments: An Alternative Perspective of Code Ownership on GitHub](https://arxiv.org/abs/2512.05551v1)** | 2025-12-05 | <details><summary>15 pa...</summary><p>15 pages, 9 figures, 8 tables</p></details> |
-| **[A Hybrid Approach for EMF Code Generation:Code Templates Meet Large Language Models](https://arxiv.org/abs/2512.05498v1)** | 2025-12-05 |  |
-| **[PrivCode: When Code Generation Meets Differential Privacy](https://arxiv.org/abs/2512.05459v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at NDSS 2026; code available at https://github.com/Liuzzyg/PrivCode</p></details> |
-| **[LLM-Driven Corrective Robot Operation Code Generation with Static Text-Based Simulation](https://arxiv.org/abs/2512.02002v2)** | 2025-12-05 | 8 pages, 2 figures |
-| **[An Empirical Study on Low-Code Programming using Traditional vs Large Language Model Support](https://arxiv.org/abs/2402.01156v3)** | 2025-12-05 |  |
-| **[When Forgetting Builds Reliability: LLM Unlearning for Reliable Hardware Code Generation](https://arxiv.org/abs/2512.05341v1)** | 2025-12-05 |  |
-| **[Pushing Toward the Simplex Vertices: A Simple Remedy for Code Collapse in Smoothed Vector Quantization](https://arxiv.org/abs/2509.22161v2)** | 2025-12-05 |  |
-| **[Foundations of information theory for coding theory](https://arxiv.org/abs/2512.05316v1)** | 2025-12-04 |  |
+| **[Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach](https://arxiv.org/abs/2512.07814v1)** | 2025-12-08 | 21 pages, 8 figures |
+| **[A scalable and real-time neural decoder for topological quantum codes](https://arxiv.org/abs/2512.07737v1)** | 2025-12-08 |  |
+| **[Bridging Code Graphs and Large Language Models for Better Code Understanding](https://arxiv.org/abs/2512.07666v1)** | 2025-12-08 |  |
+| **[When Code Crosses Borders: A Security-Centric Study of LLM-based Code Translation](https://arxiv.org/abs/2509.06504v2)** | 2025-12-08 |  |
+| **[Learning to Align Human Code Preferences](https://arxiv.org/abs/2507.20109v2)** | 2025-12-08 |  |
+| **[AutoICE: Automatically Synthesizing Verifiable C Code via LLM-driven Evolution](https://arxiv.org/abs/2512.07501v1)** | 2025-12-08 |  |
+| **[Single-step Diffusion-based Video Coding with Semantic-Temporal Guidance](https://arxiv.org/abs/2512.07480v1)** | 2025-12-08 |  |
+| **[Do LLMs Trust the Code They Write?](https://arxiv.org/abs/2512.07404v1)** | 2025-12-08 |  |
+| **[Dualities of dihedral and generalised quaternion codes and applications to quantum codes](https://arxiv.org/abs/2512.07354v1)** | 2025-12-08 |  |
+| **[Linear codes over $\frac{\mathbb{F}_q[u]}{\langle u^2 \rangle}$ with mixed-alphabet defining sets and their Gray images: Constructions of projective few-weight, distance-optimal and minimal codes](https://arxiv.org/abs/2512.07343v1)** | 2025-12-08 |  |
+| **[Improved bounds and optimal constructions of pure quantum locally recoverable codes](https://arxiv.org/abs/2512.07256v1)** | 2025-12-08 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, another related work is about to be released</p></details> |
+| **[Function-Correcting Codes for Insertion-Deletion Channel](https://arxiv.org/abs/2512.07243v1)** | 2025-12-08 |  |
+| **[QiMeng-SALV: Signal-Aware Learning for Verilog Code Generation](https://arxiv.org/abs/2510.19296v4)** | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
+| **[Understanding Diffusion Models via Code Execution](https://arxiv.org/abs/2512.07201v1)** | 2025-12-08 |  |
+| **[Beam search decoder for quantum LDPC codes](https://arxiv.org/abs/2512.07057v1)** | 2025-12-08 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PIP: Making Andersen's Points-to Analysis Sound and Practical for Incomplete C Programs](https://arxiv.org/abs/2512.07299v1)** | 2025-12-08 | <details><summary>11 pa...</summary><p>11 pages, 10 figures. To be published in CGO 2026</p></details> |
+| **[A Diagrammatic Basis for Computer Programming](https://arxiv.org/abs/2512.07240v1)** | 2025-12-08 |  |
+| **[A Data Envelopment Analysis Approach for Assessing Fairness in Resource Allocation: Application to Kidney Exchange Programs](https://arxiv.org/abs/2410.02799v2)** | 2025-12-07 |  |
+| **[A biconvex optimization for solving semidefinite programs via bilinear factorization](https://arxiv.org/abs/1811.01198v13)** | 2025-12-06 |  |
 | **[ICNN-enhanced 2SP: Leveraging input convex neural networks for solving two-stage stochastic programming](https://arxiv.org/abs/2505.05261v2)** | 2025-12-05 |  |
 | **[On Dynamic Programming Theory for Leader-Follower Stochastic Games](https://arxiv.org/abs/2512.05667v1)** | 2025-12-05 | 31 pages, 5 figures |
 | **[Feasibility of AI-Assisted Programming for End-User Development](https://arxiv.org/abs/2512.05666v1)** | 2025-12-05 | 12 pages, 3 figures |
@@ -37,8 +41,4 @@ labels: documentation
 | **[Algorithms for Boolean Matrix Factorization using Integer Programming and Heuristics](https://arxiv.org/abs/2512.03807v2)** | 2025-12-04 | <details><summary>24 pa...</summary><p>24 pages, 12 tables, 3 figures, 2 typos corrected in v2, code and data available from https://gitlab.com/ckolomvakis/boolean-matrix-factorization-ip-and-heuristics</p></details> |
 | **[A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications](https://arxiv.org/abs/2506.23749v2)** | 2025-12-04 |  |
 | **[PRO-V-R1: Reasoning Enhanced Programming Agent for RTL Verification](https://arxiv.org/abs/2506.12200v3)** | 2025-12-03 |  |
-| **[New Perspectives on Semiring Applications to Dynamic Programming](https://arxiv.org/abs/2512.03916v1)** | 2025-12-03 |  |
-| **[EnCompass: Enhancing Agent Programming with Search Over Program Execution Paths](https://arxiv.org/abs/2512.03571v1)** | 2025-12-03 | <details><summary>65 pa...</summary><p>65 pages, 2 figures, published in NeurIPS 2025</p></details> |
-| **[Functional Python Programming in Introductory Computer Science Courses](https://arxiv.org/abs/2512.03492v1)** | 2025-12-03 | <details><summary>Prese...</summary><p>Presented in Best Practices Track of COMPUTE 2025 (arXiv:2512.02349)</p></details> |
-| **[Exploring the Potential and Limitations of Large Language Models for Novice Program Fault Localization](https://arxiv.org/abs/2512.03421v1)** | 2025-12-03 | <details><summary>The p...</summary><p>The paper has been accepted for publication in The Journal of Systems & Software</p></details> |
 
