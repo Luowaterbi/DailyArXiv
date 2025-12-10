@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 09, 2025
+title: Latest 15 Papers - December 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach](https://arxiv.org/abs/2512.07814v1)** | 2025-12-08 | 21 pages, 8 figures |
-| **[A scalable and real-time neural decoder for topological quantum codes](https://arxiv.org/abs/2512.07737v1)** | 2025-12-08 |  |
-| **[Bridging Code Graphs and Large Language Models for Better Code Understanding](https://arxiv.org/abs/2512.07666v1)** | 2025-12-08 |  |
-| **[When Code Crosses Borders: A Security-Centric Study of LLM-based Code Translation](https://arxiv.org/abs/2509.06504v2)** | 2025-12-08 |  |
-| **[Learning to Align Human Code Preferences](https://arxiv.org/abs/2507.20109v2)** | 2025-12-08 |  |
-| **[AutoICE: Automatically Synthesizing Verifiable C Code via LLM-driven Evolution](https://arxiv.org/abs/2512.07501v1)** | 2025-12-08 |  |
-| **[Single-step Diffusion-based Video Coding with Semantic-Temporal Guidance](https://arxiv.org/abs/2512.07480v1)** | 2025-12-08 |  |
-| **[Do LLMs Trust the Code They Write?](https://arxiv.org/abs/2512.07404v1)** | 2025-12-08 |  |
-| **[Dualities of dihedral and generalised quaternion codes and applications to quantum codes](https://arxiv.org/abs/2512.07354v1)** | 2025-12-08 |  |
-| **[Linear codes over $\frac{\mathbb{F}_q[u]}{\langle u^2 \rangle}$ with mixed-alphabet defining sets and their Gray images: Constructions of projective few-weight, distance-optimal and minimal codes](https://arxiv.org/abs/2512.07343v1)** | 2025-12-08 |  |
-| **[Improved bounds and optimal constructions of pure quantum locally recoverable codes](https://arxiv.org/abs/2512.07256v1)** | 2025-12-08 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, another related work is about to be released</p></details> |
-| **[Function-Correcting Codes for Insertion-Deletion Channel](https://arxiv.org/abs/2512.07243v1)** | 2025-12-08 |  |
-| **[QiMeng-SALV: Signal-Aware Learning for Verilog Code Generation](https://arxiv.org/abs/2510.19296v4)** | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[Understanding Diffusion Models via Code Execution](https://arxiv.org/abs/2512.07201v1)** | 2025-12-08 |  |
-| **[Beam search decoder for quantum LDPC codes](https://arxiv.org/abs/2512.07057v1)** | 2025-12-08 |  |
+| **[Improved Pseudorandom Codes from Permuted Puzzles](https://arxiv.org/abs/2512.08918v1)** | 2025-12-09 |  |
+| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v3)** | 2025-12-09 |  |
+| **[Multicalibration for LLM-based Code Generation](https://arxiv.org/abs/2512.08810v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at AI-SQE 2026 (The 1st International Workshop on AI for Software Quality Evaluation: Judgment, Metrics, Benchmarks, and Beyond)</p></details> |
+| **[StarDist: A Code Generator for Distributed Graph Algorithms](https://arxiv.org/abs/2512.01646v2)** | 2025-12-09 |  |
+| **[Skew polynomial representations of matrix algebras and applications to coding theory](https://arxiv.org/abs/2512.08602v1)** | 2025-12-09 |  |
+| **[When Many-Shot Prompting Fails: An Empirical Study of LLM Code Translation](https://arxiv.org/abs/2510.16809v2)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026 (RECODE workshop)</p></details> |
+| **[LLM-based Vulnerable Code Augmentation: Generate or Refactor?](https://arxiv.org/abs/2512.08493v1)** | 2025-12-09 | <details><summary>6 pag...</summary><p>6 pages, Submitted to ESAAN 2026, Under pier review</p></details> |
+| **[Autonomous Issue Resolver: Towards Zero-Touch Code Maintenance](https://arxiv.org/abs/2512.08492v1)** | 2025-12-09 | 21 pages, 4 figures |
+| **[Token Sugar: Making Source Code Sweeter for LLMs through Token-Efficient Shorthand](https://arxiv.org/abs/2512.08266v1)** | 2025-12-09 | Accepted by ASE'25 |
+| **[The Cream Rises to the Top: Efficient Reranking Method for Verilog Code Generation](https://arxiv.org/abs/2509.20215v2)** | 2025-12-09 | Work in Progress |
+| **[New VVC profiles targeting Feature Coding for Machines](https://arxiv.org/abs/2512.08227v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted for presentation at ICIP 2025 workshop on Coding for Machines</p></details> |
+| **[Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach](https://arxiv.org/abs/2512.07814v2)** | 2025-12-09 | 21 pages, 8 figures |
+| **[Locally Recoverable Codes with availability from a family of fibered surfaces](https://arxiv.org/abs/2512.08100v1)** | 2025-12-08 |  |
+| **[Image2Gcode: Image-to-G-code Generation for Additive Manufacturing Using Diffusion-Transformer Model](https://arxiv.org/abs/2511.20636v2)** | 2025-12-08 |  |
+| **[Structure Theorems (and Fast Algorithms) for List Recovery of Subspace-Design Codes](https://arxiv.org/abs/2512.08017v1)** | 2025-12-08 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PRO-V-R1: Reasoning Enhanced Programming Agent for RTL Verification](https://arxiv.org/abs/2506.12200v4)** | 2025-12-08 |  |
 | **[PIP: Making Andersen's Points-to Analysis Sound and Practical for Incomplete C Programs](https://arxiv.org/abs/2512.07299v1)** | 2025-12-08 | <details><summary>11 pa...</summary><p>11 pages, 10 figures. To be published in CGO 2026</p></details> |
 | **[A Diagrammatic Basis for Computer Programming](https://arxiv.org/abs/2512.07240v1)** | 2025-12-08 |  |
 | **[A Data Envelopment Analysis Approach for Assessing Fairness in Resource Allocation: Application to Kidney Exchange Programs](https://arxiv.org/abs/2410.02799v2)** | 2025-12-07 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Reflection-Satisfaction Tradeoff: Investigating Impact of Reflection on Student Engagement with AI-Generated Programming Hints](https://arxiv.org/abs/2512.04630v1)** | 2025-12-04 | Preprint |
 | **[Algorithms for Boolean Matrix Factorization using Integer Programming and Heuristics](https://arxiv.org/abs/2512.03807v2)** | 2025-12-04 | <details><summary>24 pa...</summary><p>24 pages, 12 tables, 3 figures, 2 typos corrected in v2, code and data available from https://gitlab.com/ckolomvakis/boolean-matrix-factorization-ip-and-heuristics</p></details> |
 | **[A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications](https://arxiv.org/abs/2506.23749v2)** | 2025-12-04 |  |
-| **[PRO-V-R1: Reasoning Enhanced Programming Agent for RTL Verification](https://arxiv.org/abs/2506.12200v3)** | 2025-12-03 |  |
 
