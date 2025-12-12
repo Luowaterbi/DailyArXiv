@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 11, 2025
+title: Latest 15 Papers - December 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,31 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Hypergraph based lower bound on Pliable Index Coding based on Nested Side-Information Sets](https://arxiv.org/abs/2511.01539v2)** | 2025-12-11 |  |
+| **[PACIFIC: a framework for generating benchmarks to check Precise Automatically Checked Instruction Following In Code](https://arxiv.org/abs/2512.10713v1)** | 2025-12-11 |  |
+| **[l0-Regularized Sparse Coding-based Interpretable Network for Multi-Modal Image Fusion](https://arxiv.org/abs/2411.04519v2)** | 2025-12-11 | <details><summary>Accet...</summary><p>Accetped by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</p></details> |
+| **[Decoding Human-LLM Collaboration in Coding: An Empirical Study of Multi-Turn Conversations in the Wild](https://arxiv.org/abs/2512.10493v1)** | 2025-12-11 |  |
+| **[UniCoR: Modality Collaboration for Robust Cross-Language Hybrid Code Retrieval](https://arxiv.org/abs/2512.10452v1)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by the 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)</p></details> |
+| **[How to Trick Your AI TA: A Systematic Study of Academic Jailbreaking in LLM Code Evaluation](https://arxiv.org/abs/2512.10415v1)** | 2025-12-11 | Under Review |
+| **[Performance Analysis of Quantum CSS Error-Correcting Codes via MacWilliams Identities](https://arxiv.org/abs/2305.01301v4)** | 2025-12-11 | <details><summary>25 pa...</summary><p>25 pages, 10 figures, accepted in Quantum journal</p></details> |
+| **[Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale](https://arxiv.org/abs/2512.10398v1)** | 2025-12-11 |  |
+| **[Screen Reader Programmers in the Vibe Coding Era: Adaptation, Empowerment, and New Accessibility Landscape](https://arxiv.org/abs/2506.13270v2)** | 2025-12-11 |  |
+| **[Emerging Standards for Machine-to-Machine Video Coding](https://arxiv.org/abs/2512.10230v1)** | 2025-12-11 |  |
+| **[Improving the decoding performance of CA-polar codes](https://arxiv.org/abs/2512.10223v1)** | 2025-12-11 |  |
+| **[Feature Coding for Scalable Machine Vision](https://arxiv.org/abs/2512.10209v1)** | 2025-12-11 | <details><summary>This ...</summary><p>This article has been accepted for publication in IEEE Consumer Electronics Magazine</p></details> |
+| **[ATLAS: Automated Toolkit for Large-Scale Verified Code Synthesis](https://arxiv.org/abs/2512.10173v1)** | 2025-12-11 |  |
+| **[Service Rate Regions of MDS Codes & Fractional Matchings in Quasi-uniform Hypergraphs](https://arxiv.org/abs/2504.17244v2)** | 2025-12-10 |  |
 | **[AI-powered Code Review with LLMs: Early Results](https://arxiv.org/abs/2404.18496v2)** | 2025-12-10 | 8 pages |
-| **[Benchmarking Web API Integration Code Generation](https://arxiv.org/abs/2509.20172v5)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published in Proceedings of 2025 2nd IEEE/ACM International Conference on AI-powered Software (AIware), Data & Benchmark Track; updated artifact link to point to the right version</p></details> |
-| **[Good quantum codes with addressable and parallelizable transversal non-Clifford gates](https://arxiv.org/abs/2510.19809v2)** | 2025-12-10 |  |
-| **[Understanding Chain-of-Thought Effectiveness in Code Generation: An Empirical and Information-Theoretic Analysis](https://arxiv.org/abs/2512.09679v1)** | 2025-12-10 |  |
-| **[Binary and Non-Binary Self-Dual Sequences and Maximum Period Single-Track Gray Codes](https://arxiv.org/abs/2512.09655v1)** | 2025-12-10 |  |
-| **[MoReGen: Multi-Agent Motion-Reasoning Engine for Code-based Text-to-Video Synthesis](https://arxiv.org/abs/2512.04221v2)** | 2025-12-10 |  |
-| **[Directional Diffusion-Style Code Editing Pre-training](https://arxiv.org/abs/2501.12079v2)** | 2025-12-10 |  |
-| **[Condor: A Code Discriminator Integrating General Semantics with Code Details](https://arxiv.org/abs/2412.17429v2)** | 2025-12-10 |  |
-| **[Grammar-Based Code Representation: Is It a Worthy Pursuit for LLMs?](https://arxiv.org/abs/2503.05507v2)** | 2025-12-10 |  |
-| **[$t$-Fold $s$-Blocking Sets and $s$-Minimal Codes](https://arxiv.org/abs/2512.09457v1)** | 2025-12-10 |  |
-| **[Performance Analysis of Quantum CSS Error-Correcting Codes via MacWilliams Identities](https://arxiv.org/abs/2305.01301v3)** | 2025-12-10 | <details><summary>25 pa...</summary><p>25 pages, 10 figures, accepted in Quantum journal</p></details> |
-| **[CREME: Robustness Enhancement of Code LLMs via Layer-Aware Model Editing](https://arxiv.org/abs/2507.16407v3)** | 2025-12-10 |  |
-| **[Enabling Next-Generation Consumer Experience with Feature Coding for Machines](https://arxiv.org/abs/2512.09232v1)** | 2025-12-10 |  |
-| **[Efficient Black-Box Fault Localization for System-Level Test Code Using Large Language Models](https://arxiv.org/abs/2506.19045v2)** | 2025-12-09 |  |
-| **[Improved Pseudorandom Codes from Permuted Puzzles](https://arxiv.org/abs/2512.08918v1)** | 2025-12-09 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AgentProg: Empowering Long-Horizon GUI Agents with Program-Guided Context Management](https://arxiv.org/abs/2512.10371v1)** | 2025-12-11 | 16 pages, 8 figures |
+| **[AlphaOPT: Formulating Optimization Programs with Self-Improving LLM Experience Library](https://arxiv.org/abs/2510.18428v2)** | 2025-12-11 |  |
+| **[SemanticBBV: A Semantic Signature for Cross-Program Knowledge Reuse in Microarchitecture Simulation](https://arxiv.org/abs/2512.10231v1)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by ASP-DAC 2026 conference</p></details> |
+| **[ID-PaS : Identity-Aware Predict-and-Search for General Mixed-Integer Linear Programs](https://arxiv.org/abs/2512.10211v1)** | 2025-12-11 |  |
+| **[Universal Hirschberg for Width Bounded Dynamic Programs](https://arxiv.org/abs/2512.10132v1)** | 2025-12-10 | 31 pages |
+| **[Human Attention During Localization of Memory Bugs in C Programs](https://arxiv.org/abs/2506.00693v2)** | 2025-12-10 |  |
 | **[Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms](https://arxiv.org/abs/2501.09144v3)** | 2025-12-10 | LMCS |
 | **[Simple Modal Types for Functional Reactive Programming](https://arxiv.org/abs/2512.09412v1)** | 2025-12-10 |  |
 | **[FLARE v2: A Recursive Framework for Program Comprehension Across Languages and Levels of Abstraction](https://arxiv.org/abs/2512.09261v1)** | 2025-12-10 | <details><summary>22 pa...</summary><p>22 pages, 4 figures. Preprint under CC BY-NC-SA 4.0</p></details> |
@@ -35,10 +41,4 @@ labels: documentation
 | **[A Diagrammatic Basis for Computer Programming](https://arxiv.org/abs/2512.07240v1)** | 2025-12-08 |  |
 | **[A Data Envelopment Analysis Approach for Assessing Fairness in Resource Allocation: Application to Kidney Exchange Programs](https://arxiv.org/abs/2410.02799v2)** | 2025-12-07 |  |
 | **[A biconvex optimization for solving semidefinite programs via bilinear factorization](https://arxiv.org/abs/1811.01198v13)** | 2025-12-06 |  |
-| **[ICNN-enhanced 2SP: Leveraging input convex neural networks for solving two-stage stochastic programming](https://arxiv.org/abs/2505.05261v2)** | 2025-12-05 |  |
-| **[On Dynamic Programming Theory for Leader-Follower Stochastic Games](https://arxiv.org/abs/2512.05667v1)** | 2025-12-05 | 31 pages, 5 figures |
-| **[Feasibility of AI-Assisted Programming for End-User Development](https://arxiv.org/abs/2512.05666v1)** | 2025-12-05 | 12 pages, 3 figures |
-| **[An Empirical Study on Low-Code Programming using Traditional vs Large Language Model Support](https://arxiv.org/abs/2402.01156v3)** | 2025-12-05 |  |
-| **[Declarative Synthesis and Multi-Objective Optimization of Stripboard Circuit Layouts Using Answer Set Programming](https://arxiv.org/abs/2512.04910v1)** | 2025-12-04 | <details><summary>Accep...</summary><p>Accepted by the 43rd IEEE International Conference on Computer Design (ICCD 2025)</p></details> |
-| **[Logic-Driven Cybersecurity: A Novel Framework for System Log Anomaly Detection using Answer Set Programming](https://arxiv.org/abs/2512.04908v1)** | 2025-12-04 | <details><summary>Submi...</summary><p>Submitted to FLOPS 2026</p></details> |
 
