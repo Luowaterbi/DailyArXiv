@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 14, 2025
+title: Latest 15 Papers - December 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pinball: A Cryogenic Predecoder for Surface Code Decoding Under Circuit-Level Noise](https://arxiv.org/abs/2512.09807v2)** | 2025-12-12 | <details><summary>Minor...</summary><p>Minor text/figure/title updates. 17 pages, 26 figures. To appear at the 32nd IEEE International Symposium on High-Performance Computer Architecture (HPCA 2026)</p></details> |
+| **[Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale](https://arxiv.org/abs/2512.10398v2)** | 2025-12-12 | <details><summary>Meta ...</summary><p>Meta requires more thorough internal review process to ensure paper quality and experiments as well as compliance with the internal research publishing process</p></details> |
+| **[Decoding Human-LLM Collaboration in Coding: An Empirical Study of Multi-Turn Conversations in the Wild](https://arxiv.org/abs/2512.10493v2)** | 2025-12-12 |  |
+| **[Towards Privacy-Preserving Code Generation: Differentially Private Code Language Models](https://arxiv.org/abs/2512.11482v1)** | 2025-12-12 |  |
+| **[Capacity-Achieving Codes with Inverse-Ackermann-Depth Encoders](https://arxiv.org/abs/2512.11443v1)** | 2025-12-12 |  |
+| **[REMODEL-LLM: Transforming C code to Java using LLMs](https://arxiv.org/abs/2512.11402v1)** | 2025-12-12 |  |
+| **[AutoFSM: A Multi-agent Framework for FSM Code Generation with IR and SystemC-Based Testing](https://arxiv.org/abs/2512.11398v1)** | 2025-12-12 | <details><summary>This ...</summary><p>This version corrects a typo in the section title ("Intruction" -> "Introduction") that appears in the published version</p></details> |
+| **[QGEC : Quantum Golay Code Error Correction](https://arxiv.org/abs/2512.11307v1)** | 2025-12-12 |  |
+| **[Few-Shot VLM-Based G-Code and HMI Verification in CNC Machining](https://arxiv.org/abs/2512.11296v1)** | 2025-12-12 |  |
+| **[On the hull-variation problem of equivalent vector rank metric codes](https://arxiv.org/abs/2505.08506v2)** | 2025-12-12 |  |
+| **[DoDo-Code: an Efficient Levenshtein Distance Embedding-based Code for 4-ary IDS Channel](https://arxiv.org/abs/2312.12717v3)** | 2025-12-12 |  |
+| **[Theoretical Foundations of GPU-Native Compilation for Rapid Code Iteration](https://arxiv.org/abs/2512.11200v1)** | 2025-12-12 | 9 pages , 2 tables |
 | **[A Hypergraph based lower bound on Pliable Index Coding based on Nested Side-Information Sets](https://arxiv.org/abs/2511.01539v2)** | 2025-12-11 |  |
 | **[PACIFIC: a framework for generating benchmarks to check Precise Automatically Checked Instruction Following In Code](https://arxiv.org/abs/2512.10713v1)** | 2025-12-11 |  |
 | **[l0-Regularized Sparse Coding-based Interpretable Network for Multi-Modal Image Fusion](https://arxiv.org/abs/2411.04519v2)** | 2025-12-11 | <details><summary>Accet...</summary><p>Accetped by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</p></details> |
-| **[Decoding Human-LLM Collaboration in Coding: An Empirical Study of Multi-Turn Conversations in the Wild](https://arxiv.org/abs/2512.10493v1)** | 2025-12-11 |  |
-| **[UniCoR: Modality Collaboration for Robust Cross-Language Hybrid Code Retrieval](https://arxiv.org/abs/2512.10452v1)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by the 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)</p></details> |
-| **[How to Trick Your AI TA: A Systematic Study of Academic Jailbreaking in LLM Code Evaluation](https://arxiv.org/abs/2512.10415v1)** | 2025-12-11 | Under Review |
-| **[Performance Analysis of Quantum CSS Error-Correcting Codes via MacWilliams Identities](https://arxiv.org/abs/2305.01301v4)** | 2025-12-11 | <details><summary>25 pa...</summary><p>25 pages, 10 figures, accepted in Quantum journal</p></details> |
-| **[Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale](https://arxiv.org/abs/2512.10398v1)** | 2025-12-11 |  |
-| **[Screen Reader Programmers in the Vibe Coding Era: Adaptation, Empowerment, and New Accessibility Landscape](https://arxiv.org/abs/2506.13270v2)** | 2025-12-11 |  |
-| **[Emerging Standards for Machine-to-Machine Video Coding](https://arxiv.org/abs/2512.10230v1)** | 2025-12-11 |  |
-| **[Improving the decoding performance of CA-polar codes](https://arxiv.org/abs/2512.10223v1)** | 2025-12-11 |  |
-| **[Feature Coding for Scalable Machine Vision](https://arxiv.org/abs/2512.10209v1)** | 2025-12-11 | <details><summary>This ...</summary><p>This article has been accepted for publication in IEEE Consumer Electronics Magazine</p></details> |
-| **[ATLAS: Automated Toolkit for Large-Scale Verified Code Synthesis](https://arxiv.org/abs/2512.10173v1)** | 2025-12-11 |  |
-| **[Service Rate Regions of MDS Codes & Fractional Matchings in Quasi-uniform Hypergraphs](https://arxiv.org/abs/2504.17244v2)** | 2025-12-10 |  |
-| **[AI-powered Code Review with LLMs: Early Results](https://arxiv.org/abs/2404.18496v2)** | 2025-12-10 | 8 pages |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Right Kind of Help: Evaluating the Effectiveness of Intervention Methods in Elementary-Level Visual Programming](https://arxiv.org/abs/2512.11735v1)** | 2025-12-12 | Preprint |
 | **[AgentProg: Empowering Long-Horizon GUI Agents with Program-Guided Context Management](https://arxiv.org/abs/2512.10371v1)** | 2025-12-11 | 16 pages, 8 figures |
 | **[AlphaOPT: Formulating Optimization Programs with Self-Improving LLM Experience Library](https://arxiv.org/abs/2510.18428v2)** | 2025-12-11 |  |
 | **[SemanticBBV: A Semantic Signature for Cross-Program Knowledge Reuse in Microarchitecture Simulation](https://arxiv.org/abs/2512.10231v1)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by ASP-DAC 2026 conference</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[PIP: Making Andersen's Points-to Analysis Sound and Practical for Incomplete C Programs](https://arxiv.org/abs/2512.07299v1)** | 2025-12-08 | <details><summary>11 pa...</summary><p>11 pages, 10 figures. To be published in CGO 2026</p></details> |
 | **[A Diagrammatic Basis for Computer Programming](https://arxiv.org/abs/2512.07240v1)** | 2025-12-08 |  |
 | **[A Data Envelopment Analysis Approach for Assessing Fairness in Resource Allocation: Application to Kidney Exchange Programs](https://arxiv.org/abs/2410.02799v2)** | 2025-12-07 |  |
-| **[A biconvex optimization for solving semidefinite programs via bilinear factorization](https://arxiv.org/abs/1811.01198v13)** | 2025-12-06 |  |
 
