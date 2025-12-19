@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 18, 2025
+title: Latest 15 Papers - December 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BigCodeArena: Unveiling More Reliable Human Preferences in Code Generation via Execution](https://arxiv.org/abs/2510.08697v2)** | 2025-12-18 | <details><summary>Built...</summary><p>Built with love by the BigCode community :)</p></details> |
+| **[Beyond Rate Coding: Surrogate Gradients Enable Spike Timing Learning in Spiking Neural Networks](https://arxiv.org/abs/2507.16043v3)** | 2025-12-18 |  |
+| **[A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection](https://arxiv.org/abs/2512.16538v1)** | 2025-12-18 |  |
+| **[New Quantum Stabilizer Codes from generalized Monomial-Cartesian Codes constructed using two different generalized Reed-Solomon codes](https://arxiv.org/abs/2512.16482v1)** | 2025-12-18 |  |
+| **[Vibe Coding as a Reconfiguration of Intent Mediation in Software Development: Definition, Implications, and Research Agenda](https://arxiv.org/abs/2507.21928v3)** | 2025-12-18 |  |
+| **[Generalized Hamming weights of additive codes and geometric counterparts](https://arxiv.org/abs/2512.16327v1)** | 2025-12-18 | <details><summary>57 pa...</summary><p>57 pages, 6 tables; comments and remarks more than welcome</p></details> |
+| **[Code-in-the-Loop Forensics: Agentic Tool Use for Image Forgery Detection](https://arxiv.org/abs/2512.16300v1)** | 2025-12-18 | 11 pages, 6 figures |
+| **[Long-Horizon Visual Imitation Learning via Plan and Code Reflection](https://arxiv.org/abs/2509.05368v3)** | 2025-12-18 | 9 pages, 4 figures |
+| **[A Multi-Language Perspective on the Robustness of LLM Code Generation](https://arxiv.org/abs/2504.19108v4)** | 2025-12-18 | <details><summary>46 pa...</summary><p>46 pages, 10 figures, 16 tables</p></details> |
+| **[Good Locally Testable Codes with Small Alphabet and Small Query Size](https://arxiv.org/abs/2512.16082v1)** | 2025-12-18 | <details><summary>19 pa...</summary><p>19 pages. Comments are welcome</p></details> |
+| **[Deflating quantum error-correcting codes](https://arxiv.org/abs/2512.15887v1)** | 2025-12-17 | <details><summary>Submi...</summary><p>Submitted to IEEE transactions on information theory November 21, 2025</p></details> |
 | **[Beam search decoder for quantum LDPC codes](https://arxiv.org/abs/2512.07057v2)** | 2025-12-17 | <details><summary>We ha...</summary><p>We have released the implementation source code at https://github.com/ionq-publications/BeamSearchDecoder</p></details> |
 | **[Bidirectional predictive coding](https://arxiv.org/abs/2505.23415v2)** | 2025-12-17 |  |
 | **[How Do Semantically Equivalent Code Transformations Impact Membership Inference on LLMs for Code?](https://arxiv.org/abs/2512.15468v1)** | 2025-12-17 | 13 pages, 3 figures |
 | **[On Assessing the Relevance of Code Reviews Authored by Generative Models](https://arxiv.org/abs/2512.15466v1)** | 2025-12-17 | <details><summary>Repli...</summary><p>Replication Package: https://github.com/robert-heumueller-ovgu/repl-generative-review-relevance</p></details> |
-| **[RPM-MCTS: Knowledge-Retrieval as Process Reward Model with Monte Carlo Tree Search for Code Generation](https://arxiv.org/abs/2511.19895v2)** | 2025-12-17 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
-| **[Audio-Visual Cross-Modal Compression for Generative Face Video Coding](https://arxiv.org/abs/2512.15262v1)** | 2025-12-17 | <details><summary>Accep...</summary><p>Accepted as a PAPER and for publication in the DCC 2026 proceedings</p></details> |
-| **[Feature Importance-Aware Deep Joint Source-Channel Coding for Computationally Efficient and Adjustable Image Transmission](https://arxiv.org/abs/2504.04758v3)** | 2025-12-17 |  |
-| **[An Exploratory Study of Bayesian Prompt Optimization for Test-Driven Code Generation with Large Language Models](https://arxiv.org/abs/2512.15076v1)** | 2025-12-17 | 20 pages, 13 figures |
-| **[Confucius Code Agent: Scalable Agent Scaffolding for Real-World Codebases](https://arxiv.org/abs/2512.10398v4)** | 2025-12-17 | The latest version |
-| **[On the Stochastic Analysis of Random Linear Streaming Codes in Multi-Hop Relay Networks](https://arxiv.org/abs/2512.15049v1)** | 2025-12-17 |  |
-| **[DreamPRM-Code: Function-as-Step Process Reward Model with Label Correction for LLM Coding](https://arxiv.org/abs/2512.15000v1)** | 2025-12-17 |  |
-| **[Algebra in Algorithmic Coding Theory](https://arxiv.org/abs/2512.06478v2)** | 2025-12-16 | 20 pages |
-| **[Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings](https://arxiv.org/abs/2512.14917v1)** | 2025-12-16 |  |
-| **[Binary and Non-Binary Self-Dual Sequences and Maximum Period Single-Track Gray Codes](https://arxiv.org/abs/2512.09655v2)** | 2025-12-16 |  |
-| **[Trace Gadgets: Minimizing Code Context for Machine Learning-Based Vulnerability Prediction](https://arxiv.org/abs/2504.13676v2)** | 2025-12-16 | <details><summary>Publi...</summary><p>Published in the Proceedings of ACM ASIA CCS 2026</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Input Reduction Enhanced LLM-based Program Repair](https://arxiv.org/abs/2507.15251v2)** | 2025-12-18 |  |
+| **[SnapClass: An AI-Enhanced Classroom Management System for Block-Based Programming](https://arxiv.org/abs/2512.15825v1)** | 2025-12-17 | 2 pages, 7 figures |
 | **[EvoLattice: Persistent Internal-Population Evolution through Multi-Alternative Quality-Diversity Graph Representations for LLM-Guided Program Discovery](https://arxiv.org/abs/2512.13857v2)** | 2025-12-17 |  |
 | **[Sharing State Between Prompts and Programs](https://arxiv.org/abs/2512.14805v1)** | 2025-12-16 |  |
 | **[A Recursive Theory of Variational State Estimation: The Dynamic Programming Approach](https://arxiv.org/abs/2511.11497v2)** | 2025-12-16 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Probabilistic Programming Meets Automata Theory: Exact Inference using Weighted Automata](https://arxiv.org/abs/2512.13185v1)** | 2025-12-15 |  |
 | **[Learning to Optimize for Mixed-Integer Non-linear Programming with Feasibility Guarantees](https://arxiv.org/abs/2410.11061v10)** | 2025-12-15 |  |
 | **[Satisfiability Modulo Theory Meets Inductive Logic Programming](https://arxiv.org/abs/2512.12918v1)** | 2025-12-15 |  |
-| **[Interactive Program Synthesis for Modeling Collaborative Physical Activities from Narrated Demonstrations](https://arxiv.org/abs/2509.24250v2)** | 2025-12-14 |  |
-| **[OPAL: Operator-Programmed Algorithms for Landscape-Aware Black-Box Optimization](https://arxiv.org/abs/2512.12809v1)** | 2025-12-14 | <details><summary>Sourc...</summary><p>Source code, experiment scripts, and results are publicly available at https://github.com/junbolian/OPAL. The real-world application part hasn't been done yet</p></details> |
 
