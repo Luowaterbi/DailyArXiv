@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 22, 2025
+title: Latest 15 Papers - December 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,31 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v4)** | 2025-12-19 |  |
-| **[Additive codes attaining the Griesmer bound](https://arxiv.org/abs/2412.14615v2)** | 2025-12-19 | <details><summary>181 p...</summary><p>181 pages, 27 tables, typos removed, content extended; comments more than welcome</p></details> |
-| **[SGCR: A Specification-Grounded Framework for Trustworthy LLM Code Review](https://arxiv.org/abs/2512.17540v1)** | 2025-12-19 |  |
-| **[Voxel-GS: Quantized Scaffold Gaussian Splatting Compression with Run-Length Coding](https://arxiv.org/abs/2512.17528v1)** | 2025-12-19 | Accepted by DCC 2026 |
-| **[CIFE: Code Instruction-Following Evaluation](https://arxiv.org/abs/2512.17387v1)** | 2025-12-19 | <details><summary>20 pa...</summary><p>20 pages, 22 figures, 2 tables</p></details> |
-| **[UCoder: Unsupervised Code Generation by Internal Probing of Large Language Models](https://arxiv.org/abs/2512.17385v1)** | 2025-12-19 |  |
-| **[GraphCue for SDN Configuration Code Synthesis](https://arxiv.org/abs/2512.17371v1)** | 2025-12-19 | 2 pages, 2 figures |
-| **[Cryptanalysis of Pseudorandom Error-Correcting Codes](https://arxiv.org/abs/2512.17310v1)** | 2025-12-19 |  |
-| **[Understanding and supporting how developers prompt for LLM-powered code editing in practice](https://arxiv.org/abs/2504.20196v2)** | 2025-12-19 |  |
-| **[Hermitian Hulls of Rational Algebraic Geometry Codes and Applications in Quantum Codes](https://arxiv.org/abs/2512.17128v1)** | 2025-12-18 | 23 pages |
-| **[MatchFixAgent: Language-Agnostic Autonomous Repository-Level Code Translation Validation and Repair](https://arxiv.org/abs/2509.16187v2)** | 2025-12-18 |  |
-| **[A First Look at the Self-Admitted Technical Debt in Test Code: Taxonomy and Detection](https://arxiv.org/abs/2510.22409v2)** | 2025-12-18 |  |
-| **[LLM-HPC++: Evaluating LLM-Generated Modern C++ and MPI+OpenMP Codes for Scalable Mandelbrot Set Computation](https://arxiv.org/abs/2512.17023v1)** | 2025-12-18 |  |
-| **[BigCodeArena: Unveiling More Reliable Human Preferences in Code Generation via Execution](https://arxiv.org/abs/2510.08697v2)** | 2025-12-18 | <details><summary>Built...</summary><p>Built with love by the BigCode community :)</p></details> |
-| **[Beyond Rate Coding: Surrogate Gradients Enable Spike Timing Learning in Spiking Neural Networks](https://arxiv.org/abs/2507.16043v3)** | 2025-12-18 |  |
+| **[CodeTF: One-stop Transformer Library for State-of-the-art Code LLMs](https://arxiv.org/abs/2306.00029v2)** | 2025-12-22 |  |
+| **[More code, less validation: Risk factors for over-reliance on AI coding tools among scientists](https://arxiv.org/abs/2512.19644v1)** | 2025-12-22 |  |
+| **[Beyond Language Boundaries: Uncovering Programming Language Families for Code Language Models](https://arxiv.org/abs/2512.19509v1)** | 2025-12-22 | Accepted by FSE 2026 |
+| **[A Dataset and Preliminary Study of Using GPT-5 for Code-change Impact Analysis](https://arxiv.org/abs/2512.19481v1)** | 2025-12-22 | 6 pages |
+| **[CodeSimpleQA: Scaling Factuality in Code Large Language Models](https://arxiv.org/abs/2512.19424v1)** | 2025-12-22 |  |
+| **[PACIFIC: a framework for generating benchmarks to check Precise Automatically Checked Instruction Following In Code](https://arxiv.org/abs/2512.10713v2)** | 2025-12-22 |  |
+| **[Semantically-Equivalent Transformations-Based Backdoor Attacks against Neural Code Models: Characterization and Mitigation](https://arxiv.org/abs/2512.19215v1)** | 2025-12-22 |  |
+| **[University Rents Enabling Corporate Innovation: Mapping Academic Researcher Coding and Discursive Labour in the R Language Ecosystem](https://arxiv.org/abs/2512.19153v1)** | 2025-12-22 |  |
+| **[Deep Equilibrium Convolutional Sparse Coding for Hyperspectral Image Denoising](https://arxiv.org/abs/2508.15553v2)** | 2025-12-22 |  |
+| **[BanglaForge: LLM Collaboration with Self-Refinement for Bangla Code Generation](https://arxiv.org/abs/2512.19122v1)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted at BLP Workshop @ IJCNLP-AACL 2025. Code is available at https://github.com/mahirlabibdihan/BanglaForge</p></details> |
+| **[Modular Layout Synthesis (MLS): Front-end Code via Structure Normalization and Constrained Generation](https://arxiv.org/abs/2512.18996v1)** | 2025-12-22 |  |
+| **[Automatic Detection of LLM-Generated Code: A Comparative Case Study of Contemporary Models Across Function and Class Granularities](https://arxiv.org/abs/2409.01382v2)** | 2025-12-22 | <details><summary>Submi...</summary><p>Submitted to a journal for potential publication</p></details> |
+| **[An Empirical Study of Developer-Provided Context for AI Coding Assistants in Open-Source Projects](https://arxiv.org/abs/2512.18925v1)** | 2025-12-21 |  |
+| **[EuroHPC SPACE CoE: Redesigning Scalable Parallel Astrophysical Codes for Exascale](https://arxiv.org/abs/2512.18883v1)** | 2025-12-21 | 7 pages, 7 figures |
+| **[Code2Doc: A Quality-First Curated Dataset for Code Documentation](https://arxiv.org/abs/2512.18748v1)** | 2025-12-21 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Language Boundaries: Uncovering Programming Language Families for Code Language Models](https://arxiv.org/abs/2512.19509v1)** | 2025-12-22 | Accepted by FSE 2026 |
+| **[Deep Reinforcement Learning Optimization for Uncertain Nonlinear Systems via Event-Triggered Robust Adaptive Dynamic Programming](https://arxiv.org/abs/2512.15735v2)** | 2025-12-22 | <details><summary>we ha...</summary><p>we have identified some technical issues, including the mathematical derivation. After discussion, all authors have agreed that the analysis requires a thorough re-derivation to ensure correctness and rigor</p></details> |
+| **[Research Program: Theory of Learning in Dynamical Systems](https://arxiv.org/abs/2512.19410v1)** | 2025-12-22 |  |
+| **[From Speech to Subtitles: Evaluating ASR Models in Subtitling Italian Television Programs](https://arxiv.org/abs/2512.19161v1)** | 2025-12-22 |  |
+| **[Modular Automatic Complexity Analysis of Recursive Integer Programs](https://arxiv.org/abs/2512.18851v1)** | 2025-12-21 | <details><summary>Exten...</summary><p>Extended version of our ESOP '26 article</p></details> |
+| **[DafnyMPI: A Dafny Library for Verifying Message-Passing Concurrent Programs](https://arxiv.org/abs/2512.18842v1)** | 2025-12-21 | <details><summary>To ap...</summary><p>To appear in Proceedings of the ACM on Programming Languages (POPL)</p></details> |
 | **[A Solver-in-the-Loop Framework for Improving LLMs on Answer Set Programming for Logic Puzzle Solving](https://arxiv.org/abs/2512.17093v1)** | 2025-12-18 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, accepted at AAAI'26</p></details> |
 | **[Input Reduction Enhanced LLM-based Program Repair](https://arxiv.org/abs/2507.15251v2)** | 2025-12-18 |  |
 | **[SnapClass: An AI-Enhanced Classroom Management System for Block-Based Programming](https://arxiv.org/abs/2512.15825v1)** | 2025-12-17 | 2 pages, 7 figures |
@@ -35,10 +41,4 @@ labels: documentation
 | **[Enhancing Visual Programming for Visual Reasoning via Probabilistic Graphs](https://arxiv.org/abs/2512.14257v1)** | 2025-12-16 | 13 Pages, 12 figures |
 | **[Efficient Local and Tabu Search Strategies for Large-Scale Quadratic Integer Programming](https://arxiv.org/abs/2409.14176v3)** | 2025-12-16 | 32 pages, 8 figures |
 | **[Simulation-Guided Planning of a Target Trial Emulated Cluster Randomized Trial for Mass Small-Quantity Lipid Nutrient Supplementation Combined with Expanded Program on Immunization in Rural Niger](https://arxiv.org/abs/2510.19077v2)** | 2025-12-16 |  |
-| **[Context Branching for LLM Conversations: A Version Control Approach to Exploratory Programming](https://arxiv.org/abs/2512.13914v1)** | 2025-12-15 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 2 tables, 1 code snippet, 4 algorithms</p></details> |
-| **[OPTIMA: Optimal One-shot Pruning for LLMs via Quadratic Programming Reconstruction](https://arxiv.org/abs/2512.13886v1)** | 2025-12-15 |  |
-| **[FLARE v2: A Recursive Framework for Program Comprehension Across Common Teaching Languages and Levels of Abstraction](https://arxiv.org/abs/2512.09261v2)** | 2025-12-15 | <details><summary>20 pa...</summary><p>20 pages, 4 figures. Preprint under CC BY-NC-SA 4.0</p></details> |
-| **[Scaling Laws for Code: Every Programming Language Matters](https://arxiv.org/abs/2512.13472v1)** | 2025-12-15 |  |
-| **[Probabilistic Programming Meets Automata Theory: Exact Inference using Weighted Automata](https://arxiv.org/abs/2512.13185v1)** | 2025-12-15 |  |
-| **[Learning to Optimize for Mixed-Integer Non-linear Programming with Feasibility Guarantees](https://arxiv.org/abs/2410.11061v10)** | 2025-12-15 |  |
 
