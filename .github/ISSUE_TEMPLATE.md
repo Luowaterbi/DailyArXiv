@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 24, 2025
+title: Latest 15 Papers - December 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,28 +7,30 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[C2LLM Technical Report: A New Frontier in Code Retrieval via Adaptive Cross-Attention Pooling](https://arxiv.org/abs/2512.21332v1)** | 2025-12-24 |  |
+| **[Uniquely optimal codes of low complexity are symmetric](https://arxiv.org/abs/2008.12871v3)** | 2025-12-24 |  |
+| **[CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents](https://arxiv.org/abs/2512.21250v1)** | 2025-12-24 |  |
+| **[AutoBaxBuilder: Bootstrapping Code Security Benchmarking](https://arxiv.org/abs/2512.21132v1)** | 2025-12-24 |  |
+| **[Coding-Logic Correspondence: Turning Information and Communication Networks into Logical Formulae via Hypergraph Heyting Algebra](https://arxiv.org/abs/2512.21112v1)** | 2025-12-24 | 28 pages, 3 figures |
+| **[Large Language Model for Verilog Code Generation: Literature Review and the Road Ahead](https://arxiv.org/abs/2512.00020v2)** | 2025-12-24 | Under Review |
+| **[When LLMs fall short in Deductive Coding: Model Comparison and Human AI Collaboration Workflow Design](https://arxiv.org/abs/2512.21041v1)** | 2025-12-24 | <details><summary>24 pa...</summary><p>24 pages (8 pages for Appendix), 4 figures, for Learning Analytics & Knowledge Conference to be held in 2026, Norway (LAK26)</p></details> |
+| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
+| **[Code2Doc: A Quality-First Curated Dataset for Code Documentation](https://arxiv.org/abs/2512.18748v2)** | 2025-12-24 |  |
+| **[Leveraging Overfitting for Low-Complexity and Modality-Agnostic Joint Source-Channel Coding](https://arxiv.org/abs/2512.20981v1)** | 2025-12-24 |  |
+| **[Optimal Control with Natural Images: Efficient Reinforcement Learning using Overcomplete Sparse Codes](https://arxiv.org/abs/2412.08893v2)** | 2025-12-24 |  |
+| **[NotSoTiny: A Large, Living Benchmark for RTL Code Generation](https://arxiv.org/abs/2512.20823v1)** | 2025-12-23 | 9 pages, 5 figures |
+| **[FEM-Bench: A Structured Scientific Reasoning Benchmark for Evaluating Code-Generating LLMs](https://arxiv.org/abs/2512.20732v1)** | 2025-12-23 | <details><summary>40 pa...</summary><p>40 pages, 5 figures, 6 tables, 7 listings</p></details> |
+| **[SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios](https://arxiv.org/abs/2512.18470v2)** | 2025-12-23 |  |
 | **[SweRank+: Multilingual, Multi-Turn Code Ranking for Software Issue Localization](https://arxiv.org/abs/2512.20482v1)** | 2025-12-23 |  |
-| **[Advancing Automated In-Isolation Validation in Repository-Level Code Translation](https://arxiv.org/abs/2511.21878v2)** | 2025-12-23 |  |
-| **[On the Structure of Two-Dimensional Constacyclic Codes using Common Zero Sets](https://arxiv.org/abs/2412.09915v4)** | 2025-12-23 | <details><summary>The m...</summary><p>The manuscript has been withdrawn in order to correct errors and significantly revise the results. A substantially improved version will be submitted separately</p></details> |
-| **[The Impact of Question Framing on the Performance of Automatic Occupation Coding](https://arxiv.org/abs/2501.05584v3)** | 2025-12-23 |  |
-| **[Comment Traps: How Defective Commented-out Code Augment Defects in AI-Assisted Code Generation](https://arxiv.org/abs/2512.20334v1)** | 2025-12-23 | <details><summary>This ...</summary><p>This paper has been accepted by FSE 2026 (ACM International Conference on the Foundations of Software Engineering). This is a preprint version and may differ from the final published version</p></details> |
-| **[Generative Latent Coding for Ultra-Low Bitrate Image Compression](https://arxiv.org/abs/2512.20194v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted at CVPR 2024</p></details> |
-| **[AXIOM: Benchmarking LLM-as-a-Judge for Code via Rule-Based Perturbation and Multisource Quality Calibration](https://arxiv.org/abs/2512.20159v1)** | 2025-12-23 |  |
-| **[Automated Program Repair of Uncompilable Student Code](https://arxiv.org/abs/2510.06187v3)** | 2025-12-23 | <details><summary>In Pr...</summary><p>In Proceedings of the 57th ACM Technical Symposium on Computer Science Education V.2 (SIGCSE TS 2026)</p></details> |
-| **[VSA:Visual-Structural Alignment for UI-to-Code](https://arxiv.org/abs/2512.20034v1)** | 2025-12-23 |  |
-| **[Game of Coding: Beyond Honest-Majority Assumptions](https://arxiv.org/abs/2401.16643v6)** | 2025-12-23 |  |
-| **[Neuron-Guided Interpretation of Code LLMs: Where, Why, and How?](https://arxiv.org/abs/2512.19980v1)** | 2025-12-23 | Accepted by FSE2026 |
-| **[Widget2Code: From Visual Widgets to UI Code via Multimodal LLMs](https://arxiv.org/abs/2512.19918v1)** | 2025-12-22 | <details><summary>Code:...</summary><p>Code: https://github.com/Djanghao/widget2code</p></details> |
-| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v1)** | 2025-12-22 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
-| **[CodeTF: One-stop Transformer Library for State-of-the-art Code LLMs](https://arxiv.org/abs/2306.00029v2)** | 2025-12-22 |  |
-| **[More code, less validation: Risk factors for over-reliance on AI coding tools among scientists](https://arxiv.org/abs/2512.19644v1)** | 2025-12-22 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Error Localization, Certificates, and Hints for Probabilistic Program Verification via Slicing (Extended Version)](https://arxiv.org/abs/2512.20214v2)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted at the European Symposium on Programming (ESOP) 2026</p></details> |
+| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
+| **[Transductive Visual Programming: Evolving Tool Libraries from Experience for Spatial Reasoning](https://arxiv.org/abs/2512.20934v1)** | 2025-12-24 | <details><summary>Proje...</summary><p>Project Website: https://transductive-visualprogram.github.io/</p></details> |
 | **[Deep Reinforcement Learning Optimization for Uncertain Nonlinear Systems via Event-Triggered Robust Adaptive Dynamic Programming](https://arxiv.org/abs/2512.15735v3)** | 2025-12-23 | 9 pages, 9 figures |
 | **[Symmaries: Automatic Inference of Formal Security Summaries for Java Programs](https://arxiv.org/abs/2512.20396v1)** | 2025-12-23 |  |
-| **[Error Localization, Certificates, and Hints for Probabilistic Program Verification via Slicing (Extended Version)](https://arxiv.org/abs/2512.20214v1)** | 2025-12-23 |  |
 | **[Automated Program Repair of Uncompilable Student Code](https://arxiv.org/abs/2510.06187v3)** | 2025-12-23 | <details><summary>In Pr...</summary><p>In Proceedings of the 57th ACM Technical Symposium on Computer Science Education V.2 (SIGCSE TS 2026)</p></details> |
 | **[Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Object-Oriented Programming](https://arxiv.org/abs/2409.19916v5)** | 2025-12-22 | 49pages |
 | **[Beyond Language Boundaries: Uncovering Programming Language Families for Code Language Models](https://arxiv.org/abs/2512.19509v1)** | 2025-12-22 | Accepted by FSE 2026 |
@@ -39,6 +41,4 @@ labels: documentation
 | **[A Solver-in-the-Loop Framework for Improving LLMs on Answer Set Programming for Logic Puzzle Solving](https://arxiv.org/abs/2512.17093v1)** | 2025-12-18 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, accepted at AAAI'26</p></details> |
 | **[Input Reduction Enhanced LLM-based Program Repair](https://arxiv.org/abs/2507.15251v2)** | 2025-12-18 |  |
 | **[SnapClass: An AI-Enhanced Classroom Management System for Block-Based Programming](https://arxiv.org/abs/2512.15825v1)** | 2025-12-17 | 2 pages, 7 figures |
-| **[EvoLattice: Persistent Internal-Population Evolution through Multi-Alternative Quality-Diversity Graph Representations for LLM-Guided Program Discovery](https://arxiv.org/abs/2512.13857v2)** | 2025-12-17 |  |
-| **[Sharing State Between Prompts and Programs](https://arxiv.org/abs/2512.14805v1)** | 2025-12-16 |  |
 
