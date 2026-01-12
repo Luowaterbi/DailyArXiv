@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 11, 2026
+title: Latest 15 Papers - January 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Vibe Coding as a Reconfiguration of Intent Mediation in Software Development: Definition, Implications, and Research Agenda](https://arxiv.org/abs/2507.21928v4)** | 2026-01-08 |  |
-| **[Code-Mix Sentiment Analysis on Hinglish Tweets](https://arxiv.org/abs/2601.05091v1)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted at the 9th International Conference on Natural Language Processing and Information Retrieval (NLPIR 2025), Fukuoka, Japan</p></details> |
-| **[Unique Decoding of Extended Subcodes of GRS Codes Using Error-Correcting Pairs](https://arxiv.org/abs/2508.18845v2)** | 2026-01-08 | <details><summary>The r...</summary><p>The revised version for submission</p></details> |
-| **[Analyzing Message-Code Inconsistency in AI Coding Agent-Authored Pull Requests](https://arxiv.org/abs/2601.04886v1)** | 2026-01-08 |  |
-| **[GAPO: Robust Advantage Estimation for Real-World Code LLMs](https://arxiv.org/abs/2510.21830v4)** | 2026-01-08 |  |
-| **[Vibe Coding an LLM-powered Theorem Prover](https://arxiv.org/abs/2601.04653v1)** | 2026-01-08 |  |
-| **[Aligning Text, Code, and Vision: A Multi-Objective Reinforcement Learning Framework for Text-to-Visualization](https://arxiv.org/abs/2601.04582v1)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted to EACL Main Conference</p></details> |
-| **[AP2O-Coder: Adaptively Progressive Preference Optimization for Reducing Compilation and Runtime Errors in LLM-Generated Code](https://arxiv.org/abs/2510.02393v4)** | 2026-01-08 | Accepted by AAAI2026 |
-| **[Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models across Modalities](https://arxiv.org/abs/2510.07037v5)** | 2026-01-08 |  |
-| **[CADmium: Fine-Tuning Code Language Models for Text-Driven Sequential CAD Design](https://arxiv.org/abs/2507.09792v3)** | 2026-01-08 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR) 01/2026</p></details> |
-| **[AdaptEval: A Benchmark for Evaluating Large Language Models on Code Snippet Adaptation](https://arxiv.org/abs/2601.04540v1)** | 2026-01-08 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, Accepted by ASE 2025</p></details> |
-| **[Multi-Twisted Generalized Reed-Solomon Codes: Structure, Properties, and Constructions](https://arxiv.org/abs/2511.03398v3)** | 2026-01-08 | 31pages |
-| **[Advancing Language Models for Code-related Tasks](https://arxiv.org/abs/2601.04526v1)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted by ICSE 2026 (DS)</p></details> |
-| **[NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents](https://arxiv.org/abs/2512.12730v2)** | 2026-01-08 |  |
-| **[Achievable Rate and Coding Principle for MIMO Multicarrier Systems With Cross-Domain MAMP Receiver Over Doubly Selective Channels](https://arxiv.org/abs/2601.04433v1)** | 2026-01-07 | <details><summary>16 pa...</summary><p>16 pages, 11 figures, accepted in IEEE Transactions on Wireless Communications</p></details> |
+| **[From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](https://arxiv.org/abs/2601.03731v2)** | 2026-01-09 |  |
+| **[The Voronoi Spherical CDF for Lattices and Linear Codes: New Bounds for Quantization and Coding](https://arxiv.org/abs/2506.19791v2)** | 2026-01-09 |  |
+| **[Detection of LLM-Paraphrased Code and Identification of the Responsible LLM Using Coding Style Features](https://arxiv.org/abs/2502.17749v3)** | 2026-01-09 | <details><summary>In En...</summary><p>In Engineering Applications of Artificial Intelligence, Vol. 162, December 2025</p></details> |
+| **[Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer](https://arxiv.org/abs/2601.05770v1)** | 2026-01-09 |  |
+| **[Linear time encodable binary code achieving GV bound with linear time encodable dual achieving GV bound](https://arxiv.org/abs/2509.07639v2)** | 2026-01-09 | 41 pages |
+| **[Coset Shaping for Coded Modulation](https://arxiv.org/abs/2601.05652v1)** | 2026-01-09 | <details><summary>Paper...</summary><p>Paper accepted for presentation at the 2026 International Zurich Seminar on Information and Communication (IZS 2026)</p></details> |
+| **[Multiset Deletion-Correcting Codes: Bounds and Constructions](https://arxiv.org/abs/2601.05636v1)** | 2026-01-09 | 24 pages |
+| **[VietMix: A Naturally-Occurring Parallel Corpus and Augmentation Framework for Vietnamese-English Code-Mixed Machine Translation](https://arxiv.org/abs/2505.24472v2)** | 2026-01-09 | EACL 2026 |
+| **[HogVul: Black-box Adversarial Code Generation Framework Against LM-based Vulnerability Detectors](https://arxiv.org/abs/2601.05587v1)** | 2026-01-09 | AAAI26 |
+| **[Strong Singleton-Like Bounds, Quasi-Perfect Codes and Distance-Optimal Codes in the Sum-Rank Metric](https://arxiv.org/abs/2601.05581v1)** | 2026-01-09 | 20 pages |
+| **[An Empirical Study of Policy-as-Code Adoption in Open-Source Software Projects](https://arxiv.org/abs/2601.05555v1)** | 2026-01-09 |  |
+| **[VeRPO: Verifiable Dense Reward Policy Optimization for Code Generation](https://arxiv.org/abs/2601.03525v2)** | 2026-01-09 |  |
+| **[Pragmatic Reasoning improves LLM Code Generation](https://arxiv.org/abs/2502.15835v4)** | 2026-01-09 |  |
+| **[Readability-Robust Code Summarization via Meta Curriculum Learning](https://arxiv.org/abs/2601.05485v1)** | 2026-01-09 | <details><summary>Code ...</summary><p>Code available at https://github.com/Zengwh02/RoFTCodeSum</p></details> |
+| **[ContractEval: A Benchmark for Evaluating Contract-Satisfying Assertions in Code Generation](https://arxiv.org/abs/2510.12047v3)** | 2026-01-09 | <details><summary>18 pa...</summary><p>18 pages, 15 figures, 5 tables</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v1)** | 2026-01-09 |  |
+| **[Rethinking Basis Path Testing: Mixed Integer Programming Approach for Test Path Set Generation](https://arxiv.org/abs/2601.05463v1)** | 2026-01-09 |  |
+| **[DafnyPro: LLM-Assisted Automated Verification for Dafny Programs](https://arxiv.org/abs/2601.05385v1)** | 2026-01-08 |  |
 | **[Reasoning about Medical Triage Optimization with Logic Programming](https://arxiv.org/abs/2507.10781v2)** | 2026-01-08 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2025, arXiv:2601.00047</p></details> |
 | **[Recursive Program Synthesis from Sketches and Mixed-Quantifier Properties](https://arxiv.org/abs/2601.04045v1)** | 2026-01-07 |  |
 | **[Interpretable Hybrid Machine Learning Models Using FOLD-R++ and Answer Set Programming](https://arxiv.org/abs/2506.19573v2)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2025, arXiv:2601.00047</p></details> |
@@ -38,7 +41,4 @@ labels: documentation
 | **[Defeasible Conditionals using Answer Set Programming](https://arxiv.org/abs/2601.03840v1)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2025, arXiv:2601.00047</p></details> |
 | **[A framework for Conditional Reasoning in Answer Set Programming](https://arxiv.org/abs/2506.03997v3)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2025, arXiv:2601.00047</p></details> |
 | **[Logic Programming with Extensible Types](https://arxiv.org/abs/2601.03836v1)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2025, arXiv:2601.00047</p></details> |
-| **[Extracting Policies from Quantified Answer Set Programs](https://arxiv.org/abs/2601.03835v1)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2025, arXiv:2601.00047</p></details> |
-| **[Assessing and Improving the Representativeness of Code Generation Benchmarks Using Knowledge Units (KUs) of Programming Languages -- An Empirical Study](https://arxiv.org/abs/2601.03780v1)** | 2026-01-07 |  |
-| **[Digital Red Queen: Adversarial Program Evolution in Core War with LLMs](https://arxiv.org/abs/2601.03335v1)** | 2026-01-06 | 14 pages, 13 figures |
 
