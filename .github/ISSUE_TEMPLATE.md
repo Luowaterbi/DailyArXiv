@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 12, 2026
+title: Latest 15 Papers - January 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,30 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](https://arxiv.org/abs/2601.03731v2)** | 2026-01-09 |  |
-| **[The Voronoi Spherical CDF for Lattices and Linear Codes: New Bounds for Quantization and Coding](https://arxiv.org/abs/2506.19791v2)** | 2026-01-09 |  |
-| **[Detection of LLM-Paraphrased Code and Identification of the Responsible LLM Using Coding Style Features](https://arxiv.org/abs/2502.17749v3)** | 2026-01-09 | <details><summary>In En...</summary><p>In Engineering Applications of Artificial Intelligence, Vol. 162, December 2025</p></details> |
-| **[Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer](https://arxiv.org/abs/2601.05770v1)** | 2026-01-09 |  |
-| **[Linear time encodable binary code achieving GV bound with linear time encodable dual achieving GV bound](https://arxiv.org/abs/2509.07639v2)** | 2026-01-09 | 41 pages |
-| **[Coset Shaping for Coded Modulation](https://arxiv.org/abs/2601.05652v1)** | 2026-01-09 | <details><summary>Paper...</summary><p>Paper accepted for presentation at the 2026 International Zurich Seminar on Information and Communication (IZS 2026)</p></details> |
-| **[Multiset Deletion-Correcting Codes: Bounds and Constructions](https://arxiv.org/abs/2601.05636v1)** | 2026-01-09 | 24 pages |
-| **[VietMix: A Naturally-Occurring Parallel Corpus and Augmentation Framework for Vietnamese-English Code-Mixed Machine Translation](https://arxiv.org/abs/2505.24472v2)** | 2026-01-09 | EACL 2026 |
-| **[HogVul: Black-box Adversarial Code Generation Framework Against LM-based Vulnerability Detectors](https://arxiv.org/abs/2601.05587v1)** | 2026-01-09 | AAAI26 |
-| **[Strong Singleton-Like Bounds, Quasi-Perfect Codes and Distance-Optimal Codes in the Sum-Rank Metric](https://arxiv.org/abs/2601.05581v1)** | 2026-01-09 | 20 pages |
-| **[An Empirical Study of Policy-as-Code Adoption in Open-Source Software Projects](https://arxiv.org/abs/2601.05555v1)** | 2026-01-09 |  |
-| **[VeRPO: Verifiable Dense Reward Policy Optimization for Code Generation](https://arxiv.org/abs/2601.03525v2)** | 2026-01-09 |  |
-| **[Pragmatic Reasoning improves LLM Code Generation](https://arxiv.org/abs/2502.15835v4)** | 2026-01-09 |  |
-| **[Readability-Robust Code Summarization via Meta Curriculum Learning](https://arxiv.org/abs/2601.05485v1)** | 2026-01-09 | <details><summary>Code ...</summary><p>Code available at https://github.com/Zengwh02/RoFTCodeSum</p></details> |
-| **[ContractEval: A Benchmark for Evaluating Contract-Satisfying Assertions in Code Generation](https://arxiv.org/abs/2510.12047v3)** | 2026-01-09 | <details><summary>18 pa...</summary><p>18 pages, 15 figures, 5 tables</p></details> |
+| **[Lossy Source Coding with Broadcast Side Information](https://arxiv.org/abs/2601.07797v1)** | 2026-01-12 |  |
+| **[Novel Constructions for Computation and Communication Trade-offs in Private Coded Distributed Computing](https://arxiv.org/abs/2502.17195v2)** | 2026-01-12 |  |
+| **[TALM: Dynamic Tree-Structured Multi-Agent Framework with Long-Term Memory for Scalable Code Generation](https://arxiv.org/abs/2510.23010v2)** | 2026-01-12 |  |
+| **[A $q$-Polymatroid Framework for Information Leakage in Secure Linear Network Coding](https://arxiv.org/abs/2601.07567v1)** | 2026-01-12 |  |
+| **[A Parity-Consistent Decomposition Method for the Weight Distribution of Pre-Transformed Polar Codes](https://arxiv.org/abs/2601.07515v1)** | 2026-01-12 |  |
+| **[Graph Inference Towards ICD Coding](https://arxiv.org/abs/2601.07496v1)** | 2026-01-12 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 2 tables</p></details> |
+| **[GraphPerf-RT: A Graph-Driven Performance Model for Hardware-Aware Scheduling of OpenMP Codes](https://arxiv.org/abs/2512.12091v2)** | 2026-01-12 | <details><summary>36 pa...</summary><p>36 pages, 1 figure, 7 tables</p></details> |
+| **[Controlled Self-Evolution for Algorithmic Code Optimization](https://arxiv.org/abs/2601.07348v1)** | 2026-01-12 | 27 pages |
+| **[Bias-Aware BP Decoding of Quantum Codes via Directional Degeneracy](https://arxiv.org/abs/2601.07240v1)** | 2026-01-12 |  |
+| **[Standardization of Post-Publication Code Verification by Journals is Possible with the Support of the Community](https://arxiv.org/abs/2601.07189v1)** | 2026-01-12 | 10 pages, 1 figure |
+| **[On the Service Rate Region of Reed-Muller Codes](https://arxiv.org/abs/2501.13105v6)** | 2026-01-12 | <details><summary>Manus...</summary><p>Manuscript update with additional examples</p></details> |
+| **[Can Large Language Models Understand, Reason About, and Generate Code-Switched Text?](https://arxiv.org/abs/2601.07153v1)** | 2026-01-12 | Preprint |
+| **[Deployability-Centric Infrastructure-as-Code Generation: Fail, Learn, Refine, and Succeed through LLM-Empowered DevOps Simulation](https://arxiv.org/abs/2506.05623v3)** | 2026-01-11 | Accepted by FSE 2026 |
+| **[How Secure is Secure Code Generation? Adversarial Prompts Put LLM Defenses to the Test](https://arxiv.org/abs/2601.07084v1)** | 2026-01-11 |  |
+| **[Code Reasoning for Software Engineering Tasks: A Survey and A Call to Action](https://arxiv.org/abs/2506.13932v2)** | 2026-01-11 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[X-Coder: Advancing Competitive Programming with Fully Synthetic Tasks, Solutions, and Tests](https://arxiv.org/abs/2601.06953v1)** | 2026-01-11 | <details><summary>Proje...</summary><p>Project: https://github.com/JieWu02/X-Coder</p></details> |
+| **[Optimal Extended Formulations from Optimal Dynamic Programming Algorithms](https://arxiv.org/abs/2601.06947v1)** | 2026-01-11 |  |
+| **[FO-Complete Program Verification for Heap Logics](https://arxiv.org/abs/2601.06719v1)** | 2026-01-10 | <details><summary>Appea...</summary><p>Appeared in OOPSLA '25</p></details> |
+| **[Collab-Solver: Collaborative Solving Policy Learning for Mixed-Integer Linear Programming](https://arxiv.org/abs/2508.03030v2)** | 2026-01-10 |  |
+| **[Compressed code: the hidden effects of quantization and distillation on programming tokens](https://arxiv.org/abs/2601.02563v2)** | 2026-01-10 | <details><summary>18 pa...</summary><p>18 pages, 1 figure and 6 tables</p></details> |
 | **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v1)** | 2026-01-09 |  |
 | **[Rethinking Basis Path Testing: Mixed Integer Programming Approach for Test Path Set Generation](https://arxiv.org/abs/2601.05463v1)** | 2026-01-09 |  |
 | **[DafnyPro: LLM-Assisted Automated Verification for Dafny Programs](https://arxiv.org/abs/2601.05385v1)** | 2026-01-08 |  |
@@ -36,9 +41,4 @@ labels: documentation
 | **[Computing Universal Plans for Partially Observable Multi-Agent Routing Using Answer Set Programming](https://arxiv.org/abs/2305.16203v4)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2025, arXiv:2601.00047</p></details> |
 | **[xDNN(ASP): Explanation Generation System for Deep Neural Networks powered by Answer Set Programming](https://arxiv.org/abs/2601.03847v1)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2025, arXiv:2601.00047</p></details> |
 | **[Formally Explaining Decision Tree Models with Answer Set Programming](https://arxiv.org/abs/2601.03845v1)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2025, arXiv:2601.00047</p></details> |
-| **[XAI-LAW: A Logic Programming Tool for Modeling, Explaining, and Learning Legal Decisions](https://arxiv.org/abs/2601.03844v1)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2025, arXiv:2601.00047</p></details> |
-| **[On the Trap Space Semantics of Normal Logic Programs](https://arxiv.org/abs/2601.03842v1)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2025, arXiv:2601.00047</p></details> |
-| **[Defeasible Conditionals using Answer Set Programming](https://arxiv.org/abs/2601.03840v1)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2025, arXiv:2601.00047</p></details> |
-| **[A framework for Conditional Reasoning in Answer Set Programming](https://arxiv.org/abs/2506.03997v3)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2025, arXiv:2601.00047</p></details> |
-| **[Logic Programming with Extensible Types](https://arxiv.org/abs/2601.03836v1)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2025, arXiv:2601.00047</p></details> |
 
