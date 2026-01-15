@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 14, 2026
+title: Latest 15 Papers - January 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Breaking the Orthogonality Barrier in Quantum LDPC Codes](https://arxiv.org/abs/2601.08824v1)** | 2026-01-13 |  |
-| **[Hybrid Oscillator-Qudit Quantum Processors: stabilizer states, stabilizer codes, symplectic operations, and non-commutative geometry](https://arxiv.org/abs/2508.04819v2)** | 2026-01-13 | <details><summary>21 pa...</summary><p>21 pages + appendices, 5 figures</p></details> |
-| **[Majority-Logic Decoding of Binary Locally Recoverable Codes: A Probabilistic Analysis](https://arxiv.org/abs/2601.08765v1)** | 2026-01-13 |  |
-| **[On the Algebraic Structure Underlying the Support Enumerators of Linear Codes](https://arxiv.org/abs/2601.08744v1)** | 2026-01-13 |  |
-| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
-| **[Multivariate Polynomial Codes for Efficient Matrix Chain Multiplication in Distributed Systems](https://arxiv.org/abs/2601.08708v1)** | 2026-01-13 |  |
-| **[QueryIPI: Query-agnostic Indirect Prompt Injection on Coding Agents](https://arxiv.org/abs/2510.23675v2)** | 2026-01-13 |  |
-| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
-| **[Controlled Self-Evolution for Algorithmic Code Optimization](https://arxiv.org/abs/2601.07348v2)** | 2026-01-13 | 27 pages |
-| **[Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting](https://arxiv.org/abs/2506.05280v4)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 ; Project page: https://bigcileng.github.io/bilateral-driving ; Code: https://github.com/BigCiLeng/bilateral-driving</p></details> |
-| **[Quantum CSS LDPC Codes based on Dyadic Matrices for Belief Propagation-based Decoding](https://arxiv.org/abs/2601.08636v1)** | 2026-01-13 | Submitted to IEEE |
-| **[HiKE: Hierarchical Evaluation Framework for Korean-English Code-Switching Speech Recognition](https://arxiv.org/abs/2509.24613v4)** | 2026-01-13 | EACL Findings 2026 |
-| **[Asymptotically good CSS codes that realize the logical transversal Clifford group fault-tolerantly](https://arxiv.org/abs/2601.08568v1)** | 2026-01-13 |  |
-| **[Optimizing compilation of error correction codes for 2xN quantum dot arrays and its NP-hardness](https://arxiv.org/abs/2501.09061v3)** | 2026-01-13 | <details><summary>20 pa...</summary><p>20 pages, 15 figures. Phys. Rev. Research - Accepted on 12 January, 2026</p></details> |
-| **[Compliance-to-Code: Enhancing Financial Compliance Checking via Code Generation](https://arxiv.org/abs/2505.19804v3)** | 2026-01-13 |  |
+| **[ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](https://arxiv.org/abs/2601.09703v1)** | 2026-01-14 |  |
+| **[Breaking the Orthogonality Barrier in Quantum LDPC Codes](https://arxiv.org/abs/2601.08824v2)** | 2026-01-14 | <details><summary>I hav...</summary><p>I have corrected a typo in the matrix in Section 6.1</p></details> |
+| **[Controlled Self-Evolution for Algorithmic Code Optimization](https://arxiv.org/abs/2601.07348v3)** | 2026-01-14 | 27 pages |
+| **[On the Error Probability of RPA Decoding of Reed-Muller Codes over BMS Channels](https://arxiv.org/abs/2601.09581v1)** | 2026-01-14 | <details><summary>7 pag...</summary><p>7 pages, to be submitted to the IEEE for possible publication</p></details> |
+| **[Enabling Global, Human-Centered Explanations for LLMs:From Tokens to Interpretable Code and Test Generation](https://arxiv.org/abs/2503.16771v2)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
+| **[CSSG: Measuring Code Similarity with Semantic Graphs](https://arxiv.org/abs/2601.04085v2)** | 2026-01-14 |  |
+| **[On Decoding First- and Second-Order BiD Codes](https://arxiv.org/abs/2601.09390v1)** | 2026-01-14 | 11 pages, 4 figures |
+| **[Generalized Schalkwijk-Kailath Coding for Autoregressive Gaussian Channels](https://arxiv.org/abs/2601.09329v1)** | 2026-01-14 |  |
+| **[Regenerating codes with minimal disk I/O cost achieving optimal tradeoff between storage and repair bandwidth](https://arxiv.org/abs/2601.09300v1)** | 2026-01-14 |  |
+| **[QueryIPI: Query-agnostic Indirect Prompt Injection on Coding Agents](https://arxiv.org/abs/2510.23675v3)** | 2026-01-14 |  |
+| **[On Polar Coding with Feedback](https://arxiv.org/abs/2601.09222v1)** | 2026-01-14 | <details><summary>7 pag...</summary><p>7 pages, 7 figures and 2 tables; A short version will be submitted to IEEE for possible publication</p></details> |
+| **[Reducing The Sub-packetization Level of Optimal-Access Cooperative MSR Codes](https://arxiv.org/abs/2601.09188v1)** | 2026-01-14 |  |
+| **[Deep Learning-based Binary Analysis for Vulnerability Detection in x86-64 Machine Code](https://arxiv.org/abs/2601.09157v1)** | 2026-01-14 |  |
+| **[Build Code is Still Code: Finding the Antidote for Pipeline Poisoning](https://arxiv.org/abs/2601.08995v1)** | 2026-01-13 | <details><summary>2026 ...</summary><p>2026 IEEE/ACM 48th International Conference on Software Engineering. April 12--18, 2026. Rio de Janeiro, Brazil. 5 pages. 3 figures. 2 code listings. 1 table</p></details> |
+| **[Game of Coding: Sybil Resistant Decentralized Machine Learning with Minimal Trust Assumption](https://arxiv.org/abs/2410.05540v3)** | 2026-01-13 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Path-optimal symbolic execution of heap-manipulating programs](https://arxiv.org/abs/2407.16827v2)** | 2026-01-14 | 18 pages, 14 figures |
+| **[The Longest Common Bitonic Subsequence: A Match-Sensitive Dynamic Programming Approach](https://arxiv.org/abs/2511.08958v2)** | 2026-01-14 | <details><summary>12 pa...</summary><p>12 pages, 2 figres, In the process of submission to 37th Annual Symposium on Combinatorial Pattern Matching</p></details> |
+| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](https://arxiv.org/abs/2506.06821v4)** | 2026-01-14 | 37 pages, 22 figures |
+| **[Formally Verifying Noir Zero Knowledge Programs with NAVe](https://arxiv.org/abs/2601.09372v1)** | 2026-01-14 |  |
 | **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
 | **[Enabling Population-Level Parallelism in Tree-Based Genetic Programming for GPU Acceleration](https://arxiv.org/abs/2501.17168v6)** | 2026-01-13 |  |
 | **[Learner-Tailored Program Repair: A Solution Generator with Iterative Edit-Driven Retrieval Enhancement](https://arxiv.org/abs/2601.08545v1)** | 2026-01-13 |  |
@@ -37,8 +41,4 @@ labels: documentation
 | **[Collab-Solver: Collaborative Solving Policy Learning for Mixed-Integer Linear Programming](https://arxiv.org/abs/2508.03030v2)** | 2026-01-10 |  |
 | **[Compressed code: the hidden effects of quantization and distillation on programming tokens](https://arxiv.org/abs/2601.02563v2)** | 2026-01-10 | <details><summary>18 pa...</summary><p>18 pages, 1 figure and 6 tables</p></details> |
 | **[Rethinking Basis Path Testing: Mixed Integer Programming Approach for Test Path Set Generation](https://arxiv.org/abs/2601.05463v1)** | 2026-01-09 |  |
-| **[DafnyPro: LLM-Assisted Automated Verification for Dafny Programs](https://arxiv.org/abs/2601.05385v1)** | 2026-01-08 |  |
-| **[Reasoning about Medical Triage Optimization with Logic Programming](https://arxiv.org/abs/2507.10781v2)** | 2026-01-08 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2025, arXiv:2601.00047</p></details> |
-| **[Recursive Program Synthesis from Sketches and Mixed-Quantifier Properties](https://arxiv.org/abs/2601.04045v1)** | 2026-01-07 |  |
-| **[Interpretable Hybrid Machine Learning Models Using FOLD-R++ and Answer Set Programming](https://arxiv.org/abs/2506.19573v2)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2025, arXiv:2601.00047</p></details> |
 
