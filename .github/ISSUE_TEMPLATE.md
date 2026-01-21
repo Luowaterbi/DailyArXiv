@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 20, 2026
+title: Latest 15 Papers - January 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Coding Schemes for the Noisy Torn Paper Channel](https://arxiv.org/abs/2601.11501v1)** | 2026-01-16 |  |
-| **[Convergence Properties of Good Quantum Codes for Classical Communication](https://arxiv.org/abs/2601.11498v1)** | 2026-01-16 |  |
-| **[Vendor-Aware Industrial Agents: RAG-Enhanced LLMs for Secure On-Premise PLC Code Generation](https://arxiv.org/abs/2511.09122v2)** | 2026-01-16 | ICIT2026 |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v5)** | 2026-01-16 |  |
-| **[Idea First, Code Later: Disentangling Problem Solving from Code Generation in Evaluating LLMs for Competitive Programming](https://arxiv.org/abs/2601.11332v1)** | 2026-01-16 |  |
-| **[A Construction Framework of Coded Caching Scheme for Multi-Access MISO Systems via Knapsack Problem](https://arxiv.org/abs/2601.10484v2)** | 2026-01-16 |  |
-| **[ABC-Bench: Benchmarking Agentic Backend Coding in Real-World Development](https://arxiv.org/abs/2601.11077v1)** | 2026-01-16 |  |
-| **[A Low-Complexity Architecture for Multi-access Coded Caching Systems with Arbitrary User-cache Access Topology](https://arxiv.org/abs/2601.10175v2)** | 2026-01-16 |  |
-| **[Stabilizer Code-Generic Universal Fault-Tolerant Quantum Computation](https://arxiv.org/abs/2601.10964v1)** | 2026-01-16 | <details><summary>34 pa...</summary><p>34 pages, 6 figures, 7 tables</p></details> |
-| **[Multiaccess Coded Caching with Heterogeneous Retrieval Costs](https://arxiv.org/abs/2601.10394v2)** | 2026-01-16 | 9 pages, 3 figures |
-| **[OctoBench: Benchmarking Scaffold-Aware Instruction Following in Repository-Grounded Agentic Coding](https://arxiv.org/abs/2601.10343v2)** | 2026-01-16 |  |
-| **[Evaluating perturbation robustness of generative systems that use COBOL code inputs](https://arxiv.org/abs/2511.18488v2)** | 2026-01-15 | <details><summary>16 pa...</summary><p>16 pages (8 main, 8 appendix). Accepted to AI-SQE (ICSE, 2026): The 1st International Workshop on AI for Software Quality Evaluation: Judgment, Metrics, Benchmarks, and Beyond</p></details> |
-| **[Efficient LLR-Domain Decoding of ABS+ Polar Codes](https://arxiv.org/abs/2601.10808v1)** | 2026-01-15 |  |
-| **[Quantum Maxwell Erasure Decoder for qLDPC codes](https://arxiv.org/abs/2601.10713v1)** | 2026-01-15 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, submitted to the IEEE ISIT 2026</p></details> |
-| **[Improved Constructions of Reed-Solomon Codes with Optimal Repair Bandwidth](https://arxiv.org/abs/2601.10685v1)** | 2026-01-15 |  |
+| **[Stabilizer-Assisted Inactivation Decoding of Quantum Error-Correcting Codes with Erasures](https://arxiv.org/abs/2601.14236v1)** | 2026-01-20 | <details><summary>Prese...</summary><p>Presented as poster "Quantum Peeling with Guessing: Fast Stabilizer-Assisted Decoding for Quantum Erasures" at QIP 2026 and submitted to ISIT 2026</p></details> |
+| **[Breaking the Orthogonality Barrier in Quantum LDPC Codes](https://arxiv.org/abs/2601.08824v3)** | 2026-01-20 |  |
+| **[Linear complementary dual quasi-cyclic codes of index 2](https://arxiv.org/abs/2504.09126v3)** | 2026-01-20 |  |
+| **[An Empirical Study on Remote Code Execution in Machine Learning Model Hosting Ecosystems](https://arxiv.org/abs/2601.14163v1)** | 2026-01-20 |  |
+| **[Vector Coded Caching Multiplicatively Boosts MU-MIMO Systems Under Practical Considerations](https://arxiv.org/abs/2601.14142v1)** | 2026-01-20 | 17 pages, 9 figures |
+| **[Toward self-coding information systems](https://arxiv.org/abs/2601.14132v1)** | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted for ICSE 2026 Track "Software Architecture BoF"</p></details> |
+| **[Near Optimal Code Construction for the Adversarial Torn Paper Channel With Edit Errors](https://arxiv.org/abs/2601.14088v1)** | 2026-01-20 |  |
+| **[Proactive Coded Caching Scheme for D2D Networks](https://arxiv.org/abs/2601.13929v1)** | 2026-01-20 | <details><summary>13 pa...</summary><p>13 pages and 2 figures</p></details> |
+| **[HardSecBench: Benchmarking the Security Awareness of LLMs for Hardware Code Generation](https://arxiv.org/abs/2601.13864v1)** | 2026-01-20 |  |
+| **[From RTL to Prompt Coding: Empowering the Next Generation of Chip Designers through LLMs](https://arxiv.org/abs/2601.13815v1)** | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted for presentation at the 2026 IEEE International Symposium on Circuits and Systems (ISCAS 2026). Proceedings to be included in IEEE Xplore</p></details> |
+| **[SCL Decoding of Non-Binary Linear Block Codes](https://arxiv.org/abs/2511.11256v2)** | 2026-01-20 | <details><summary>This ...</summary><p>This paper has been submitted to IEEE Communications Letters</p></details> |
+| **[Function-Correcting Codes With Data Protection](https://arxiv.org/abs/2511.18420v2)** | 2026-01-20 | <details><summary>This ...</summary><p>This version includes minor revisions and adds Remark 2 on page 37</p></details> |
+| **[Linear Complementary Pairs of Quasi-Cyclic and Quasi-Twisted Codes](https://arxiv.org/abs/2504.15231v2)** | 2026-01-20 |  |
+| **[AI IDEs or Autonomous Agents? Measuring the Impact of Coding Agents on Software Development](https://arxiv.org/abs/2601.13597v1)** | 2026-01-20 |  |
+| **[Elias-type Bounds for Codes in the Symmetric Limited-Magnitude Error Channel](https://arxiv.org/abs/2601.13477v1)** | 2026-01-20 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hyperparameter Optimization of Constraint Programming Solvers](https://arxiv.org/abs/2601.11389v1)** | 2026-01-16 | <details><summary>28 pa...</summary><p>28 pages, 3 figures. Submitted to Journal of Combinatorial Optimization. Special Issue: Recent applications, models and algorithms in Combinatorial Optimization</p></details> |
-| **[Idea First, Code Later: Disentangling Problem Solving from Code Generation in Evaluating LLMs for Competitive Programming](https://arxiv.org/abs/2601.11332v1)** | 2026-01-16 |  |
-| **[Shape-morphing programming of soft materials on complex geometries via neural operator](https://arxiv.org/abs/2601.11126v1)** | 2026-01-16 | 20 pages,5 Figures |
-| **[Supporting Evidence for the Adaptive Feature Program across Diverse Models](https://arxiv.org/abs/2511.09425v2)** | 2026-01-16 |  |
-| **[Reasoning Distillation for Lightweight Automated Program Repair](https://arxiv.org/abs/2601.10987v1)** | 2026-01-16 | <details><summary>8 pag...</summary><p>8 pages, 5 tables. Preprint</p></details> |
-| **[A New Decomposition Paradigm for Graph-structured Nonlinear Programs via Message Passing](https://arxiv.org/abs/2512.24676v2)** | 2026-01-16 | 55 pages, 15 figures |
-| **[Fast weight programming and linear transformers: from machine learning to neurobiology](https://arxiv.org/abs/2508.08435v4)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted to TMLR 2025</p></details> |
-| **[Are Language Models Efficient Reasoners? A Perspective from Logic Programming](https://arxiv.org/abs/2510.25626v2)** | 2026-01-15 | NeurIPS 2025 |
-| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v3)** | 2026-01-15 |  |
-| **[Mark My Works Autograder for Programming Courses](https://arxiv.org/abs/2601.10093v1)** | 2026-01-15 |  |
-| **[On Fun for Teaching Large Programming Courses](https://arxiv.org/abs/2601.09842v1)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted at 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE-SEET '26)</p></details> |
-| **[Adoption and Evolution of Code Style and Best Programming Practices in Open-Source Projects](https://arxiv.org/abs/2601.09832v1)** | 2026-01-14 | <details><summary>Publi...</summary><p>Published in IEEE International Conference on Software Maintenance and Evolution (ICSME 2025). Authors' version</p></details> |
-| **[Path-optimal symbolic execution of heap-manipulating programs](https://arxiv.org/abs/2407.16827v2)** | 2026-01-14 | 18 pages, 14 figures |
-| **[The Longest Common Bitonic Subsequence: A Match-Sensitive Dynamic Programming Approach](https://arxiv.org/abs/2511.08958v2)** | 2026-01-14 | <details><summary>12 pa...</summary><p>12 pages, 2 figres, In the process of submission to 37th Annual Symposium on Combinatorial Pattern Matching</p></details> |
-| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](https://arxiv.org/abs/2506.06821v4)** | 2026-01-14 | 37 pages, 22 figures |
+| **[A Program Logic for Under-approximating Worst-case Resource Usage](https://arxiv.org/abs/2502.11091v2)** | 2026-01-20 |  |
+| **[Integrating Symbolic Execution with LLMs for Automated Generation of Program Specifications](https://arxiv.org/abs/2506.09550v4)** | 2026-01-20 |  |
+| **[Generative AI Misuse Potential in Cyber Security Education: A Case Study of a UK Degree Program](https://arxiv.org/abs/2501.12883v4)** | 2026-01-20 |  |
+| **[Reduction for Structured Concurrent Programs](https://arxiv.org/abs/2601.13341v1)** | 2026-01-19 |  |
+| **[Probabilistic Linear Logic Programming with an application to Bayesian Networks computations](https://arxiv.org/abs/2601.13270v1)** | 2026-01-19 |  |
+| **[Towards Simple and Useful One-Time Programs in the Quantum Random Oracle Model](https://arxiv.org/abs/2601.13258v1)** | 2026-01-19 |  |
+| **[Functional Logic Program Transformations](https://arxiv.org/abs/2601.13224v1)** | 2026-01-19 | <details><summary>Prese...</summary><p>Presented at Conference on Declarative Programming (DECLARE 2025)</p></details> |
+| **[DeepProofLog: Efficient Proving in Deep Stochastic Logic Programs](https://arxiv.org/abs/2511.08581v2)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted as an Oral at AAAI 2026</p></details> |
+| **[Dependently-Typed AARA: A Non-Affine Approach for Resource Analysis of Higher-Order Programs](https://arxiv.org/abs/2601.12943v1)** | 2026-01-19 |  |
+| **[Human Emotion Verification by Action Languages via Answer Set Programming](https://arxiv.org/abs/2601.12912v1)** | 2026-01-19 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
+| **[Semidefinite Programming for Quantum Channel Learning](https://arxiv.org/abs/2601.12502v1)** | 2026-01-18 |  |
+| **[Learner-Tailored Program Repair: A Solution Generator with Iterative Edit-Driven Retrieval Enhancement](https://arxiv.org/abs/2601.08545v2)** | 2026-01-18 | <details><summary>Accep...</summary><p>Accepted by AAAI2026 main track</p></details> |
+| **[The Dynamic and Endogenous Behavior of Re-Offense Risk: An Agent-Based Simulation Study of Treatment Allocation in Incarceration Diversion Programs](https://arxiv.org/abs/2601.12441v1)** | 2026-01-18 |  |
+| **[Context-Free Grammar Inference for Complex Programming Languages in Black Box Settings](https://arxiv.org/abs/2601.12385v1)** | 2026-01-18 |  |
+| **[Leveraging Mutation Analysis for LLM-based Repair of Quantum Programs](https://arxiv.org/abs/2601.12273v1)** | 2026-01-18 | <details><summary>6 pag...</summary><p>6 pages, Accepted at SANER-ERA 2026</p></details> |
 
