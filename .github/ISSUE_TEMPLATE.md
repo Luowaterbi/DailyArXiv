@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 27, 2026
+title: Latest 15 Papers - January 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Bridging Instead of Replacing Online Coding Communities with AI through Community-Enriched Chatbot Designs](https://arxiv.org/abs/2601.18697v1)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted at the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2026). To appear in PACMHCI</p></details> |
-| **[Analyzing Message-Code Inconsistency in AI Coding Agent-Authored Pull Requests](https://arxiv.org/abs/2601.04886v2)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted by MSR'26 Mining Challenge Track</p></details> |
-| **[Balancing Privacy and Robustness in Coded Computing Under Profiled Workers](https://arxiv.org/abs/2601.18661v1)** | 2026-01-26 | 6 pages |
-| **[Improvement of the Gilbert-Varshamov Bound for Linear Codes and Quantum Codes](https://arxiv.org/abs/2601.18590v1)** | 2026-01-26 | 31 pages |
-| **[AI Agent for Reverse-Engineering Legacy Finite-Difference Code and Translating to Devito](https://arxiv.org/abs/2601.18381v1)** | 2026-01-26 | 14 pages, 7 figures |
-| **[Shared Spatial Memory Through Predictive Coding](https://arxiv.org/abs/2511.04235v3)** | 2026-01-26 | <details><summary>We ha...</summary><p>We have prepared the open-source code and video demonstration pages: 1. Code: github.com/fangzr/SSM-PC 2. Demo: fangzr.github.io/SSM-PC/index.html</p></details> |
-| **[Interleaving Natural Language Prompting with Code Editing for Solving Programming Tasks with Generative AI Models](https://arxiv.org/abs/2509.14088v2)** | 2026-01-26 |  |
-| **[Code over Words: Overcoming Semantic Inertia via Code-Grounded Reasoning](https://arxiv.org/abs/2601.18352v1)** | 2026-01-26 |  |
-| **[SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios](https://arxiv.org/abs/2512.18470v4)** | 2026-01-26 |  |
-| **[Promises, Perils, and (Timely) Heuristics for Mining Coding Agent Activity](https://arxiv.org/abs/2601.18345v1)** | 2026-01-26 | <details><summary>Prepr...</summary><p>Preprint. Accepted for publication at MSR 2026</p></details> |
-| **[Agentic Much? Adoption of Coding Agents on GitHub](https://arxiv.org/abs/2601.18341v1)** | 2026-01-26 |  |
-| **[An Efficient Algorithm to Sample Quantum Low-Density Parity-Check Codes](https://arxiv.org/abs/2601.08387v2)** | 2026-01-26 |  |
-| **[Coding the Visual World: From Image to Simulation Using Vision Language Models](https://arxiv.org/abs/2601.05344v3)** | 2026-01-26 |  |
-| **[A New Construction Structure on Multi-access Coded Caching with Linear Subpacketization: Cyclic Multi-Access Non-Half-Sum Disjoint Packing](https://arxiv.org/abs/2601.10510v2)** | 2026-01-26 |  |
-| **[CooperBench: Why Coding Agents Cannot be Your Teammates Yet](https://arxiv.org/abs/2601.13295v2)** | 2026-01-26 | <details><summary>https...</summary><p>https://cooperbench.com First two authors contribute equally. The 3th - 6th authors contribute equally</p></details> |
+| **[Veri-Sure: A Contract-Aware Multi-Agent Framework with Temporal Tracing and Formal Verification for Correct RTL Code Generation](https://arxiv.org/abs/2601.19747v1)** | 2026-01-27 |  |
+| **[AlignCoder: Aligning Retrieval with Target Intent for Repository-Level Code Completion](https://arxiv.org/abs/2601.19697v1)** | 2026-01-27 | To appear at ASE'25 |
+| **[iFSQ: Improving FSQ for Image Generation with 1 Line of Code](https://arxiv.org/abs/2601.17124v2)** | 2026-01-27 | <details><summary>Techn...</summary><p>Technical Report; Fixed eq.7 & 8 and corresponding content</p></details> |
+| **[Learning Adaptive Parallel Execution for Efficient Code Localization](https://arxiv.org/abs/2601.19568v1)** | 2026-01-27 | 13 pages, 4 figures |
+| **[SGCR: A Specification-Grounded Framework for Trustworthy LLM Code Review](https://arxiv.org/abs/2512.17540v2)** | 2026-01-27 | Accepted at ASE 2025 |
+| **[AACR-Bench: Evaluating Automatic Code Review with Holistic Repository-Level Context](https://arxiv.org/abs/2601.19494v1)** | 2026-01-27 |  |
+| **[High-quality data augmentation for code comment classification](https://arxiv.org/abs/2601.19383v1)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted at the NLBSE Workshop (co-located with ICSE)</p></details> |
+| **[Speaking Clearly: A Simplified Whisper-Based Codec for Low-Bitrate Speech Coding](https://arxiv.org/abs/2510.20504v2)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
+| **[AI IDEs or Autonomous Agents? Measuring the Impact of Coding Agents on Software Development](https://arxiv.org/abs/2601.13597v2)** | 2026-01-27 |  |
+| **[Modeling Sampling Workflows for Code Repositories](https://arxiv.org/abs/2601.19316v1)** | 2026-01-27 |  |
+| **[Evaluating the Impact of Post-Training Quantization on Large Language Models for Code Generation](https://arxiv.org/abs/2503.07103v2)** | 2026-01-27 |  |
+| **[Understanding Dominant Themes in Reviewing Agentic AI-authored Code](https://arxiv.org/abs/2601.19287v1)** | 2026-01-27 |  |
+| **[Whitespaces Don't Lie: Feature-Driven and Embedding-Based Approaches for Detecting Machine-Generated Code](https://arxiv.org/abs/2601.19264v1)** | 2026-01-27 |  |
+| **[How AI Coding Agents Modify Code: A Large-Scale Study of GitHub Pull Requests](https://arxiv.org/abs/2601.17581v2)** | 2026-01-27 | 5 pages, 5 figures |
+| **[CoReTab: Improving Multimodal Table Understanding with Code-driven Reasoning](https://arxiv.org/abs/2601.19193v1)** | 2026-01-27 | <details><summary>accep...</summary><p>accepted to EACL'26 (main conference)</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms](https://arxiv.org/abs/2501.09144v4)** | 2026-01-27 | LMCS |
+| **[ATLAS: Automated Tree-based Language Analysis System for C and C++ source programs](https://arxiv.org/abs/2512.12507v2)** | 2026-01-27 | <details><summary>9 pag...</summary><p>9 pages, 14 figures, 6 tables; Video demonstration: https://youtu.be/xEJDNYkiD4s; Tool repository: https://github.com/jaid-monwar/ATLAS-multi-view-code-representation-tool.git</p></details> |
+| **[Dynamic Cogeneration of Bug Reproduction Test in Agentic Program Repair](https://arxiv.org/abs/2601.19066v1)** | 2026-01-27 |  |
+| **[LLMs versus the Halting Problem: Revisiting Program Termination Prediction](https://arxiv.org/abs/2601.18987v1)** | 2026-01-26 |  |
 | **[Symmetric Proofs of Parameterized Programs](https://arxiv.org/abs/2601.18745v1)** | 2026-01-26 |  |
 | **[Integer Linear Programming Preprocessing for Maximum Satisfiability](https://arxiv.org/abs/2506.06216v3)** | 2026-01-26 |  |
 | **[Interleaving Natural Language Prompting with Code Editing for Solving Programming Tasks with Generative AI Models](https://arxiv.org/abs/2509.14088v2)** | 2026-01-26 |  |
@@ -37,8 +41,4 @@ labels: documentation
 | **[Types for Grassroots Logic Programs](https://arxiv.org/abs/2601.17957v1)** | 2026-01-25 |  |
 | **[Differentiable Integer Linear Programming is not Differentiable & it's not a mere technical problem](https://arxiv.org/abs/2601.17800v1)** | 2026-01-25 |  |
 | **[Grammar-Aware Literate Generative Mathematical Programming with Compiler-in-the-Loop](https://arxiv.org/abs/2601.17670v1)** | 2026-01-25 | 18 pages, 10 figures |
-| **[Human-Aligned Enhancement of Programming Answers with LLMs Guided by User Feedback](https://arxiv.org/abs/2601.17604v1)** | 2026-01-24 | Preprint |
-| **[Prompt Driven Development with Claude Code: Building a Complete TUI Framework for the Ring Programming Language](https://arxiv.org/abs/2601.17584v1)** | 2026-01-24 |  |
-| **[A Programming Model for Disaggregated Memory over CXL](https://arxiv.org/abs/2407.16300v3)** | 2026-01-24 |  |
-| **[Expectation-based Analysis of Higher-Order Quantum Programs](https://arxiv.org/abs/2504.18441v2)** | 2026-01-23 |  |
 
