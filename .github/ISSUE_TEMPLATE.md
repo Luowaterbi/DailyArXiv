@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 01, 2026
+title: Latest 15 Papers - February 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,30 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[Not All Code Is Equal: A Data-Centric Study of Code Complexity and LLM Reasoning](https://arxiv.org/abs/2601.21894v1)** | 2026-01-29 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 3 tables</p></details> |
-| **[Three results on twisted $G-$codes and skew twisted $G-$codes](https://arxiv.org/abs/2601.00752v3)** | 2026-01-29 |  |
-| **[Source Coding with Free Bits and the Multi-Way Number Partitioning Problem](https://arxiv.org/abs/2009.02710v2)** | 2026-01-29 |  |
-| **[Transversal gates for quantum CSS codes](https://arxiv.org/abs/2601.21514v1)** | 2026-01-29 |  |
-| **[Adaptive Confidence Gating in Multi-Agent Collaboration for Efficient and Optimized Code Generation](https://arxiv.org/abs/2601.21469v1)** | 2026-01-29 |  |
-| **[AACR-Bench: Evaluating Automatic Code Review with Holistic Repository-Level Context](https://arxiv.org/abs/2601.19494v2)** | 2026-01-29 |  |
-| **[End-to-end audio-visual learning for cochlear implant sound coding simulations in noisy environments](https://arxiv.org/abs/2508.13576v2)** | 2026-01-29 | 7 pages, 2 figures |
-| **[Predicting Developer Acceptance of AI-Generated Code Suggestions](https://arxiv.org/abs/2601.21379v1)** | 2026-01-29 |  |
-| **[NEMO: Execution-Aware Optimization Modeling via Autonomous Coding Agents](https://arxiv.org/abs/2601.21372v1)** | 2026-01-29 |  |
-| **[The Compliance Paradox: Semantic-Instruction Decoupling in Automated Academic Code Evaluation](https://arxiv.org/abs/2601.21360v1)** | 2026-01-29 |  |
-| **[Pushing Toward the Simplex Vertices: A Simple Remedy for Code Collapse in Smoothed Vector Quantization](https://arxiv.org/abs/2509.22161v3)** | 2026-01-29 |  |
-| **[Detecting Multiple Semantic Concerns in Tangled Code Commits](https://arxiv.org/abs/2601.21298v1)** | 2026-01-29 | <details><summary>28 pa...</summary><p>28 pages, 12 figures. Submitted to Empirical Software Engineering (Springer)</p></details> |
-| **[More Code, Less Reuse: Investigating Code Quality and Reviewer Sentiment towards AI-generated Pull Requests](https://arxiv.org/abs/2601.21276v1)** | 2026-01-29 | Accepted to MSR 2026 |
-| **[Deletion-correcting codes for an adversarial nanopore channel](https://arxiv.org/abs/2601.21236v1)** | 2026-01-29 |  |
+| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
+| **[On the rank weight hierarchy of $M$-codes](https://arxiv.org/abs/2507.00609v3)** | 2026-01-30 |  |
+| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
+| **[On the Impact of Code Comments for Automated Bug-Fixing: An Empirical Study](https://arxiv.org/abs/2601.23059v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at the 34th IEEE/ACM International Conference on Program Comprehension (ICPC 2026)</p></details> |
+| **[SolAgent: A Specialized Multi-Agent Framework for Solidity Code Generation](https://arxiv.org/abs/2601.23009v1)** | 2026-01-30 |  |
+| **[SWE-Manager: Selecting and Synthesizing Golden Proposals Before Coding](https://arxiv.org/abs/2601.22956v1)** | 2026-01-30 |  |
+| **[Protecting Private Code in IDE Autocomplete using Differential Privacy](https://arxiv.org/abs/2601.22935v1)** | 2026-01-30 | 6 pages |
+| **[Generalized ovals, 2.5-dimensional additive codes, and multispreads](https://arxiv.org/abs/2511.15843v2)** | 2026-01-30 | <details><summary>66 pa...</summary><p>66 pages, 2 tables. Version 2: Section 3 restructured, Theorem 8 added</p></details> |
+| **[CATArena: Evaluating Evolutionary Capabilities of Code Agents via Iterative Tournaments](https://arxiv.org/abs/2510.26852v2)** | 2026-01-30 |  |
+| **[CVeDRL: An Efficient Code Verifier via Difficulty-aware Reinforcement Learning](https://arxiv.org/abs/2601.22803v1)** | 2026-01-30 | 17 pages, 3 figures |
+| **[Float8@2bits: Entropy Coding Enables Data-Free Model Compression](https://arxiv.org/abs/2601.22787v1)** | 2026-01-30 |  |
+| **[RealSec-bench: A Benchmark for Evaluating Secure Code Generation in Real-World Repositories](https://arxiv.org/abs/2601.22706v1)** | 2026-01-30 | 9 pages, 6 figures |
+| **[AACR-Bench: Evaluating Automatic Code Review with Holistic Repository-Level Context](https://arxiv.org/abs/2601.19494v3)** | 2026-01-30 |  |
+| **[Function-Correcting Codes for Insertion-Deletion Channel](https://arxiv.org/abs/2512.07243v2)** | 2026-01-30 |  |
+| **[Quantum $(r,δ)$-Locally Recoverable BCH and Homothetic-BCH Codes](https://arxiv.org/abs/2601.22567v1)** | 2026-01-30 | 19 pages, 1 table |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
+| **[Solving 4-Block Integer Linear Programs Faster Using Affine Decompositions of the Right-Hand Sides](https://arxiv.org/abs/2601.23083v1)** | 2026-01-30 |  |
+| **[Quantum speedups for linear programming via interior point methods](https://arxiv.org/abs/2311.03215v3)** | 2026-01-30 | 47 pages |
+| **[Herb.jl: A Unifying Program Synthesis Library](https://arxiv.org/abs/2510.09726v2)** | 2026-01-30 |  |
+| **[SPARK: Real-Time Monitoring of Multi-Faceted Programming Exercises](https://arxiv.org/abs/2601.22256v1)** | 2026-01-29 |  |
 | **[astra-langchain4j: Experiences Combining LLMs and Agent Programming](https://arxiv.org/abs/2601.21879v1)** | 2026-01-29 |  |
 | **[Differentiable Knapsack and Top-k Operators via Dynamic Programming](https://arxiv.org/abs/2601.21775v1)** | 2026-01-29 |  |
 | **[Multi-objective Integer Linear Programming approach for Automatic Software Cognitive Complexity Reduction](https://arxiv.org/abs/2601.21565v1)** | 2026-01-29 | 51 pages, 17 figures |
@@ -36,9 +41,4 @@ labels: documentation
 | **[Differentiable Integer Linear Programming is not Differentiable & it's not a mere technical problem](https://arxiv.org/abs/2601.17800v2)** | 2026-01-29 |  |
 | **[Hexcute: A Compiler Framework for Automating Layout Synthesis in GPU Programs](https://arxiv.org/abs/2504.16214v3)** | 2026-01-28 | 19 pages, 27 figures |
 | **[Context-Augmented Code Generation Using Programming Knowledge Graphs](https://arxiv.org/abs/2601.20810v1)** | 2026-01-28 |  |
-| **[Analysis of approximate linear programming solution to Markov decision problem with log barrier function](https://arxiv.org/abs/2509.19800v2)** | 2026-01-28 |  |
-| **[Implementing Metric Temporal Answer Set Programming](https://arxiv.org/abs/2601.20735v1)** | 2026-01-28 |  |
-| **[Types for Grassroots Logic Programs](https://arxiv.org/abs/2601.17957v2)** | 2026-01-28 |  |
-| **[Exact Graph Learning via Integer Programming](https://arxiv.org/abs/2601.20589v1)** | 2026-01-28 |  |
-| **[A Program Logic for Abstract (Hyper)Properties](https://arxiv.org/abs/2601.20370v1)** | 2026-01-28 |  |
 
