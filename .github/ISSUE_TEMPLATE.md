@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 04, 2026
+title: Latest 15 Papers - February 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Bridging Online and Offline RL: Contextual Bandit Learning for Multi-Turn Code Generation](https://arxiv.org/abs/2602.03806v1)** | 2026-02-03 |  |
-| **[FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation](https://arxiv.org/abs/2602.03798v1)** | 2026-02-03 |  |
-| **[How to Trick Your AI TA: A Systematic Study of Academic Jailbreaking in LLM Code Evaluation](https://arxiv.org/abs/2512.10415v2)** | 2026-02-03 | <details><summary>This ...</summary><p>This manuscript has been withdrawn by the authors because the methodology and results have been superseded by a more rigorous framework (SPACI and AST-ASIP). The corrected and expanded findings are now available in arXiv:2601.21360. Please cite the new manuscript instead</p></details> |
-| **[SWE-Refactor: A Repository-Level Benchmark for Real-World LLM-Based Code Refactoring](https://arxiv.org/abs/2602.03712v1)** | 2026-02-03 |  |
-| **[Beyond the Commit: Developer Perspectives on Productivity with AI Coding Assistants](https://arxiv.org/abs/2602.03593v1)** | 2026-02-03 | ICSE SEIP |
-| **[Causal Inference for the Effect of Code Coverage on Bug Introduction](https://arxiv.org/abs/2602.03585v1)** | 2026-02-03 | <details><summary>Regis...</summary><p>Registered Report with Continuity Acceptance (CA) for submission to Empirical Software Engineering granted by RR-Committee of the MSR'26</p></details> |
-| **[Secure Decentralized Pliable Index Coding for Target Data Size](https://arxiv.org/abs/2602.03579v1)** | 2026-02-03 | 12 pages |
-| **[Scaling Test-Driven Code Generation from Functions to Classes: An Empirical Study](https://arxiv.org/abs/2602.03557v1)** | 2026-02-03 |  |
-| **[Reading Between the Code Lines: On the Use of Self-Admitted Technical Debt for Security Analysis](https://arxiv.org/abs/2602.03470v1)** | 2026-02-03 | <details><summary>Prepr...</summary><p>Preprint submitted to Journal of Systems and Software</p></details> |
-| **[PRISM: Deriving a White-Box Transformer as a Signal-Noise Decomposition Operator via Maximum Coding Rate Reduction](https://arxiv.org/abs/2601.15540v2)** | 2026-02-03 | <details><summary>12 pa...</summary><p>12 pages, 6 figures. Derives Transformer as a signal-noise decomposition operator via Maximizing Coding Rate Reduction. Identifies 'Attention Sink' as spectral resonance (Arnold Tongues) and proposes $π$-RoPE for dynamical stability</p></details> |
-| **[Precision in Practice: Knowledge Guided Code Summarizing Grounded in Industrial Expectations](https://arxiv.org/abs/2602.03400v1)** | 2026-02-03 |  |
-| **[Beyond Quantity: Trajectory Diversity Scaling for Code Agents](https://arxiv.org/abs/2602.03219v1)** | 2026-02-03 |  |
-| **[Confucius Code Agent: Scalable Agent Scaffolding for Real-World Codebases](https://arxiv.org/abs/2512.10398v6)** | 2026-02-03 | The latest version |
-| **[Straggler-Aware Coded Polynomial Aggregation](https://arxiv.org/abs/2602.03074v1)** | 2026-02-03 | 6 pages, 1 figure |
-| **[Fundamental Limits of Coded Polynomial Aggregation](https://arxiv.org/abs/2601.10028v2)** | 2026-02-03 | 7 pages, 1 figure |
+| **[When Code Becomes Abundant: Redefining Software Engineering Around Orchestration and Verification](https://arxiv.org/abs/2602.04830v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE/ACM 48th International Conference on Software Engineering: Future of Software Engineering</p></details> |
+| **[Game of Coding for Vector-Valued Computations](https://arxiv.org/abs/2602.04810v1)** | 2026-02-04 |  |
+| **[Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings](https://arxiv.org/abs/2512.14917v2)** | 2026-02-04 |  |
+| **[Dualities of dihedral and generalised quaternion codes and applications to quantum codes](https://arxiv.org/abs/2512.07354v2)** | 2026-02-04 |  |
+| **[Spectral-Aligned Pruning for Universal Error-Correcting Code Transformers](https://arxiv.org/abs/2602.01602v2)** | 2026-02-04 |  |
+| **[Stingy Context: 18:1 Hierarchical Code Compression for LLM Auto-Coding](https://arxiv.org/abs/2601.19929v2)** | 2026-02-04 | <details><summary>28 pa...</summary><p>28 pages, 10 tables, 2 figures, 10 bibliographical references and 6 appendices</p></details> |
+| **[Three results on twisted $G-$codes and skew twisted $G-$codes](https://arxiv.org/abs/2601.00752v4)** | 2026-02-04 |  |
+| **[SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents](https://arxiv.org/abs/2601.16746v2)** | 2026-02-04 | <details><summary>Code ...</summary><p>Code available at https://github.com/Ayanami1314/swe-pruner</p></details> |
+| **[Fine-tuned LLM-based Code Migration Framework](https://arxiv.org/abs/2512.13515v2)** | 2026-02-04 | <details><summary>16 pa...</summary><p>16 pages, 27 figures, 7 references</p></details> |
+| **[ProxyWar: Dynamic Assessment of LLM Code Generation in Game Arenas](https://arxiv.org/abs/2602.04296v1)** | 2026-02-04 | ICSE2026 |
+| **[MapCoder-Lite: Distilling Multi-Agent Coding into a Single Small LLM](https://arxiv.org/abs/2509.17489v2)** | 2026-02-04 |  |
+| **[CoSQA+: Pioneering the Multi-Choice Code Search Benchmark with Test-Driven Agents](https://arxiv.org/abs/2406.11589v7)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted to TSE 2025. We provide the code and data at https://github.com/DeepSoftwareAnalytics/CoSQA_Plus</p></details> |
+| **[Scaling Agentic Verifier for Competitive Coding](https://arxiv.org/abs/2602.04254v1)** | 2026-02-04 |  |
+| **[Why Agentic-PRs Get Rejected: A Comparative Study of Coding Agents](https://arxiv.org/abs/2602.04226v1)** | 2026-02-04 | 5 pages |
+| **[Building Coding Agents via Entropy-Enhanced Multi-Turn Preference Optimization](https://arxiv.org/abs/2509.12434v3)** | 2026-02-04 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What's in a Benchmark? The Case of SWE-Bench in Automated Program Repair](https://arxiv.org/abs/2602.04449v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted in 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE-SEIP'26). https://doi.org/10.1145/3786583.3786904</p></details> |
+| **[Sparse group principal component analysis via double thresholding with application to multi-cellular programs](https://arxiv.org/abs/2602.04178v1)** | 2026-02-04 |  |
+| **[Totally $Δ$-Modular Tree Decompositions of Graphic Matrices for Integer Programming](https://arxiv.org/abs/2602.01499v2)** | 2026-02-04 | 20 pages |
 | **[Investigating the Influence of Spatial Ability in Augmented Reality-assisted Robot Programming](https://arxiv.org/abs/2602.03544v1)** | 2026-02-03 |  |
 | **[CP-Agent: Agentic Constraint Programming](https://arxiv.org/abs/2508.07468v3)** | 2026-02-03 |  |
 | **[Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes](https://arxiv.org/abs/2602.03381v1)** | 2026-02-03 |  |
@@ -36,9 +39,6 @@ labels: documentation
 | **[Generalized Optimal Classification Trees: A Mixed-Integer Programming Approach](https://arxiv.org/abs/2602.02173v1)** | 2026-02-02 |  |
 | **[Programming Language Confusion: When Code LLMs Can't Keep their Languages Straight](https://arxiv.org/abs/2503.13620v2)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted for publication at SANER 2026</p></details> |
 | **[Line-Search Filter Differential Dynamic Programming for Optimal Control with Nonlinear Equality Constraints](https://arxiv.org/abs/2504.08278v5)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted for publication in the IEEE International Conference on Robotics and Automation (ICRA) 2026</p></details> |
-| **[Totally $Δ$-Modular Tree Decompositions of Graphic Matrices for Integer Programming](https://arxiv.org/abs/2602.01499v1)** | 2026-02-02 | 20 pages |
 | **[ASP-Bench: From Natural Language to Logic Programs](https://arxiv.org/abs/2602.01171v1)** | 2026-02-01 |  |
 | **[X-Coder: Advancing Competitive Programming with Fully Synthetic Tasks, Solutions, and Tests](https://arxiv.org/abs/2601.06953v2)** | 2026-02-01 | <details><summary>Code:...</summary><p>Code: https://github.com/JieWu02/X-Coder; Data: https://huggingface.co/datasets/IIGroup/X-Coder-SFT-376k</p></details> |
-| **[Learning Abstractions for Hierarchical Planning in Program-Synthesis Agents](https://arxiv.org/abs/2602.00929v1)** | 2026-01-31 | 20 pages |
-| **[KAPSO: A Knowledge-grounded framework for Autonomous Program Synthesis and Optimization](https://arxiv.org/abs/2601.21526v2)** | 2026-01-31 |  |
 
