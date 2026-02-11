@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 10, 2026
+title: Latest 15 Papers - February 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,32 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](https://arxiv.org/abs/2511.05476v3)** | 2026-02-09 | <details><summary>This ...</summary><p>This paper is a revised version of a manuscript currently under revision at the Journal of Systems and Software</p></details> |
-| **[Clique-Based Deletion-Correcting Codes via Penalty-Guided Clique Search](https://arxiv.org/abs/2602.08952v1)** | 2026-02-09 |  |
-| **[Comparing AI Coding Agents: A Task-Stratified Analysis of Pull Request Acceptance](https://arxiv.org/abs/2602.08915v1)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted by MSR'26 Mining Challenge Track</p></details> |
-| **[ProjDevBench: Benchmarking AI Coding Agents on End-to-End Project Development](https://arxiv.org/abs/2602.01655v2)** | 2026-02-09 |  |
-| **[Taming Scylla: Understanding the multi-headed agentic daemon of the coding seas](https://arxiv.org/abs/2602.08765v1)** | 2026-02-09 | 32 Pages, 7 Figures |
-| **[From Token to Line: Enhancing Code Generation with a Long-Term Perspective](https://arxiv.org/abs/2504.07433v4)** | 2026-02-09 |  |
-| **[Trellis codes with a good distance profile constructed from expander graphs](https://arxiv.org/abs/2602.08718v1)** | 2026-02-09 |  |
-| **[Beyond Quantity: Trajectory Diversity Scaling for Code Agents](https://arxiv.org/abs/2602.03219v2)** | 2026-02-09 |  |
-| **[aiXcoder-7B-v2: Training LLMs to Fully Utilize the Long Context in Repository-level Code Completion](https://arxiv.org/abs/2503.15301v2)** | 2026-02-09 | <details><summary>Camer...</summary><p>Camera-ready version for ASE2025</p></details> |
-| **[From Data Behavior to Code Analysis: A Multimodal Study on Security and Privacy Challenges in Blockchain-Based DApp](https://arxiv.org/abs/2504.11860v2)** | 2026-02-09 |  |
-| **[Understanding Self-Admitted Technical Debt in Test Code: An Empirical Study](https://arxiv.org/abs/2510.22249v2)** | 2026-02-09 |  |
-| **[On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub](https://arxiv.org/abs/2509.14745v3)** | 2026-02-09 |  |
-| **[Multipoint Code-Weight Sphere Decoding: Parallel Near-ML Decoding for Short-Blocklength Codes](https://arxiv.org/abs/2602.08501v1)** | 2026-02-09 | 6 pages, 7 figures |
-| **[Hierarchical Subcode Ensemble Decoding of Polar Codes](https://arxiv.org/abs/2602.08391v1)** | 2026-02-09 | 5 pages, 7 figures |
-| **[Dreaming in Code for Curriculum Learning in Open-Ended Worlds](https://arxiv.org/abs/2602.08194v1)** | 2026-02-09 | <details><summary>11 pa...</summary><p>11 pages (main text), 90 pages total. Project page: https://konstantinosmitsides.github.io/dreaming-in-code</p></details> |
+| **[CODE-SHARP: Continuous Open-ended Discovery and Evolution of Skills as Hierarchical Reward Programs](https://arxiv.org/abs/2602.10085v1)** | 2026-02-10 | Preprint |
+| **[METTLE: Efficient Streaming Erasure Code with Peeling Decodability](https://arxiv.org/abs/2602.10020v1)** | 2026-02-10 | 31 pages |
+| **[ContextBench: A Benchmark for Context Retrieval in Coding Agents](https://arxiv.org/abs/2602.05892v2)** | 2026-02-10 | <details><summary>36 pa...</summary><p>36 pages, 6 figures, 4 tables</p></details> |
+| **[Environment-in-the-Loop: Rethinking Code Migration with LLM-based Agents](https://arxiv.org/abs/2602.09944v1)** | 2026-02-10 |  |
+| **[Fully Parallelized BP Decoding for Quantum LDPC Codes Can Outperform BP-OSD](https://arxiv.org/abs/2507.00254v3)** | 2026-02-10 |  |
+| **[JMigBench: A Benchmark for Evaluating LLMs on Source Code Migration (Java 8 to Java 11)](https://arxiv.org/abs/2602.09930v1)** | 2026-02-10 |  |
+| **[Decoding Golay Codes and their Related Lattices: A PAC Code Perspective](https://arxiv.org/abs/2602.01657v2)** | 2026-02-10 |  |
+| **[Code2World: A GUI World Model via Renderable Code Generation](https://arxiv.org/abs/2602.09856v1)** | 2026-02-10 | <details><summary>githu...</summary><p>github: https://github.com/AMAP-ML/Code2World project page: https://amap-ml.github.io/Code2World/</p></details> |
+| **[LLM-based Vulnerable Code Augmentation: Generate or Refactor?](https://arxiv.org/abs/2512.08493v2)** | 2026-02-10 | <details><summary>15 pa...</summary><p>15 pages, Accepted by ESAAN 2026, version with added appendix</p></details> |
+| **[Improving Source Code Similarity Detection Through GraphCodeBERT and Integration of Additional Features](https://arxiv.org/abs/2408.08903v3)** | 2026-02-10 | 16 pages |
+| **[Toward Linking Declined Proposals and Source Code: An Exploratory Study on the Go Repository](https://arxiv.org/abs/2602.09467v1)** | 2026-02-10 | <details><summary>11 pa...</summary><p>11 pages, MSR2026 Technical Track</p></details> |
+| **[AlgoVeri: An Aligned Benchmark for Verified Code Generation on Classical Algorithms](https://arxiv.org/abs/2602.09464v1)** | 2026-02-10 | 32 pages |
+| **[GraphMend: Code Transformations for Fixing Graph Breaks in PyTorch 2](https://arxiv.org/abs/2509.16248v2)** | 2026-02-10 |  |
+| **[Separating Quantum and Classical Advice with Good Codes](https://arxiv.org/abs/2602.09385v1)** | 2026-02-10 |  |
+| **[Sharpen the Spec, Cut the Code: A Case for Generative File System with SYSSPEC](https://arxiv.org/abs/2512.13047v4)** | 2026-02-10 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CODE-SHARP: Continuous Open-ended Discovery and Evolution of Skills as Hierarchical Reward Programs](https://arxiv.org/abs/2602.10085v1)** | 2026-02-10 | Preprint |
+| **[Design and Evaluation of an Assisted Programming Interface for Behavior Trees in Robotics](https://arxiv.org/abs/2602.09772v1)** | 2026-02-10 |  |
+| **[GeoGramBench: Benchmarking the Geometric Program Reasoning in Modern LLMs](https://arxiv.org/abs/2505.17653v2)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
+| **[A Systematic Literature Review on Large Language Models for Automated Program Repair](https://arxiv.org/abs/2405.01466v4)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted to ACM Transactions on Software Engineering and Methodology (TOSEM 2026)</p></details> |
+| **[On A Parameterized Theory of Dynamic Logic for Operationally-based Programs](https://arxiv.org/abs/2602.09307v1)** | 2026-02-10 |  |
+| **[MultiMat: Multimodal Program Synthesis for Procedural Materials using Large Multimodal Models](https://arxiv.org/abs/2509.22151v2)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026 (poster)</p></details> |
+| **[A Small-Scale System for Autoregressive Program Synthesis Enabling Controlled Experimentation](https://arxiv.org/abs/2602.09112v1)** | 2026-02-09 |  |
 | **[Differentiable Logical Programming for Quantum Circuit Discovery and Optimization](https://arxiv.org/abs/2602.08880v1)** | 2026-02-09 |  |
 | **[Craig Interpolation in Program Verification](https://arxiv.org/abs/2602.08532v1)** | 2026-02-09 | <details><summary>The a...</summary><p>The article will appear in Balder ten Cate, Jean Christoph Jung, Patrick Koopmann, Christoph Wernhard and Frank Wolter, editors. Theory and Applications of Craig Interpolation. Ubiquity Press, 2026</p></details> |
 | **[The Matthew Effect of AI Programming Assistants: A Hidden Bias in Software Evolution](https://arxiv.org/abs/2509.23261v3)** | 2026-02-09 |  |
@@ -34,11 +41,4 @@ labels: documentation
 | **[GLP: A Grassroots, Multiagent, Concurrent, Logic Programming Language](https://arxiv.org/abs/2510.15747v2)** | 2026-02-08 |  |
 | **[PBEBench: A Multi-Step Programming by Examples Reasoning Benchmark inspired by Historical Linguistics](https://arxiv.org/abs/2505.23126v4)** | 2026-02-07 |  |
 | **[Continuous Program Search](https://arxiv.org/abs/2602.07659v1)** | 2026-02-07 |  |
-| **[ComPass: Contrastive Learning for Automated Patch Correctness Assessment in Program Repair](https://arxiv.org/abs/2602.07561v1)** | 2026-02-07 | 30 pages, 3 figures |
-| **[Static Analysis Under Non-Deterministic Program Assumptions](https://arxiv.org/abs/2602.07324v1)** | 2026-02-07 |  |
-| **[RefineStat: Efficient Exploration for Probabilistic Program Synthesis](https://arxiv.org/abs/2509.01082v2)** | 2026-02-07 | <details><summary>Refin...</summary><p>RefineStat constrains LM decoding with statistical validity checks and uses diagnostic-guided resampling (priors/likelihoods) to transform small LMs' drafts into correct, reliable probabilistic programs that can match or surpass closed-source models</p></details> |
-| **[Optimization of Precipitate Segmentation Through Linear Genetic Programming of Image Processing](https://arxiv.org/abs/2602.07310v1)** | 2026-02-07 | <details><summary>39 pa...</summary><p>39 pages, 12 figures, 1 table</p></details> |
-| **[Minimum Carbon Trusses: Constructible Multi-Component Designs with Mixed-Integer Linear Programming](https://arxiv.org/abs/2602.07185v1)** | 2026-02-06 | 38 pages, 23 figures |
-| **[Implementing Grassroots Logic Programs with Multiagent Transition Systems and AI](https://arxiv.org/abs/2602.06934v1)** | 2026-02-06 |  |
-| **[ClassAid: A Real-time Instructor-AI-Student Orchestration System for Classroom Programming Activities](https://arxiv.org/abs/2602.06734v1)** | 2026-02-06 |  |
 
