@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 18, 2026
+title: Latest 15 Papers - February 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,31 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Residual Diffusion Models for Variable-Rate Joint Source Channel Coding of MIMO CSI](https://arxiv.org/abs/2505.21681v2)** | 2026-02-18 | <details><summary>15 pa...</summary><p>15 pages, 13 figures, To appear in IEEE Journal on Selected Areas in Communications, 2026</p></details> |
+| **[FeatBench: Towards More Realistic Evaluation of Feature-level Code Generation](https://arxiv.org/abs/2509.22237v2)** | 2026-02-18 |  |
+| **[Comment Traps: How Defective Commented-out Code Augment Defects in AI-Assisted Code Generation](https://arxiv.org/abs/2512.20334v2)** | 2026-02-18 | <details><summary>Accep...</summary><p>Accepted to the The ACM International Conference on the Foundations of Software Engineering (FSE) (FSE 2026)</p></details> |
+| **[Bounds and Constructions of Codes for Ordered Composite DNA Sequences](https://arxiv.org/abs/2602.16406v1)** | 2026-02-18 | submitted |
+| **[Fermion-to-Fermion Low-Density Parity-Check Codes](https://arxiv.org/abs/2508.15323v4)** | 2026-02-18 | <details><summary>25 pa...</summary><p>25 pages (including end matter and supplemental material), 18 figures. This version adds end matter</p></details> |
+| **[Cryptographic Applications of Twisted Goppa Codes](https://arxiv.org/abs/2602.16207v1)** | 2026-02-18 |  |
+| **[Diffusion Codes: Self-Correction from Small(er)-Set Expansion with Tunable Non-locality](https://arxiv.org/abs/2510.07179v2)** | 2026-02-18 | 48 pages, 6 figures |
+| **[Lossy Source Coding with Broadcast Side Information](https://arxiv.org/abs/2601.07797v2)** | 2026-02-18 |  |
+| **[Algorithm-Based Pipeline for Reliable and Intent-Preserving Code Translation with LLMs](https://arxiv.org/abs/2602.16106v1)** | 2026-02-18 | <details><summary>Accep...</summary><p>Accepted at 34th IEEE/ACM International Conference on Program Comprehension (ICPC 2026)</p></details> |
+| **[Strong Singleton-Like Bounds, Quasi-Perfect Codes and Distance-Optimal Codes in the Sum-Rank Metric](https://arxiv.org/abs/2601.05581v3)** | 2026-02-17 | 20 pages |
+| **[Secure Coding with AI -- From Detection to Repair](https://arxiv.org/abs/2504.20814v2)** | 2026-02-17 |  |
+| **[Not All Tokens Matter: Data-Centric Optimization for Efficient Code Summarization](https://arxiv.org/abs/2601.20147v2)** | 2026-02-17 |  |
+| **[From Tool Orchestration to Code Execution: A Study of MCP Design Choices](https://arxiv.org/abs/2602.15945v1)** | 2026-02-17 |  |
 | **[GLM-5: from Vibe Coding to Agentic Engineering](https://arxiv.org/abs/2602.15763v1)** | 2026-02-17 |  |
 | **[A Differential Fuzzing-Based Evaluation of Functional Equivalence in LLM-Generated Code Refactorings](https://arxiv.org/abs/2602.15761v1)** | 2026-02-17 |  |
-| **[Syndrome-Flow Consistency Model Achieves One-step Denoising Error Correction Codes](https://arxiv.org/abs/2512.01389v2)** | 2026-02-17 |  |
-| **[Improved Constructions of Reed-Solomon Codes with Optimal Repair Bandwidth](https://arxiv.org/abs/2601.10685v2)** | 2026-02-17 |  |
-| **[A Code Smell Refactoring Approach using GNNs](https://arxiv.org/abs/2511.12069v2)** | 2026-02-17 |  |
-| **[Concatenated Codes for Short-Molecule DNA Storage with Sequencing Channels of Positive Zero-Undetected-Error Capacity](https://arxiv.org/abs/2602.12800v2)** | 2026-02-17 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2511.14284. Correcting a few typos and revising some points</p></details> |
-| **[Accelerated Predictive Coding Networks via Direct Kolen-Pollack Feedback Alignment](https://arxiv.org/abs/2602.15571v1)** | 2026-02-17 |  |
-| **[Large Language Models for Secure Code Assessment: A Multi-Language Empirical Study](https://arxiv.org/abs/2408.06428v2)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted for publication at the 7th International Workshop on Deep Learning for Testing and Testing for Deep Learning (DeepTest 2026), co-located with ICSE 2026</p></details> |
-| **[TAROT: Test-driven and Capability-adaptive Curriculum Reinforcement Fine-tuning for Code Generation with Large Language Models](https://arxiv.org/abs/2602.15449v1)** | 2026-02-17 | <details><summary>The f...</summary><p>The first three authors contributed equally to this work; listing order is random</p></details> |
-| **[Social Life of Code: Modeling Evolution through Code Embedding and Opinion Dynamics](https://arxiv.org/abs/2602.15412v1)** | 2026-02-17 | <details><summary>This ...</summary><p>This paper is currently under review at Journal of Computational Science. Previously posted on SSRN: https://dx.doi.org/10.2139/ssrn.5828849</p></details> |
-| **[Toward Agentic Software Engineering Beyond Code: Framing Vision, Values, and Vocabulary](https://arxiv.org/abs/2510.19692v2)** | 2026-02-17 | 5 pages |
-| **[Self-dual Stacked Quantum Low-Density Parity-Check Codes](https://arxiv.org/abs/2602.15372v1)** | 2026-02-17 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 8 tables (including end matter)</p></details> |
-| **[SACS: A Code Smell Dataset using Semi-automatic Generation Approach](https://arxiv.org/abs/2602.15342v1)** | 2026-02-17 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2511.12069</p></details> |
-| **[On Function-Correcting Codes in the Lee Metric](https://arxiv.org/abs/2507.17654v3)** | 2026-02-17 |  |
-| **[AgriWorld:A World Tools Protocol Framework for Verifiable Agricultural Reasoning with Code-Executing LLM Agents](https://arxiv.org/abs/2602.15325v1)** | 2026-02-17 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Physical Activity Trajectories Preceding Incident Major Depressive Disorder Diagnosis Using Consumer Wearable Devices in the All of Us Research Program: Case-Control Study](https://arxiv.org/abs/2602.16583v1)** | 2026-02-18 |  |
+| **[Synthesis and Verification of Transformer Programs](https://arxiv.org/abs/2602.16473v1)** | 2026-02-18 |  |
+| **[CADEvolve: Creating Realistic CAD via Program Evolution](https://arxiv.org/abs/2602.16317v1)** | 2026-02-18 |  |
+| **[Heuristic Search as Language-Guided Program Optimization](https://arxiv.org/abs/2602.16038v1)** | 2026-02-17 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, under review</p></details> |
+| **[ODYN: An All-Shifted Non-Interior-Point Method for Quadratic Programming in Robotics and AI](https://arxiv.org/abs/2602.16005v1)** | 2026-02-17 |  |
+| **[Distributed Order Recording Techniques for Efficient Record-and-Replay of Multi-threaded Programs](https://arxiv.org/abs/2602.15995v1)** | 2026-02-17 | IEEE Cluster 2024 |
 | **[Binary integer programming for optimizing ebit cost in distributed quantum circuits with fixed module allocation](https://arxiv.org/abs/2501.11816v3)** | 2026-02-17 | 38 pages, 22 figures |
 | **[Optimal Program Synthesis via Abstract Interpretation](https://arxiv.org/abs/2602.14717v1)** | 2026-02-16 |  |
 | **[Resource-Aware Quantum Programming with General Recursion and Quantum Control](https://arxiv.org/abs/2510.20452v2)** | 2026-02-16 |  |
@@ -35,10 +41,4 @@ labels: documentation
 | **[AlphaOPT: Formulating Optimization Programs with Self-Improving LLM Experience Library](https://arxiv.org/abs/2510.18428v3)** | 2026-02-15 |  |
 | **[A Penalty Approach for Differentiation Through Black-Box Quadratic Programming Solvers](https://arxiv.org/abs/2602.14154v1)** | 2026-02-15 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 5 tables</p></details> |
 | **[DALL: Data Labeling via Data Programming and Active Learning Enhanced by Large Language Models](https://arxiv.org/abs/2602.14102v1)** | 2026-02-15 |  |
-| **[EVALOOOP: A Self-Consistency-Centered Framework for Assessing Large Language Model Robustness in Programming](https://arxiv.org/abs/2505.12185v5)** | 2026-02-15 | 27 pages, 7 figures |
-| **[An effective Genetic Programming Hyper-Heuristic for Uncertain Agile Satellite Scheduling](https://arxiv.org/abs/2602.15070v1)** | 2026-02-15 | <details><summary>8 pag...</summary><p>8 pages; 4 figures; 9 tables;</p></details> |
-| **[Twenty-five years of J-DSP Online Labs for Signal Processing Classes and Workforce Development Programs](https://arxiv.org/abs/2602.13863v1)** | 2026-02-14 |  |
-| **[ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System](https://arxiv.org/abs/2602.13692v1)** | 2026-02-14 |  |
-| **[Quantum Speedups for Group Relaxations of Integer Linear Programs](https://arxiv.org/abs/2602.13494v1)** | 2026-02-13 |  |
-| **[Enabling Population-Level Parallelism in Tree-Based Genetic Programming for GPU Acceleration](https://arxiv.org/abs/2501.17168v7)** | 2026-02-13 | <details><summary>Accep...</summary><p>Accepted by IEEE TEVC</p></details> |
 
