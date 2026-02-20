@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 19, 2026
+title: Latest 15 Papers - February 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,30 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Using LLMs for Knowledge Component-level Correctness Labeling in Open-ended Coding Problems](https://arxiv.org/abs/2602.17542v1)** | 2026-02-19 |  |
+| **[Some Remarks on Marginal Code Languages](https://arxiv.org/abs/2602.17309v1)** | 2026-02-19 |  |
+| **[Achievability Bounds of Coding with Finite Blocklength for Gaussian Broadcast Channels](https://arxiv.org/abs/2602.11986v2)** | 2026-02-19 |  |
+| **[VisPhyWorld: Probing Physical Reasoning via Code-Driven Video Reconstruction](https://arxiv.org/abs/2602.13294v2)** | 2026-02-19 |  |
+| **[Robustness and Reasoning Fidelity of Large Language Models in Long-Context Code Question Answering](https://arxiv.org/abs/2602.17183v1)** | 2026-02-19 | <details><summary>11 pa...</summary><p>11 pages, 4 Figures, 5 Tables, Work in Progress</p></details> |
+| **[SimulatorCoder: DNN Accelerator Simulator Code Generation and Optimization via Large Language Models](https://arxiv.org/abs/2602.17169v1)** | 2026-02-19 |  |
+| **[AI/ML based Joint Source and Channel Coding for HARQ-ACK Payload](https://arxiv.org/abs/2511.19943v2)** | 2026-02-19 | <details><summary>39 pa...</summary><p>39 pages, 15 figures. Under consideration for publication in Journal of Sel. Areas in Information Theory (received Major Revision). This paper was presented in part at the International Symposium on Topics in Coding, August 2025 in the Session for Coding and AI</p></details> |
+| **[Operationalization of Machine Learning with Serverless Architecture: An Industrial Operationalization of Machine Learning with Serverless Architecture: An Industrial Implementation for Harmonized System Code Prediction](https://arxiv.org/abs/2602.17102v1)** | 2026-02-19 | 13 pages. ICAD '26 |
+| **[AgentConductor: Topology Evolution for Multi-Agent Competition-Level Code Generation](https://arxiv.org/abs/2602.17100v1)** | 2026-02-19 |  |
+| **[What to Cut? Predicting Unnecessary Methods in Agentic Code Generation](https://arxiv.org/abs/2602.17091v1)** | 2026-02-19 |  |
+| **[How AI Coding Agents Communicate: A Study of Pull Request Description Characteristics and Human Review Responses](https://arxiv.org/abs/2602.17084v1)** | 2026-02-19 |  |
+| **[Wink: Recovering from Misbehaviors in Coding Agents](https://arxiv.org/abs/2602.17037v1)** | 2026-02-19 |  |
+| **[Hybrid-Gym: Training Coding Agents to Generalize Across Tasks](https://arxiv.org/abs/2602.16819v1)** | 2026-02-18 |  |
+| **[Simple Baselines are Competitive with Code Evolution](https://arxiv.org/abs/2602.16805v1)** | 2026-02-18 |  |
 | **[Residual Diffusion Models for Variable-Rate Joint Source Channel Coding of MIMO CSI](https://arxiv.org/abs/2505.21681v2)** | 2026-02-18 | <details><summary>15 pa...</summary><p>15 pages, 13 figures, To appear in IEEE Journal on Selected Areas in Communications, 2026</p></details> |
-| **[FeatBench: Towards More Realistic Evaluation of Feature-level Code Generation](https://arxiv.org/abs/2509.22237v2)** | 2026-02-18 |  |
-| **[Comment Traps: How Defective Commented-out Code Augment Defects in AI-Assisted Code Generation](https://arxiv.org/abs/2512.20334v2)** | 2026-02-18 | <details><summary>Accep...</summary><p>Accepted to the The ACM International Conference on the Foundations of Software Engineering (FSE) (FSE 2026)</p></details> |
-| **[Bounds and Constructions of Codes for Ordered Composite DNA Sequences](https://arxiv.org/abs/2602.16406v1)** | 2026-02-18 | submitted |
-| **[Fermion-to-Fermion Low-Density Parity-Check Codes](https://arxiv.org/abs/2508.15323v4)** | 2026-02-18 | <details><summary>25 pa...</summary><p>25 pages (including end matter and supplemental material), 18 figures. This version adds end matter</p></details> |
-| **[Cryptographic Applications of Twisted Goppa Codes](https://arxiv.org/abs/2602.16207v1)** | 2026-02-18 |  |
-| **[Diffusion Codes: Self-Correction from Small(er)-Set Expansion with Tunable Non-locality](https://arxiv.org/abs/2510.07179v2)** | 2026-02-18 | 48 pages, 6 figures |
-| **[Lossy Source Coding with Broadcast Side Information](https://arxiv.org/abs/2601.07797v2)** | 2026-02-18 |  |
-| **[Algorithm-Based Pipeline for Reliable and Intent-Preserving Code Translation with LLMs](https://arxiv.org/abs/2602.16106v1)** | 2026-02-18 | <details><summary>Accep...</summary><p>Accepted at 34th IEEE/ACM International Conference on Program Comprehension (ICPC 2026)</p></details> |
-| **[Strong Singleton-Like Bounds, Quasi-Perfect Codes and Distance-Optimal Codes in the Sum-Rank Metric](https://arxiv.org/abs/2601.05581v3)** | 2026-02-17 | 20 pages |
-| **[Secure Coding with AI -- From Detection to Repair](https://arxiv.org/abs/2504.20814v2)** | 2026-02-17 |  |
-| **[Not All Tokens Matter: Data-Centric Optimization for Efficient Code Summarization](https://arxiv.org/abs/2601.20147v2)** | 2026-02-17 |  |
-| **[From Tool Orchestration to Code Execution: A Study of MCP Design Choices](https://arxiv.org/abs/2602.15945v1)** | 2026-02-17 |  |
-| **[GLM-5: from Vibe Coding to Agentic Engineering](https://arxiv.org/abs/2602.15763v1)** | 2026-02-17 |  |
-| **[A Differential Fuzzing-Based Evaluation of Functional Equivalence in LLM-Generated Code Refactorings](https://arxiv.org/abs/2602.15761v1)** | 2026-02-17 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Effectiveness of a Virtual Reality-Based Training Program for Improving Body Awareness in Children with Attention Deficit and Hyperactivity Disorder](https://arxiv.org/abs/2602.17649v1)** | 2026-02-19 |  |
+| **[ATLAS: Automated Tree-based Language Analysis System for C and C++ source programs](https://arxiv.org/abs/2512.12507v3)** | 2026-02-19 | <details><summary>9 pag...</summary><p>9 pages, 14 figures, 6 tables; Video demonstration: https://youtu.be/QGuJZhj9CTA; Tool repository: https://github.com/jaid-monwar/ATLAS-multi-view-code-representation-tool.git</p></details> |
+| **[Refinement orders for quantum programs](https://arxiv.org/abs/2504.14158v2)** | 2026-02-19 |  |
+| **[Mason: Type- and Name-Guided Program Synthesis](https://arxiv.org/abs/2602.16981v1)** | 2026-02-19 |  |
+| **[Exact Certification of Data-Poisoning Attacks Using Mixed-Integer Programming](https://arxiv.org/abs/2602.16944v1)** | 2026-02-18 | <details><summary>Accep...</summary><p>Accepted to the 23rd International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR)</p></details> |
 | **[Physical Activity Trajectories Preceding Incident Major Depressive Disorder Diagnosis Using Consumer Wearable Devices in the All of Us Research Program: Case-Control Study](https://arxiv.org/abs/2602.16583v1)** | 2026-02-18 |  |
 | **[Synthesis and Verification of Transformer Programs](https://arxiv.org/abs/2602.16473v1)** | 2026-02-18 |  |
 | **[CADEvolve: Creating Realistic CAD via Program Evolution](https://arxiv.org/abs/2602.16317v1)** | 2026-02-18 |  |
@@ -36,9 +41,4 @@ labels: documentation
 | **[Optimal Program Synthesis via Abstract Interpretation](https://arxiv.org/abs/2602.14717v1)** | 2026-02-16 |  |
 | **[Resource-Aware Quantum Programming with General Recursion and Quantum Control](https://arxiv.org/abs/2510.20452v2)** | 2026-02-16 |  |
 | **[Inverse Mixed-Integer Programming: Learning Constraints then Objective Functions](https://arxiv.org/abs/2510.04455v2)** | 2026-02-16 | 40 pages |
-| **[Covariance-Aware Transformers for Quadratic Programming and Decision Making](https://arxiv.org/abs/2602.14506v1)** | 2026-02-16 |  |
-| **[LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces](https://arxiv.org/abs/2602.14337v1)** | 2026-02-15 |  |
-| **[AlphaOPT: Formulating Optimization Programs with Self-Improving LLM Experience Library](https://arxiv.org/abs/2510.18428v3)** | 2026-02-15 |  |
-| **[A Penalty Approach for Differentiation Through Black-Box Quadratic Programming Solvers](https://arxiv.org/abs/2602.14154v1)** | 2026-02-15 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 5 tables</p></details> |
-| **[DALL: Data Labeling via Data Programming and Active Learning Enhanced by Large Language Models](https://arxiv.org/abs/2602.14102v1)** | 2026-02-15 |  |
 
