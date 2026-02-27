@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 26, 2026
+title: Latest 15 Papers - February 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On pseudo-arcs from normal rational curve and additive MDS codes](https://arxiv.org/abs/2602.23130v1)** | 2026-02-26 |  |
+| **[Automated Vulnerability Detection in Source Code Using Deep Representation Learning](https://arxiv.org/abs/2602.23121v1)** | 2026-02-26 |  |
+| **[FeedbackEval: A Benchmark for Evaluating Large Language Models in Feedback-Driven Code Repair Tasks](https://arxiv.org/abs/2504.06939v2)** | 2026-02-26 |  |
+| **[Recursive decoding of projective Reed-Muller codes](https://arxiv.org/abs/2501.01692v2)** | 2026-02-26 |  |
+| **[Beyond Detection: Multi-Scale Hidden-Code for Natural Image Deepfake Recovery and Factual Retrieval](https://arxiv.org/abs/2602.22759v1)** | 2026-02-26 |  |
+| **[Coded-E2LF: Coded Aperture Light Field Imaging from Events](https://arxiv.org/abs/2602.22620v1)** | 2026-02-26 | <details><summary>accep...</summary><p>accepted to CVPR 2026</p></details> |
+| **[A Trace-based Approach for Code Safety Analysis](https://arxiv.org/abs/2510.10410v3)** | 2026-02-26 |  |
+| **[RepoMod-Bench: A Benchmark for Code Repository Modernization via Implementation-Agnostic Testing](https://arxiv.org/abs/2602.22518v1)** | 2026-02-26 |  |
+| **[EyeLayer: Integrating Human Attention Patterns into LLM-Based Code Summarization](https://arxiv.org/abs/2602.22368v1)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted at the 34th IEEE/ACM International Conference on Program Comprehension (ICPC 2026), April 12-13, 2026, Rio de Janeiro, Brazil</p></details> |
+| **[Compact Hadamard Latent Codes for Efficient Spectral Rendering](https://arxiv.org/abs/2602.18741v2)** | 2026-02-25 |  |
+| **[Physics-Aware, Shannon-Optimal Compression via Arithmetic Coding for Distributional Fidelity](https://arxiv.org/abs/2602.19476v2)** | 2026-02-25 | 13 pages, 5 figures |
 | **[High-Fidelity And Complex Test Data Generation For Google SQL Code Generation Services](https://arxiv.org/abs/2504.17203v4)** | 2026-02-25 |  |
 | **[Quad Length Codes for Lossless Compression of e4m3](https://arxiv.org/abs/2602.17849v2)** | 2026-02-25 | <details><summary>The f...</summary><p>The first version proposed lossless compression of BFloat16 using dual length codes. This version proposes lossless compression of e4m3 using quad length codes. The versions will be merged later</p></details> |
 | **[Lumosaic: Hyperspectral Video via Active Illumination and Coded-Exposure Pixels](https://arxiv.org/abs/2602.22140v1)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[Multichannel Conflict-Avoiding Codes for Expanded Scenarios](https://arxiv.org/abs/2602.22081v1)** | 2026-02-25 | 34 pages |
-| **[Maximal Recoverability: A Nexus of Coding Theory](https://arxiv.org/abs/2602.22042v1)** | 2026-02-25 | <details><summary>24 pa...</summary><p>24 pages, 2 figures, extended version of survey in IEEE BITS</p></details> |
-| **[Detecting UX smells in Visual Studio Code using LLMs](https://arxiv.org/abs/2602.22020v1)** | 2026-02-25 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, 1 table, 3rd International Workshop on Integrated Development Environments (IDE 2026)</p></details> |
-| **[Enhancing LLM-Based Test Generation by Eliminating Covered Code](https://arxiv.org/abs/2602.21997v1)** | 2026-02-25 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, supplementary material included</p></details> |
-| **[Towards Better Code Generation: Adaptive Decoding with Uncertainty Guidance](https://arxiv.org/abs/2506.08980v4)** | 2026-02-25 | 21 pages, 7 figures |
-| **[Small Wins Big: Comparing Large Language Models and Domain Fine-Tuned Models for Sarcasm Detection in Code-Mixed Hinglish Text](https://arxiv.org/abs/2602.21933v1)** | 2026-02-25 |  |
-| **[Function-Correcting Codes with Optimal Data Protection for Hamming Code Membership](https://arxiv.org/abs/2602.21932v1)** | 2026-02-25 | <details><summary>5 pag...</summary><p>5 pages, 1 page containing reference, 1 figure</p></details> |
-| **[Polynomial Freiman-Ruzsa, Reed-Muller codes and Shannon capacity](https://arxiv.org/abs/2411.13493v2)** | 2026-02-25 |  |
-| **[From Restructuring to Stabilization: A Large-Scale Experiment on Iterative Code Readability Refactoring with Large Language Models](https://arxiv.org/abs/2602.21833v1)** | 2026-02-25 |  |
-| **[An Evaluation of Context Length Extrapolation in Long Code via Positional Embeddings and Efficient Attention](https://arxiv.org/abs/2602.21800v1)** | 2026-02-25 |  |
-| **[EditFlow: Benchmarking and Optimizing Code Edit Recommendation Systems via Reconstruction of Developer Flows](https://arxiv.org/abs/2602.21697v1)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted at OOPSLA 2026 (Proc. ACM Program. Lang., Vol. 10, OOPSLA1)</p></details> |
-| **[Concatenated Sum-Rank Codes](https://arxiv.org/abs/2602.21609v1)** | 2026-02-25 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Prover-Adversary games for systems over (non-deterministic) branching programs](https://arxiv.org/abs/2508.16014v3)** | 2026-02-26 | 35 pages, 8 figures |
+| **[LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces](https://arxiv.org/abs/2602.14337v2)** | 2026-02-26 |  |
 | **[From Dynamic Programs to Greedy Algorithms](https://arxiv.org/abs/2508.00776v2)** | 2026-02-25 | 14 pages, 2 figures |
 | **[Applying a Random-Key Optimizer on Mixed Integer Programs](https://arxiv.org/abs/2602.22173v1)** | 2026-02-25 | <details><summary>29 pa...</summary><p>29 pages, 8 figures, 6 tables, 4 algorithm pseudocodes</p></details> |
 | **[PASTA: A Modular Program Analysis Tool Framework for Accelerators](https://arxiv.org/abs/2602.22103v1)** | 2026-02-25 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Probabilistic Linear Logic Programming with an Application to Bayesian Network Computations (Extended Version)](https://arxiv.org/abs/2601.13270v2)** | 2026-02-24 | <details><summary>Exten...</summary><p>Extended version of the paper accepted at FLOPS2026</p></details> |
 | **[Enhancing Capstone Program Workflow: A Case Study on a Platform for Managing Academic-Industry Projects](https://arxiv.org/abs/2602.20120v1)** | 2026-02-23 |  |
 | **[noDice: Inference for Discrete Probabilistic Programs with Nondeterminism and Conditioning](https://arxiv.org/abs/2602.20049v1)** | 2026-02-23 | <details><summary>46 pa...</summary><p>46 pages, 7 figures, accepted to OOPSLA 2026 R1</p></details> |
-| **[Analysis of approximate linear programming solution to Markov decision problem with log barrier function](https://arxiv.org/abs/2509.19800v3)** | 2026-02-23 |  |
-| **[Misquoted No More: Securely Extracting F* Programs with IO](https://arxiv.org/abs/2602.19973v1)** | 2026-02-23 | Submitted to ICFP'26 |
 
