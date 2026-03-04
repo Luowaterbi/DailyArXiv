@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 03, 2026
+title: Latest 15 Papers - March 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,30 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
-| **[Characterization of Blind Code Rate Recovery in Linear Block Codes](https://arxiv.org/abs/2603.02031v1)** | 2026-03-02 | <details><summary>7 pag...</summary><p>7 pages, 2 appendices, 5 figures</p></details> |
-| **[Agentic Code Reasoning](https://arxiv.org/abs/2603.01896v1)** | 2026-03-02 |  |
-| **[Language steering in latent space to mitigate unintended code-switching](https://arxiv.org/abs/2510.13849v2)** | 2026-03-02 |  |
-| **[A Roadmap on Modern Code Review: Challenges and Opportunities](https://arxiv.org/abs/2405.18216v2)** | 2026-03-02 | <details><summary>This ...</summary><p>This paper is accepted by TOSEM</p></details> |
-| **[Deletion-correcting codes for an adversarial nanopore channel](https://arxiv.org/abs/2601.21236v2)** | 2026-03-02 | <details><summary>Fixed...</summary><p>Fixed typos and updated Lemma 7</p></details> |
-| **[MigMate: A VS Code Extension for LLM-based Library Migration of Python Projects](https://arxiv.org/abs/2603.01596v1)** | 2026-03-02 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, 2 tables, 3rd International Workshop on Integrated Development Environments (IDE 2026)</p></details> |
-| **[Function-Correcting Partition Codes](https://arxiv.org/abs/2601.06450v2)** | 2026-03-02 |  |
-| **[Compliance as Code: A Study of Linux Distributions and Beyond](https://arxiv.org/abs/2603.01520v1)** | 2026-03-02 | Under review |
-| **[CodeV: Code with Images for Faithful Visual Reasoning via Tool-Aware Policy Optimization](https://arxiv.org/abs/2511.19661v2)** | 2026-03-02 |  |
-| **[SOSecure: Safer Code Generation with RAG and StackOverflow Discussions](https://arxiv.org/abs/2503.13654v2)** | 2026-03-02 |  |
-| **[Inference-Time Safety For Code LLMs Via Retrieval-Augmented Revision](https://arxiv.org/abs/2603.01494v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted at the ICLR 2026 Workshop on Principled Design for Trustworthy AI: Interpretability, Robustness, and Safety Across Modalities</p></details> |
-| **[Production-Grade AI Coding System for Client-Side Development](https://arxiv.org/abs/2603.01460v1)** | 2026-03-02 | 18 pages, 2 figures |
-| **[OJBench: A Competition Level Code Benchmark For Large Language Models](https://arxiv.org/abs/2506.16395v2)** | 2026-03-02 | 9 pages, 5 figures |
-| **[An Information-Theoretic Framework For Optimizing Experimental Design To Distinguish Probabilistic Neural Codes](https://arxiv.org/abs/2603.01387v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to The Fourteenth International Conference on Learning Representations (ICLR 2026)</p></details> |
+| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
+| **[AI-for-Science Low-code Platform with Bayesian Adversarial Multi-Agent Framework](https://arxiv.org/abs/2603.03233v1)** | 2026-03-03 |  |
+| **[Code2Math: Can Your Code Agent Effectively Evolve Math Problems Through Exploration?](https://arxiv.org/abs/2603.03202v1)** | 2026-03-03 | <details><summary>Under...</summary><p>Under review in ICML 2026</p></details> |
+| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
+| **[Entanglement-Assisted Codes Outside the Stabilizer Framework](https://arxiv.org/abs/2603.03182v1)** | 2026-03-03 | 19 pages |
+| **[A medical coding language model trained on clinical narratives from a population-wide cohort of 1.8 million patients](https://arxiv.org/abs/2603.00221v2)** | 2026-03-03 |  |
+| **[FastCode: Fast and Cost-Efficient Code Understanding and Reasoning](https://arxiv.org/abs/2603.01012v2)** | 2026-03-03 |  |
+| **[Rethinking Code Similarity for Automated Algorithm Design with LLMs](https://arxiv.org/abs/2603.02787v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
+| **[Blind Identification of Channel Codes: A Subspace-Coding Approach](https://arxiv.org/abs/2601.15903v2)** | 2026-03-03 | 14 pages, 5 figures |
+| **[Sustainable Code Generation Using Large Language Models: A Systematic Literature Review](https://arxiv.org/abs/2603.00989v2)** | 2026-03-03 |  |
+| **[Learning to Solve and Verify: A Self-Play Framework for Code and Test Generation](https://arxiv.org/abs/2502.14948v4)** | 2026-03-03 | 14 pages, 5 figures |
+| **[Boundaries of Acceptable Defectiveness: Redefining Surface Code Robustness under Heterogeneous Noise](https://arxiv.org/abs/2510.22001v3)** | 2026-03-03 | 12 pages, 15 figures |
+| **[ParEVO: Synthesizing Code for Irregular Data: High-Performance Parallelism through Agentic Evolution](https://arxiv.org/abs/2603.02510v1)** | 2026-03-03 |  |
+| **[Video TokenCom: Textual Intent-Guided Multi-Rate Video Token Communications with UEP-Based Adaptive Source-Channel Coding](https://arxiv.org/abs/2603.02470v1)** | 2026-03-02 |  |
+| **[Rigidity matroids and linear algebraic matroids with applications to matrix completion and tensor codes](https://arxiv.org/abs/2405.00778v2)** | 2026-03-02 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, accepted to Combinatorica</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Penalty Approach for Differentiation Through Black-Box Quadratic Programming Solvers](https://arxiv.org/abs/2602.14154v2)** | 2026-03-03 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 5 tables</p></details> |
+| **[Dynamic Contract Analysis for Parallel Programming Models](https://arxiv.org/abs/2603.03023v1)** | 2026-03-03 | <details><summary>A pee...</summary><p>A peer-reviewed version is to be published by IEEE as part of the IPDPS HIPS workshop proceedings. This is the originally submitted article</p></details> |
+| **[Speak Now: Safe Actor Programming with Multiparty Session Types (Extended Version)](https://arxiv.org/abs/2602.24054v2)** | 2026-03-03 | <details><summary>Exten...</summary><p>Extended version of paper accepted at OOPSLA'26</p></details> |
+| **[IMR-LLM: Industrial Multi-Robot Task Planning and Program Generation using Large Language Models](https://arxiv.org/abs/2603.02669v1)** | 2026-03-03 |  |
+| **[StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning](https://arxiv.org/abs/2603.02637v1)** | 2026-03-03 |  |
 | **[Metric Entropy-Free Sample Complexity Bounds for Sample Average Approximation in Convex Stochastic Programming](https://arxiv.org/abs/2401.00664v7)** | 2026-03-02 |  |
 | **[Bentō: Optimizing Persistent Memory Programs](https://arxiv.org/abs/2603.01889v1)** | 2026-03-02 |  |
 | **[RepoRepair: Leveraging Code Documentation for Repository-Level Automated Program Repair](https://arxiv.org/abs/2603.01048v1)** | 2026-03-01 |  |
@@ -36,9 +41,4 @@ labels: documentation
 | **[Playsemble: Learning Low-Level Programming Through Interactive Games](https://arxiv.org/abs/2602.20167v2)** | 2026-02-27 |  |
 | **[Current pulse generator: A circuit for programming RRAM in current mode](https://arxiv.org/abs/2602.24163v1)** | 2026-02-27 |  |
 | **[Artificial Agency Program: Curiosity, compression, and communication in agents](https://arxiv.org/abs/2602.24100v1)** | 2026-02-27 | <details><summary>This ...</summary><p>This is a working draft. Feedback and criticism is most welcome</p></details> |
-| **[Speak Now: Safe Actor Programming with Multiparty Session Types](https://arxiv.org/abs/2602.24054v1)** | 2026-02-27 | <details><summary>Exten...</summary><p>Extended version of paper accepted at OOPSLA'26</p></details> |
-| **[Learning to Optimize by Differentiable Programming](https://arxiv.org/abs/2601.16510v2)** | 2026-02-27 |  |
-| **[A task-based data-flow methodology for programming heterogeneous systems with multiple accelerator APIs](https://arxiv.org/abs/2602.21897v2)** | 2026-02-27 | 18 pages, 8 figures |
-| **[Sparse PCA: A New Scalable Estimator Based On Integer Programming](https://arxiv.org/abs/2109.11142v3)** | 2026-02-26 | <details><summary>To ap...</summary><p>To appear in the Annals of Statistics</p></details> |
-| **[User Misconceptions of LLM-Based Conversational Programming Assistants](https://arxiv.org/abs/2510.25662v2)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted to the Journal Ahead Workshop at ICSE '26</p></details> |
 
