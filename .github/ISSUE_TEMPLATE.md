@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 08, 2026
+title: Latest 15 Papers - March 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Improved Decoding of Quantum Tanner Codes Using Generalized Check Nodes](https://arxiv.org/abs/2603.05486v1)** | 2026-03-05 | <details><summary>Submi...</summary><p>Submission for possible publication</p></details> |
-| **[LoRA-MME: Multi-Model Ensemble of LoRA-Tuned Encoders for Code Comment Classification](https://arxiv.org/abs/2603.03959v2)** | 2026-03-05 |  |
-| **[Generalized matching decoders for 2D topological translationally-invariant codes](https://arxiv.org/abs/2603.05402v1)** | 2026-03-05 |  |
-| **[Building AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned](https://arxiv.org/abs/2603.05344v1)** | 2026-03-05 | <details><summary>Work ...</summary><p>Work in progress, new versions will be updated continuously</p></details> |
-| **[A framework for assessing the capabilities of code generation of constraint domain-specific languages with large language models](https://arxiv.org/abs/2603.05278v1)** | 2026-03-05 |  |
-| **[Toward architecting self-coding information systems](https://arxiv.org/abs/2601.14132v2)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted for ICSE 2026 Track "Software Architecture BoF"</p></details> |
-| **[On the Optimality of Coded Distributed Computing for Ring Networks](https://arxiv.org/abs/2507.00091v2)** | 2026-03-05 | <details><summary>Repla...</summary><p>Replaced with the revised version; Part of the work has been presented at ISIT 2025</p></details> |
-| **[Assessing the Impact of Code Changes on the Fault Localizability of Large Language Models](https://arxiv.org/abs/2504.04372v4)** | 2026-03-05 | <details><summary>This ...</summary><p>This paper is currently Under Review. It consists of 12 pages, 11 Figures, and 5 Tables</p></details> |
-| **[The Trilingual Triad Framework: Integrating Design, AI, and Domain Knowledge in No-code AI Smart City Course](https://arxiv.org/abs/2603.05036v1)** | 2026-03-05 | 16 pages, 1 figure |
-| **[RepoLaunch: Automating Build&Test Pipeline of Code Repositories on ANY Language and ANY Platform](https://arxiv.org/abs/2603.05026v1)** | 2026-03-05 | <details><summary>Under...</summary><p>Under peer review. 16 pages, 4 figures, 5 tables</p></details> |
-| **[On LLR Mismatch in Belief Propagation Decoding of Overcomplete QLDPC Codes](https://arxiv.org/abs/2603.04991v1)** | 2026-03-05 | 7 pages, 6 figures |
-| **[SEA-TS: Self-Evolving Agent for Autonomous Code Generation of Time Series Forecasting Algorithms](https://arxiv.org/abs/2603.04873v1)** | 2026-03-05 |  |
-| **[Design Behaviour Codes (DBCs): A Taxonomy-Driven Layered Governance Benchmark for Large Language Models](https://arxiv.org/abs/2603.04837v1)** | 2026-03-05 | 14 pages, 3 figures |
-| **[A New Class of Geometric Analog Error Correction Codes for Crossbar Based In-Memory Computing](https://arxiv.org/abs/2603.03723v2)** | 2026-03-05 | <details><summary>Submi...</summary><p>Submitted to IEEE communication letters</p></details> |
-| **[Vibe Code Bench: Evaluating AI Models on End-to-End Web Application Development](https://arxiv.org/abs/2603.04601v1)** | 2026-03-04 | <details><summary>Live ...</summary><p>Live leaderboard hosted here: https://www.vals.ai/benchmarks/vibe-code. Preprint, currently under review. Benchmark first released Nov 2025</p></details> |
+| **[Asymmetric Stream Allocation and Linear Decodability in MIMO Coded Caching](https://arxiv.org/abs/2603.06534v1)** | 2026-03-06 |  |
+| **[Automated Coding of Communication Data Using ChatGPT: Consistency Across Subgroups](https://arxiv.org/abs/2510.20584v2)** | 2026-03-06 | 38 pages, 4 figures |
+| **[ESAA-Security: An Event-Sourced, Verifiable Architecture for Agent-Assisted Security Audits of AI-Generated Code](https://arxiv.org/abs/2603.06365v1)** | 2026-03-06 | <details><summary>Open-...</summary><p>Open-source implementation available at: https://github.com/elzobrito/ESAA-Security</p></details> |
+| **[Quasi-twisted codes and their connection with additive constacyclic codes over finite fields](https://arxiv.org/abs/2603.06309v1)** | 2026-03-06 |  |
+| **[Predictive Coding Graphs are a Superset of Feedforward Neural Networks](https://arxiv.org/abs/2603.06142v1)** | 2026-03-06 | <details><summary>11 pa...</summary><p>11 pages, 3 figures. Accepted at the NeuroAI Workshop @ NeurIPS 2024. OpenReview: https://openreview.net/forum?id=J36z3R0sNq</p></details> |
+| **[Predictive Coding Networks and Inference Learning: Tutorial and Survey](https://arxiv.org/abs/2407.04117v3)** | 2026-03-06 | <details><summary>47 pa...</summary><p>47 pages, 11 figures, 9 tables</p></details> |
+| **[Software Development Life Cycle Perspective: A Survey of Benchmarks for Code Large Language Models and Agents](https://arxiv.org/abs/2505.05283v3)** | 2026-03-06 | <details><summary>Signi...</summary><p>Significantly enhanced the tiered analysis framework for a more comprehensive evaluation of CodeLLMs and Agents throughout the SDLC</p></details> |
+| **[Conditioning LLMs to Generate Code-Switched Text](https://arxiv.org/abs/2502.12924v3)** | 2026-03-06 | <details><summary>[v2]A...</summary><p>[v2]Added new experiments and analyses [v3]Added out-of-domain evaluation; Accepted to LREC 2026</p></details> |
+| **[Balancing Latency and Accuracy of Code Completion via Local-Cloud Model Cascading](https://arxiv.org/abs/2603.05974v1)** | 2026-03-06 | Accepted by FSE'26 |
+| **[SEA-TS: Self-Evolving Agent for Autonomous Code Generation of Time Series Forecasting Algorithms](https://arxiv.org/abs/2603.04873v2)** | 2026-03-06 |  |
+| **[XAI for Coding Agent Failures: Transforming Raw Execution Traces into Actionable Insights](https://arxiv.org/abs/2603.05941v1)** | 2026-03-06 | <details><summary>17 Pa...</summary><p>17 Pages, 3 Figures, 2 Tables</p></details> |
+| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v1)** | 2026-03-06 |  |
+| **[Why Human Guidance Matters in Collaborative Vibe Coding](https://arxiv.org/abs/2602.10473v2)** | 2026-03-06 |  |
+| **[UniCoR: Modality Collaboration for Robust Cross-Language Hybrid Code Retrieval](https://arxiv.org/abs/2512.10452v2)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted by the 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)</p></details> |
+| **[NERdME: a Named Entity Recognition Dataset for Indexing Research Artifacts in Code Repositories](https://arxiv.org/abs/2603.05750v1)** | 2026-03-05 | <details><summary>To be...</summary><p>To be published (Accepted at WWW'26)</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bayesian Linear Programming under Learned Uncertainty: Posterior Feasibility Guarantees, Scenario Certification, and Applications](https://arxiv.org/abs/2603.05885v1)** | 2026-03-06 |  |
+| **[Preoperative Decline and Postoperative Recovery of Wearable-Derived Physical Activity Over a Four-Year Perioperative Period in Total Knee and Hip Arthroplasty: Evidence from the All of Us Research Program](https://arxiv.org/abs/2603.05741v1)** | 2026-03-05 |  |
+| **[Category Theory for Programming](https://arxiv.org/abs/2209.01259v2)** | 2026-03-05 | <details><summary>Sourc...</summary><p>Source code and latest version available from https://github.com/benediktahrens/CT4P</p></details> |
+| **[Evaluating LLMs in the Context of a Functional Programming Course: A Comprehensive Study](https://arxiv.org/abs/2603.05646v1)** | 2026-03-05 |  |
 | **[Deep FlexQP: Accelerated Nonlinear Programming via Deep Unfolding](https://arxiv.org/abs/2512.01565v2)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
 | **[Automated TEE Adaptation with LLMs: Identifying, Transforming, and Porting Sensitive Functions in Programs](https://arxiv.org/abs/2502.13379v3)** | 2026-03-05 | 17 pages |
 | **[Self-Supervised Inductive Logic Programming](https://arxiv.org/abs/2507.16405v2)** | 2026-03-04 | <details><summary>To ap...</summary><p>To appear in AAAI-26 conference proceedings. Updated 04 March 2026 to include appendices, update affiliation, contact details</p></details> |
@@ -37,8 +41,4 @@ labels: documentation
 | **[IMR-LLM: Industrial Multi-Robot Task Planning and Program Generation using Large Language Models](https://arxiv.org/abs/2603.02669v1)** | 2026-03-03 |  |
 | **[StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning](https://arxiv.org/abs/2603.02637v1)** | 2026-03-03 |  |
 | **[Metric Entropy-Free Sample Complexity Bounds for Sample Average Approximation in Convex Stochastic Programming](https://arxiv.org/abs/2401.00664v7)** | 2026-03-02 |  |
-| **[Bentō: Optimizing Persistent Memory Programs](https://arxiv.org/abs/2603.01889v1)** | 2026-03-02 |  |
-| **[RepoRepair: Leveraging Code Documentation for Repository-Level Automated Program Repair](https://arxiv.org/abs/2603.01048v1)** | 2026-03-01 |  |
-| **[pySpatial: Generating 3D Visual Programs for Zero-Shot Spatial Reasoning](https://arxiv.org/abs/2603.00905v1)** | 2026-03-01 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026, Project Page: Our project: https://pySpatial.github.io</p></details> |
-| **[On Best-Possible One-Time Programs](https://arxiv.org/abs/2603.00544v1)** | 2026-02-28 | preprint |
 
