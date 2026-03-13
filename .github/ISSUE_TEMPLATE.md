@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 12, 2026
+title: Latest 15 Papers - March 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,27 +7,30 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[QAQ: Bidirectional Semantic Coherence for Selecting High-Quality Synthetic Code Instructions](https://arxiv.org/abs/2603.12165v1)** | 2026-03-12 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Under review at ACL 2026</p></details> |
+| **[Benchmark of Benchmarks: Unpacking Influence and Code Repository Quality in LLM Safety Benchmarks](https://arxiv.org/abs/2603.04459v2)** | 2026-03-12 | 22 pages. 19 figures |
+| **[Duality and decoding of linearized Algebraic Geometry codes](https://arxiv.org/abs/2603.11826v1)** | 2026-03-12 |  |
+| **[Evaluating Generative Models via One-Dimensional Code Distributions](https://arxiv.org/abs/2603.08064v2)** | 2026-03-12 |  |
+| **[Quality Assurance of LLM-generated Code: Addressing Non-Functional Quality Characteristics](https://arxiv.org/abs/2511.10271v2)** | 2026-03-12 |  |
+| **[Feature Importance-Aware Deep Joint Source-Channel Coding for Computationally Efficient and Adjustable Image Transmission](https://arxiv.org/abs/2504.04758v4)** | 2026-03-12 |  |
+| **[Symmetric Self-Dual Quantum Codes on High Dimensional Expanders](https://arxiv.org/abs/2510.07864v2)** | 2026-03-12 |  |
+| **[Hope Speech Detection in code-mixed Roman Urdu tweets: A Positive Turn in Natural Language Processing](https://arxiv.org/abs/2506.21583v2)** | 2026-03-12 | <details><summary>We ar...</summary><p>We are withdrawing this preprint because it contains initial experimental results and an early version of the manuscript. We are currently improving the methodology, conducting additional experiments, and refining the analysis. A substantially revised version will be submitted in the future</p></details> |
+| **[Evaluation and LLM-Guided Learning of ICD Coding Rationales](https://arxiv.org/abs/2508.16777v2)** | 2026-03-12 |  |
+| **[Resolving Java Code Repository Issues with iSWE Agent](https://arxiv.org/abs/2603.11356v1)** | 2026-03-11 |  |
+| **[ExecVerify: White-Box RL with Verifiable Stepwise Rewards for Code Execution Reasoning](https://arxiv.org/abs/2603.11226v1)** | 2026-03-11 |  |
+| **[Security-by-Design for LLM-Based Code Generation: Leveraging Internal Representations for Concept-Driven Steering Mechanisms](https://arxiv.org/abs/2603.11212v1)** | 2026-03-11 | <details><summary>to be...</summary><p>to be published in the IEEE European Symposium on Security and Privacy (EuroS&P)'26</p></details> |
+| **[Bridging Behavioral Biometrics and Source Code Stylometry: A Survey of Programmer Attribution](https://arxiv.org/abs/2603.11150v1)** | 2026-03-11 | <details><summary>Surve...</summary><p>Survey paper, 25 pages, 8 figures. Submitted to ACM Computing Surveys</p></details> |
+| **[A systematic review of secure coded caching](https://arxiv.org/abs/2603.11145v1)** | 2026-03-11 | <details><summary>To be...</summary><p>To be published in Computer Networks https://doi.org/10.1016/j.comnet.2026.112212</p></details> |
 | **[Permutation-invariant codes: a numerical study and qudit constructions](https://arxiv.org/abs/2603.10981v1)** | 2026-03-11 |  |
-| **[KV Cache Transform Coding for Compact Storage in LLM Inference](https://arxiv.org/abs/2511.01815v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[SiliconMind-V1: Multi-Agent Distillation and Debug-Reasoning Workflows for Verilog Code Generation](https://arxiv.org/abs/2603.08719v2)** | 2026-03-11 |  |
-| **[CodePercept: Code-Grounded Visual STEM Perception for MLLMs](https://arxiv.org/abs/2603.10757v1)** | 2026-03-11 | Accepted by CVPR2026 |
-| **[A scalable and real-time neural decoder for topological quantum codes](https://arxiv.org/abs/2512.07737v2)** | 2026-03-11 | <details><summary>with ...</summary><p>with color code realtime decoding results</p></details> |
-| **[ResearchEnvBench: Benchmarking Agents on Environment Synthesis for Research Code Execution](https://arxiv.org/abs/2603.06739v2)** | 2026-03-11 |  |
-| **[What Makes Code Generation Ethically Sourced?](https://arxiv.org/abs/2507.19743v2)** | 2026-03-11 |  |
-| **[Training with Pseudo-Code for Instruction Following](https://arxiv.org/abs/2505.18011v2)** | 2026-03-11 | Under Review |
-| **[Fly-PRAC: Packet Recovery for Random Linear Network Coding](https://arxiv.org/abs/2603.10266v1)** | 2026-03-10 |  |
-| **[Learning to Decode Quantum LDPC Codes Via Belief Propagation](https://arxiv.org/abs/2603.10192v1)** | 2026-03-10 |  |
-| **[Code-Space Response Oracles: Generating Interpretable Multi-Agent Policies with Large Language Models](https://arxiv.org/abs/2603.10098v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted as an Extended Abstract at the Twenty-Fifth International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</p></details> |
-| **[Linear Code Equivalence via Plücker Coordinates](https://arxiv.org/abs/2603.09869v1)** | 2026-03-10 | Comments welcome |
-| **[Idempotent Slices with Applications to Code-Size Reduction](https://arxiv.org/abs/2603.09726v1)** | 2026-03-10 | <details><summary>23 pa...</summary><p>23 pages, 4 tables, 12 figures</p></details> |
-| **[ProGS: Towards Progressive Coding for 3D Gaussian Splatting](https://arxiv.org/abs/2603.09703v1)** | 2026-03-10 |  |
-| **[LLM2SMT: Building an SMT Solver with Zero Human-Written Code](https://arxiv.org/abs/2603.06931v2)** | 2026-03-10 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[{log}: From a Constraint Logic Programming Language to a Formal Verification Tool](https://arxiv.org/abs/2505.17350v2)** | 2026-03-12 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
+| **[Parallel-in-Time Nonlinear Optimal Control via GPU-native Sequential Convex Programming](https://arxiv.org/abs/2603.10711v2)** | 2026-03-12 |  |
+| **[Domain-Independent Dynamic Programming](https://arxiv.org/abs/2401.13883v5)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted manuscript in Artificial Intelligence</p></details> |
 | **[Risk time splitting for improved estimation of screening programs effect on later mortality](https://arxiv.org/abs/2603.10869v1)** | 2026-03-11 |  |
-| **[Parallel-in-Time Nonlinear Optimal Control via GPU-native Sequential Convex Programming](https://arxiv.org/abs/2603.10711v1)** | 2026-03-11 |  |
+| **[The Laziness of the Crowd: Effort Aversion Among Raters Risks Undermining the Efficacy of X's Community Notes Program](https://arxiv.org/abs/2603.11120v1)** | 2026-03-11 | 52 pages, 10 figures |
 | **[A Trust-Region Interior-Point Stochastic Sequential Quadratic Programming Method](https://arxiv.org/abs/2603.10230v1)** | 2026-03-10 |  |
 | **[ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System](https://arxiv.org/abs/2602.13692v2)** | 2026-03-10 |  |
 | **[PolyBlocks: A Compiler Infrastructure for AI Chips and Programming Frameworks](https://arxiv.org/abs/2603.06731v2)** | 2026-03-10 | <details><summary>Fixed...</summary><p>Fixed the "Acknowledgments" section that was missing phrases</p></details> |
@@ -38,7 +41,4 @@ labels: documentation
 | **[Reasoning-Oriented Programming: Chaining Semantic Gadgets to Jailbreak Large Vision Language Models](https://arxiv.org/abs/2603.09246v1)** | 2026-03-10 |  |
 | **[Efficient Policy Learning with Hybrid Evaluation-Based Genetic Programming for Uncertain Agile Earth Observation Satellite Scheduling](https://arxiv.org/abs/2603.08447v1)** | 2026-03-09 | <details><summary>18 pa...</summary><p>18 pages, 10 figures, 8 tables</p></details> |
 | **[Fractional Programming for Stochastic Precoding over Generalized Fading Channels](https://arxiv.org/abs/2507.06944v2)** | 2026-03-09 | 11 pages |
-| **[See and Switch: Vision-Based Branching for Interactive Robot-Skill Programming](https://arxiv.org/abs/2603.08057v1)** | 2026-03-09 | 8 pages, 11 figures |
-| **[Relating Reinforcement Learning to Dynamic Programming-Based Planning](https://arxiv.org/abs/2603.07844v1)** | 2026-03-08 | 43 pages, 8 figures |
-| **[SwingArena: Competitive Programming Arena for Long-context GitHub Issue Solving](https://arxiv.org/abs/2505.23932v3)** | 2026-03-08 | <details><summary>The p...</summary><p>The paper has been accepted as an oral presentation at ICLR 2026</p></details> |
 
