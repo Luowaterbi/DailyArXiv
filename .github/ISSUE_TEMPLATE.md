@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 24, 2026
+title: Latest 15 Papers - March 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agnostics: Learning to Code in Any Programming Language via Reinforcement with a Universal Learning Environment](https://arxiv.org/abs/2508.04865v3)** | 2026-03-23 | <details><summary>30 pa...</summary><p>30 pages, 19 figures. Accepted at ICLR 2026. For data, code, artifacts, see https://agnostics.abgru.me</p></details> |
-| **[Revisiting Quantum Code Generation: Where Should Domain Knowledge Live?](https://arxiv.org/abs/2603.22184v1)** | 2026-03-23 | <details><summary>Submi...</summary><p>Submitted to Quantum Machine Intelligence</p></details> |
-| **[The color code, the surface code, and the transversal CNOT: NP-hardness of minimum-weight decoding](https://arxiv.org/abs/2603.22064v1)** | 2026-03-23 | 18 pages, 12 figures |
-| **[Hybrid-Code v2: Zero-Hallucination Clinical ICD-10 Coding via Neuro-Symbolic Verification and Automated Knowledge Base Expansion](https://arxiv.org/abs/2512.23743v2)** | 2026-03-23 | <details><summary>Versi...</summary><p>Version 2: Substantially extended version with (1) multi-layer verification framework (format, evidence, negation, temporal, exclusion), (2) automated knowledge base expansion from unlabeled clinical text, (3) formal zero Type-I hallucination guarantees, and (4) expanded experimental evaluation on 5,000 cases with detailed error analysis. 28 pages, 3 figure, original research paper;</p></details> |
-| **[Do Papers Match Code? A Benchmark and Framework for Paper-Code Consistency Detection in Bioinformatics Software](https://arxiv.org/abs/2603.22018v1)** | 2026-03-23 | 12 pages, 2 figures |
-| **[On the Challenges and Opportunities of Learned Sparse Retrieval for Code](https://arxiv.org/abs/2603.22008v1)** | 2026-03-23 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 12 tables</p></details> |
-| **[Automatically Benchmarking LLM Code Agents through Agent-Driven Annotation and Evaluation](https://arxiv.org/abs/2510.24358v3)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted by AAMAS 2026</p></details> |
-| **[Invariant Theory, Magic State Distillation, and Bounds on Classical Codes](https://arxiv.org/abs/2501.10163v3)** | 2026-03-23 | <details><summary>49 pa...</summary><p>49 pages, 12 figures, v3: corrected typos, title changed with improvements in presentation</p></details> |
-| **[Symplectic Lattices and GKP Codes -- Simple Randomized Constructions from Cryptographic Lattices](https://arxiv.org/abs/2509.10183v2)** | 2026-03-23 | 41 pages, 3 figures |
-| **[A Blueprint for Self-Evolving Coding Agents in Vehicle Aerodynamic Drag Prediction](https://arxiv.org/abs/2603.21698v1)** | 2026-03-23 |  |
-| **[Optimal Repair of $(k+2, k, 2)$ MDS Array Codes](https://arxiv.org/abs/2509.21036v3)** | 2026-03-23 |  |
-| **[Optimal Compilation of Syndrome Extraction Circuits for General Quantum LDPC Codes](https://arxiv.org/abs/2603.21499v1)** | 2026-03-23 | DATE 2026 |
-| **[DomAgent: Leveraging Knowledge Graphs and Case-Based Reasoning for Domain-Specific Code Generation](https://arxiv.org/abs/2603.21430v1)** | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted to AAMAS 2026 EA</p></details> |
-| **[On generalized covering radii of binary primitive double-error-correcting BCH codes](https://arxiv.org/abs/2603.21068v1)** | 2026-03-22 | 15 pages |
-| **[Probability of super-regular matrices and MDS codes over finite fields](https://arxiv.org/abs/2603.20983v1)** | 2026-03-22 |  |
+| **[ConceptCoder: Improve Code Reasoning via Concept Learning](https://arxiv.org/abs/2603.23470v1)** | 2026-03-24 |  |
+| **[Data Compression with Relative Entropy Coding](https://arxiv.org/abs/2506.16309v4)** | 2026-03-24 | <details><summary>PhD T...</summary><p>PhD Thesis. 224 pages, 19 figures</p></details> |
+| **[Code Review Agent Benchmark](https://arxiv.org/abs/2603.23448v1)** | 2026-03-24 |  |
+| **[Exploring the Agentic Frontier of Verilog Code Generation](https://arxiv.org/abs/2603.19347v2)** | 2026-03-24 |  |
+| **[CodeT5-RNN: Reinforcing Contextual Embeddings for Enhanced Code Comprehension](https://arxiv.org/abs/2603.17821v3)** | 2026-03-24 |  |
+| **[The Power of Power Codes: New Classes of Easy Instances for the Linear Equivalence Problem](https://arxiv.org/abs/2603.23230v1)** | 2026-03-24 |  |
+| **[A Latency Coding Framework for Deep Spiking Neural Networks with Ultra-Low Latency](https://arxiv.org/abs/2603.23206v1)** | 2026-03-24 |  |
+| **[From Context to Intent: Reasoning-Guided Function-Level Code Completion](https://arxiv.org/abs/2508.09537v2)** | 2026-03-24 |  |
+| **[Towards a Unified Coding Scheme for 6G](https://arxiv.org/abs/2603.23123v1)** | 2026-03-24 | 11 pages, 3 figures |
+| **[Does Teaming-Up LLMs Improve Secure Code Generation? A Comprehensive Evaluation with Multi-LLMSecCodeEval](https://arxiv.org/abs/2603.22717v1)** | 2026-03-24 |  |
+| **[Why Database Manuals Are Not Enough: Efficient and Reliable Configuration Tuning for DBMSs via Code-Driven LLM Agents](https://arxiv.org/abs/2603.22708v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted by VLDB 2026</p></details> |
+| **[GeoTikzBridge: Advancing Multimodal Code Generation for Geometric Perception and Reasoning](https://arxiv.org/abs/2603.22687v1)** | 2026-03-24 | <details><summary>accep...</summary><p>accepted by CVPR 2026</p></details> |
+| **[AI-Generated Code Is Not Reproducible (Yet): An Empirical Study of Dependency Gaps in LLM-Based Coding Agents](https://arxiv.org/abs/2512.22387v3)** | 2026-03-23 |  |
+| **[Communication-Efficient Approximate Gradient Coding](https://arxiv.org/abs/2603.22514v1)** | 2026-03-23 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Information Theory. This paper was presented in part at the IEEE International Symposium on Information Theory (ISIT), Ann Arbor, MI, USA, 2025</p></details> |
+| **[CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://arxiv.org/abs/2603.22435v1)** | 2026-03-23 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Design Implications for Student and Educator Needs in AI-Supported Programming Learning Tools](https://arxiv.org/abs/2603.22673v1)** | 2026-03-24 |  |
+| **[Three Years with Classroom AI in Introductory Programming: Shifts in Student Awareness, Interaction, and Performance](https://arxiv.org/abs/2603.22672v1)** | 2026-03-24 |  |
+| **[Parallelizable Feynman-Kac Models for Universal Probabilistic Programming](https://arxiv.org/abs/2603.22463v1)** | 2026-03-23 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2509.14092</p></details> |
 | **[Agnostics: Learning to Code in Any Programming Language via Reinforcement with a Universal Learning Environment](https://arxiv.org/abs/2508.04865v3)** | 2026-03-23 | <details><summary>30 pa...</summary><p>30 pages, 19 figures. Accepted at ICLR 2026. For data, code, artifacts, see https://agnostics.abgru.me</p></details> |
 | **[Semi-Infinite Programming for Collision-Avoidance in Optimal and Model Predictive Control](https://arxiv.org/abs/2508.12335v2)** | 2026-03-23 | 20 pages, 17 figures |
 | **[Programming Manufacturing Robots with Imperfect AI: LLMs as Tuning Experts for FDM Print Configuration Selection](https://arxiv.org/abs/2603.22118v1)** | 2026-03-23 |  |
@@ -38,7 +41,4 @@ labels: documentation
 | **[Tensor Network Structure Search with Program Synthesis](https://arxiv.org/abs/2502.02711v4)** | 2026-03-20 |  |
 | **[Incremental Live Programming via Shortcut Memoization](https://arxiv.org/abs/2603.19560v1)** | 2026-03-20 |  |
 | **[DePro: Understanding the Role of LLMs in Debugging Competitive Programming Code](https://arxiv.org/abs/2603.19399v1)** | 2026-03-19 | <details><summary>This ...</summary><p>This paper is accepted in FSE 2026 IVR track!</p></details> |
-| **[Exact MAP inference in general higher-order graphical models using linear programming](https://arxiv.org/abs/1709.09051v2)** | 2026-03-19 | <details><summary>The m...</summary><p>The main claim in the paper needs be reworked profoundly and this needs a profound change in the theory</p></details> |
-| **[Implicit Grading Bias in Large Language Models: How Writing Style Affects Automated Assessment Across Math, Programming, and Essay Tasks](https://arxiv.org/abs/2603.18765v1)** | 2026-03-19 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, 2 tables, 11 references</p></details> |
-| **[Beyond the Code: A Multi-Modal Assessment Strategy for Fostering Professional Competencies via Introductory Programming Projects](https://arxiv.org/abs/2603.18741v1)** | 2026-03-19 | <details><summary>Artic...</summary><p>Article submitted to IEEE</p></details> |
 
