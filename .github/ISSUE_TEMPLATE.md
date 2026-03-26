@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 25, 2026
+title: Latest 15 Papers - March 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ConceptCoder: Improve Code Reasoning via Concept Learning](https://arxiv.org/abs/2603.23470v1)** | 2026-03-24 |  |
-| **[Data Compression with Relative Entropy Coding](https://arxiv.org/abs/2506.16309v4)** | 2026-03-24 | <details><summary>PhD T...</summary><p>PhD Thesis. 224 pages, 19 figures</p></details> |
-| **[Code Review Agent Benchmark](https://arxiv.org/abs/2603.23448v1)** | 2026-03-24 |  |
-| **[Exploring the Agentic Frontier of Verilog Code Generation](https://arxiv.org/abs/2603.19347v2)** | 2026-03-24 |  |
-| **[CodeT5-RNN: Reinforcing Contextual Embeddings for Enhanced Code Comprehension](https://arxiv.org/abs/2603.17821v3)** | 2026-03-24 |  |
-| **[The Power of Power Codes: New Classes of Easy Instances for the Linear Equivalence Problem](https://arxiv.org/abs/2603.23230v1)** | 2026-03-24 |  |
-| **[A Latency Coding Framework for Deep Spiking Neural Networks with Ultra-Low Latency](https://arxiv.org/abs/2603.23206v1)** | 2026-03-24 |  |
-| **[From Context to Intent: Reasoning-Guided Function-Level Code Completion](https://arxiv.org/abs/2508.09537v2)** | 2026-03-24 |  |
-| **[Towards a Unified Coding Scheme for 6G](https://arxiv.org/abs/2603.23123v1)** | 2026-03-24 | 11 pages, 3 figures |
-| **[Does Teaming-Up LLMs Improve Secure Code Generation? A Comprehensive Evaluation with Multi-LLMSecCodeEval](https://arxiv.org/abs/2603.22717v1)** | 2026-03-24 |  |
-| **[Why Database Manuals Are Not Enough: Efficient and Reliable Configuration Tuning for DBMSs via Code-Driven LLM Agents](https://arxiv.org/abs/2603.22708v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted by VLDB 2026</p></details> |
-| **[GeoTikzBridge: Advancing Multimodal Code Generation for Geometric Perception and Reasoning](https://arxiv.org/abs/2603.22687v1)** | 2026-03-24 | <details><summary>accep...</summary><p>accepted by CVPR 2026</p></details> |
-| **[AI-Generated Code Is Not Reproducible (Yet): An Empirical Study of Dependency Gaps in LLM-Based Coding Agents](https://arxiv.org/abs/2512.22387v3)** | 2026-03-23 |  |
-| **[Communication-Efficient Approximate Gradient Coding](https://arxiv.org/abs/2603.22514v1)** | 2026-03-23 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Information Theory. This paper was presented in part at the IEEE International Symposium on Information Theory (ISIT), Ann Arbor, MI, USA, 2025</p></details> |
-| **[CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://arxiv.org/abs/2603.22435v1)** | 2026-03-23 |  |
+| **[Vibe Coding XR: Accelerating AI + XR Prototyping with XR Blocks and Gemini](https://arxiv.org/abs/2603.24591v1)** | 2026-03-25 |  |
+| **[Finite-Degree Quantum LDPC Codes Reaching the Gilbert-Varshamov Bound](https://arxiv.org/abs/2603.24588v1)** | 2026-03-25 |  |
+| **[Comparing Developer and LLM Biases in Code Evaluation](https://arxiv.org/abs/2603.24586v1)** | 2026-03-25 |  |
+| **[Optimal Multidimensional Convolutional Codes](https://arxiv.org/abs/2603.24546v1)** | 2026-03-25 |  |
+| **[DomAgent: Leveraging Knowledge Graphs and Case-Based Reasoning for Domain-Specific Code Generation](https://arxiv.org/abs/2603.21430v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to AAMAS 2026 EA</p></details> |
+| **[Pseudo-MDP Convolutional Codes for Burst Erasure Correction](https://arxiv.org/abs/2603.24516v1)** | 2026-03-25 |  |
+| **[Efficiency for Experts, Visibility for Newcomers: A Case Study of Label-Code Alignment in Kubernetes](https://arxiv.org/abs/2603.24501v1)** | 2026-03-25 | <details><summary>The 3...</summary><p>The 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), 9-12 June, 2026, Glasgow, Scotland, United Kingdom</p></details> |
+| **[Structure of weighted projective Reed-Muller codes](https://arxiv.org/abs/2603.24397v1)** | 2026-03-25 |  |
+| **[Gendered Prompting and LLM Code Review: How Gender Cues in the Prompt Shape Code Quality and Evaluation](https://arxiv.org/abs/2603.24359v1)** | 2026-03-25 |  |
+| **[The Specification Gap: Coordination Failure Under Partial Knowledge in Code Agents](https://arxiv.org/abs/2603.24284v1)** | 2026-03-25 |  |
+| **[Where Do Your Citations Come From? Citation-Constellation: A Free, Open-Source, No-Code, and Auditable Tool for Citation Network Decomposition with Complementary BARON and HEROCON Scores](https://arxiv.org/abs/2603.24216v1)** | 2026-03-25 | <details><summary>Citat...</summary><p>Citation-Constellation No-Code Tool Link: https://citation-constellation.serve.scilifelab.se</p></details> |
+| **[A Deep Dive into Scaling RL for Code Generation with Synthetic Data and Curricula](https://arxiv.org/abs/2603.24202v1)** | 2026-03-25 |  |
+| **[How Many Code and Test Cases Are Enough? Evaluating Test Cases Generation from a Binary-Matrix Perspective](https://arxiv.org/abs/2510.08720v3)** | 2026-03-25 | Accepted by ICLR2026 |
+| **[Enhancing and Reporting Robustness Boundary of Neural Code Models for Intelligent Code Understanding](https://arxiv.org/abs/2603.24119v1)** | 2026-03-25 |  |
+| **[Joint Source-Channel-Check Coding with HARQ for Reliable Semantic Communications](https://arxiv.org/abs/2603.23869v1)** | 2026-03-25 | <details><summary>13 pa...</summary><p>13 pages, 12 figures,</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The First Generation of AI-Assisted Programming Learners: Gendered Patterns in Critical Thinking and AI Ethics of German Secondary School Students](https://arxiv.org/abs/2603.24197v1)** | 2026-03-25 |  |
+| **[Likelihood hacking in probabilistic program synthesis](https://arxiv.org/abs/2603.24126v1)** | 2026-03-25 |  |
+| **[Lagrangian Relaxation Score-based Generation for Mixed Integer linear Programming](https://arxiv.org/abs/2603.24033v1)** | 2026-03-25 |  |
+| **[CodeExemplar: Example-Based Scaffolding for Introductory Programming in the GenAI Era](https://arxiv.org/abs/2603.23830v1)** | 2026-03-25 |  |
 | **[Design Implications for Student and Educator Needs in AI-Supported Programming Learning Tools](https://arxiv.org/abs/2603.22673v1)** | 2026-03-24 |  |
 | **[Three Years with Classroom AI in Introductory Programming: Shifts in Student Awareness, Interaction, and Performance](https://arxiv.org/abs/2603.22672v1)** | 2026-03-24 |  |
 | **[Parallelizable Feynman-Kac Models for Universal Probabilistic Programming](https://arxiv.org/abs/2603.22463v1)** | 2026-03-23 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2509.14092</p></details> |
@@ -37,8 +41,4 @@ labels: documentation
 | **[A survey of generative AI adoption and perceived productivity among scientists who program](https://arxiv.org/abs/2512.19644v2)** | 2026-03-22 | Revisions |
 | **[Accompanist: A Runtime for Resilient Choreographic Programming](https://arxiv.org/abs/2603.20942v1)** | 2026-03-21 | <details><summary>23 pa...</summary><p>23 pages, 16 figures, submitted to OOPSLA 2026</p></details> |
 | **[Efficient Counterfactual Reasoning in ProbLog via Single World Intervention Programs](https://arxiv.org/abs/2603.20505v1)** | 2026-03-20 |  |
-| **[Orchestrating Human-AI Software Delivery: A Retrospective Longitudinal Field Study of Three Software Modernization Programs](https://arxiv.org/abs/2603.20028v1)** | 2026-03-20 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 12 tables</p></details> |
-| **[Tensor Network Structure Search with Program Synthesis](https://arxiv.org/abs/2502.02711v4)** | 2026-03-20 |  |
-| **[Incremental Live Programming via Shortcut Memoization](https://arxiv.org/abs/2603.19560v1)** | 2026-03-20 |  |
-| **[DePro: Understanding the Role of LLMs in Debugging Competitive Programming Code](https://arxiv.org/abs/2603.19399v1)** | 2026-03-19 | <details><summary>This ...</summary><p>This paper is accepted in FSE 2026 IVR track!</p></details> |
 
