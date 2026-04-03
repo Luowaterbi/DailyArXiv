@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 01, 2026
+title: Latest 15 Papers - April 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Automatic Identification of Parallelizable Loops Using Transformer-Based Source Code Representations](https://arxiv.org/abs/2603.30040v1)** | 2026-03-31 | 28 pages, 12 figures |
-| **[Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](https://arxiv.org/abs/2603.30038v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project page: https://geocodebench.github.io/</p></details> |
-| **[Think Anywhere in Code Generation](https://arxiv.org/abs/2603.29957v1)** | 2026-03-31 |  |
-| **[Reducing Subpacketization in Device-to-Device Coded Caching via Heterogeneous File Splitting](https://arxiv.org/abs/2603.29945v1)** | 2026-03-31 | 15 pages |
-| **[Implementing Basic Arithmetic in $\mathbb{F}_p$ via $\mathbb{F}_2$, and Its Application for Computing the Hamming Distance of Linear Codes](https://arxiv.org/abs/2603.29942v1)** | 2026-03-31 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, and 5 tables</p></details> |
-| **[End-to-End Image Compression with Segmentation Guided Dual Coding for Wind Turbines](https://arxiv.org/abs/2603.29927v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to TNNLS 2026</p></details> |
-| **[Decoder Dependence in Surface-Code Threshold Estimation with Native Gottesman-Kitaev-Preskill Digitization and Parallelized Sampling](https://arxiv.org/abs/2603.25757v2)** | 2026-03-31 |  |
-| **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This is not the camera-ready version; content is subject to change. Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
-| **[Floquet Codes from Derived Semi-Regular Hyperbolic Tessellations on Orientable and Non-Orientable Surfaces](https://arxiv.org/abs/2603.29811v1)** | 2026-03-31 |  |
-| **[Symphony for Medical Coding: A Next-Generation Agentic System for Scalable and Explainable Medical Coding](https://arxiv.org/abs/2603.29709v1)** | 2026-03-31 |  |
-| **[Efficient Low-Memory Fast Stack Decoding with Variance Polarization for PAC Codes](https://arxiv.org/abs/2509.07231v2)** | 2026-03-31 |  |
-| **[InCoder-32B: Code Foundation Model for Industrial Scenarios](https://arxiv.org/abs/2603.16790v3)** | 2026-03-31 |  |
-| **[Early Exiting Predictive Coding Neural Networks for Edge AI](https://arxiv.org/abs/2309.02022v2)** | 2026-03-31 |  |
-| **[Stand-Alone Complex or Vibercrime? Exploring the adoption and innovation of GenAI tools, coding assistants, and agents within cybercrime ecosystems](https://arxiv.org/abs/2603.29545v1)** | 2026-03-31 |  |
-| **[Sharper upper bounds for $q$-ary and constant-weight $B_2$ codes](https://arxiv.org/abs/2603.27639v2)** | 2026-03-31 |  |
+| **[LLMs as Idiomatic Decompilers: Recovering High-Level Code from x86-64 Assembly for Dart](https://arxiv.org/abs/2604.02278v1)** | 2026-04-02 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 3 tables. Accepted at SANER 2026 ERA Track</p></details> |
+| **[Finite-Degree Quantum LDPC Codes Reaching the Gilbert-Varshamov Bound](https://arxiv.org/abs/2603.24588v2)** | 2026-04-02 |  |
+| **[A Case For Host Code Guided GPU Data Race Detector](https://arxiv.org/abs/2604.02106v1)** | 2026-04-02 |  |
+| **[On the existence of linear rank-metric intersecting codes](https://arxiv.org/abs/2604.02004v1)** | 2026-04-02 | 14 pages |
+| **[Exploring Effective Strategies for Building a User-Configured GPT for Coding Classroom Dialogues](https://arxiv.org/abs/2506.07194v2)** | 2026-04-02 | <details><summary>Draft...</summary><p>Draft technical report. 39 pages, 2 figures. Not yet submitted for publication. Update expected</p></details> |
+| **[Think Anywhere in Code Generation](https://arxiv.org/abs/2603.29957v2)** | 2026-04-02 |  |
+| **[Transversal non-Clifford gates on almost-good quantum LDPC and quantum locally testable codes](https://arxiv.org/abs/2604.01874v1)** | 2026-04-02 | 30 pages |
+| **[From Guessing to Placeholding: A Cost-Theoretic Framework for Uncertainty-Aware Code Completion](https://arxiv.org/abs/2604.01849v1)** | 2026-04-02 |  |
+| **[LCPs of Subspace Codes](https://arxiv.org/abs/2601.03489v2)** | 2026-04-02 |  |
+| **[NaturalEdit: Code Modification through Direct Interaction with Adaptive Natural Language Representation](https://arxiv.org/abs/2510.04494v2)** | 2026-04-02 |  |
+| **[MM-ReCoder: Advancing Chart-to-Code Generation with Reinforcement Learning and Self-Correction](https://arxiv.org/abs/2604.01600v1)** | 2026-04-02 | CVPR 2026 |
+| **[ProdCodeBench: A Production-Derived Benchmark for Evaluating AI Coding Agents](https://arxiv.org/abs/2604.01527v1)** | 2026-04-02 |  |
+| **[CliffSearch: Structured Agentic Co-Evolution over Theory and Code for Scientific Algorithm Discovery](https://arxiv.org/abs/2604.01210v1)** | 2026-04-01 |  |
+| **[Embarrassingly Simple Self-Distillation Improves Code Generation](https://arxiv.org/abs/2604.01193v1)** | 2026-04-01 |  |
+| **[SERSEM: Selective Entropy-Weighted Scoring for Membership Inference in Code Language Models](https://arxiv.org/abs/2604.01147v1)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted to the FSE 2026 Poisoned Chalice Competition</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multi-paradigm Logic Programming in the ${\cal E}$rgoAI System](https://arxiv.org/abs/2603.29819v1)** | 2026-03-31 | <details><summary>43 pa...</summary><p>43 pages, 9 figures. Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
-| **[Histropy: A Computer Program for Quantifications of Histograms of 2D Gray-scale Images](https://arxiv.org/abs/2404.13497v3)** | 2026-03-31 |  |
-| **[A Strong Linear Programming Relaxation for Weighted Tree Augmentation](https://arxiv.org/abs/2603.29582v1)** | 2026-03-31 | <details><summary>Full ...</summary><p>Full version of a paper accepted to STOC 2026</p></details> |
-| **[Dynamic Cogeneration of Bug Reproduction Test in Agentic Program Repair](https://arxiv.org/abs/2601.19066v2)** | 2026-03-31 |  |
-| **[C2RustXW: Program-Structure-Aware C-to-Rust Translation via Program Analysis and LLM](https://arxiv.org/abs/2603.28686v1)** | 2026-03-30 |  |
-| **[Effort-Optimized, Accuracy-Driven Labelling and Validation of Test Inputs for DL Systems: A Mixed-Integer Linear Programming Approach](https://arxiv.org/abs/2507.04990v3)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted in the Empirical Software Engineering (EMSE) Journal (2026)</p></details> |
-| **[Finding Pathways in Reaction Networks guided by Energy Barriers using Integer Linear Programming](https://arxiv.org/abs/2504.10609v3)** | 2026-03-30 | <details><summary>20 pa...</summary><p>20 pages, 17 figures, 5 tables</p></details> |
-| **[Types for Grassroots Logic Programs](https://arxiv.org/abs/2601.17957v3)** | 2026-03-30 |  |
-| **[Towards verifying unsafe Rust programs against Rust's pointer-aliasing restrictions](https://arxiv.org/abs/2603.28326v1)** | 2026-03-30 | 8 pages, 9 figures |
-| **[Evaluating LLMs for Answering Student Questions in Introductory Programming Courses](https://arxiv.org/abs/2603.28295v1)** | 2026-03-30 |  |
-| **[Self-Bootstrapping Automated Program Repair: Using LLMs to Generate and Evaluate Synthetic Training Data for Bug Repair](https://arxiv.org/abs/2505.07372v2)** | 2026-03-29 |  |
-| **[GIFT: Bootstrapping Image-to-CAD Program Synthesis via Geometric Feedback](https://arxiv.org/abs/2603.27448v1)** | 2026-03-28 | preprint |
-| **[Misquoted No More: Securely Extracting F* Programs with IO](https://arxiv.org/abs/2602.19973v2)** | 2026-03-28 | <details><summary>Submi...</summary><p>Submitted to ICFP'26, with a couple extra fixes</p></details> |
-| **[LLMs versus the Halting Problem: Revisiting Program Termination Prediction](https://arxiv.org/abs/2601.18987v4)** | 2026-03-28 |  |
-| **[Finding Memory Leaks in C/C++ Programs via Neuro-Symbolic Augmented Static Analysis](https://arxiv.org/abs/2603.27224v1)** | 2026-03-28 | 12 pages |
+| **[Finding Memory Leaks in C/C++ Programs via Neuro-Symbolic Augmented Static Analysis](https://arxiv.org/abs/2603.27224v2)** | 2026-04-02 | 12 pages |
+| **[Semantic Evolution over Populations for LLM-Guided Automated Program Repair](https://arxiv.org/abs/2604.02134v1)** | 2026-04-02 |  |
+| **[Can Large Language Models Model Programs Formally?](https://arxiv.org/abs/2604.01851v1)** | 2026-04-02 |  |
+| **[Bridging Deep Learning and Integer Linear Programming: A Predictive-to-Prescriptive Framework for Supply Chain Analytics](https://arxiv.org/abs/2604.01775v1)** | 2026-04-02 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 4 tables</p></details> |
+| **[Quokka: Accelerating Program Verification with LLMs via Invariant Synthesis](https://arxiv.org/abs/2509.21629v3)** | 2026-04-02 |  |
+| **[A Practical GPU-Enhanced Matrix-Free Primal-Dual Method for Large-Scale Conic Programs](https://arxiv.org/abs/2505.00311v3)** | 2026-04-01 | 37 pages, 8 figures |
+| **[HAFixAgent: History-Aware Program Repair Agent](https://arxiv.org/abs/2511.01047v3)** | 2026-04-01 | <details><summary>suppo...</summary><p>support both Defects4J and BugsInPy; use the same LLM for all baseline comparisons; add sensitivity analysis for imperfect fault localization</p></details> |
+| **[Compositional Program Verification with Polynomial Functors in Dependent Type Theory](https://arxiv.org/abs/2604.01303v1)** | 2026-04-01 |  |
+| **[Scaling Reasoning Tokens via RL and Parallel Thinking: Evidence From Competitive Programming](https://arxiv.org/abs/2604.01302v1)** | 2026-04-01 |  |
+| **[Traq: Estimating the Quantum Cost of Classical Programs](https://arxiv.org/abs/2509.01508v2)** | 2026-04-01 | <details><summary>57 pa...</summary><p>57 pages; v2: significantly revised paper</p></details> |
+| **[A Bilevel Integer Programming Approach for the Synchronous Attractor Control Problem](https://arxiv.org/abs/2604.01018v1)** | 2026-04-01 | 30 pages, 8 figures |
+| **[Exact Graph Learning via Integer Programming](https://arxiv.org/abs/2601.20589v2)** | 2026-04-01 |  |
+| **[RefineRL: Advancing Competitive Programming with Self-Refinement Reinforcement Learning](https://arxiv.org/abs/2604.00790v1)** | 2026-04-01 |  |
+| **[An Unconditional Barrier for Proving Multilinear Algebraic Branching Program Lower Bounds](https://arxiv.org/abs/2604.00746v1)** | 2026-04-01 | 31 pages, 2 figures |
+| **[A CEFR-Inspired Classification Framework with Fuzzy C-Means To Automate Assessment of Programming Skills in Scratch](https://arxiv.org/abs/2604.00730v1)** | 2026-04-01 | <details><summary>Paper...</summary><p>Paper accepted at CSEDU 2026</p></details> |
 
