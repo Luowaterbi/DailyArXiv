@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 07, 2026
+title: Latest 15 Papers - April 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SysTradeBench: An Iterative Build-Test-Patch Benchmark for Strategy-to-Code Trading Systems with Drift-Aware Diagnostics](https://arxiv.org/abs/2604.04812v1)** | 2026-04-06 | 16 pages, 5 figures |
-| **[Co-Designing Quantum Codes with Transversal Diagonal Gates via Multi-Agent Systems](https://arxiv.org/abs/2510.20728v3)** | 2026-04-06 | 33 pages, 4 figures |
-| **[LRC codes over characteristic $2$](https://arxiv.org/abs/2604.04678v1)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 1 table, 1 image</p></details> |
-| **[Beyond Fixed Tests: Repository-Level Issue Resolution as Coevolution of Code and Behavioral Constraints](https://arxiv.org/abs/2604.04580v1)** | 2026-04-06 |  |
-| **[Linear Exact Repair in MDS Array Codes: A General Lower Bound and Its Attainability](https://arxiv.org/abs/2604.04519v1)** | 2026-04-06 |  |
-| **[Autonomous Agents for Scientific Discovery: Orchestrating Scientists, Language, Code, and Physics](https://arxiv.org/abs/2510.09901v2)** | 2026-04-06 |  |
-| **[How AI Coding Agents Modify Code: A Large-Scale Study of GitHub Pull Requests](https://arxiv.org/abs/2601.17581v3)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted at the 23rd IEEE/ACM International Conference on Mining Software Repositories - Mining Challenge Track</p></details> |
-| **[Analog Error Correcting Codes with Constant Redundancy](https://arxiv.org/abs/2603.07117v3)** | 2026-04-05 |  |
-| **[Agentic Code Optimization via Compiler-LLM Cooperation](https://arxiv.org/abs/2604.04238v1)** | 2026-04-05 |  |
-| **[On the Effectiveness of Code Representation in Deep Learning-Based Automated Patch Correctness Assessment](https://arxiv.org/abs/2603.07520v2)** | 2026-04-05 |  |
-| **[Two Families of Linear Codes Containing Non-GRS MDS Codes](https://arxiv.org/abs/2512.13429v2)** | 2026-04-05 |  |
-| **[Quasi-BP for BCH Codes and its Optimization](https://arxiv.org/abs/2604.04066v1)** | 2026-04-05 | 5 pages, 5 figures |
-| **[SmartPatchLinker: An Open-Source Tool to Linked Changes Detection for Code Review](https://arxiv.org/abs/2604.04045v1)** | 2026-04-05 | FSE26 Tool Track |
-| **[On Polycyclic Codes over $\frac{\mathbb{F}_{p^m}[u]}{\langle u^t \rangle}$ and their Cardinalities](https://arxiv.org/abs/2604.03991v1)** | 2026-04-05 |  |
-| **[COBOL-Coder: Domain-Adapted Large Language Models for COBOL Code Generation and Translation](https://arxiv.org/abs/2604.03986v1)** | 2026-04-05 |  |
+| **[Multilevel Coset Codes on Lattices](https://arxiv.org/abs/2604.06125v1)** | 2026-04-07 |  |
+| **[LLM4CodeRE: Generative AI for Code Decompilation Analysis and Reverse Engineering](https://arxiv.org/abs/2604.06095v1)** | 2026-04-07 |  |
+| **[Singular Relative Entropy Coding with Bits-Back Rejection Sampling](https://arxiv.org/abs/2604.06055v1)** | 2026-04-07 | 8 pages |
+| **[Linear Code Equivalence via Plücker Coordinates](https://arxiv.org/abs/2603.09869v2)** | 2026-04-07 |  |
+| **[Design and Analysis of Chirp-Layered Superposition Coding for LoRa](https://arxiv.org/abs/2604.06033v1)** | 2026-04-07 |  |
+| **[QiMeng-PRepair: Precise Code Repair via Edit-Aware Reward Optimization](https://arxiv.org/abs/2604.05963v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 main conference</p></details> |
+| **[TransAgent: Enhancing LLM-Based Code Translation via Fine-Grained Execution Alignment](https://arxiv.org/abs/2409.19894v5)** | 2026-04-07 | Accepted by FSE'26 |
+| **[Vision-Guided Iterative Refinement for Frontend Code Generation](https://arxiv.org/abs/2604.05839v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026 Workshop on AI with Recursive Self-Improvement</p></details> |
+| **[The Incidence-Multiplicity Bound for Linear Exact Repair in MDS Array Codes](https://arxiv.org/abs/2604.05692v1)** | 2026-04-07 |  |
+| **[Non-GRS type MDS and AMDS codes from extended TGRS codes](https://arxiv.org/abs/2604.05682v1)** | 2026-04-07 |  |
+| **[Asymptotically good CSS codes that realize the logical transversal Clifford group fault-tolerantly](https://arxiv.org/abs/2601.08568v2)** | 2026-04-07 |  |
+| **[Code Review Agent Benchmark](https://arxiv.org/abs/2603.23448v3)** | 2026-04-07 |  |
+| **[An Iterative Test-and-Repair Framework for Competitive Code Generation](https://arxiv.org/abs/2604.05560v1)** | 2026-04-07 |  |
+| **[On the Euclidean duals of the cyclic codes generated via cyclotomic polynomials](https://arxiv.org/abs/2601.03165v2)** | 2026-04-07 |  |
+| **[OmniDiagram: Advancing Unified Diagram Code Generation via Visual Interrogation Reward](https://arxiv.org/abs/2604.05514v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Findings</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scientific Graphics Program Synthesis via Dual Self-Consistency Reinforcement Learning](https://arxiv.org/abs/2604.06079v1)** | 2026-04-07 |  |
+| **[Automating Manual Tasks through Intuitive Robot Programming and Cognitive Robotics](https://arxiv.org/abs/2604.05978v1)** | 2026-04-07 | <details><summary>This ...</summary><p>This submission contains both an English translation and the original German version. The German version was originally published in the Proceedings of the 71st GfA Conference (2025)</p></details> |
+| **[Analog Weight Update Rule in Ferroelectric Hafnia, using pico-Joule Programming Pulses](https://arxiv.org/abs/2601.01186v2)** | 2026-04-07 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Accepted in Advanced Electronic Materials (Wiley)</p></details> |
+| **[Proceedings 17th Workshop on Programming Language Approaches to Concurrency and Communication-cEntric Software](https://arxiv.org/abs/2604.05737v1)** | 2026-04-07 |  |
+| **[Supporting Evidence for the Adaptive Feature Program across Diverse Models](https://arxiv.org/abs/2511.09425v3)** | 2026-04-07 |  |
+| **[On the Role of Fault Localization Context for LLM-Based Program Repair](https://arxiv.org/abs/2604.05481v1)** | 2026-04-07 | 30 pages, 8 figures |
+| **[Decision-Oriented Programming with Aporia](https://arxiv.org/abs/2604.05203v1)** | 2026-04-06 | 11 pages, 7 figures |
+| **[Implementing Grassroots Logic Programs with Multiagent Transition Systems and AI](https://arxiv.org/abs/2602.06934v3)** | 2026-04-06 |  |
+| **[Hierarchical SVG Tokenization: Learning Compact Visual Programs for Scalable Vector Graphics Modeling](https://arxiv.org/abs/2604.05072v1)** | 2026-04-06 | <details><summary>Homep...</summary><p>Homepage: https://hy-hivg.github.io/</p></details> |
 | **[PAFT: Preservation Aware Fine-Tuning for Minimal-Edit Program Repair](https://arxiv.org/abs/2604.03113v2)** | 2026-04-06 |  |
 | **[ComPass: Contrastive Learning for Automated Patch Correctness Assessment in Program Repair](https://arxiv.org/abs/2602.07561v2)** | 2026-04-06 | 31 pages, 3 figures |
 | **[Detecting Malicious Intents in Smart Contracts with Pre-trained Programming Language Models](https://arxiv.org/abs/2508.20086v4)** | 2026-04-05 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, conference</p></details> |
 | **[Automated Expected Cost Analysis for Quantum Programs](https://arxiv.org/abs/2604.03971v1)** | 2026-04-05 |  |
 | **[TransGP: Task-Conditioned Transformer-Guided Genetic Programming for Multitask Dynamic Flexible Job Shop Scheduling](https://arxiv.org/abs/2604.03705v1)** | 2026-04-04 |  |
 | **[DebugHarness: Emulating Human Dynamic Debugging for Autonomous Program Repair](https://arxiv.org/abs/2604.03610v1)** | 2026-04-04 | 15 pages, 6 figures |
-| **[A Programming Language for Feasible Solutions](https://arxiv.org/abs/2507.19176v2)** | 2026-04-03 |  |
-| **[Sparse PCA: A New Scalable Estimator Based On Integer Programming](https://arxiv.org/abs/2109.11142v4)** | 2026-04-03 | <details><summary>To ap...</summary><p>To appear in the Annals of Statistics</p></details> |
-| **[GrandCode: Achieving Grandmaster Level in Competitive Programming via Agentic Reinforcement Learning](https://arxiv.org/abs/2604.02721v1)** | 2026-04-03 | <details><summary>Tech ...</summary><p>Tech Report; Pre-print</p></details> |
-| **[Runtime Execution Traces Guided Automated Program Repair with Multi-Agent Debate](https://arxiv.org/abs/2604.02647v1)** | 2026-04-03 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 8 tables</p></details> |
-| **[Principled and Scalable Diversity-Aware Retrieval via Cardinality-Constrained Binary Quadratic Programming](https://arxiv.org/abs/2604.02554v1)** | 2026-04-02 |  |
-| **[Finding Memory Leaks in C/C++ Programs via Neuro-Symbolic Augmented Static Analysis](https://arxiv.org/abs/2603.27224v2)** | 2026-04-02 | 12 pages |
-| **[Semantic Evolution over Populations for LLM-Guided Automated Program Repair](https://arxiv.org/abs/2604.02134v1)** | 2026-04-02 |  |
-| **[Can Large Language Models Model Programs Formally?](https://arxiv.org/abs/2604.01851v1)** | 2026-04-02 |  |
-| **[Bridging Deep Learning and Integer Linear Programming: A Predictive-to-Prescriptive Framework for Supply Chain Analytics](https://arxiv.org/abs/2604.01775v1)** | 2026-04-02 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 4 tables</p></details> |
 
