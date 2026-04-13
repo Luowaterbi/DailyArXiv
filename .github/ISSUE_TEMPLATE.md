@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 12, 2026
+title: Latest 15 Papers - April 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Formalizing building-up constructions of self-dual codes through isotropic lines in Lean](https://arxiv.org/abs/2604.08485v1)** | 2026-04-09 | 27 pages |
-| **[Configuring Agentic AI Coding Tools: An Exploratory Study](https://arxiv.org/abs/2602.14690v3)** | 2026-04-09 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 3 tables, accepted at AIware 2026</p></details> |
-| **[Security Concerns in Generative AI Coding Assistants: Insights from Online Discussions on GitHub Copilot](https://arxiv.org/abs/2604.08352v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted for publication at EASE '26 Companion</p></details> |
-| **[CIAO - Code In Architecture Out - Automated Software Architecture Documentation with Large Language Models](https://arxiv.org/abs/2604.08293v1)** | 2026-04-09 | <details><summary>Manus...</summary><p>Manuscript accepted for the 23rd International Conference on Software Architecture (ICSA 2026)</p></details> |
-| **[Tokalator: A Context Engineering Toolkit for Artificial Intelligence Coding Assistants](https://arxiv.org/abs/2604.08290v1)** | 2026-04-09 | 37 pages, 2 figures |
-| **[Counting HyperGraphlets via Color Coding: a Quadratic Barrier and How to Break It](https://arxiv.org/abs/2604.08278v1)** | 2026-04-09 |  |
-| **[Beyond Final Code: A Process-Oriented Error Analysis of Software Development Agents in Real-World GitHub Scenarios](https://arxiv.org/abs/2503.12374v4)** | 2026-04-09 | <details><summary>Paper...</summary><p>Paper accepted at ICSE 2026, Research Track</p></details> |
-| **[Modeling Sampling Workflows for Code Repositories](https://arxiv.org/abs/2601.19316v2)** | 2026-04-09 |  |
-| **[Test-Oriented Programming: rethinking coding for the GenAI era](https://arxiv.org/abs/2604.08102v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted as a poster in the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
-| **[Can LLMs Deobfuscate Binary Code? A Systematic Analysis of Large Language Models into Pseudocode Deobfuscation](https://arxiv.org/abs/2604.08083v1)** | 2026-04-09 |  |
-| **[Efficient Provably Secure Linguistic Steganography via Range Coding](https://arxiv.org/abs/2604.08052v1)** | 2026-04-09 | ACL2026 Main |
-| **[A H.265/HEVC Fine-Grained ROI Video Encryption Algorithm Based on Coding Unit and Prompt Segmentation](https://arxiv.org/abs/2604.08047v1)** | 2026-04-09 |  |
-| **[Do AI Models Dream of Faster Code? An Empirical Study on LLM-Proposed Performance Improvements in Real-World Software](https://arxiv.org/abs/2510.15494v2)** | 2026-04-09 |  |
-| **[Improving Image Coding for Machines through Optimizing Encoder via Auxiliary Loss](https://arxiv.org/abs/2402.08267v3)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at ICIP 2024</p></details> |
-| **[Investigating Code Reuse in Software Redesign: A Case Study](https://arxiv.org/abs/2604.07919v1)** | 2026-04-09 | 28 pages, 12 figures |
+| **[When LLMs Lag Behind: Knowledge Conflicts from Evolving APIs in Code Generation](https://arxiv.org/abs/2604.09515v1)** | 2026-04-10 |  |
+| **[Game of Coding for Vector-Valued Computations](https://arxiv.org/abs/2602.04810v2)** | 2026-04-10 |  |
+| **[UIPress: Bringing Optical Token Compression to UI-to-Code Generation](https://arxiv.org/abs/2604.09442v1)** | 2026-04-10 | 10 pages, 3 figures |
+| **[Multi-task Just Recognizable Difference for Video Coding for Machines: Database, Model, and Coding Application](https://arxiv.org/abs/2604.09421v1)** | 2026-04-10 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Circuits and Systems for Video Technology</p></details> |
+| **[Do AI Coding Agents Log Like Humans? An Empirical Study](https://arxiv.org/abs/2604.09409v1)** | 2026-04-10 |  |
+| **[The AI Codebase Maturity Model: From Assisted Coding to Self-Sustaining Systems](https://arxiv.org/abs/2604.09388v1)** | 2026-04-10 | <details><summary>20 pa...</summary><p>20 pages, 5 tables. Practitioner experience report. Source code and full feedback loop implementation publicly available at https://github.com/kubestellar/console</p></details> |
+| **[DiffHLS: Differential Learning for High-Level Synthesis QoR Prediction with GNNs and LLM Code Embeddings](https://arxiv.org/abs/2604.09240v1)** | 2026-04-10 |  |
+| **[DeepGuard: Secure Code Generation via Multi-Layer Semantic Aggregation](https://arxiv.org/abs/2604.09089v1)** | 2026-04-10 | <details><summary>ACL 2...</summary><p>ACL 2026 main conference</p></details> |
+| **[On Polar Coding with Feedback](https://arxiv.org/abs/2601.09222v3)** | 2026-04-10 | <details><summary>7 pag...</summary><p>7 pages, 7 figures and 2 tables; A short version will be submitted to IEEE for possible publication</p></details> |
+| **[An Empirical Analysis of Static Analysis Methods for Detection and Mitigation of Code Library Hallucinations](https://arxiv.org/abs/2604.07755v2)** | 2026-04-10 |  |
+| **[Investigating Code Reuse in Software Redesign: A Case Study](https://arxiv.org/abs/2604.07919v2)** | 2026-04-10 | 26 pages, 12 figures |
+| **[Real-Time Toxicity Filtering for Open-Source Code Reviews](https://arxiv.org/abs/2604.08886v1)** | 2026-04-10 |  |
+| **[A New Class of Geometric Analog Error Correction Codes for Crossbar Based In-Memory Computing](https://arxiv.org/abs/2603.03723v3)** | 2026-04-10 |  |
+| **[Shortest Embeddings of Linear Codes with Arbitrary Hull Dimension](https://arxiv.org/abs/2604.08843v1)** | 2026-04-10 |  |
+| **[CODEPROMPTZIP: Code-specific Prompt Compression for Retrieval-Augmented Generation in Coding Tasks with LMs](https://arxiv.org/abs/2502.14925v2)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at Findings of ACL 2026</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CIR+CVN: Bridging LLM Semantic Understanding and Petri-Net Verification for Concurrent Programs](https://arxiv.org/abs/2604.09318v1)** | 2026-04-10 |  |
+| **[Tracers for debugging and program exploration](https://arxiv.org/abs/2604.09301v1)** | 2026-04-10 | <details><summary>13 pa...</summary><p>13 pages; presented at the 16th annual workshop on the intersection of HCI and PL (PLATEAU 2026), Pittsburgh, PA, USA</p></details> |
+| **[Hierarchical SVG Tokenization: Learning Compact Visual Programs for Scalable Vector Graphics Modeling](https://arxiv.org/abs/2604.05072v2)** | 2026-04-10 | <details><summary>Homep...</summary><p>Homepage: https://hy-hivg.github.io/</p></details> |
+| **[Interactive Program Synthesis for Modeling Collaborative Physical Activities from Narrated Demonstrations](https://arxiv.org/abs/2509.24250v3)** | 2026-04-10 |  |
+| **[Choose, Don't Label: Multiple-Choice Query Synthesis for Program Disambiguation](https://arxiv.org/abs/2604.08792v1)** | 2026-04-09 |  |
+| **[A survey of generative AI adoption and perceived productivity among scientists who program](https://arxiv.org/abs/2512.19644v3)** | 2026-04-09 | Revisions |
+| **[High-dimensional inference for the $γ$-ray sky with differentiable programming](https://arxiv.org/abs/2604.08648v1)** | 2026-04-09 | <details><summary>17 pa...</summary><p>17 pages, 13 figures. Code available at https://github.com/smsharma/fermi-prob-prog</p></details> |
 | **[Semiparametric Causal Mediation Analysis for Linear Models with Non-Gaussian Errors: Applications to Drug Treatment and Social Program Evaluation](https://arxiv.org/abs/2604.08346v1)** | 2026-04-09 |  |
 | **[Multi-Modal Learning meets Genetic Programming: Analyzing Alignment in Latent Space Optimization](https://arxiv.org/abs/2604.08324v1)** | 2026-04-09 |  |
 | **[Test-Oriented Programming: rethinking coding for the GenAI era](https://arxiv.org/abs/2604.08102v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted as a poster in the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
 | **[GALA: Multimodal Graph Alignment for Bug Localization in Automated Program Repair](https://arxiv.org/abs/2604.08089v1)** | 2026-04-09 | <details><summary>Code ...</summary><p>Code available at: https://github.com/lzyyyyy666/GALA</p></details> |
 | **[FactorEngine: A Program-level Knowledge-Infused Factor Mining Framework for Quantitative Investment](https://arxiv.org/abs/2603.16365v2)** | 2026-04-09 | 26 pages, 10 figures |
+| **[StructRL: Recovering Dynamic Programming Structure from Learning Dynamics in Distributional Reinforcement Learning](https://arxiv.org/abs/2604.08620v1)** | 2026-04-09 |  |
 | **[Differentiable Logical Programming for Quantum Circuit Discovery and Optimization](https://arxiv.org/abs/2602.08880v2)** | 2026-04-09 |  |
 | **[Program Analysis Guided LLM Agent for Proof-of-Concept Generation](https://arxiv.org/abs/2604.07624v1)** | 2026-04-08 |  |
-| **[Chatbot-Based Assessment of Code Understanding in Automated Programming Assessment Systems](https://arxiv.org/abs/2604.07304v1)** | 2026-04-08 | <details><summary>12 pa...</summary><p>12 pages, accepted for publication at CSEDU 2026</p></details> |
-| **[Symbolic Polyhedral-Based Energy Analysis for Nested Loop Programs](https://arxiv.org/abs/2604.07287v1)** | 2026-04-08 |  |
-| **[A Study of LLMs' Preferences for Libraries and Programming Languages](https://arxiv.org/abs/2503.17181v3)** | 2026-04-08 | <details><summary>21 pa...</summary><p>21 pages, 10 tables, 3 figures. Accepted to Findings of ACL 2026</p></details> |
-| **[Exploiting Aggregate Programming in a Multi-Robot Service Prototype](https://arxiv.org/abs/2604.06876v1)** | 2026-04-08 | <details><summary>In Pr...</summary><p>In Proceedings PLACES 2026, arXiv:2604.05737</p></details> |
-| **[Explaining Neural Networks in Preference Learning: a Post-hoc Inductive Logic Programming Approach](https://arxiv.org/abs/2604.06838v1)** | 2026-04-08 | <details><summary>Under...</summary><p>Under consideration for publication in Theory and Practice of Logic Programming (TPLP)</p></details> |
-| **[Logical Robots: Declarative Multi-Agent Programming in Logica](https://arxiv.org/abs/2604.06629v1)** | 2026-04-08 | <details><summary>Inter...</summary><p>International Conference on Autonomous Agents and Multiagent Systems (AAMAS), May 25-29, 2026. Paphos, Cyprus</p></details> |
-| **[MDP modeling for multi-stage stochastic programs](https://arxiv.org/abs/2509.22981v2)** | 2026-04-07 |  |
-| **[ODYN: An All-Shifted Non-Interior-Point Method for Quadratic Programming in Robotics and AI](https://arxiv.org/abs/2602.16005v2)** | 2026-04-07 | <details><summary>20 pa...</summary><p>20 pages, 12 figures, under-review</p></details> |
 
