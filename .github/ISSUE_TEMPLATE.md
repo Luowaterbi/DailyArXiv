@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 19, 2026
+title: Latest 15 Papers - April 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,30 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Heuristic Search for Minimum-Distance Upper-Bound Witnesses in Quantum APM-LDPC Codes](https://arxiv.org/abs/2604.15307v1)** | 2026-04-16 |  |
-| **[Reed--Muller Codes Achieve the Symmetric Capacity on Finite-State Channels](https://arxiv.org/abs/2604.15295v1)** | 2026-04-16 | <details><summary>14 pa...</summary><p>14 pages, extended version of paper accepted to ISIT 2026</p></details> |
-| **[Bandwidth Cost of Locally Repairable Convertible Codes in the Global Merge Regime](https://arxiv.org/abs/2604.15282v1)** | 2026-04-16 | <details><summary>This ...</summary><p>This is an extended version of an IEEE ISIT 2026 paper with the same title</p></details> |
-| **[Explicit Constant-Alphabet Subspace Design Codes](https://arxiv.org/abs/2604.15218v1)** | 2026-04-16 |  |
-| **[One-Shot Broadcast Joint Source-Channel Coding with Codebook Diversity](https://arxiv.org/abs/2601.10648v3)** | 2026-04-16 |  |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v3)** | 2026-04-16 | <details><summary>This ...</summary><p>This work has been accepted by ACL 2026 Main</p></details> |
-| **[Codes with Large Minimum Distance in Product Codes: Explicit Constructions and Bounds](https://arxiv.org/abs/2604.15080v1)** | 2026-04-16 |  |
-| **[HintPilot: LLM-based Compiler Hint Synthesis for Code Optimization](https://arxiv.org/abs/2604.15041v1)** | 2026-04-16 |  |
-| **[On Demand-Private Coded Caching With Multiple Demands](https://arxiv.org/abs/2604.11492v2)** | 2026-04-16 |  |
-| **[Learning to Concatenate Quantum Codes](https://arxiv.org/abs/2604.14931v1)** | 2026-04-16 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, 1 table</p></details> |
-| **[Vibe-Coding: Feedback-Based Automated Verification with no Human Code Inspection, a Feasibility Study](https://arxiv.org/abs/2604.14867v1)** | 2026-04-16 |  |
-| **[CODESTRUCT: Code Agents over Structured Action Spaces](https://arxiv.org/abs/2604.05407v3)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 main conference</p></details> |
-| **[AgentGA: Evolving Code Solutions in Agent-Seed Space](https://arxiv.org/abs/2604.14655v1)** | 2026-04-16 | <details><summary>24 pa...</summary><p>24 pages including appendix, 4 figures, 1 table</p></details> |
-| **[StoryCoder: Narrative Reformulation for Structured Reasoning in LLM Code Generation](https://arxiv.org/abs/2604.14631v1)** | 2026-04-16 | <details><summary>21 pa...</summary><p>21 pages, 12 figures. ACL 2026 Main Conference</p></details> |
-| **[MSWasm: Soundly Enforcing Memory-Safe Execution of Unsafe Code](https://arxiv.org/abs/2208.13583v3)** | 2026-04-16 |  |
+| **[RepoShapley: Shapley-Enhanced Context Filtering for Repository-Level Code Completion](https://arxiv.org/abs/2601.03378v2)** | 2026-04-17 | ACL 2026 Findings |
+| **[Bridging the Gap between User Intent and LLM: A Requirement Alignment Approach for Code Generation](https://arxiv.org/abs/2604.16198v1)** | 2026-04-17 |  |
+| **[Can LLMs Understand the Impact of Trauma? Costs and Benefits of LLMs Coding the Interviews of Firearm Violence Survivors](https://arxiv.org/abs/2604.16132v1)** | 2026-04-17 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics (2026)</p></details> |
+| **[Decoding Algorithms for Tensor Codes](https://arxiv.org/abs/2604.16105v1)** | 2026-04-17 | <details><summary>41 pa...</summary><p>41 pages, 2 tables, 4 figures, long version of ISIT'2025 extended abstract with same title, IEEE preprint</p></details> |
+| **[LLMSniffer: Detecting LLM-Generated Code via GraphCodeBERT and Supervised Contrastive Learning](https://arxiv.org/abs/2604.16058v1)** | 2026-04-17 |  |
+| **[Optimization of Sparse VLSF Codes for Short-Packet Transmission via Saddlepoint Methods](https://arxiv.org/abs/2604.16049v1)** | 2026-04-17 | <details><summary>Accep...</summary><p>Accepted in IEEE International Conference in Communications (ICC) 2026 Glasgow, Scotland, UK</p></details> |
+| **[MacWilliams Identities for Intrinsic Quantum Codes](https://arxiv.org/abs/2604.16023v1)** | 2026-04-17 |  |
+| **[Neurosymbolic Repo-level Code Localization](https://arxiv.org/abs/2604.16021v1)** | 2026-04-17 |  |
+| **[MATRIX: Multi-Layer Code Watermarking via Dual-Channel Constrained Parity-Check Encoding](https://arxiv.org/abs/2604.16001v1)** | 2026-04-17 | 14 pages, 6 figures |
+| **[Multichannel Conflict-Avoiding Codes for Expanded Scenarios](https://arxiv.org/abs/2602.22081v2)** | 2026-04-17 | 42 pages |
+| **[Secure Authentication in Wireless IoT: Hamming Code Assisted SRAM PUF as Device Fingerprint](https://arxiv.org/abs/2604.15810v1)** | 2026-04-17 | <details><summary>This ...</summary><p>This is a preprint submitted to arXiv, licensed under arXiv.org perpetual, non-exclusive license. This work is accepted but not yet published at the 30th ITG-Symposium, Mobile Communications - Technologies and Applications in Osnabrueck, Germany</p></details> |
+| **[CodeMMR: Bridging Natural Language, Code, and Image for Unified Retrieval](https://arxiv.org/abs/2604.15663v1)** | 2026-04-17 |  |
+| **[ZORO: Active Rules for Reliable Vibe Coding](https://arxiv.org/abs/2604.15625v1)** | 2026-04-17 | 19 pages, 10 figures |
+| **[Majority Voting for Code Generation](https://arxiv.org/abs/2604.15618v1)** | 2026-04-17 | <details><summary>ICLR ...</summary><p>ICLR 2026 Test-Time Updates (TTU) Workshop</p></details> |
+| **[Spec2Cov: An Agentic Framework for Code Coverage Closure of Digital Hardware Designs](https://arxiv.org/abs/2604.15606v1)** | 2026-04-17 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Emulation-Completeness of Programming Languages](https://arxiv.org/abs/2604.11021v2)** | 2026-04-17 | 13 pages, 7 tables |
+| **[SCRIPT: Implementing an Intelligent Tutoring System for Programming in a German University Context](https://arxiv.org/abs/2604.16117v1)** | 2026-04-17 | <details><summary>In: C...</summary><p>In: Cristea, A.I., Walker, E., Lu, Y., Santos, O.C., Isotani, S. (eds) Artificial Intelligence in Education. Posters and Late Breaking Results, Workshops and Tutorials, Industry and Innovation Tracks, Practitioners, Doctoral Consortium, Blue Sky, and WideAIED. AIED 2025. Communications in Computer and Information Science, vol 2590 . Springer, Cham</p></details> |
+| **[Contextual Refinement of Higher-Order Concurrent Probabilistic Programs (Extended Version)](https://arxiv.org/abs/2511.10135v3)** | 2026-04-17 | Updated version |
+| **[Evaluating SYCL as a Unified Programming Model for Heterogeneous Systems](https://arxiv.org/abs/2604.16043v1)** | 2026-04-17 |  |
+| **[Solving Fuzzy Satisfiability via Mixed-Integer Non-Linear Programming](https://arxiv.org/abs/2604.15992v1)** | 2026-04-17 |  |
 | **[Prism: Symbolic Superoptimization of Tensor Programs](https://arxiv.org/abs/2604.15272v1)** | 2026-04-16 |  |
 | **[Managing Power Gaps as an Element of Pair Programming Skill: A Grounded Theory](https://arxiv.org/abs/2508.00462v2)** | 2026-04-16 |  |
 | **[What if we have 90 minutes only to teach programming?](https://arxiv.org/abs/2604.14942v1)** | 2026-04-16 | <details><summary>5 pag...</summary><p>5 pages, final version will be published elsewhere</p></details> |
@@ -36,9 +41,4 @@ labels: documentation
 | **[A Comparative Study of Dynamic Programming and Reinforcement Learning in Finite Horizon Dynamic Pricing](https://arxiv.org/abs/2604.14059v1)** | 2026-04-15 |  |
 | **[Modeling Student Learning with 3.8 Million Program Traces](https://arxiv.org/abs/2510.05056v2)** | 2026-04-15 | <details><summary>Accep...</summary><p>Accepted to 27th International Conference on AI in Education (AIED 2026)</p></details> |
 | **[Programming Language Co-Usage Patterns on Stack Overflow: Analysis of the Developer Ecosystem](https://arxiv.org/abs/2604.12123v2)** | 2026-04-15 | 9 pages, 3 figures |
-| **[Lessons from Skill Development Programs -- Livelihood College of Dhamtari](https://arxiv.org/abs/2604.13317v1)** | 2026-04-14 | <details><summary>24 pa...</summary><p>24 pages, 8 figures, 3 tables. This is the accepted manuscript of a chapter published in Springer Nature, Communications in Computer and Information Science, CCIS, volume 2337, 2025. Indian Conference on Human Computer Interaction Design and Research, IndiaHCI 2024</p></details> |
-| **[Heterogeneous Dynamic Logic: Provability Modulo Program Theories](https://arxiv.org/abs/2507.08581v2)** | 2026-04-14 | <details><summary>42 pa...</summary><p>42 pages, 6 figures; Manuscript accepted at PLDI'26</p></details> |
-| **[Personalizing LLM-Based Conversational Programming Assistants](https://arxiv.org/abs/2604.12998v1)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to the Doctoral and Early Career Symposium of the 19th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE DECS 2026)</p></details> |
-| **[Don't Show Pixels, Show Cues: Unlocking Visual Tool Reasoning in Language Models via Perception Programs](https://arxiv.org/abs/2604.12896v1)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[TCL: Enabling Fast and Efficient Cross-Hardware Tensor Program Optimization via Continual Learning](https://arxiv.org/abs/2604.12891v1)** | 2026-04-14 | <details><summary>intro...</summary><p>introduces TCL framework for cross-hardware tensor program optimization with active learning, Mamba-based cost model, and continual knowledge distillation; includes extensive experiments on CPU and GPU platforms</p></details> |
 
