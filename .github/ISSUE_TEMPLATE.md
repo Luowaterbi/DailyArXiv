@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 22, 2026
+title: Latest 15 Papers - April 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
-| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
-| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[False Security Confidence in Benign LLM Code Generation](https://arxiv.org/abs/2604.17014v2)** | 2026-04-21 | <details><summary>6 pag...</summary><p>6 pages; technical report</p></details> |
-| **[Constructive Approaches to Perception-Aware Lossy Source Coding: Information-Theoretic Guidelines](https://arxiv.org/abs/2604.19515v1)** | 2026-04-21 | 32 pages, 11 figures |
-| **[$2$-quasi-perfect Lee codes and abelian Ramanujan graphs: a new construction and relationship](https://arxiv.org/abs/2601.12393v2)** | 2026-04-21 | <details><summary>10 pa...</summary><p>10 pages. The abstract and introduction have been revised. Lemma 12 has been corrected. Concluding remarks have been added. Comments are welcome</p></details> |
-| **[CASCADE: Detecting Inconsistencies between Code and Documentation with Automatic Test Generation](https://arxiv.org/abs/2604.19400v1)** | 2026-04-21 | <details><summary>23 pa...</summary><p>23 pages, 3 figures. To appear in the proceedings of FSE 2026. Code available at https://github.com/TobiasKiecker/CASCADE/releases/tag/FSE2026-v1.0.0</p></details> |
-| **[Systematic Detection of Energy Regression and Corresponding Code Patterns in Java Projects](https://arxiv.org/abs/2604.19373v1)** | 2026-04-21 |  |
-| **[Fine-Tuning Code Language Models to Detect Cross-Language Bugs](https://arxiv.org/abs/2507.21954v2)** | 2026-04-21 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM), 2026</p></details> |
-| **[Debug2Fix: Can Interactive Debugging Help Coding Agents Fix More Bugs?](https://arxiv.org/abs/2602.18571v2)** | 2026-04-21 | In Review |
-| **[Cascaded Code Editing: Large-Small Model Collaboration for Effective and Efficient Code Editing](https://arxiv.org/abs/2604.19201v1)** | 2026-04-21 | <details><summary>This ...</summary><p>This paper is accepted in FSE 2026</p></details> |
-| **[DeepFWI: Identifying Bug-Sensitive Warnings with Multi-Modal Code-Warning Semantics](https://arxiv.org/abs/2403.16032v3)** | 2026-04-21 | Accepted by TSE |
-| **[Bootstrapping Code Translation with Weighted Multilanguage Exploration](https://arxiv.org/abs/2601.03512v2)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted in the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)</p></details> |
-| **[Coding-Free and Privacy-Preserving Agentic Framework for Data-Driven Clinical Research](https://arxiv.org/abs/2604.12258v2)** | 2026-04-21 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 2 tables, Supplementary Appendix</p></details> |
+| **[Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL](https://arxiv.org/abs/2604.20835v1)** | 2026-04-22 |  |
+| **[SWE-chat: Coding Agent Interactions From Real Users in the Wild](https://arxiv.org/abs/2604.20779v1)** | 2026-04-22 |  |
+| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
+| **[On the regularity index of the minimum distance function in projective nested Cartesian codes](https://arxiv.org/abs/2604.20729v1)** | 2026-04-22 |  |
+| **[EvolveSignal: A Large Language Model Powered Coding Agent for Discovering Traffic Signal Control Strategies](https://arxiv.org/abs/2509.03335v3)** | 2026-04-22 |  |
+| **[Wideband Direct Satellite Uplink Enabled by Pilot-less Sparse Superposition Codes](https://arxiv.org/abs/2604.20702v1)** | 2026-04-22 |  |
+| **[Quo Vadis, Code Review? Exploring the Future of Code Review](https://arxiv.org/abs/2508.06879v5)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at EASE 2026</p></details> |
+| **[CodeRL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment](https://arxiv.org/abs/2510.18471v2)** | 2026-04-22 | Accepted by ACL 2026 |
+| **[Response time of lateral predictive coding and benefits of modular structures](https://arxiv.org/abs/2604.20524v1)** | 2026-04-22 | <details><summary>16 pa...</summary><p>16 pages, under review in Physica A</p></details> |
+| **[Automatic Code and Test Generation of Smart Contracts from Coordination Models](https://arxiv.org/abs/2604.20507v1)** | 2026-04-22 |  |
+| **[$2$-quasi-perfect Lee codes and abelian Ramanujan graphs: a new construction and relationship](https://arxiv.org/abs/2601.12393v3)** | 2026-04-22 | <details><summary>10 pa...</summary><p>10 pages. A remark on Lemma 13 and reference [5] have been added. Comments are welcome</p></details> |
+| **[White-Basilisk: A Hybrid Model for Code Vulnerability Detection](https://arxiv.org/abs/2507.08540v5)** | 2026-04-22 |  |
+| **[Are Decoder-Only Large Language Models the Silver Bullet for Code Search?](https://arxiv.org/abs/2410.22240v3)** | 2026-04-22 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Software Engineering (2026). 19 pages</p></details> |
+| **[SciCoQA: Quality Assurance for Scientific Paper--Code Alignment](https://arxiv.org/abs/2601.12910v3)** | 2026-04-22 | Accepted at ACL 2026 |
+| **[CSI Feedback Under Basis Mismatch: Rate-Splitting Transform Coding for FDD Massive MIMO](https://arxiv.org/abs/2604.20380v1)** | 2026-04-22 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted to ISIT 2026</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL](https://arxiv.org/abs/2604.20835v1)** | 2026-04-22 |  |
+| **[Extending Contract Verification for Parallel Programming Models to Fortran](https://arxiv.org/abs/2604.20410v1)** | 2026-04-22 | <details><summary>A pee...</summary><p>A peer-reviewed version is to be published by Springer as part of the ISC C3PO workshop proceedings. This is the originally submitted article</p></details> |
+| **[A Program Logic for Abstract (Hyper)Properties](https://arxiv.org/abs/2601.20370v2)** | 2026-04-21 |  |
 | **[DebugRepair: Enhancing LLM-Based Automated Program Repair via Self-Directed Debugging](https://arxiv.org/abs/2604.19305v1)** | 2026-04-21 |  |
 | **[A Diagrammatic Basis for Computer Programming](https://arxiv.org/abs/2512.07240v2)** | 2026-04-21 |  |
 | **[Streamliners for Answer Set Programming](https://arxiv.org/abs/2604.19251v1)** | 2026-04-21 | <details><summary>To ap...</summary><p>To appear in Technical Communications of the 42nd International Conference on Logic Programming (ICLP 2026)</p></details> |
@@ -38,7 +41,4 @@ labels: documentation
 | **[What if we have 90 minutes only to teach programming?](https://arxiv.org/abs/2604.14942v2)** | 2026-04-20 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, v2 small corrections and improvements, final version will be published elsewhere</p></details> |
 | **[Proxics: an efficient programming model for far memory accelerators](https://arxiv.org/abs/2604.18120v1)** | 2026-04-20 |  |
 | **[Raven: Rethinking Automated Assessment for Scratch Programs via Video-Grounded Evaluation](https://arxiv.org/abs/2604.17820v1)** | 2026-04-20 |  |
-| **[Across Programming Language Silos: A Study on Cross-Lingual Retrieval-augmented Code Generation](https://arxiv.org/abs/2506.03535v2)** | 2026-04-20 | ACL 2026 Findings |
-| **[SDLLMFuzz: Dynamic-static LLM-assisted greybox fuzzing for structured input programs](https://arxiv.org/abs/2604.17750v1)** | 2026-04-20 |  |
-| **[Program Structure-aware Language Models: Targeted Software Testing beyond Textual Semantics](https://arxiv.org/abs/2604.17715v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted in The 64th Annual Meeting of the Association for Computational Linguistics (ACL Findings 2026)</p></details> |
 
