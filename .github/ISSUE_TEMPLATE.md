@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 25, 2026
+title: Latest 15 Papers - May 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Benchmarking Commercial ASR Systems on Code-Switching Speech: Arabic, Persian, and German](https://arxiv.org/abs/2605.19069v3)** | 2026-05-22 |  |
-| **[On the Infinite Width and Depth Limits of Predictive Coding Networks](https://arxiv.org/abs/2602.07697v2)** | 2026-05-22 | 36 pages, 28 figures |
-| **[CoSPlay: Cooperative Self-Play at Test-Time with Self-Generated Code and Unit Test](https://arxiv.org/abs/2605.23491v1)** | 2026-05-22 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/sanae-ai/CosPlay | Data & log is available at: https://huggingface.co/datasets/yomi017/CosPlay</p></details> |
-| **[MISRust: Mapping MISRA-C++ Coding Guidelines to the Rust Programming Language](https://arxiv.org/abs/2605.23490v1)** | 2026-05-22 | <details><summary>This ...</summary><p>This work has been submitted to the 45th International Conference on Computer Safety, Reliability and Security (SAFECOMP 2026) for possible publication</p></details> |
-| **[Self-Orthogonal Twisted Generalized Reed-Solomon Codes and Their Application to Quantum Error-Correcting Codes](https://arxiv.org/abs/2605.23460v1)** | 2026-05-22 |  |
-| **[SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios](https://arxiv.org/abs/2512.18470v6)** | 2026-05-22 |  |
-| **[Layered construction of Message-Wise Unequal Error Protection Codes](https://arxiv.org/abs/2605.23390v1)** | 2026-05-22 | 6pages,5 figures |
-| **[MDS and NMDS Codes from the Extended Twisted Generalized Reed-Solomon Codes](https://arxiv.org/abs/2605.23329v1)** | 2026-05-22 |  |
-| **[Efficient Learned Image Compression without Entropy Coding](https://arxiv.org/abs/2605.23323v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[The Rate-Immediacy Barrier in Explicit Tree Code Constructions](https://arxiv.org/abs/2504.09388v2)** | 2026-05-22 | <details><summary>Added...</summary><p>Added further discussion and examples. To appear in proceedings of CCC 2026</p></details> |
-| **[A Posterior MWPM Decoding Boosts the XYZ Planar Code](https://arxiv.org/abs/2605.23236v1)** | 2026-05-22 |  |
-| **[MatClaw: An Autonomous Code-First LLM Agent for End-to-End Materials Exploration](https://arxiv.org/abs/2604.02688v3)** | 2026-05-22 |  |
-| **[The Impact of AI Coding Assistants on Software Engineering: A Longitudinal Study](https://arxiv.org/abs/2605.23135v1)** | 2026-05-22 |  |
-| **[From Preventive to Reactive: How AI Coding Assistants Transform Developers' Security Awareness](https://arxiv.org/abs/2605.23130v1)** | 2026-05-22 | <details><summary>This ...</summary><p>This paper has been accepted at the 2026 Symposium on Usable Privacy and Security (SOUPS)</p></details> |
-| **[Deep-Learning-Aided Successive Cancellation List Flip Decoding for Polar Codes](https://arxiv.org/abs/2605.23124v1)** | 2026-05-22 | 14 pages, 17 figures |
+| **[SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations](https://arxiv.org/abs/2605.30345v1)** | 2026-05-28 | 19 pages, 7 figures |
+| **[GenClaw: Code-Driven Agentic Image Generation](https://arxiv.org/abs/2605.30248v1)** | 2026-05-28 | 21 pages, 7 figures |
+| **[Automating Low-Risk Code Review at Meta: RADAR, Risk Calibration, and Review Efficiency](https://arxiv.org/abs/2605.30208v1)** | 2026-05-28 |  |
+| **[No More K-means:Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval](https://arxiv.org/abs/2605.30120v1)** | 2026-05-28 | Accepted by ICML2026 |
+| **[List Recovery for Random Low-Rate Linear Codes](https://arxiv.org/abs/2605.30101v1)** | 2026-05-28 |  |
+| **[Improved Johnson-type Bounds for Insertion-Deletion Codes](https://arxiv.org/abs/2605.25090v2)** | 2026-05-28 |  |
+| **[Inferring Code Correctness from Specification](https://arxiv.org/abs/2605.29822v1)** | 2026-05-28 |  |
+| **[Minimal Prompt Perturbations Lead to Code Vulnerabilities: Prompt Fragility and Hidden-State Signals in Coding LLMs](https://arxiv.org/abs/2605.29737v1)** | 2026-05-28 |  |
+| **[CompilerDream: Learning a Compiler World Model for General Code Optimization](https://arxiv.org/abs/2404.16077v4)** | 2026-05-28 | <details><summary>KDD 2...</summary><p>KDD 2025 camera-ready version with extended appendix. Code is available at https://github.com/thuml/CompilerDream. This update additionally fixes an issue in Table 6 where the dataset names in three rows were ordered incorrectly</p></details> |
+| **[Evaluating Cross-lingual Knowledge Consistency in Code-Mixed vis-a-vis Indian Languages using IndicKLAR](https://arxiv.org/abs/2605.29637v1)** | 2026-05-28 | 23 pages |
+| **[Control Flow Graph Recovery for Dynamically Loaded Code via Symbolic Library Resolution](https://arxiv.org/abs/2605.29620v1)** | 2026-05-28 | 6 pages, 5 figures |
+| **[Guardrails Beat Guidance: A Large-Scale Study of Rules, Skills, and Persistent Configuration for Coding Agents](https://arxiv.org/abs/2604.11088v2)** | 2026-05-28 |  |
+| **[PrecisionCUA: Iterative Visual Refinement for Pixel-Precise Cursor Grounding in Code Editors](https://arxiv.org/abs/2604.13019v3)** | 2026-05-28 |  |
+| **[How Coding Agents Fail Their Users: A Large-Scale Analysis of Developer-Agent Misalignment in 20,574 Real-World Sessions](https://arxiv.org/abs/2605.29442v1)** | 2026-05-28 |  |
+| **[On the Maximal Length of MDS Elliptic Codes](https://arxiv.org/abs/2605.29439v1)** | 2026-05-28 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Proving for Program Verification](https://arxiv.org/abs/2605.23772v1)** | 2026-05-22 |  |
-| **[Paraconsistent Semantics for Extended Fuzzy Logic Programs via Approximation Fixpoint Theory [Extended Version]](https://arxiv.org/abs/2605.05286v2)** | 2026-05-22 |  |
-| **[RA-DCA: A Randomized Active-Set DCA for Directional Stationarity in Max-Structured DC Programs](https://arxiv.org/abs/2605.23550v1)** | 2026-05-22 | 40 pages, 7 figures |
-| **[MISRust: Mapping MISRA-C++ Coding Guidelines to the Rust Programming Language](https://arxiv.org/abs/2605.23490v1)** | 2026-05-22 | <details><summary>This ...</summary><p>This work has been submitted to the 45th International Conference on Computer Safety, Reliability and Security (SAFECOMP 2026) for possible publication</p></details> |
-| **[Complete first-order reasoning for functional programs](https://arxiv.org/abs/2605.23022v1)** | 2026-05-21 |  |
-| **[Automatic De-Quantization of Quantum Programs Using Constant Propagation](https://arxiv.org/abs/2605.22980v1)** | 2026-05-21 | <details><summary>12 pa...</summary><p>12 pages, 10 figures, published in IEEE International Conference on Quantum Software QSW 2026</p></details> |
-| **[Parametric Modular Answer Set Programs Made Declarative](https://arxiv.org/abs/2605.22716v1)** | 2026-05-21 | <details><summary>To ap...</summary><p>To appear in Theory and Practice of Logic Programming</p></details> |
-| **[Student programming behavior with and without phone notification suppression](https://arxiv.org/abs/2605.22657v1)** | 2026-05-21 |  |
-| **[Evolutionary Multi-Task Optimization for LLM-Guided Program Discovery](https://arxiv.org/abs/2605.22613v1)** | 2026-05-21 |  |
-| **[Finite Automata Extraction: Low-data World Model Learning as Programs from Gameplay Video](https://arxiv.org/abs/2508.11836v2)** | 2026-05-21 |  |
-| **[The Neural Compiler: Program-to-Network Translation for Hybrid Scientific Machine Learning](https://arxiv.org/abs/2605.22498v1)** | 2026-05-21 | <details><summary>Use: ...</summary><p>Use: 21 pages, 10 figures, 10 tables. Preprint; source code available at https://github.com/sheneman/neural_compiler</p></details> |
-| **[Guiding Multi-Objective Genetic Programming with Description Length Improves Symbolic Regression Solutions](https://arxiv.org/abs/2605.22374v1)** | 2026-05-21 |  |
-| **[CODE-SHARP: Continuous Open-ended Discovery and Evolution of Skills as Hierarchical Reward Programs](https://arxiv.org/abs/2602.10085v3)** | 2026-05-21 | Preprint |
-| **[CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs](https://arxiv.org/abs/2605.19269v2)** | 2026-05-20 |  |
-| **[Towards Single Exponential Time for Temporal and Spatial Reasoning: A Study via Redundancy and Dynamic Programming](https://arxiv.org/abs/2605.21267v1)** | 2026-05-20 | <details><summary>14 Pa...</summary><p>14 Pages, 2 Figures, 2 Tables, 3 Algorithms</p></details> |
+| **[REPOT: Recoverable Program-of-Thought via Checkpoint Repair](https://arxiv.org/abs/2605.30052v1)** | 2026-05-28 |  |
+| **[Meta-Programming for Linear-time Temporal Answer Set Programming](https://arxiv.org/abs/2605.29965v1)** | 2026-05-28 |  |
+| **[Structure over Pixels: Learning Variable-Length Visual Programs](https://arxiv.org/abs/2605.27696v2)** | 2026-05-28 |  |
+| **[Solving Integer Linear Programming with Parallel Tempering](https://arxiv.org/abs/2605.29366v1)** | 2026-05-28 | <details><summary>Prepr...</summary><p>Preprint. Code available at https://github.com/ski-sim/ILP-with-ParallelTempering</p></details> |
+| **[Mixing Vector Model for Copolymer Inference via Mixed Integer Linear Programming](https://arxiv.org/abs/2605.29329v1)** | 2026-05-28 |  |
+| **[Grammar-Aware Literate Generative Mathematical Programming with Compiler-in-the-Loop](https://arxiv.org/abs/2601.17670v2)** | 2026-05-28 | 18 pages, 7 figures |
+| **[From Historical Patches to Repair Plans: Outcome-Conditioned Reasoning for Repository-Level Program Repair](https://arxiv.org/abs/2601.23257v2)** | 2026-05-27 | <details><summary>ICML ...</summary><p>ICML 2026,17 pages, 3 figures, 5 tables</p></details> |
+| **[Test-Time Compute for Dense Retrieval: Agentic Program Generation with Frozen Embedding Models](https://arxiv.org/abs/2605.11374v4)** | 2026-05-27 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 5 tables</p></details> |
+| **[Solving Positive Linear Programs with Differential Privacy](https://arxiv.org/abs/2604.26838v2)** | 2026-05-27 |  |
+| **[LACUNA: Safe Agents as Recursive Program Holes](https://arxiv.org/abs/2605.28617v1)** | 2026-05-27 |  |
+| **[Improving Evaluation of Recombination-based Cartesian Genetic Programming](https://arxiv.org/abs/2605.28353v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted for presentation as workshop paper in the graph-based genetic programming workshop (GGP) at the Genetic and Evolutionary Computation Conference (GECCO). To appear in the GECCO'26 conference companion. GECCO'26 will be held July 13-17, 2026 in San Jose, Costa Rica</p></details> |
+| **[Robo-Blocks: Generative Scaffolding in End-User Design and Programming of Social Robots](https://arxiv.org/abs/2605.28154v1)** | 2026-05-27 |  |
+| **[Understanding Automated Program Repair Agents Through the Lens of Traceability: An Empirical Study](https://arxiv.org/abs/2506.08311v2)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted for publication (ISSTA '26)</p></details> |
+| **[2-ASP(Q) programs with weak constraints: Complexity and efficient implementation](https://arxiv.org/abs/2605.27338v1)** | 2026-05-26 |  |
+| **[A Dynamic Programming Framework for Discovering Count and Values of Multilevel Image Thresholding](https://arxiv.org/abs/2605.27287v1)** | 2026-05-26 |  |
 
