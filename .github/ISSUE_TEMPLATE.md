@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 02, 2026
+title: Latest 15 Papers - June 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Knowledge Boundary Probing and Demand-Guided Intervention for LLM-Based Power System Code Generation](https://arxiv.org/abs/2605.31478v1)** | 2026-05-29 | <details><summary>43 pa...</summary><p>43 pages, 12 figures, includes supplementary material</p></details> |
-| **[Beyond Strict Rules: Assessing the Effectiveness of Large Language Models for Code Smell Detection](https://arxiv.org/abs/2601.09873v2)** | 2026-05-29 |  |
-| **[Reassessing Code Authorship Attribution in the Era of Language Models](https://arxiv.org/abs/2506.17120v2)** | 2026-05-29 | Accepted in TOSEM |
-| **[Learning Logical Operations for Arbitrary Quantum Error Correction Codes](https://arxiv.org/abs/2605.28162v2)** | 2026-05-29 | <details><summary>23 pa...</summary><p>23 pages, 12 figures, 5 tables</p></details> |
-| **[FEM-Bench: A Structured Scientific Reasoning Benchmark for Evaluating Code-Generating LLMs](https://arxiv.org/abs/2512.20732v2)** | 2026-05-29 | <details><summary>45 pa...</summary><p>45 pages, 5 figures, 9 tables, 7 listings</p></details> |
-| **[Geometric construction of k-optimal locally repairable codes](https://arxiv.org/abs/2605.31214v1)** | 2026-05-29 |  |
-| **[GoodVibe: Security-by-Vibe for LLM-Based Code Generation](https://arxiv.org/abs/2602.10778v2)** | 2026-05-29 |  |
-| **[Combinatorial Synthesis: Scaling Code RLVR via Atomic Decomposition and Recombination](https://arxiv.org/abs/2605.31058v1)** | 2026-05-29 | Work in progress |
-| **[CVE-Factory: Scaling Expert-Level Agentic Tasks for Code Security Vulnerability](https://arxiv.org/abs/2602.03012v3)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted by ICML2026 Oral</p></details> |
-| **[Learning to Solve and Optimize by Evolving Code](https://arxiv.org/abs/2605.31049v1)** | 2026-05-29 | <details><summary>Prepr...</summary><p>Preprint of a paper accepted to IJCAI26</p></details> |
-| **[UniRTL: Unifying Code and Graph for Robust RTL Representation Learning](https://arxiv.org/abs/2605.31040v1)** | 2026-05-29 | <details><summary>Forty...</summary><p>Forty-Third International Conference on Machine Learning (ICML 2026)</p></details> |
-| **[Augmented Lagrangian Predictive Coding](https://arxiv.org/abs/2605.31022v1)** | 2026-05-29 | 22 pages, 10 figures |
-| **[Float8@2bits: Entropy Coding Enables Data-Free Model Compression](https://arxiv.org/abs/2601.22787v2)** | 2026-05-29 | <details><summary>ICML ...</summary><p>ICML 2026. Code available at https://github.com/merantix-momentum/entquant</p></details> |
-| **[Chunking German Legal Code](https://arxiv.org/abs/2605.19806v2)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted at the Eigth Workshop on Automated Semantic Analysis of Information in Legal Texts co-located with the 21th International Conference on Artificial Intelligence and Law (ICAIL 2026)</p></details> |
-| **[Beyond 1$\to$N Decoding: Capacity-Aware Rateless Polar Codes for IR-HARQ](https://arxiv.org/abs/2605.30885v1)** | 2026-05-29 |  |
+| **[Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](https://arxiv.org/abs/2606.06492v1)** | 2026-06-04 |  |
+| **[Breakeven demonstration of quantum low-density parity-check codes](https://arxiv.org/abs/2606.06455v1)** | 2026-06-04 |  |
+| **[Scaffold, Not Vocabulary? A Controlled, Two-Tier, Pre-Registered Study of a Popperian Code-Generation Skill](https://arxiv.org/abs/2606.06454v1)** | 2026-06-04 | <details><summary>34 pa...</summary><p>34 pages, 5 figures, 8 tables</p></details> |
+| **[Reversible double cyclic codes over a chain ring](https://arxiv.org/abs/2606.06367v1)** | 2026-06-04 |  |
+| **[SecRL-Prune: Structured Reinforcement Learning-Based Pruning of CodeLLMs for Preserving Adversarial Code Mutation](https://arxiv.org/abs/2606.06254v1)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted at CODASPY 2026. 9 pages, 6 figures</p></details> |
+| **[Towards the Readability of LLM-Generated Codes through Multitask Representation Engineering](https://arxiv.org/abs/2606.06214v1)** | 2026-06-04 |  |
+| **[SpeechJBB: Probing Safety Alignment and Comprehension in Large Audio Language Models under Code-Switched Speech](https://arxiv.org/abs/2606.06037v1)** | 2026-06-04 |  |
+| **[On the Maximal Length of MDS Elliptic Codes](https://arxiv.org/abs/2605.29439v2)** | 2026-06-04 | <details><summary>Add R...</summary><p>Add Reference [16] given by Wang, Liu, Luo and Zhai in this updated version</p></details> |
+| **[Exploring the connection between coding habits and cognitive styles in malware developers](https://arxiv.org/abs/2606.05945v1)** | 2026-06-04 |  |
+| **[Asuka-Bench: Benchmarking Code Agents on Underspecified User Intent and Multi-Round Refinement](https://arxiv.org/abs/2606.05920v1)** | 2026-06-04 | under review |
+| **[Towards Truly Multilingual ASR: Generalizing Code-Switching ASR to Unseen Language Pairs](https://arxiv.org/abs/2606.05846v1)** | 2026-06-04 | <details><summary>ICML ...</summary><p>ICML 2026 Workshop on Machine Learning for Audio</p></details> |
+| **[Simple Power Analysis on Post-Quantum Code Based Cryptosystems](https://arxiv.org/abs/2605.17116v2)** | 2026-06-04 | <details><summary>2nd S...</summary><p>2nd Student Conference of Informatics & Telecommunications</p></details> |
+| **[Microskill Architecture: A Modular Skill-Driven Framework for AI-Native Code Generation](https://arxiv.org/abs/2606.05720v1)** | 2026-06-04 |  |
+| **[Learning Adaptive Parallel Execution for Efficient Code Localization](https://arxiv.org/abs/2601.19568v2)** | 2026-06-04 | <details><summary>Paper...</summary><p>Paper accepted to Findings of ACL 2026</p></details> |
+| **[When Surface Form Changes Moderation Decisions: A Paired Study of Code-Mixed Workflow Instability](https://arxiv.org/abs/2606.05654v1)** | 2026-06-04 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLMs Lean on Priors, Not Programming Language Semantics](https://arxiv.org/abs/2510.03415v3)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Answer-Set-Programming-based Abstractions for Reinforcement Learning](https://arxiv.org/abs/2605.31444v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted for publication at the 42nd International Conference on Logic Programming (ICLP 2026). To appear in Theory and Practice of Logic Programming (TPLP)</p></details> |
-| **[Reducing Arbitrary Metric Temporal Formulas into Logic Programs under Answer Set Semantics](https://arxiv.org/abs/2605.30618v1)** | 2026-05-28 |  |
-| **[Caspar: CUDA Accelerator for Symbolic Programming with Adaptive Reordering](https://arxiv.org/abs/2605.30583v1)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted at ICRA 2026</p></details> |
-| **[REPOT: Recoverable Program-of-Thought via Checkpoint Repair](https://arxiv.org/abs/2605.30052v1)** | 2026-05-28 |  |
-| **[Meta-Programming for Linear-time Temporal Answer Set Programming](https://arxiv.org/abs/2605.29965v1)** | 2026-05-28 |  |
-| **[Structure over Pixels: Learning Variable-Length Visual Programs](https://arxiv.org/abs/2605.27696v2)** | 2026-05-28 |  |
-| **[Solving Integer Linear Programming with Parallel Tempering](https://arxiv.org/abs/2605.29366v1)** | 2026-05-28 | <details><summary>Prepr...</summary><p>Preprint. Code available at https://github.com/ski-sim/ILP-with-ParallelTempering</p></details> |
-| **[Mixing Vector Model for Copolymer Inference via Mixed Integer Linear Programming](https://arxiv.org/abs/2605.29329v1)** | 2026-05-28 |  |
-| **[Grammar-Aware Literate Generative Mathematical Programming with Compiler-in-the-Loop](https://arxiv.org/abs/2601.17670v2)** | 2026-05-28 | 18 pages, 7 figures |
-| **[From Historical Patches to Repair Plans: Outcome-Conditioned Reasoning for Repository-Level Program Repair](https://arxiv.org/abs/2601.23257v2)** | 2026-05-27 | <details><summary>ICML ...</summary><p>ICML 2026,17 pages, 3 figures, 5 tables</p></details> |
-| **[Test-Time Compute for Dense Retrieval: Agentic Program Generation with Frozen Embedding Models](https://arxiv.org/abs/2605.11374v4)** | 2026-05-27 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 5 tables</p></details> |
-| **[Solving Positive Linear Programs with Differential Privacy](https://arxiv.org/abs/2604.26838v2)** | 2026-05-27 |  |
-| **[LACUNA: Safe Agents as Recursive Program Holes](https://arxiv.org/abs/2605.28617v1)** | 2026-05-27 |  |
-| **[Improving Evaluation of Recombination-based Cartesian Genetic Programming](https://arxiv.org/abs/2605.28353v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted for presentation as workshop paper in the graph-based genetic programming workshop (GGP) at the Genetic and Evolutionary Computation Conference (GECCO). To appear in the GECCO'26 conference companion. GECCO'26 will be held July 13-17, 2026 in San Jose, Costa Rica</p></details> |
+| **[A Study of LLMs' Preferences for Libraries and Programming Languages](https://arxiv.org/abs/2503.17181v4)** | 2026-06-04 | <details><summary>21 pa...</summary><p>21 pages, 10 tables, 3 figures. Accepted to Findings of ACL 2026</p></details> |
+| **[Misquoted No More: Securely Extracting F* Programs with IO](https://arxiv.org/abs/2602.19973v3)** | 2026-06-04 | <details><summary>Condi...</summary><p>Conditionally accepted at ICFP'26, improved version including new section on refinement types</p></details> |
+| **[Cross-scale spatially-aware generative modeling of transcriptomic programs underlying neurodegenerative brain organization](https://arxiv.org/abs/2606.05870v1)** | 2026-06-04 | 26 pages, 5 figures |
+| **[Diff2SP: Diffusion Models for Correlated Scenario Generation in Stochastic Programming](https://arxiv.org/abs/2606.05649v1)** | 2026-06-04 |  |
+| **[Using Large Language Models to Support High Volume Application Review for an Undergraduate Research Program](https://arxiv.org/abs/2606.05564v1)** | 2026-06-04 |  |
+| **[STMutants: A Mutation Testing Dataset for Structured Text Programs in Industrial Automation](https://arxiv.org/abs/2606.05499v1)** | 2026-06-03 |  |
+| **[The Fair Lending Model: How the Longest-Running Algorithmic Fairness Programs Work in Practice](https://arxiv.org/abs/2606.02957v2)** | 2026-06-03 | <details><summary>To be...</summary><p>To be published at FAccT 2026. Emily Black, Miranda Bogen, and Logan Koepke contributed equally</p></details> |
+| **[Mutation Without Variation: Convergence Dynamics in LLM-Driven Program Evolution](https://arxiv.org/abs/2606.05408v1)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted to the Genetic and Evolutionary Computation Conference (GECCO '26) Workshop on Large Language Models for and with Evolutionary Computation</p></details> |
+| **[Incremental Computation for Efficient Programmable Inference in Probabilistic Programs](https://arxiv.org/abs/2606.05348v1)** | 2026-06-03 | <details><summary>Full ...</summary><p>Full version of the PLDI 2026 article, including proofs and other supplementary material</p></details> |
+| **[Contextual Scenario Generation for Two-Stage Stochastic Programming](https://arxiv.org/abs/2502.05349v2)** | 2026-06-03 | 79 pages, 12 figures |
+| **[Where Do Large Language Models Fail on Competitive Programming? A Taxonomy of Failures by Algorithm Type and Difficulty Rating](https://arxiv.org/abs/2606.05228v1)** | 2026-06-02 | 12 pages, 4 figures |
+| **[Modeling Deontic Modal Logic in the s(CASP) Goal-directed Predicate Answer Set Programming System](https://arxiv.org/abs/2507.05519v9)** | 2026-06-02 | <details><summary>Will ...</summary><p>Will appear in as a Technical Communication in the 42nd International Conference on Logic Programming (ICLP 2026)</p></details> |
+| **[APX-Hardness of Computing Lipschitz Constants for Multi-Parametric Quadratic Programs](https://arxiv.org/abs/2606.03862v1)** | 2026-06-02 |  |
+| **[Leveraging BART to Assess CS1 C++ Programming Assignments using Rubric-based Criteria](https://arxiv.org/abs/2606.03814v1)** | 2026-06-02 |  |
+| **[TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics](https://arxiv.org/abs/2606.03626v1)** | 2026-06-02 | <details><summary>ACL F...</summary><p>ACL Findings 2026 paper</p></details> |
 
