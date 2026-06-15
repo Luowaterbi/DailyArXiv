@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 14, 2026
+title: Latest 15 Papers - June 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,26 +7,31 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Edit the Bits, Diff the Codes: Bitwise Residual Editing for Visual Autoregressive Models](https://arxiv.org/abs/2606.13558v1)** | 2026-06-11 |  |
-| **[$W-δ-μ$ dual codes and LCD codes](https://arxiv.org/abs/2606.13467v1)** | 2026-06-11 |  |
-| **[Toward Instructions-as-Code: Understanding the Impact of Instruction Files on Agentic Pull Requests](https://arxiv.org/abs/2606.13449v1)** | 2026-06-11 | <details><summary>5 pag...</summary><p>5 pages, 8 figures, 23rd International Conference on Mining Software Repositories, April 13--14, 2026</p></details> |
-| **[A $q$-analogue of the rational normal curve and linearized Reed-Solomon codes](https://arxiv.org/abs/2606.13246v1)** | 2026-06-11 | 28 pages, 2 figures |
-| **[The End of Code Review: Coding Agents Supersede Human Inspection](https://arxiv.org/abs/2606.13175v1)** | 2026-06-11 |  |
-| **[Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents](https://arxiv.org/abs/2606.13174v1)** | 2026-06-11 |  |
-| **[Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents](https://arxiv.org/abs/2606.13097v1)** | 2026-06-11 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Bounds and Constructions of Maximum Toroidal Distance Codes](https://arxiv.org/abs/2606.13008v1)** | 2026-06-11 | 30 pages |
-| **[On perfect flag-rank metric codes](https://arxiv.org/abs/2606.12934v1)** | 2026-06-11 |  |
-| **[Beyond Problem Solving: UOJ-Bench for Evaluating Code Generation, Hacking, and Repair in Competitive Programming](https://arxiv.org/abs/2606.12864v1)** | 2026-06-11 |  |
-| **[JSCGC: Joint Source-Channel-Generation Coding for Wireless Generative Communications](https://arxiv.org/abs/2606.12858v1)** | 2026-06-11 | <details><summary>submi...</summary><p>submitted to IEEE Journal</p></details> |
-| **[HalluJudge: A Reference-Free Hallucination Detection for Context Misalignment in Code Review Automation](https://arxiv.org/abs/2601.19072v3)** | 2026-06-11 | <details><summary>Accep...</summary><p>Accepted at FSE'26: Industry Track, Full-Length, Peer-Reviewed</p></details> |
-| **[VISTA: An End-to-End Benchmark for Visual Spec-to-Web-App Coding Agents](https://arxiv.org/abs/2605.26144v2)** | 2026-06-11 | <details><summary>Proje...</summary><p>Project page: https://kaboider.github.io/VIS_APP/; Code: https://github.com/kaboider/VIS_APP_Code; Dataset: https://huggingface.co/datasets/JunJiaGuo/VIS-APP-Bench</p></details> |
-| **[Detecting Functional Memorization in Code Language Models](https://arxiv.org/abs/2606.12764v1)** | 2026-06-11 |  |
-| **[HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](https://arxiv.org/abs/2606.12620v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted to LREC 2026</p></details> |
+| **[Asymptotically Optimal Codes for Correcting Burst Deletions and Insertions in Labeled DNA Sequences](https://arxiv.org/abs/2606.14573v1)** | 2026-06-12 |  |
+| **[Nonlinear Skew Quasi-Cyclic Codes](https://arxiv.org/abs/2502.07242v2)** | 2026-06-12 | 20 Pages |
+| **[Code Correctness Signals in LLM Hidden States: Pre-Generation Probing and Repair Geometry](https://arxiv.org/abs/2606.14530v1)** | 2026-06-12 | <details><summary>12 pa...</summary><p>12 pages, 8 tables. Code, data, and analysis scripts available at https://github.com/CarloDiCicco/ReasoningLab</p></details> |
+| **[SemPiper: Interactive Code Synthesis for Semantic Operators in Machine Learning Pipelines](https://arxiv.org/abs/2606.14361v1)** | 2026-06-12 | <details><summary>Accep...</summary><p>Accepted at VLDB 2026 (Demonstrations track)</p></details> |
+| **[No Accidental Software Agent First Canonical Code for Human Code Entropy Reduction and 30 to 500 times Lower Frontier Model Requirements](https://arxiv.org/abs/2606.14357v1)** | 2026-06-12 | 36 pages |
+| **[Efficient Code Analysis via Graph Representation Learning-Guided Large Language Models](https://arxiv.org/abs/2601.12890v3)** | 2026-06-12 |  |
+| **[Quo Vadis, Code Review? Exploring the Future of Code Review](https://arxiv.org/abs/2508.06879v6)** | 2026-06-12 | <details><summary>Accep...</summary><p>Accepted at EASE 2026</p></details> |
+| **[Sharp Bounds and New Constructions for Single-Error Detection and Correction in Analog Codes](https://arxiv.org/abs/2606.03011v2)** | 2026-06-12 | 21 pages, 4 figures |
+| **[Block Tensor Rank of Sum-Rank Metric Codes](https://arxiv.org/abs/2606.14205v1)** | 2026-06-12 |  |
+| **[Practical Low-Weight Codes for Energy-Efficient Bus Encoding](https://arxiv.org/abs/2606.14203v1)** | 2026-06-12 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Communications, 2026</p></details> |
+| **[Symmetric Entropy-Constrained Video Coding for Machines](https://arxiv.org/abs/2510.15347v3)** | 2026-06-12 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Image Processing. This is the author's accepted manuscript (AAM)</p></details> |
+| **[SkillMutator: Benchmarking and Defending Language-and-Code Cross-modal Attacks on LLM Agent Skills](https://arxiv.org/abs/2606.14154v1)** | 2026-06-12 |  |
+| **[FastContext: Training Efficient Repository Explorer for Coding Agents](https://arxiv.org/abs/2606.14066v1)** | 2026-06-12 | 34 pages, 7 figures |
+| **[LLM Agents Can See Code Repositories](https://arxiv.org/abs/2606.14061v1)** | 2026-06-12 | <details><summary>ASE 2...</summary><p>ASE 2026. Our code and data are available at https://github.com/cslsolow/SeeRepo</p></details> |
+| **[Dialogue SWE-Bench: A Benchmark for Dialogue-Driven Coding Agents](https://arxiv.org/abs/2606.13995v1)** | 2026-06-12 | 22 pages, 13 figures |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Empowering Student Debugging in Parallel Programming with Execution Traces and Large Language Models](https://arxiv.org/abs/2606.14607v1)** | 2026-06-12 |  |
+| **[Simulating Students' Java Programming Errors with Large Language Models](https://arxiv.org/abs/2606.14113v1)** | 2026-06-12 |  |
+| **[On the Generalization Bounds of Symbolic Regression with Genetic Programming](https://arxiv.org/abs/2604.17402v2)** | 2026-06-12 | <details><summary>Accep...</summary><p>Accepted for PPSN2026</p></details> |
+| **[The Program Is Still There: A Conservation Law for Program Discovery](https://arxiv.org/abs/2606.13799v1)** | 2026-06-11 | <details><summary>9 pag...</summary><p>9 pages main text and 33 pages supporting information. Engine source and full sweep data: https://github.com/jorgeMFS/omnis, archived at doi:10.5281/zenodo.20634984</p></details> |
 | **[Specifying Hardware Communication as Programs](https://arxiv.org/abs/2606.13659v1)** | 2026-06-11 |  |
+| **[Do programming languages still matter to your AI coding agent teammate? Evidence at scale from chess engines](https://arxiv.org/abs/2606.13763v1)** | 2026-06-11 |  |
 | **[Beyond Problem Solving: UOJ-Bench for Evaluating Code Generation, Hacking, and Repair in Competitive Programming](https://arxiv.org/abs/2606.12864v1)** | 2026-06-11 |  |
 | **[On the Limits of Performance Portability in Directive-Based GPU Programming](https://arxiv.org/abs/2606.12753v1)** | 2026-06-10 | <details><summary>8 pag...</summary><p>8 pages, 1 plots, 5 tables</p></details> |
 | **[Examining the Usage of Generative AI Models in Student Learning Activities for Software Programming](https://arxiv.org/abs/2511.13271v2)** | 2026-06-10 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, published at AIWARE 2025</p></details> |
@@ -36,9 +41,4 @@ labels: documentation
 | **[On finding exact solutions of linear programs in the oracle model](https://arxiv.org/abs/2606.11820v1)** | 2026-06-10 |  |
 | **[Representing Time Series as Structured Programs for LLM Reasoning](https://arxiv.org/abs/2606.12481v1)** | 2026-06-10 | Preprint |
 | **[MPK: A Compiler and Runtime for Mega-Kernelizing Tensor Programs](https://arxiv.org/abs/2512.22219v2)** | 2026-06-10 | 14 pages |
-| **[Frontier Coding Agents Use Metaprogramming to Adapt to Unfamiliar Programming Languages](https://arxiv.org/abs/2606.10933v1)** | 2026-06-09 | 43 pages, 8 figures |
-| **[Viable Supply Chain Network Design: Machine Learning-Derived Chance-Constrained Programming](https://arxiv.org/abs/2606.10766v1)** | 2026-06-09 |  |
-| **[Multilingual Word-Level Forced Alignment with Self-Supervised Representations and Learned Dynamic Programming](https://arxiv.org/abs/2606.10675v1)** | 2026-06-09 | Interspeech 2026 |
-| **[Answer Set Programming for Egg Extraction and More](https://arxiv.org/abs/2606.10644v1)** | 2026-06-09 | <details><summary>To be...</summary><p>To be presented at EGRAPHS 2026</p></details> |
-| **[Minimalist Genetic Programming](https://arxiv.org/abs/2606.10237v1)** | 2026-06-08 |  |
 
