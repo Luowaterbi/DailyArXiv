@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 25, 2026
+title: Latest 15 Papers - June 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments](https://arxiv.org/abs/2606.26094v1)** | 2026-06-24 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 22 appendix pages</p></details> |
-| **[Low-code and no-code with BESSER to create and deploy smart web applications](https://arxiv.org/abs/2605.07376v2)** | 2026-06-24 | <details><summary>Publi...</summary><p>Published in the tool track of the International Conference on Web Engineering (ICWE 2026)</p></details> |
-| **[A Low-Code Approach for the Automatic Personalization of Conversational Agents](https://arxiv.org/abs/2605.02384v3)** | 2026-06-24 | <details><summary>Publi...</summary><p>Published in the main track of the International Conference on Web Engineering (ICWE 2026)</p></details> |
-| **[Non-Reed-Solomon Type MDS Codes from Elliptic Curves](https://arxiv.org/abs/2509.04247v3)** | 2026-06-24 |  |
-| **[CodeChat-Eval: Evaluating Large Language Models in Multi-Turn Code Refinement Dialogues](https://arxiv.org/abs/2606.25747v1)** | 2026-06-24 | Accepted by ICSME26 |
-| **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v3)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
-| **[Classification of LCD and self-dual codes over a finite non-unital local ring](https://arxiv.org/abs/2501.03016v3)** | 2026-06-24 | 20 pages |
-| **[The MDS or NMDS for Modified GRS codes with flexible hull dimensions and lengths](https://arxiv.org/abs/2606.25662v1)** | 2026-06-24 | 30pages |
-| **[Agent-as-a-Router: Agentic Model Routing for Coding Tasks](https://arxiv.org/abs/2606.22902v2)** | 2026-06-24 | <details><summary>39 pa...</summary><p>39 pages, 21 figures, a living technical report with a living benchmark that continuously updates</p></details> |
-| **[The Condition for Structured Coding to Improve Random Coding in the Binary Modulo-sum Problem](https://arxiv.org/abs/2606.25570v1)** | 2026-06-24 | 18 pages, 1 figure |
-| **[On the Viability of Requirements Generation From Code: An Experience Report](https://arxiv.org/abs/2606.25550v1)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted for publication at the 13th International Workshop on Artificial Intelligence and Requirements Engineering (AIRE'26)</p></details> |
-| **[A Path-Survival Analytical Framework for SCL Decoding of Polar Code](https://arxiv.org/abs/2606.25522v1)** | 2026-06-24 | 8 pages, 9 figures |
-| **[Modulo Quantization Coding for Primitive Relay and Diamond Channels with Correlated Noises](https://arxiv.org/abs/2606.22313v2)** | 2026-06-24 | <details><summary>35 pa...</summary><p>35 pages, 10 figures, submitted to IEEE Transactions on Information Theory</p></details> |
-| **[LibEvoBench: Probing Temporal Knowledge Stratification in Code Generation Models](https://arxiv.org/abs/2606.25402v1)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted at the DL4Code workshop at ICML 2026</p></details> |
-| **[Rethinking Technology Stack Selection with AI Coding Proficiency](https://arxiv.org/abs/2509.11132v2)** | 2026-06-24 | 13 pages |
+| **[Beyond Surface Forms: A Comprehensive, Mechanism-Oriented Taxonomy of Indirect Linguistic Encoding for LLM-Based Coded Language Detection](https://arxiv.org/abs/2606.27314v1)** | 2026-06-25 | <details><summary>Submi...</summary><p>Submitted for review in ARR for EMNLP 2026</p></details> |
+| **[Quantum group codes for non-Clifford logic: enhanced decoding, addressability and parallelizability](https://arxiv.org/abs/2606.27211v1)** | 2026-06-25 |  |
+| **[Linear Code Conversion in the Merge Regime: General Bounds and Reed--Muller Constructions](https://arxiv.org/abs/2606.27179v1)** | 2026-06-25 |  |
+| **[Rate-2/3 Girth-8 (3,18)-Regular Quantum LDPC Codes from Two-Branch Finite-Field Bases and CPM Lifts](https://arxiv.org/abs/2606.27130v1)** | 2026-06-25 | 12 pages, 2 figures |
+| **[Learning State-Tracking from Code Using Linear RNNs](https://arxiv.org/abs/2602.14814v3)** | 2026-06-25 |  |
+| **[The Spec Growth Engine: Spec-Anchored, Code-Coupled, Drift-Enforced Architecture for AI-Assisted Software Development](https://arxiv.org/abs/2606.27045v1)** | 2026-06-25 |  |
+| **[Type-Error Ablation and AI Coding Agents](https://arxiv.org/abs/2606.01522v2)** | 2026-06-25 |  |
+| **[How Much Static Structure Do Code Agents Need? A Study of Deterministic Anchoring](https://arxiv.org/abs/2606.26979v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted to the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026). 21 pages</p></details> |
+| **[To Run or Not to Run: Analyzing the Cost-Effectiveness of Code Execution in LLM-Based Program Repair](https://arxiv.org/abs/2606.26978v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted to the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026). 23 pages</p></details> |
+| **[A Deterministic Control Plane for LLM Coding Agents](https://arxiv.org/abs/2606.26924v1)** | 2026-06-25 | <details><summary>45 pa...</summary><p>45 pages, 9 figures, 13 tables. Dataset and reproduction scripts: Zenodo DOI 10.5281/zenodo.20780913. Ancillary files include report.json, organizations.txt, and figure-reproduction scripts</p></details> |
+| **[A $q$-ary Local Criterion for the Radius-One Limited Permutation Channel and Almost-Optimal Binary Block-Concatenation Codes](https://arxiv.org/abs/2606.26905v1)** | 2026-06-25 | 36 pages |
+| **[The Star Product of Uniformly Random Codes](https://arxiv.org/abs/2511.17236v2)** | 2026-06-25 |  |
+| **[Symmetric Entropy-Constrained Video Coding for Machines](https://arxiv.org/abs/2510.15347v4)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Image Processing. This is the author's accepted manuscript (AAM)</p></details> |
+| **[From Guessing to Placeholding: A Cost-Theoretic Framework for Uncertainty-Aware Code Completion](https://arxiv.org/abs/2604.01849v2)** | 2026-06-25 |  |
+| **[Tight Lower Bounds and Optimal Constructions of Locally Repairable Convertible Codes in the Split Regime](https://arxiv.org/abs/2606.26742v1)** | 2026-06-25 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[To Run or Not to Run: Analyzing the Cost-Effectiveness of Code Execution in LLM-Based Program Repair](https://arxiv.org/abs/2606.26978v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted to the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026). 23 pages</p></details> |
+| **[Evaluation-Strategy Gap in Fault Diagnosis of Deep Learning Programs](https://arxiv.org/abs/2606.26492v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted research track paper in the 42nd IEEE International Conference on Software Maintenance and Evolution (ICSME 2026)</p></details> |
+| **[A Typestate Approach to Purpose-aware Programming](https://arxiv.org/abs/2606.26386v1)** | 2026-06-24 | <details><summary>14 pa...</summary><p>14 pages. Preprint of a paper to appear in the proceedings of FTfJP 2026</p></details> |
+| **[Axon: A Synthesizing Superoptimizer for Tensor Programs](https://arxiv.org/abs/2606.26344v1)** | 2026-06-24 |  |
+| **[A Survey of Quantum Programming Languages](https://arxiv.org/abs/2606.26254v1)** | 2026-06-24 | <details><summary>27 pa...</summary><p>27 pages, 17 figures, 6 tables</p></details> |
 | **[AutoSpec: Safety Rule Evolution for LLM Agents via Inductive Logic Programming](https://arxiv.org/abs/2606.24245v2)** | 2026-06-24 |  |
 | **[Distilling Answer-Set Programming Rules from LLMs for Neurosymbolic Visual Question Answering](https://arxiv.org/abs/2606.03269v2)** | 2026-06-24 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
+| **[AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs](https://arxiv.org/abs/2606.26173v1)** | 2026-06-24 |  |
 | **[Fully Differentiable Neural Forced Alignment via Soft Dynamic Programming](https://arxiv.org/abs/2606.25460v1)** | 2026-06-24 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for a possible publication</p></details> |
 | **[TabClean: Reusable LLM-Synthesized Programs for Tabular Data Cleaning](https://arxiv.org/abs/2606.25388v1)** | 2026-06-24 | 13 pages |
 | **[Learning Optimization Proxies for Sequential Contextual Stochastic Programs: An Order Fulfillment Application](https://arxiv.org/abs/2606.25362v1)** | 2026-06-24 |  |
 | **[Representation Matters: An Empirical Study of Program Representations for LLM Vulnerability Reasoning](https://arxiv.org/abs/2606.25356v1)** | 2026-06-24 | 34 pages, 4 figures |
 | **[LLM Program Optimization via Retrieval Augmented Search](https://arxiv.org/abs/2501.18916v2)** | 2026-06-23 | ACL 2026 Findings |
+| **[Kiko: Programming Agents to Enact Interaction Protocols](https://arxiv.org/abs/2606.26156v1)** | 2026-06-23 |  |
 | **[Parallel Dynamic Programming for Conic Linear Quadratic Control](https://arxiv.org/abs/2606.24632v1)** | 2026-06-23 | <details><summary>This ...</summary><p>This paper was accepted for presentation at the IFAC World Congress 2026 (IFAC WC 2026)</p></details> |
-| **[Development of a Programming Based Kinetic Model for Two Stage Composting of Solid Waste](https://arxiv.org/abs/2606.24556v1)** | 2026-06-23 |  |
-| **[Exact Evaluation of Probabilistic Programs with Cylindrical Algebraic Decomposition](https://arxiv.org/abs/2606.24514v1)** | 2026-06-23 | <details><summary>Full ...</summary><p>Full version of QEST+FORMATS 2026 paper</p></details> |
-| **[Not All Invariants Are Equal: Curating Training Data to Accelerate Program Verification with SLMs](https://arxiv.org/abs/2603.15510v2)** | 2026-06-23 | <details><summary>A pre...</summary><p>A preprint of the ICML 2026 paper with the same title</p></details> |
-| **[Fix Initial Programs and Iteratively Refine Repair Instructions Toward Non-Elimination Multi-Turn Program Correction](https://arxiv.org/abs/2604.23989v2)** | 2026-06-23 |  |
-| **[Scalable Probabilistic Program Verification via Typed Extended Decision Diagrams](https://arxiv.org/abs/2606.15043v3)** | 2026-06-23 |  |
-| **[ESBMC-GraphPLC: Formal Verification of Graphical PLCopen XML Ladder Diagram Programs Using SMT-Based Model Checking](https://arxiv.org/abs/2606.18941v3)** | 2026-06-22 | 18 pages |
-| **[Privacy-preserving federated tensor decomposition of single-cell immune data: recovering multicellular programs across institutions](https://arxiv.org/abs/2606.24938v1)** | 2026-06-22 |  |
 
