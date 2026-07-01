@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 30, 2026
+title: Latest 15 Papers - July 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PyMETA: A Benchmark Dataset for Hierarchical Student Code Error Classification with Python-Interpreter-Based Labels](https://arxiv.org/abs/2606.30610v1)** | 2026-06-29 | <details><summary>23 pa...</summary><p>23 pages, 15 figures, 23 tables</p></details> |
-| **[Words Speak Louder Than Code: Investigating Cognitive Heuristics in LLM-Based Code Vulnerability Detection](https://arxiv.org/abs/2606.30587v1)** | 2026-06-29 |  |
-| **[SWE-INTERACT: Reimagining SWE Benchmarks as User-Driven Long-Horizon Coding Sessions](https://arxiv.org/abs/2606.30573v1)** | 2026-06-29 | - |
-| **[TraceLab: Characterizing Coding Agent Workloads for LLM Serving](https://arxiv.org/abs/2606.30560v1)** | 2026-06-29 |  |
-| **[To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion Tools Using Behavioral Signals and Attention Checks](https://arxiv.org/abs/2606.30549v1)** | 2026-06-29 | <details><summary>7 pag...</summary><p>7 pages. Accepted for publication in the Proceedings of the 31st ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE 2026), Madrid, Spain, July 10-15, 2026. Author's accepted manuscript</p></details> |
-| **[Design of Outage-Limit-Approaching Protograph LDPC Codes via Generalized Rootchecks](https://arxiv.org/abs/2602.01555v2)** | 2026-06-29 | <details><summary>This ...</summary><p>This version corrects a code design error in the conference manuscript (ISIT 2026). The systematic-code constraint (full-rank parity submatrix) was inadvertently omitted during the design phase. As a result, the gap to the outage limit is 0.8 dB (not 0.1 dB as claimed in the conference version). All other core contributions remain intact</p></details> |
-| **[Binary and Non-Binary Self-Dual Sequences and Maximum Period Single-Track Gray Codes](https://arxiv.org/abs/2512.09655v3)** | 2026-06-29 |  |
-| **[On symbol-pair distance of repeated-root constacyclic codes of length $4p^s$ over $\mathbb{F}_{p^m}+u\mathbb{F}_{p^m}+u^2\mathbb{F}_{p^m}$](https://arxiv.org/abs/2606.30212v1)** | 2026-06-29 |  |
-| **[Latroids and code invariants](https://arxiv.org/abs/2503.03010v2)** | 2026-06-29 | 31 pages |
-| **[SWE-Together: Evaluating Coding Agents in Interactive User Sessions](https://arxiv.org/abs/2606.29957v1)** | 2026-06-29 |  |
-| **[The Verification Horizon: No Silver Bullet for Coding Agent Rewards](https://arxiv.org/abs/2606.26300v2)** | 2026-06-29 | <details><summary>Autho...</summary><p>Authors are listed alphabetically by their first names</p></details> |
-| **[Integer sequences that are generalized weights of a linear code](https://arxiv.org/abs/2307.06595v2)** | 2026-06-29 | <details><summary>19 pa...</summary><p>19 pages, to appear in Designs, Codes and Cryptography</p></details> |
-| **[SrDetection: A Self-Referential Framework for Data Leakage Detection in Code Large Language Models](https://arxiv.org/abs/2606.29815v1)** | 2026-06-29 |  |
-| **[Machine Learning for Coding Retail Product Names to Consumer-Price Categories: A Rule-plus-Bag-of-Words Pipeline with Reliability-Weighted Human-in-the-Loop Labeling](https://arxiv.org/abs/2606.02004v3)** | 2026-06-29 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, 3 tables. Reproducible synthetic benchmark; code and data at doi:10.5281/zenodo.20909563</p></details> |
-| **[A Path-Survival Analytical Framework for SCL Decoding of Polar Codes](https://arxiv.org/abs/2606.25522v2)** | 2026-06-29 | 8 pages, 9 figures |
+| **[AxDafny: Agentic Verified Code Generation in Dafny](https://arxiv.org/abs/2606.32007v1)** | 2026-06-30 |  |
+| **[Spatially Coupled MacKay-Neal/Hsu-Anastasopoulos CSS Codes Achieve the Quantum-Erasure Hashing Bound by Seeded BP Decoding](https://arxiv.org/abs/2606.32001v1)** | 2026-06-30 | 29 pages, 8 figures |
+| **[CoCoMUT: A Tool for Code-Context Mining and Automated Dataset Generation](https://arxiv.org/abs/2606.31971v1)** | 2026-06-30 | <details><summary>5 pag...</summary><p>5 pages, 1 figure. Submitted to ISSTA 2026 Tool Track</p></details> |
+| **[SpecDetect4ML: Detecting Non-Local ML Code Smells with Code Property Graphs](https://arxiv.org/abs/2509.20491v3)** | 2026-06-30 |  |
+| **[Diff-Based Code Corruption using LLMs for Large-Scale Bugfix Benchmarking](https://arxiv.org/abs/2606.29088v2)** | 2026-06-30 |  |
+| **[TraceLab: Characterizing Coding Agent Workloads for LLM Serving](https://arxiv.org/abs/2606.30560v2)** | 2026-06-30 |  |
+| **[How to Compare the Security of Code Written by Humans to LLM-generated Code](https://arxiv.org/abs/2606.00186v2)** | 2026-06-30 |  |
+| **[UniCoder: Unified Visual-to-Code Generation via Symbolic Rewards and Reference-Guided Code Optimization](https://arxiv.org/abs/2606.31732v1)** | 2026-06-30 |  |
+| **[Do Machines Struggle Where Humans Do? LLM and Human Comprehension of Obfuscated Code](https://arxiv.org/abs/2606.31725v1)** | 2026-06-30 | 13 pages, 15 figures |
+| **[An Iterative Test-and-Repair Framework for Competitive Code Generation](https://arxiv.org/abs/2604.05560v2)** | 2026-06-30 |  |
+| **[Sensitivity Lower Bounds via Locally Testable Codes](https://arxiv.org/abs/2606.31657v1)** | 2026-06-30 |  |
+| **[CodeChat-Eval: Evaluating Large Language Models in Multi-Turn Code Refinement Dialogues](https://arxiv.org/abs/2606.25747v2)** | 2026-06-30 | Accepted by ICSME26 |
+| **[Digital signature schemes based on code equivalence and syndrome decoding from restricted errors](https://arxiv.org/abs/2606.31601v1)** | 2026-06-30 |  |
+| **[Falsification, Not Exposure: An Internally Preregistered Placebo-Controlled Decomposition of Self-Repair Feedback in Frozen Small Code Models](https://arxiv.org/abs/2606.31511v1)** | 2026-06-30 | <details><summary>39 pa...</summary><p>39 pages, 5 figures, 14 tables</p></details> |
+| **[Self-Dual Cyclic Codes with Improved Minimum Distance Estimates via Extending the Chen-Ding Construction](https://arxiv.org/abs/2606.31294v1)** | 2026-06-30 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evaluation of Population Initialization Methods for Genetic Programming-based Symbolic Regression](https://arxiv.org/abs/2606.31990v1)** | 2026-06-30 | <details><summary>15 pa...</summary><p>15 pages. Accepted for publication at EUROCAST 2026: 20th International Conference on Computer Aided Systems Theory</p></details> |
+| **[ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System](https://arxiv.org/abs/2602.13692v3)** | 2026-06-30 |  |
+| **[Calibration, Not Compilation: Detecting and Repairing Misspecified Probabilistic Programs Written by Language Models](https://arxiv.org/abs/2606.31630v1)** | 2026-06-30 |  |
+| **[Performance Analysis in Parallel Programming Education: A Comparative Usability Study](https://arxiv.org/abs/2606.31458v1)** | 2026-06-30 | <details><summary>PARS ...</summary><p>PARS Workshop 2025, Preprint</p></details> |
+| **[Meta-Programming for Linear-time Temporal Answer Set Programming](https://arxiv.org/abs/2605.29965v2)** | 2026-06-30 |  |
+| **[Programming Backpropagation with Reverse Handlers for Arrows](https://arxiv.org/abs/2602.18090v2)** | 2026-06-30 |  |
+| **[Debugging as Evidence-Driven Reasoning: Visualization Opportunities in Data-Intensive Programming](https://arxiv.org/abs/2606.30884v1)** | 2026-06-29 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, submitted to IEEE VIS conference</p></details> |
+| **[Neural Signatures of Programming Expertise: Classifying Programmer Skill Levels Using EEG Data](https://arxiv.org/abs/2606.30879v1)** | 2026-06-29 |  |
+| **[When Do Staging Annotations Preserve Semantics? Mechanizing Typed Semantics-Preserving Multi-Stage Programming with Let-Insertion (Extended Version)](https://arxiv.org/abs/2606.30854v1)** | 2026-06-29 | <details><summary>29 pa...</summary><p>29 pages; preprint of paper accepted at OOPSLA 2026</p></details> |
+| **[Robustness-Based Synthesis for Time Window Temporal Logic Specifications via Mixed-Integer Linear Programming](https://arxiv.org/abs/2606.30820v1)** | 2026-06-29 |  |
 | **[Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers](https://arxiv.org/abs/2606.30547v1)** | 2026-06-29 |  |
 | **["Why Put in This Much Effort?": How AI Availability Shapes Students' Motivation in Introductory Programming](https://arxiv.org/abs/2606.30480v1)** | 2026-06-29 |  |
 | **[Explaining Attention with Program Synthesis](https://arxiv.org/abs/2606.19317v2)** | 2026-06-29 |  |
 | **[See and Switch: Vision-Based Branching for Interactive Robot-Skill Programming](https://arxiv.org/abs/2603.08057v2)** | 2026-06-29 | 8 pages, 9 figures |
 | **[MirrorCode: AI can rebuild entire programs from behavior alone](https://arxiv.org/abs/2606.30182v1)** | 2026-06-29 | <details><summary>34 pa...</summary><p>34 pages, 13 figures, 9 tables. Code available at https://github.com/epoch-research/MirrorCode</p></details> |
-| **[Reactive Graphs for Efficient Markov Chain Monte Carlo Inference in Probabilistic Programming Languages](https://arxiv.org/abs/2606.30137v1)** | 2026-06-29 | 12 pages, 7 figures |
-| **[Distilling Neuro-Symbolic Programs into 3D Multi-modal LLMs](https://arxiv.org/abs/2606.01215v2)** | 2026-06-29 | <details><summary>To ap...</summary><p>To appear in ICML 2026</p></details> |
-| **[Optimizing Nursing Care Taxi Dispatch Leveraging Integer Linear Programming Solvers and Machine Learning](https://arxiv.org/abs/2606.29725v1)** | 2026-06-29 | <details><summary>An ac...</summary><p>An accepted journal article on IEEE Transactions on Intelligent Transportation Systems. The project page: https://mc.net.ist.osaka-u.ac.jp/en/projects/crest/</p></details> |
-| **[CLMASP: Coupling Large Language Models with Answer Set Programming for Robotic Task Planning](https://arxiv.org/abs/2406.03367v2)** | 2026-06-28 | <details><summary>9 pag...</summary><p>9 pages, accepted to IJCAI 2025 Main Track</p></details> |
-| **[Exploring the Value of Diverse LLM Explanations in Introductory Programming](https://arxiv.org/abs/2606.28882v1)** | 2026-06-27 | <details><summary>7 pag...</summary><p>7 pages, 4 figures; accepted to SIGCSE Virtual 2026</p></details> |
-| **[KoAT: Automatic Complexity and Termination Analysis of Integer Programs](https://arxiv.org/abs/2606.28542v1)** | 2026-06-26 | CAV'26 |
-| **[Relating Reinforcement Learning to Dynamic Programming-Based Planning](https://arxiv.org/abs/2603.07844v2)** | 2026-06-26 | <details><summary>43 pa...</summary><p>43 pages, 8 figures, World Symposium on the Algorithmic Foundations of Robotics (WAFR 2026); added requested reviewer changes</p></details> |
-| **[Prophecy-Based Automated Verification of Message-Passing Programs](https://arxiv.org/abs/2606.28066v1)** | 2026-06-26 |  |
-| **[Distilling Answer-Set Programming Rules from LLMs for Neurosymbolic Visual Question Answering](https://arxiv.org/abs/2606.03269v3)** | 2026-06-26 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
-| **[Dockerless: Environment-Free Program Verifier for Coding Agents](https://arxiv.org/abs/2606.28436v1)** | 2026-06-26 |  |
 
