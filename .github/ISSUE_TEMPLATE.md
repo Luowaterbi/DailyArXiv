@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 02, 2026
+title: Latest 15 Papers - July 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?](https://arxiv.org/abs/2607.01211v1)** | 2026-07-01 |  |
-| **[Vibe Coding Ate My Homework: An evaluation of AI approaches to greenfield software engineering and programming](https://arxiv.org/abs/2606.18293v2)** | 2026-07-01 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 2 tables</p></details> |
-| **[Cheap Code, Costly Judgment: A Case Study on Governable Agentic Software Engineering](https://arxiv.org/abs/2607.01087v1)** | 2026-07-01 | 12 pages |
-| **[On minimal codes arising from projective embeddings of point-line geometries](https://arxiv.org/abs/2511.22747v3)** | 2026-07-01 | <details><summary>25 pa...</summary><p>25 pages; final revised version</p></details> |
-| **[Beyond Document Grounding: Span-Level Hallucination Detection over Code, Tool Output, and Documents](https://arxiv.org/abs/2607.00895v1)** | 2026-07-01 | 8 pages |
-| **[Function-Correcting Codes for Insertion-Deletion Channel](https://arxiv.org/abs/2512.07243v3)** | 2026-07-01 |  |
-| **[ClarifyCodeBench: Evaluating LLMs on Clarifying Ambiguous Requirements for Code Generation](https://arxiv.org/abs/2607.00711v1)** | 2026-07-01 |  |
-| **[Diff-Based Code Corruption using LLMs for Large-Scale Bugfix Benchmarking](https://arxiv.org/abs/2606.29088v3)** | 2026-07-01 |  |
-| **[Efficient Multilingual Reasoning Transfer via Progressive Code-Switching](https://arxiv.org/abs/2607.00485v1)** | 2026-07-01 |  |
-| **[SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?](https://arxiv.org/abs/2507.12415v2)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[Harness Engineering for Agentic AI Coding Tools: An Exploratory Study](https://arxiv.org/abs/2602.14690v5)** | 2026-06-30 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 3 tables, based on "Configuring Agentic AI Coding Tools: An Exploratory Study" published in Proceedings of the 3rd ACM/IEEE International Conference on AI-powered Software (AIware 2026)</p></details> |
-| **[Probability distributions over CSS codes: two-universality, QKD hashing, collision bounds, security](https://arxiv.org/abs/2510.02402v2)** | 2026-06-30 | <details><summary>Templ...</summary><p>Template (78 pages). Topics of discussion are at: https://www.youtube.com/playlist?list=PL3rTBtU0TK_BBrcvuv13MUPQKDyi2raHl ; https://www.youtube.com/playlist?list=PL3rTBtU0TK_BTmZkWaRifBGw66cOBtbtD ; https://www.youtube.com/playlist?list=PL3rTBtU0TK_Cy35rrbIBmeNiBsWkhfvCe ; https://www.youtube.com/playlist?list=PL3rTBtU0TK_DRRLlKd1tf0mJ1T8MuTne6</p></details> |
-| **[ATLAS: Multi-View Code Representation Tool for C and C++ Source Programs](https://arxiv.org/abs/2512.12507v4)** | 2026-06-30 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables; Video demonstration: https://youtu.be/50DvEbenp14; Tool repository: https://github.com/jaid-monwar/ATLAS-multi-view-code-representation-tool.git</p></details> |
-| **[The Illusion of Safety: Multi-Tier Verification of AI vs. Human C++ Code](https://arxiv.org/abs/2607.00107v1)** | 2026-06-30 |  |
-| **[Code Semantic Zooming](https://arxiv.org/abs/2510.06452v3)** | 2026-06-30 |  |
+| **[RedCoder: Automated Multi-Turn Red Teaming for Code LLMs](https://arxiv.org/abs/2507.22063v2)** | 2026-07-02 | ACL 2026 |
+| **[CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://arxiv.org/abs/2603.22435v2)** | 2026-07-02 |  |
+| **[TestEvo-Bench: An Executable and Live Benchmark for Test and Code Co-Evolution](https://arxiv.org/abs/2607.02469v1)** | 2026-07-02 | <details><summary>TestE...</summary><p>TestEvo-Bench leaderboard and data explorer are hosted at https://www.testevo-bench.com</p></details> |
+| **[Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228v2)** | 2026-07-02 | <details><summary>Tech ...</summary><p>Tech report. Code at: https://github.com/VILA-Lab/Dive-into-Claude-Code</p></details> |
+| **[Reasoning effort, not tool access, buys first-try reliability in agentic code generation: an observational study](https://arxiv.org/abs/2607.02436v1)** | 2026-07-02 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 10 tables. Dataset and evaluation artifacts: https://doi.org/10.5281/zenodo.21134406</p></details> |
+| **[Transversal non-Clifford gates on almost-good quantum LDPC and quantum locally testable codes](https://arxiv.org/abs/2604.01874v2)** | 2026-07-02 | <details><summary>In v1...</summary><p>In v1, the cap product used there did not satisfy the required Leibniz rule, hence the cupcap gate argument is invalid. We now fix the problem and retain the results by a substantially modified argument relying on new product-expanding local codes</p></details> |
+| **[DecompRL: Solving Harder Problems by Learning Modular Code Generation](https://arxiv.org/abs/2607.02390v1)** | 2026-07-02 |  |
+| **[Steerability via constraints: a substrate for scalable oversight of coding agents](https://arxiv.org/abs/2607.02389v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted to the Deep Learning for Code Workshop at the 43rd International Conference on Machine Learning, Seoul, South Korea, 2026</p></details> |
+| **[Generalized Rank Weight and Extended Generalized Poset Weight Defined For Codes Over Rings: A Galois Connection Approach](https://arxiv.org/abs/2607.02377v1)** | 2026-07-02 |  |
+| **[The Weight Distribution of the Third-Order Reed-Muller Code of Length 2048](https://arxiv.org/abs/2607.02365v1)** | 2026-07-02 |  |
+| **[Guiding Human Validation of LLM-Generated Code via Verifiable Literate Programming](https://arxiv.org/abs/2607.02333v1)** | 2026-07-02 | 12 pages |
+| **[Coding Agents Are Guessing: Measuring Action-Boundary Violations in Underspecified DevOps Instructions](https://arxiv.org/abs/2607.02294v1)** | 2026-07-02 |  |
+| **[Privacy-Preserving and Verifiable Approximate Distributed Coded Computing](https://arxiv.org/abs/2607.02187v1)** | 2026-07-02 |  |
+| **[Generalized Extended Codes with Applications in Entanglement-Assisted Qubit and Qutrit Codes](https://arxiv.org/abs/2607.02170v1)** | 2026-07-02 |  |
+| **[Coding-agents can replicate scientific machine learning papers](https://arxiv.org/abs/2607.02134v1)** | 2026-07-02 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Program-as-Weights: A Programming Paradigm for Fuzzy Functions](https://arxiv.org/abs/2607.02512v1)** | 2026-07-02 |  |
+| **[Guiding Human Validation of LLM-Generated Code via Verifiable Literate Programming](https://arxiv.org/abs/2607.02333v1)** | 2026-07-02 | 12 pages |
+| **[LLM Priors for ERM over Programs](https://arxiv.org/abs/2510.14331v3)** | 2026-07-02 | <details><summary>The f...</summary><p>The first two authors contributed equally</p></details> |
+| **[Benchmarking Quantum Software Testing with Scalable Quantum Programs](https://arxiv.org/abs/2607.02029v1)** | 2026-07-02 |  |
+| **[ContextSniper: AntTrail's Token-Efficient Code Memory for Repository-Level Program Repair](https://arxiv.org/abs/2607.01916v1)** | 2026-07-02 |  |
+| **[PairCoder++: Pair Programming as a Universal Paradigm for Verified Code-Driven Multimodal and Structured-Artifact Generation](https://arxiv.org/abs/2607.01883v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted by ACL 2026. Project Page: https://yisuanwang.github.io/PairCoder/</p></details> |
+| **[On the algebraic analysis of runtime distribution of probabilistic programs](https://arxiv.org/abs/2607.01856v1)** | 2026-07-02 |  |
+| **[Regression Accumulation in Multi-Turn LLM Programming Conversations](https://arxiv.org/abs/2607.01855v1)** | 2026-07-02 |  |
+| **[Decomposer: Learning to Decompile Symbolic Music to Programs](https://arxiv.org/abs/2607.01849v1)** | 2026-07-02 | <details><summary>Proje...</summary><p>Project page: https://yewon-kim.com/decomposer</p></details> |
+| **[AgentFlow: Building Agent Dependency Graphs for Static Analysis of Agent Programs](https://arxiv.org/abs/2607.01640v1)** | 2026-07-02 |  |
 | **[Vibe Coding Ate My Homework: An evaluation of AI approaches to greenfield software engineering and programming](https://arxiv.org/abs/2606.18293v2)** | 2026-07-01 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 2 tables</p></details> |
 | **[Hetu v2: A General and Scalable Deep Learning System with Hierarchical and Heterogeneous Single Program Multiple Data Annotations](https://arxiv.org/abs/2504.20490v2)** | 2026-07-01 | OSDI 2026 |
 | **[Identifying Effective Program Comprehension Strategies through Gaze Transitions over Syntactic Elements](https://arxiv.org/abs/2607.01042v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted for publication in the 2026 ACM Symposium on Eye Tracking Research & Applications (ETRA2026): 6 pages, 2 figures</p></details> |
 | **[Hoare meets Heisenberg: A Lightweight Logic for Quantum Programs](https://arxiv.org/abs/2101.08939v6)** | 2026-07-01 | 52 pages, 3 figures |
 | **[Checked Program Recovery from Execution Video: A Sound Oracle for Untrusted Generators](https://arxiv.org/abs/2607.00635v1)** | 2026-07-01 |  |
-| **[SchedCheck: Schedule-Robustness Analysis for Event-Driven Block Programs](https://arxiv.org/abs/2607.00623v1)** | 2026-07-01 |  |
-| **[Certificate-Carrying Transformation of Event-Driven Block Programs](https://arxiv.org/abs/2607.00563v1)** | 2026-07-01 |  |
-| **[Neural Signatures of Programming Expertise: Classifying Programmer Skill Levels Using EEG Data](https://arxiv.org/abs/2606.30879v2)** | 2026-07-01 |  |
-| **[Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming](https://arxiv.org/abs/2607.00211v1)** | 2026-06-30 |  |
-| **[Quadratic Programming Approach for Nash Equilibrium Computation in Multiplayer Imperfect-Information Games](https://arxiv.org/abs/2509.25618v2)** | 2026-06-30 |  |
-| **[Evaluation of Population Initialization Methods for Genetic Programming-based Symbolic Regression](https://arxiv.org/abs/2606.31990v1)** | 2026-06-30 | <details><summary>15 pa...</summary><p>15 pages. Accepted for publication at EUROCAST 2026: 20th International Conference on Computer Aided Systems Theory</p></details> |
-| **[ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System](https://arxiv.org/abs/2602.13692v3)** | 2026-06-30 |  |
-| **[Complete Relational Logic for Infinite-Dimensional Quantum Programs with Unbounded Assertions](https://arxiv.org/abs/2510.07051v2)** | 2026-06-30 | <details><summary>65 pa...</summary><p>65 pages, 8 figures, 3 tables. Full version of the paper accepted to LICS 2026</p></details> |
-| **[Calibration, Not Compilation: Detecting and Repairing Misspecified Probabilistic Programs Written by Language Models](https://arxiv.org/abs/2606.31630v1)** | 2026-06-30 |  |
-| **[Performance Analysis in Parallel Programming Education: A Comparative Usability Study](https://arxiv.org/abs/2606.31458v1)** | 2026-06-30 | <details><summary>PARS ...</summary><p>PARS Workshop 2025, Preprint</p></details> |
 
