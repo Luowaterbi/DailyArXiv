@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 09, 2026
+title: Latest 15 Papers - July 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,33 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Where Did the Variability Go? From Vibe Coding to Product Lines by Regeneration](https://arxiv.org/abs/2606.19042v2)** | 2026-07-08 | VARIABILITY 2026 |
-| **[Combinatorial constructions of Schubert subspace codes](https://arxiv.org/abs/2607.07479v1)** | 2026-07-08 |  |
-| **[Latency-Constrained Hardware-Aware Quantum Error Correction Co-Design with Adaptive Confidence-Gated Neural Decoding for the Rotated Surface Code](https://arxiv.org/abs/2607.05814v2)** | 2026-07-08 | <details><summary>29 pa...</summary><p>29 pages, 18 figures, 12 tables. Source code, trained models, and benchmark data: https://github.com/Sumitchongder/adaptive-qec-decoder</p></details> |
-| **[Evaluating Static and Process Evidence for Code Authorship in Programming Education](https://arxiv.org/abs/2607.07400v1)** | 2026-07-08 |  |
-| **[Four classes of few-weight self-orthogonal codes and their applications for LCD codes and quantum codes](https://arxiv.org/abs/2607.07181v1)** | 2026-07-08 | 19pages |
-| **[Learning from Execution: Self-Evolving Memory for Private-Library Code Generation](https://arxiv.org/abs/2604.24222v3)** | 2026-07-08 |  |
-| **[Optimized Adaptive Loop Filter in Versatile Video Coding](https://arxiv.org/abs/2607.05737v2)** | 2026-07-08 | <details><summary>This ...</summary><p>This paper was submitted to DCC 2021 and accepted as a poster</p></details> |
-| **[Quantum Hierarchical Locally Recoverable Codes](https://arxiv.org/abs/2606.06736v2)** | 2026-07-08 |  |
-| **[Cast a Wider Net: Coordinated Pass@K Policy Optimization for Code Reasoning](https://arxiv.org/abs/2605.27000v3)** | 2026-07-08 | <details><summary>Code ...</summary><p>Code reasoning; pass@K optimization; coordinated planning; verifiable rewards; strategy diversity</p></details> |
-| **[Scaling Author Identity Disambiguation to the World of Code: A Methodology](https://arxiv.org/abs/2607.06920v1)** | 2026-07-08 |  |
-| **[Contrastive Predictive Coding with Compression for Enhanced Channel State Feedback in Wireless Networks](https://arxiv.org/abs/2607.05419v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Neural Networks and Learning Systems</p></details> |
-| **[DPO-F+: Aligning Code Repair Feedback with Developers' Preferences](https://arxiv.org/abs/2511.01043v2)** | 2026-07-07 | 10 pages, 2 figures |
-| **[RuBench: A Repository-Level Agentic Coding Benchmark with Natively Authored Russian Task Specifications](https://arxiv.org/abs/2607.06411v1)** | 2026-07-07 | <details><summary>16 pa...</summary><p>16 pages, 1 figure, 7 tables. Benchmark: 25 natively Russian repository-level agentic coding tasks; 4 product agent configurations, 3 runs each. Data, full trajectories and harness: https://github.com/eugeneshilow/rubench</p></details> |
-| **[Harnessing Code Agents for Automatic Software Verification](https://arxiv.org/abs/2607.06341v1)** | 2026-07-07 |  |
-| **[Specification Grounding Drives Test Effectiveness for LLM Code](https://arxiv.org/abs/2607.06636v1)** | 2026-07-07 |  |
+| **[ProjAgent: Procedural Similarity Retrieval for Repository-Level Code Generation](https://arxiv.org/abs/2607.08691v1)** | 2026-07-09 |  |
+| **[BiSCo-LLM: Lookup-Free Binary Spherical Coding for Extreme Low-Bit Large Language Model Compression](https://arxiv.org/abs/2607.08643v1)** | 2026-07-09 |  |
+| **[Combinatorial constructions of Schubert subspace codes](https://arxiv.org/abs/2607.07479v2)** | 2026-07-09 |  |
+| **[Learning LDPC codes with quantized density evolution over relaxed protographs](https://arxiv.org/abs/2607.08484v1)** | 2026-07-09 |  |
+| **[Coded Task Offloading for Fluid Computing: A Privacy-Aware Approach under D2D Networks](https://arxiv.org/abs/2607.08440v1)** | 2026-07-09 | <details><summary>19 pa...</summary><p>19 pages, 6 pages for appendices, 12 figures, 4 tables. Pre-print</p></details> |
+| **[Secure QR Codes: Authenticity Verification via EdDSA Signatures and CBOR Certificates](https://arxiv.org/abs/2607.08383v1)** | 2026-07-09 | <details><summary>10 pa...</summary><p>10 pages, 10 figures, submitted to journal</p></details> |
+| **[TypeProbe: Recovering Type Representations from Hidden States of Pre-trained Code Models](https://arxiv.org/abs/2607.08339v1)** | 2026-07-09 | <details><summary>18 pa...</summary><p>18 pages, 12 figures. Accepted at ESSLLI 2026 (StuS; double-blind)</p></details> |
+| **[XALPHA: A Memory-Driven AI Quant Researcher for Hypothesis-to-Code Alpha Discovery](https://arxiv.org/abs/2607.08332v1)** | 2026-07-09 |  |
+| **[A Study Of Skew-Polycyclic Codes Over A Non-Chain Ring](https://arxiv.org/abs/2607.08304v1)** | 2026-07-09 | 18 pages |
+| **[CriterAlign: Criterion-Centric Rationale Alignment for Code Preference Judging](https://arxiv.org/abs/2605.19665v2)** | 2026-07-09 |  |
+| **[Communication Advantages from Quantum Dense Network Coding](https://arxiv.org/abs/2607.08133v1)** | 2026-07-09 | <details><summary>12+50...</summary><p>12+50 pages. Comments welcome!</p></details> |
+| **[TrajAudit: Automated Failure Diagnosis for Agentic Coding Systems](https://arxiv.org/abs/2605.26563v2)** | 2026-07-09 |  |
+| **[An Online Reference-Free Evaluation Framework for Flowchart Image-to-Code Generation](https://arxiv.org/abs/2602.13376v2)** | 2026-07-09 | <details><summary>This ...</summary><p>This manuscript was inadvertently made publicly available before all necessary internal review processes had been completed. The authors are withdrawing the manuscript</p></details> |
+| **[ContextSniper: AntTrail's Token-Efficient Code Memory for Repository-Level Program Repair](https://arxiv.org/abs/2607.01916v3)** | 2026-07-09 |  |
+| **[Beware What You Autocomplete: Forensic Attribution of Backdoored Code Completions](https://arxiv.org/abs/2607.08011v1)** | 2026-07-09 | <details><summary>To ap...</summary><p>To appear in COLM 2026</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Weakest Precondition Rules for Programs with Linear Temporal Specifications](https://arxiv.org/abs/2602.10746v2)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted at ISoLA 2026 - SpecifyThis</p></details> |
+| **[An Effective Quantum Hoare Logic for Hybrid Quantum Programs with Unbounded Loops](https://arxiv.org/abs/2607.08548v1)** | 2026-07-09 |  |
+| **[Detecting Ladder Logic Bombs in IEC 61131-3 PLC Programs using ESBMC-PLC+: A Formal Verification Approach with Trigger Synthesis](https://arxiv.org/abs/2607.08417v1)** | 2026-07-09 | 14 pages |
+| **[Mini-Programs, Mega-Problems: Unveiling OAuth-based Authentication Misuses in Mini-Programs via Dynamic Analysis](https://arxiv.org/abs/2607.08232v1)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted by ACM CCS 2026</p></details> |
+| **[Answer Set Programming Energised! End-to-End Neurosymbolic Reasoning and Learning with ASP and Energy Based Models](https://arxiv.org/abs/2607.08136v1)** | 2026-07-09 | Preprint |
+| **[ContextSniper: AntTrail's Token-Efficient Code Memory for Repository-Level Program Repair](https://arxiv.org/abs/2607.01916v3)** | 2026-07-09 |  |
+| **[Conformal Predictive Programming for Chance Constrained Optimization](https://arxiv.org/abs/2402.07407v3)** | 2026-07-09 |  |
+| **[Bug Report Specification Refinement with Trajectory Guidance for Automated Program Repair](https://arxiv.org/abs/2607.07882v1)** | 2026-07-08 |  |
 | **[Evaluating Static and Process Evidence for Code Authorship in Programming Education](https://arxiv.org/abs/2607.07400v1)** | 2026-07-08 |  |
 | **[Bringing robustness to end-user programming](https://arxiv.org/abs/2607.07116v1)** | 2026-07-08 |  |
 | **[Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education](https://arxiv.org/abs/2607.06721v1)** | 2026-07-07 |  |
@@ -33,12 +41,4 @@ labels: documentation
 | **[AutoSpec: Safety Rule Evolution for LLM Agents via Inductive Logic Programming](https://arxiv.org/abs/2606.24245v3)** | 2026-07-07 |  |
 | **[A Lower Bound for Read-Once Parity Branching Programs](https://arxiv.org/abs/2607.05944v1)** | 2026-07-07 |  |
 | **[Empirical Computation: Prompting versus Programming](https://arxiv.org/abs/2503.10954v3)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted at ACM/IEEE ASE'26 (New Ideas and Emerging Results; NIER), 5 pages</p></details> |
-| **[Say What? Examining Text and Voice Input Modalities for Prompt-Based Programming in Computing Education](https://arxiv.org/abs/2607.05808v1)** | 2026-07-07 | ITiCSE'26 paper |
-| **[CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming](https://arxiv.org/abs/2607.05571v1)** | 2026-07-06 |  |
-| **[Complets: Universal Compartmentalisation and Programming Model For Arm Permission Overlay Extension 2](https://arxiv.org/abs/2607.05569v1)** | 2026-07-06 |  |
-| **[PSearch: Search-based Patch Generation in the Era of LLM-based Automated Program Repair](https://arxiv.org/abs/2507.01827v5)** | 2026-07-06 | accepted to ASE 2026 |
-| **[Semidefinite programming relaxations and debiasing for MAXCUT-based clustering](https://arxiv.org/abs/2401.10927v3)** | 2026-07-06 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2301.00344</p></details> |
-| **[Latent Programming Horizons in Coding Agents](https://arxiv.org/abs/2607.05188v1)** | 2026-07-06 |  |
-| **[Learning to Optimize by Differentiable Programming](https://arxiv.org/abs/2601.16510v4)** | 2026-07-06 |  |
-| **[Merchants of Vulnerabilities: How Bug Bounty Programs Benefit Software Vendors](https://arxiv.org/abs/2404.17497v2)** | 2026-07-06 | <details><summary>Publi...</summary><p>Publisher: SAGE Publications. Production and Operations Management (2026)</p></details> |
 
