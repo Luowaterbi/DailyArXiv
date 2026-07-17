@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 16, 2026
+title: Latest 15 Papers - July 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Early Adoption of Agentic Coding Tools by GitHub Projects](https://arxiv.org/abs/2607.14037v1)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted at the KDD 2026 Workshop on Agentic Software Engineering (SE 3.0)</p></details> |
-| **[Generative Compilation: On-the-Fly Compiler Feedback as AI Generates Code](https://arxiv.org/abs/2607.13921v1)** | 2026-07-15 |  |
-| **[PROBE: Benchmarking Code Generation in Large Language Models](https://arxiv.org/abs/2607.13820v1)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted for publication in Empirical Software Engineering (Springer)</p></details> |
-| **[CAS I: A Geometric Coding Theorem](https://arxiv.org/abs/2607.13796v1)** | 2026-07-15 |  |
-| **[Low-Complexity Soft-Aided Error-and-Erasure Decoding for Generalized Product Codes](https://arxiv.org/abs/2607.13719v1)** | 2026-07-15 | Submitted to IEEE |
-| **[UniCode: Augmenting Evaluation for Code Reasoning](https://arxiv.org/abs/2510.17868v3)** | 2026-07-15 |  |
-| **[Latency Coding for Efficient and Low-Latency Deep Spiking Neural Networks](https://arxiv.org/abs/2603.23206v2)** | 2026-07-15 |  |
-| **[Optimal Non-Binary Single-Track Gray Code](https://arxiv.org/abs/2607.13588v1)** | 2026-07-15 |  |
-| **[Design-Specification Tiling for ICL-based CAD Code Generation](https://arxiv.org/abs/2603.12712v2)** | 2026-07-15 |  |
-| **[$r$-Minimal Poset Codes](https://arxiv.org/abs/2607.13520v1)** | 2026-07-15 |  |
-| **[On the Intractability of the Minimum Distance Problem for Regular LDPC Codes](https://arxiv.org/abs/2606.23161v2)** | 2026-07-15 | 18 pages, 8 figures |
-| **[A Survey on Code Equivalence: The State-of-the-Art and Open Questions](https://arxiv.org/abs/2607.12870v2)** | 2026-07-15 |  |
-| **[Multi-Dictionary Learning for Low Rank Sparse Coding](https://arxiv.org/abs/2509.10033v2)** | 2026-07-15 |  |
-| **[GameEngineBench: Evaluating Coding Agents on Real C++ Runtime Environments](https://arxiv.org/abs/2607.03525v2)** | 2026-07-15 |  |
-| **[FairCoder: Probing LLM Bias in High-Stakes Decision Making via Coding Tasks](https://arxiv.org/abs/2501.05396v4)** | 2026-07-15 |  |
+| **[Early Adoption of Agentic Coding Tools by GitHub Projects](https://arxiv.org/abs/2607.14037v2)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted at the KDD 2026 Workshop on Agentic Software Engineering (SE 3.0)</p></details> |
+| **[LDGM-Based Quantum Codes for Fault-Tolerant Quantum Computation](https://arxiv.org/abs/2607.15159v1)** | 2026-07-16 |  |
+| **[Setup Complete, Now You Are Compromised: Weaponizing Setup Instructions Against AI Coding Agents](https://arxiv.org/abs/2607.15143v1)** | 2026-07-16 |  |
+| **[URVC: A Unified Real-Time Neural Video Coding Model with Temporal, Spatial, and Perceptual Adaptivity](https://arxiv.org/abs/2607.15033v1)** | 2026-07-16 |  |
+| **[Quantum XYZ Stabilizer Codes](https://arxiv.org/abs/2607.14988v1)** | 2026-07-16 |  |
+| **[Frobenius orbit codes and finite-field Fourier spectra: exact distance and coset distributions](https://arxiv.org/abs/2605.20062v2)** | 2026-07-16 | <details><summary>13 pa...</summary><p>13 pages. Substantially revised and refocused version: new title, new structural normal form, exact distance and coset-leader distributions, list-size formulas, covering and deep-hole results, and new probabilistic asymptotics. The exposition and bibliography have been reorganized</p></details> |
+| **[Covering Sequences and Covering-Sequences Codes](https://arxiv.org/abs/2607.14840v1)** | 2026-07-16 |  |
+| **[Lossy compression of weighted graph adjacency matrices by transform coding](https://arxiv.org/abs/2607.14834v1)** | 2026-07-16 |  |
+| **[Large Language Models for Code Generation from Multilingual Prompts: A Curated Benchmark and a Study on Code Quality](https://arxiv.org/abs/2607.14816v1)** | 2026-07-16 |  |
+| **[Code Correctness Is Linearly Decodable from LLM Hidden States Before Generation](https://arxiv.org/abs/2606.14530v3)** | 2026-07-16 | <details><summary>7 pag...</summary><p>7 pages, 4 tables. Code, data, and analysis scripts available at https://github.com/CarloDiCicco/ReasoningLab</p></details> |
+| **[Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?](https://arxiv.org/abs/2607.01211v2)** | 2026-07-16 | <details><summary>12 pa...</summary><p>12 pages, 7 figures. Public data: https://github.com/chenzhi-cz/performance-optimization-benchmark-reliability</p></details> |
+| **[$W-δ-μ$ dual codes and LCD codes](https://arxiv.org/abs/2606.13467v2)** | 2026-07-16 |  |
+| **[Statistics of the Compression Ratio of a Variable-to-Variable Code: Exact Moments and Asymptotic Behavior](https://arxiv.org/abs/2607.14676v1)** | 2026-07-16 | <details><summary>37 pa...</summary><p>37 pages, 2 figures, submitted for publication</p></details> |
+| **[Identification Codes and Post-Shannon Communication: Theory, Architectures, and Emerging Applications](https://arxiv.org/abs/2607.14666v1)** | 2026-07-16 |  |
+| **[Bringing Network Coding into Multi-Robot Systems: Interplay Study for Autonomous Systems over Wireless Communications](https://arxiv.org/abs/2603.17472v2)** | 2026-07-16 | <details><summary>To ap...</summary><p>To appear in IROS 2026</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mech: Mechanised Choreographic Programming](https://arxiv.org/abs/2607.15174v1)** | 2026-07-16 |  |
+| **[Compile, Then Page: Executable SOP Programs and a Capability-Gated Runtime for Procedural LLM Agents](https://arxiv.org/abs/2607.11346v2)** | 2026-07-16 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 5 tables</p></details> |
 | **[Explaining Reinforcement Learning Agents via Inductive Logic Programming](https://arxiv.org/abs/2607.13655v1)** | 2026-07-15 |  |
 | **[Column Generation with Domain-Independent Dynamic Programming](https://arxiv.org/abs/2510.14317v2)** | 2026-07-15 | <details><summary>Paper...</summary><p>Paper publised at CP 2026</p></details> |
 | **[Elton: Urn Resources for Reasoning about Adversarial Probabilistic Programs](https://arxiv.org/abs/2607.13459v1)** | 2026-07-15 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Predicting Program Comprehension with Foundation Models of Human Cognition](https://arxiv.org/abs/2607.11372v2)** | 2026-07-14 | <details><summary>Submi...</summary><p>Submission under review</p></details> |
 | **[Verifying Probabilistic Programs in Rust](https://arxiv.org/abs/2607.12282v1)** | 2026-07-14 |  |
 | **[From Chaos to Clarity: A Framework for Program-Level AI Learning Outcomes](https://arxiv.org/abs/2607.12221v1)** | 2026-07-13 |  |
-| **[The Time-Space Complexity of Checking Multiple Assertions in Quantum Programs](https://arxiv.org/abs/2607.11665v1)** | 2026-07-13 | 28 pages |
-| **[Cardano's Voltaire Governance: Complete Specification and Research Program](https://arxiv.org/abs/2607.11601v1)** | 2026-07-13 |  |
 
