@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 19, 2026
+title: Latest 15 Papers - July 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,27 +7,33 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Early Adoption of Agentic Coding Tools by GitHub Projects](https://arxiv.org/abs/2607.14037v2)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted at the KDD 2026 Workshop on Agentic Software Engineering (SE 3.0)</p></details> |
-| **[LDGM-Based Quantum Codes for Fault-Tolerant Quantum Computation](https://arxiv.org/abs/2607.15159v1)** | 2026-07-16 |  |
-| **[Setup Complete, Now You Are Compromised: Weaponizing Setup Instructions Against AI Coding Agents](https://arxiv.org/abs/2607.15143v1)** | 2026-07-16 |  |
-| **[URVC: A Unified Real-Time Neural Video Coding Model with Temporal, Spatial, and Perceptual Adaptivity](https://arxiv.org/abs/2607.15033v1)** | 2026-07-16 |  |
-| **[Quantum XYZ Stabilizer Codes](https://arxiv.org/abs/2607.14988v1)** | 2026-07-16 |  |
-| **[Frobenius orbit codes and finite-field Fourier spectra: exact distance and coset distributions](https://arxiv.org/abs/2605.20062v2)** | 2026-07-16 | <details><summary>13 pa...</summary><p>13 pages. Substantially revised and refocused version: new title, new structural normal form, exact distance and coset-leader distributions, list-size formulas, covering and deep-hole results, and new probabilistic asymptotics. The exposition and bibliography have been reorganized</p></details> |
-| **[Covering Sequences and Covering-Sequences Codes](https://arxiv.org/abs/2607.14840v1)** | 2026-07-16 |  |
-| **[Lossy compression of weighted graph adjacency matrices by transform coding](https://arxiv.org/abs/2607.14834v1)** | 2026-07-16 |  |
-| **[Large Language Models for Code Generation from Multilingual Prompts: A Curated Benchmark and a Study on Code Quality](https://arxiv.org/abs/2607.14816v1)** | 2026-07-16 |  |
-| **[Code Correctness Is Linearly Decodable from LLM Hidden States Before Generation](https://arxiv.org/abs/2606.14530v3)** | 2026-07-16 | <details><summary>7 pag...</summary><p>7 pages, 4 tables. Code, data, and analysis scripts available at https://github.com/CarloDiCicco/ReasoningLab</p></details> |
-| **[Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?](https://arxiv.org/abs/2607.01211v2)** | 2026-07-16 | <details><summary>12 pa...</summary><p>12 pages, 7 figures. Public data: https://github.com/chenzhi-cz/performance-optimization-benchmark-reliability</p></details> |
-| **[$W-δ-μ$ dual codes and LCD codes](https://arxiv.org/abs/2606.13467v2)** | 2026-07-16 |  |
-| **[Statistics of the Compression Ratio of a Variable-to-Variable Code: Exact Moments and Asymptotic Behavior](https://arxiv.org/abs/2607.14676v1)** | 2026-07-16 | <details><summary>37 pa...</summary><p>37 pages, 2 figures, submitted for publication</p></details> |
-| **[Identification Codes and Post-Shannon Communication: Theory, Architectures, and Emerging Applications](https://arxiv.org/abs/2607.14666v1)** | 2026-07-16 |  |
-| **[Bringing Network Coding into Multi-Robot Systems: Interplay Study for Autonomous Systems over Wireless Communications](https://arxiv.org/abs/2603.17472v2)** | 2026-07-16 | <details><summary>To ap...</summary><p>To appear in IROS 2026</p></details> |
+| **[A Variable-Length Gray Code for the Natural Numbers](https://arxiv.org/abs/2607.16088v1)** | 2026-07-17 |  |
+| **[MoT: Modularization-of-Thought Prompting for Effective Code Generation](https://arxiv.org/abs/2503.12483v2)** | 2026-07-17 |  |
+| **[CodeCoR: An LLM-Based Self-Reflective Multi-Agent Framework for Code Generation](https://arxiv.org/abs/2501.07811v2)** | 2026-07-17 |  |
+| **[Code-Poisoning Property Inference Attacks](https://arxiv.org/abs/2607.15970v1)** | 2026-07-17 |  |
+| **[TARS: A Theory-of-Mind Agent for Personalized In-IDE Code Comprehension](https://arxiv.org/abs/2607.15948v1)** | 2026-07-17 | <details><summary>Accep...</summary><p>Accepted at ICSME 2026, Tool Demonstration and Data Showcase Track</p></details> |
+| **[The Language of Security: How Prompt Syntax Shapes Secure Code Generation in Open LLMs](https://arxiv.org/abs/2607.15937v1)** | 2026-07-17 | <details><summary>Accep...</summary><p>Accepted at ICSME 2026</p></details> |
+| **[Current Should Not Sneak: Constrained Codes for Reliable Memristor Crossbar Arrays](https://arxiv.org/abs/2607.15929v1)** | 2026-07-17 | <details><summary>27 pa...</summary><p>27 pages (single column), 3 figures, submitted to the IEEE Transactions on Information Theory (TIT)</p></details> |
+| **[Conditional Reliability of Toxicity Signals for Multilingual and Code-Mixed Abuse Detection](https://arxiv.org/abs/2607.15861v1)** | 2026-07-17 | <details><summary>Accep...</summary><p>Accepted at ETTIS 2026</p></details> |
+| **[Improving Code Understanding in Large Language Models through Concept-Aware Consistency Learning](https://arxiv.org/abs/2508.12620v2)** | 2026-07-17 | <details><summary>To ap...</summary><p>To appear at IJCAI 2026</p></details> |
+| **[Not All Tokens Matter: Data-Centric Optimization for Efficient Code Summarization](https://arxiv.org/abs/2601.20147v3)** | 2026-07-17 |  |
+| **[GII-Polar Codes for Block Fading Channels](https://arxiv.org/abs/2607.03919v2)** | 2026-07-17 | <details><summary>Accep...</summary><p>Accepted by IEEE/CIC International Conference on Communications in China (ICCC) 2026, Wuhan, China</p></details> |
+| **[Code-MUE: Measuring Code LLMs' Uncertainty through Execution-based Semantic Interaction Graphs](https://arxiv.org/abs/2607.12273v2)** | 2026-07-17 | <details><summary>To ap...</summary><p>To appear at The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2026</p></details> |
+| **[Alipay-PIBench: A Realistic Payment Integration Benchmark for Coding Agents](https://arxiv.org/abs/2607.14573v2)** | 2026-07-17 |  |
+| **[Classical codes violate the conjectured square-root bound for quantum random access codes](https://arxiv.org/abs/2607.15617v1)** | 2026-07-17 | <details><summary>17 pa...</summary><p>17 pages, 1 figure, 1 table</p></details> |
+| **[Random Access Codes: Explicit Constructions, Optimality, and Classical-Quantum Gaps](https://arxiv.org/abs/2604.21274v3)** | 2026-07-16 | <details><summary>25 pa...</summary><p>25 pages, 5 figures, 5 tables</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Human Attention During Localization of Memory Bugs in C Programs](https://arxiv.org/abs/2506.00693v3)** | 2026-07-17 |  |
+| **[Misquoted No More: Securely Extracting F* Programs with IO](https://arxiv.org/abs/2602.19973v4)** | 2026-07-17 | <details><summary>Prepr...</summary><p>Preprint of paper to appear at ICFP'26</p></details> |
+| **[Programming with Quantum-Controlled Quantum Channels](https://arxiv.org/abs/2607.15873v1)** | 2026-07-17 | 56 pages |
+| **[MirrorCode: AI can rebuild entire programs from behavior alone](https://arxiv.org/abs/2606.30182v2)** | 2026-07-17 | <details><summary>34 pa...</summary><p>34 pages, 13 figures, 9 tables. Code available at https://github.com/epoch-research/MirrorCode</p></details> |
+| **[EduGuard: A Safe RAG-Based LLM Tutor for Programming Education](https://arxiv.org/abs/2607.15738v1)** | 2026-07-17 |  |
 | **[Mech: Mechanised Choreographic Programming](https://arxiv.org/abs/2607.15174v1)** | 2026-07-16 |  |
 | **[Compile, Then Page: Executable SOP Programs and a Capability-Gated Runtime for Procedural LLM Agents](https://arxiv.org/abs/2607.11346v2)** | 2026-07-16 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 5 tables</p></details> |
+| **[Position: Quantum Program Generation Must Prioritize Validity Over Probabilistic Scaling](https://arxiv.org/abs/2607.15313v1)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted to ICML 2026: https://openreview.net/forum?id=oX1vWuQ13y</p></details> |
 | **[Explaining Reinforcement Learning Agents via Inductive Logic Programming](https://arxiv.org/abs/2607.13655v1)** | 2026-07-15 |  |
 | **[Column Generation with Domain-Independent Dynamic Programming](https://arxiv.org/abs/2510.14317v2)** | 2026-07-15 | <details><summary>Paper...</summary><p>Paper publised at CP 2026</p></details> |
 | **[Elton: Urn Resources for Reasoning about Adversarial Probabilistic Programs](https://arxiv.org/abs/2607.13459v1)** | 2026-07-15 |  |
@@ -35,10 +41,4 @@ labels: documentation
 | **[Graph-Series Semantics and Abel Regularization for Recursive Hybrid Quantum Programs](https://arxiv.org/abs/2607.13117v1)** | 2026-07-14 |  |
 | **[Building Extensible Program Logics through Effect Handlers](https://arxiv.org/abs/2607.12642v1)** | 2026-07-14 |  |
 | **[Multi-Perspective Agentic Program Repair via Code Property Graphs and Temporal Execution Graphs](https://arxiv.org/abs/2607.12605v1)** | 2026-07-14 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 10 tables</p></details> |
-| **[Open-Source Intelligence for Code Provenance and the Security Patterns that Separate Human and Large-Language-Model Implementations of Common Programming Tasks](https://arxiv.org/abs/2607.12524v1)** | 2026-07-14 | 25 pages, 10 figures |
-| **[When is LLM-Based Program Reasoning Correct? A Completion Semantics for LLM-Based Code Inference](https://arxiv.org/abs/2607.12490v1)** | 2026-07-14 | <details><summary>28 pa...</summary><p>28 pages, 4 figures, 3 tables</p></details> |
-| **[CodeOwl: Automatic Generation of Tiered Parsons Problems for Introductory Programming](https://arxiv.org/abs/2607.12460v1)** | 2026-07-14 | <details><summary>To ap...</summary><p>To appear at the 38th CSEE&T</p></details> |
-| **[Predicting Program Comprehension with Foundation Models of Human Cognition](https://arxiv.org/abs/2607.11372v2)** | 2026-07-14 | <details><summary>Submi...</summary><p>Submission under review</p></details> |
-| **[Verifying Probabilistic Programs in Rust](https://arxiv.org/abs/2607.12282v1)** | 2026-07-14 |  |
-| **[From Chaos to Clarity: A Framework for Program-Level AI Learning Outcomes](https://arxiv.org/abs/2607.12221v1)** | 2026-07-13 |  |
 
