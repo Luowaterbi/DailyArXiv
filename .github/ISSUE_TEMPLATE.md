@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 27, 2026
+title: Latest 15 Papers - July 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MineValiCoder: Reliable Code Generation with Test Case Quality Mining and Bipartite Graph-Based Mutual Validation](https://arxiv.org/abs/2607.22471v1)** | 2026-07-24 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 7 tables</p></details> |
-| **[Robust Berrut-Approximated Coded Computing via Discrete Cosine Transforms](https://arxiv.org/abs/2607.22427v1)** | 2026-07-24 | <details><summary>49 pa...</summary><p>49 pages in single-column format</p></details> |
-| **[Vibe Coding: An Experiment with Test-Driven Development](https://arxiv.org/abs/2607.22406v1)** | 2026-07-24 |  |
-| **[Rejection Sampling is Optimal for Relative Entropy Coding](https://arxiv.org/abs/2604.23076v3)** | 2026-07-24 | 6 pages, 3 figures |
-| **[On the Maximality of Additive Codes](https://arxiv.org/abs/2607.22297v1)** | 2026-07-24 |  |
-| **[Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data preparation tasks](https://arxiv.org/abs/2607.21482v2)** | 2026-07-24 | <details><summary>Prese...</summary><p>Presented at SLLS 2026; accepted at CLS 2026 and RSS 2026</p></details> |
-| **[dRAE: Representation Autoencoder with Hyper-Spherical Codes](https://arxiv.org/abs/2607.22148v1)** | 2026-07-24 | <details><summary>Prepr...</summary><p>Preprint. Project Page: https://drae-hsq.github.io</p></details> |
-| **[Binary Cyclic Codes With Simultaneously Large Minimum Distances and Dual Distances](https://arxiv.org/abs/2607.22137v1)** | 2026-07-24 | 20 pages |
-| **[DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines](https://arxiv.org/abs/2607.16617v2)** | 2026-07-24 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, and 5 tables. Technical report</p></details> |
-| **[Code Review is a Conversation: Toward Conversational AI Review Assistants](https://arxiv.org/abs/2607.22095v1)** | 2026-07-24 | <details><summary>Accep...</summary><p>Accepted at ICSME 2026 in the Visions and Emerging Results Track</p></details> |
-| **["Go Home Copilot, You're Drunk": Understanding Developer Responses to Agent-Generated Code Review Comments](https://arxiv.org/abs/2607.21997v1)** | 2026-07-24 |  |
-| **[Ethereum NFT Smart Contracts: Knowledge-Guided Vulnerability Detection with LLM and Code Slicing](https://arxiv.org/abs/2607.21983v1)** | 2026-07-24 |  |
-| **[Claim Plane: Enforceable Change Intents and Dynamic Scope for Parallel Coding Agents](https://arxiv.org/abs/2607.21909v1)** | 2026-07-24 | <details><summary>10 pa...</summary><p>10 pages, 2 figures. Preprint</p></details> |
-| **[How Do AI Coding Agents Contribute to Software Development? an Empirical Study of Agentic Pull Requests](https://arxiv.org/abs/2607.21832v1)** | 2026-07-23 |  |
-| **[What, Where, and How: Disentangling the Roles of Task, Language, and Model in Code Model Representations](https://arxiv.org/abs/2607.21491v1)** | 2026-07-23 | <details><summary>16 pa...</summary><p>16 pages, 11 figures, 6 tables. Code: https://github.com/piotrwilam/Atlas2x2 ; dataset: https://huggingface.co/datasets/piotrwilam/Atlas2x2</p></details> |
+| **[Coding-Logic Correspondence: Turning Information and Communication Networks into Logical Formulae via Hypergraph Heyting Algebra](https://arxiv.org/abs/2512.21112v2)** | 2026-07-27 | <details><summary>30 pa...</summary><p>30 pages, 3 figures, presented in part at the 2026 IEEE International Symposium on Information Theory (ISIT 2026)</p></details> |
+| **[An Achievable Rate Region for 3-User Classical Quantum Broadcast Channel via Coset Codes](https://arxiv.org/abs/2503.08755v4)** | 2026-07-27 |  |
+| **[Exact Minimum Distance of the Ding--Li--Xia Cyclic Codes](https://arxiv.org/abs/2607.24646v1)** | 2026-07-27 |  |
+| **[A Non-Probabilistic Game-Theoretic Information Theory Which Subsumes Probabilistic Channel Coding](https://arxiv.org/abs/2604.10868v2)** | 2026-07-27 | 26 pages, 2 figures |
+| **[Looping Is Not Reliability: State-Bound Evidence and Typed Revision Contracts for Agentic Code Repair](https://arxiv.org/abs/2607.24604v1)** | 2026-07-27 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 6 tables</p></details> |
+| **[Evaluating the Impact of Explainable AI on Trust in AI-Assisted Code Review](https://arxiv.org/abs/2607.24601v1)** | 2026-07-27 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, 5 tables. To appear in Proceedings of the ACM on Software Engineering (PACMSE), Vol. 3, No. ISSTA, Article ISSTA093 (ISSTA 2026). Published under CC BY 4.0. Replication package: https://doi.org/10.5281/zenodo.21457282</p></details> |
+| **[Efficient Multilingual Reasoning Transfer via Progressive Code-Switching](https://arxiv.org/abs/2607.00485v2)** | 2026-07-27 |  |
+| **[Cyclic codes and cyclically covering subspaces](https://arxiv.org/abs/2607.24351v1)** | 2026-07-27 | 20 pages |
+| **[New perspectives for code locality in the rank metric](https://arxiv.org/abs/2607.24295v1)** | 2026-07-27 |  |
+| **[Alternative UX Extensions and Their Trade-offs for Code Completion in Pharo](https://arxiv.org/abs/2607.24253v1)** | 2026-07-27 |  |
+| **[LLM-based Source Code Compression via Thresholded Symbol Ranking](https://arxiv.org/abs/2607.24192v1)** | 2026-07-27 |  |
+| **[Dependency-Guided Code Generation: Structured Matrix Decomposition and Consistency-Guided Refinement](https://arxiv.org/abs/2607.16692v2)** | 2026-07-27 | 12 pages |
+| **[CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases](https://arxiv.org/abs/2408.03910v3)** | 2026-07-27 | work in progress |
+| **[The automorphism groups of random linear codes](https://arxiv.org/abs/2607.23936v1)** | 2026-07-27 |  |
+| **[Accelerating Hierarchical Sparse Predictive Coding with Hybrid Amortized Inference](https://arxiv.org/abs/2606.27802v2)** | 2026-07-27 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education](https://arxiv.org/abs/2607.22463v1)** | 2026-07-24 |  |
-| **[Explicit Iteration Complexity of Exact Data-Driven Inverse Optimization for Integer Linear Programs](https://arxiv.org/abs/2607.22263v1)** | 2026-07-24 | <details><summary>34 pa...</summary><p>34 page. This paper was splited from arXiv:2405.14273v7</p></details> |
-| **[Termination Analysis of Linear-Constraint Programs](https://arxiv.org/abs/2509.06752v3)** | 2026-07-24 |  |
-| **[Integrating Reasoning Systems for Trustworthy AI, Proceedings of the 4th Workshop on Logic and Practice of Programming (LPOP)](https://arxiv.org/abs/2410.19738v2)** | 2026-07-24 |  |
-| **[Automating the Derivation of Unification Algorithms: A Case Study in Deductive Program Synthesis](https://arxiv.org/abs/2508.11136v3)** | 2026-07-24 | 92 pages |
-| **[Bespoke Visual Assistance: What and How do Blind and Low-Vision People Create with Agentic Programming?](https://arxiv.org/abs/2607.21760v1)** | 2026-07-23 | <details><summary>24 pa...</summary><p>24 pages, 4 figures. To be presented at The 28th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '26)</p></details> |
-| **[Compile, Then Page: Executable SOP Programs and a Capability-Gated Runtime for Procedural LLM Agents](https://arxiv.org/abs/2607.11346v3)** | 2026-07-23 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 5 tables</p></details> |
-| **[Exploring the Design Space of LLM-Based Programming Support in CS Education: A Scoping Review through the Lens of Assistance Governance](https://arxiv.org/abs/2607.21257v1)** | 2026-07-23 |  |
-| **[Logic Programming Semantics for Causal Processes](https://arxiv.org/abs/2607.21233v1)** | 2026-07-23 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2026, arXiv:2607.17707</p></details> |
-| **[How Rules Represent Causal Knowledge: Causal Modeling with Probabilistic Logic Programming](https://arxiv.org/abs/2607.21208v1)** | 2026-07-23 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2026, arXiv:2607.17707</p></details> |
-| **[A New Well-Supported Semantics for Description Logic Programs](https://arxiv.org/abs/2607.21203v1)** | 2026-07-23 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2026, arXiv:2607.17707</p></details> |
-| **[Bound-Founded Semantics for Answer Set Programming with Difference Constraints: Preliminary Report](https://arxiv.org/abs/2607.21201v1)** | 2026-07-23 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2026, arXiv:2607.17707</p></details> |
-| **[Streamliners for Answer Set Programming](https://arxiv.org/abs/2604.19251v2)** | 2026-07-23 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2026, arXiv:2607.17707</p></details> |
-| **[GLP: A Grassroots, Multiagent, Concurrent, Logic Programming Language for AI](https://arxiv.org/abs/2607.21189v1)** | 2026-07-23 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2026, arXiv:2607.17707</p></details> |
-| **[Differentiable Logic Programming to Mitigate Reasoning Shortcuts in Neurosymbolic Systems](https://arxiv.org/abs/2607.21185v1)** | 2026-07-23 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2026, arXiv:2607.17707</p></details> |
+| **[Automated Lemma Discovery in Agentic Program Verification](https://arxiv.org/abs/2603.22114v2)** | 2026-07-27 | <details><summary>13 pa...</summary><p>13 pages. To appear in ASE 26</p></details> |
+| **[Playing Dice with the Universe: Programming Quantum Computers to Play Traditional Games](https://arxiv.org/abs/2604.23819v2)** | 2026-07-26 | 7 pages, 2 figures |
+| **[Choreographic Programming: a Semantic Approach](https://arxiv.org/abs/2607.23793v1)** | 2026-07-26 |  |
+| **[Tempo: Reconstructing Synchronous Reactive Programming with OCaml 5 Effects](https://arxiv.org/abs/2607.23550v1)** | 2026-07-26 | <details><summary>17 pa...</summary><p>17 pages, 2 figures, 8 listings. Accepted at PPDP 2026; this is the submitted version</p></details> |
+| **[Benchmarking Zero-Shot LLM-Generated Parent Selection in Genetic Programming for Symbolic Regression](https://arxiv.org/abs/2607.23505v1)** | 2026-07-26 | <details><summary>Accep...</summary><p>Accepted at PPSN 2026</p></details> |
+| **[Enhancing Code Understanding for Impact Analysis by Combining Transformers and Program Dependence Graphs](https://arxiv.org/abs/2607.23355v1)** | 2026-07-25 | Accepted to FSE'24 |
+| **[Backend-Aware Graph Learning for Denoising Outcome Distributions in Quantum Program Testing](https://arxiv.org/abs/2607.23211v1)** | 2026-07-25 |  |
+| **[Wrong Design Intent Is Worse Than None: A Derangement-Control Diagnosis of Header Conditioning in CAD Program Completion](https://arxiv.org/abs/2607.23191v1)** | 2026-07-25 | 19 pages, 4 figures |
+| **[Moded Types for Grassroots Logic Programs, by AI, for AI (Full Version)](https://arxiv.org/abs/2601.17957v5)** | 2026-07-25 |  |
+| **[Mover Logic: A Concurrent Program Logic for Reduction and Rely-Guarantee Reasoning (Extended Version)](https://arxiv.org/abs/2407.08070v3)** | 2026-07-25 | <details><summary>An ex...</summary><p>An extended version of a paper appearing in ECOOP 2024</p></details> |
+| **[Program Analysis with Prophecy and History Variables in the Nexis Compiler](https://arxiv.org/abs/2607.23033v1)** | 2026-07-25 |  |
+| **[The Help Ladder: Skill-Adaptive Peer Scaffolding for Real-Time Collaborative Programming](https://arxiv.org/abs/2607.23031v1)** | 2026-07-25 | <details><summary>Accep...</summary><p>Accepted to VL/HCC 2026</p></details> |
+| **[Reason Popper-ly: Patching In-Context Reasoning with Inductive Logic Programming](https://arxiv.org/abs/2607.23019v1)** | 2026-07-25 | <details><summary>Accep...</summary><p>Accepted at the 20th Conference on Neurosymbolic Learning and Reasoning</p></details> |
+| **[Recycling computational processes of dynamic programming for combinatorial optimization problems: a reservoir computing approach](https://arxiv.org/abs/2607.23009v1)** | 2026-07-25 | 20 pages |
+| **[Static Factorisation of Probabilistic Programs With User-Labelled Sample Statements and While Loops](https://arxiv.org/abs/2508.20922v2)** | 2026-07-25 |  |
 
