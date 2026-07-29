@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 28, 2026
+title: Latest 15 Papers - July 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Coding-Logic Correspondence: Turning Information and Communication Networks into Logical Formulae via Hypergraph Heyting Algebra](https://arxiv.org/abs/2512.21112v2)** | 2026-07-27 | <details><summary>30 pa...</summary><p>30 pages, 3 figures, presented in part at the 2026 IEEE International Symposium on Information Theory (ISIT 2026)</p></details> |
-| **[An Achievable Rate Region for 3-User Classical Quantum Broadcast Channel via Coset Codes](https://arxiv.org/abs/2503.08755v4)** | 2026-07-27 |  |
-| **[Exact Minimum Distance of the Ding--Li--Xia Cyclic Codes](https://arxiv.org/abs/2607.24646v1)** | 2026-07-27 |  |
-| **[A Non-Probabilistic Game-Theoretic Information Theory Which Subsumes Probabilistic Channel Coding](https://arxiv.org/abs/2604.10868v2)** | 2026-07-27 | 26 pages, 2 figures |
-| **[Looping Is Not Reliability: State-Bound Evidence and Typed Revision Contracts for Agentic Code Repair](https://arxiv.org/abs/2607.24604v1)** | 2026-07-27 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 6 tables</p></details> |
-| **[Evaluating the Impact of Explainable AI on Trust in AI-Assisted Code Review](https://arxiv.org/abs/2607.24601v1)** | 2026-07-27 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, 5 tables. To appear in Proceedings of the ACM on Software Engineering (PACMSE), Vol. 3, No. ISSTA, Article ISSTA093 (ISSTA 2026). Published under CC BY 4.0. Replication package: https://doi.org/10.5281/zenodo.21457282</p></details> |
-| **[Efficient Multilingual Reasoning Transfer via Progressive Code-Switching](https://arxiv.org/abs/2607.00485v2)** | 2026-07-27 |  |
-| **[Cyclic codes and cyclically covering subspaces](https://arxiv.org/abs/2607.24351v1)** | 2026-07-27 | 20 pages |
-| **[New perspectives for code locality in the rank metric](https://arxiv.org/abs/2607.24295v1)** | 2026-07-27 |  |
-| **[Alternative UX Extensions and Their Trade-offs for Code Completion in Pharo](https://arxiv.org/abs/2607.24253v1)** | 2026-07-27 |  |
-| **[LLM-based Source Code Compression via Thresholded Symbol Ranking](https://arxiv.org/abs/2607.24192v1)** | 2026-07-27 |  |
-| **[Dependency-Guided Code Generation: Structured Matrix Decomposition and Consistency-Guided Refinement](https://arxiv.org/abs/2607.16692v2)** | 2026-07-27 | 12 pages |
-| **[CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases](https://arxiv.org/abs/2408.03910v3)** | 2026-07-27 | work in progress |
-| **[The automorphism groups of random linear codes](https://arxiv.org/abs/2607.23936v1)** | 2026-07-27 |  |
-| **[Accelerating Hierarchical Sparse Predictive Coding with Hybrid Amortized Inference](https://arxiv.org/abs/2606.27802v2)** | 2026-07-27 |  |
+| **[RepoReasoner: Evaluating Repository-Level Code Reasoning Ability of Long-Context Language Models](https://arxiv.org/abs/2607.25996v1)** | 2026-07-28 | <details><summary>Publi...</summary><p>Published in FSE'2026</p></details> |
+| **[Who is scientific code for? Maintaining human-readable landmarks in agent-written code](https://arxiv.org/abs/2607.25975v1)** | 2026-07-28 | <details><summary>Posit...</summary><p>Position piece submitted to Infrastructure @ CSCW 26 workshop</p></details> |
+| **[Reinforcement Learning for Code Optimization](https://arxiv.org/abs/2607.25970v1)** | 2026-07-28 | 125 pages |
+| **[OmniQEC: discovering practical quantum error-correcting codes by an AI scientist](https://arxiv.org/abs/2607.25865v1)** | 2026-07-28 | Comments are welcome |
+| **[Rethinking Training Data for Generating Code Review Comments](https://arxiv.org/abs/2607.25851v1)** | 2026-07-28 | <details><summary>Paper...</summary><p>Paper accepted to ICSME 2026</p></details> |
+| **[Construction-Driven Injection: Linguistically-Grounded Edit-Based Code-Mixing Fingerprints for Large Language Models](https://arxiv.org/abs/2607.25633v1)** | 2026-07-28 |  |
+| **[SkillGate: Cost Efficient Runtime Malicious Skill File Detection in Coding Agents](https://arxiv.org/abs/2607.25619v1)** | 2026-07-28 | 10 pages, 5 figures |
+| **[Evaluation of forced alignment of code-mixed speech: the case of Hindi-English](https://arxiv.org/abs/2607.25581v1)** | 2026-07-28 |  |
+| **[CodeNib: A Multi-View Data System for Serving Repository Context to Coding Agents](https://arxiv.org/abs/2607.25431v1)** | 2026-07-28 |  |
+| **[On a class of twisted elliptic curve codes](https://arxiv.org/abs/2509.03034v6)** | 2026-07-28 |  |
+| **[Specula: Scaling formal specifications for autonomous model checking of system code](https://arxiv.org/abs/2607.25333v1)** | 2026-07-28 | 17 pages, 11 figures |
+| **[NFR-to-Code Traceability in a Blockchain-IoT System: An Empirical Study](https://arxiv.org/abs/2607.25325v1)** | 2026-07-28 |  |
+| **[TrajAudit: Automated Failure Diagnosis for Agentic Coding Systems](https://arxiv.org/abs/2605.26563v3)** | 2026-07-28 |  |
+| **[Generalized Rank Weight and Extended Generalized Poset Weight Defined For Codes Over Rings: A Galois Connection Approach](https://arxiv.org/abs/2607.02377v2)** | 2026-07-28 |  |
+| **[$r$-Minimal Poset Codes](https://arxiv.org/abs/2607.13520v2)** | 2026-07-28 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Do LLMs Read Bug Reports? An Empirical Study of Attention in LLMs for Automated Program Repair](https://arxiv.org/abs/2607.25873v1)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted at the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE) 2026 Conference</p></details> |
+| **[WarmTuner: Program-Specific Warm Starts for Compiler Autotuning via Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2607.25831v1)** | 2026-07-28 | 11 pages, 2 figures |
 | **[Automated Lemma Discovery in Agentic Program Verification](https://arxiv.org/abs/2603.22114v2)** | 2026-07-27 | <details><summary>13 pa...</summary><p>13 pages. To appear in ASE 26</p></details> |
 | **[Playing Dice with the Universe: Programming Quantum Computers to Play Traditional Games](https://arxiv.org/abs/2604.23819v2)** | 2026-07-26 | 7 pages, 2 figures |
 | **[Choreographic Programming: a Semantic Approach](https://arxiv.org/abs/2607.23793v1)** | 2026-07-26 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Program Analysis with Prophecy and History Variables in the Nexis Compiler](https://arxiv.org/abs/2607.23033v1)** | 2026-07-25 |  |
 | **[The Help Ladder: Skill-Adaptive Peer Scaffolding for Real-Time Collaborative Programming](https://arxiv.org/abs/2607.23031v1)** | 2026-07-25 | <details><summary>Accep...</summary><p>Accepted to VL/HCC 2026</p></details> |
 | **[Reason Popper-ly: Patching In-Context Reasoning with Inductive Logic Programming](https://arxiv.org/abs/2607.23019v1)** | 2026-07-25 | <details><summary>Accep...</summary><p>Accepted at the 20th Conference on Neurosymbolic Learning and Reasoning</p></details> |
-| **[Recycling computational processes of dynamic programming for combinatorial optimization problems: a reservoir computing approach](https://arxiv.org/abs/2607.23009v1)** | 2026-07-25 | 20 pages |
-| **[Static Factorisation of Probabilistic Programs With User-Labelled Sample Statements and While Loops](https://arxiv.org/abs/2508.20922v2)** | 2026-07-25 |  |
 
