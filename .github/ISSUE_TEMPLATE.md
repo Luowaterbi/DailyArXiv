@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 02, 2026
+title: Latest 15 Papers - August 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments](https://arxiv.org/abs/2607.28591v1)** | 2026-07-30 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, and 15 tables, including appendices</p></details> |
-| **[Agent Team Work Zone: An Automated, Persistent Workspace for Long-Lived Claude Code Agent Teams](https://arxiv.org/abs/2607.22917v2)** | 2026-07-30 | 31 pages, 9 figures |
-| **[CoGate: Confidence-Gated Co-Decoding for Secure Code Generation](https://arxiv.org/abs/2607.28529v1)** | 2026-07-30 |  |
-| **[Structural Validation of LLM-Generated Microservice Decompositions Using Source-Code Dependencies](https://arxiv.org/abs/2607.28331v1)** | 2026-07-30 |  |
-| **[Generalized Query-Oriented Image Semantic Coding Empowered by Large AI Models and Semantic-Aware Hybrid Beamforming](https://arxiv.org/abs/2607.28276v1)** | 2026-07-30 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Communications (TCOM)</p></details> |
-| **[Agentic Method for Deterministic Validation of Legacy Code Migration](https://arxiv.org/abs/2607.28271v1)** | 2026-07-30 | 11 pages, 6 figures |
-| **[Configuration Smells in AGENTS.md Files: Common Mistakes in Configuring Coding Agents](https://arxiv.org/abs/2606.15828v5)** | 2026-07-30 |  |
-| **[New Quaternary codes with small Plotkin-defects from two-generator simplicial complexes](https://arxiv.org/abs/2605.14603v2)** | 2026-07-30 |  |
-| **[The multilinear forms Cayley graph and the eigenvalue method for tensor codes](https://arxiv.org/abs/2607.03479v2)** | 2026-07-30 | <details><summary>43 pa...</summary><p>43 pages, 6 tables, preprint of article submitted to Linear Algebra and its Applications. SECOND VERSION: Lemma 48 corrected + 4-order tensor d=5 sphere packing bound brute-forced + contextualisation of integral graph + minor spelling changes</p></details> |
-| **[The second minimum weight of Grassmann codes](https://arxiv.org/abs/2508.18844v2)** | 2026-07-30 |  |
-| **[Constructing linear codes from digraphs and groups](https://arxiv.org/abs/2607.28016v1)** | 2026-07-30 | 18 pages, 1 figure |
-| **[An Empirical Study of Coordination Mode as the First-Class Citizen in From-Scratch Multi-Agent Coding](https://arxiv.org/abs/2607.27877v1)** | 2026-07-30 |  |
-| **[PrintAnything: Learning an Intermediate Representation for 3D printing G-code Generation](https://arxiv.org/abs/2607.27729v1)** | 2026-07-30 | <details><summary>Europ...</summary><p>European Conference on Computer Vision (ECCV) 2026</p></details> |
-| **[Field Codes for Distributed Coupling Samplers and Certified Empirical Transport](https://arxiv.org/abs/2607.27078v2)** | 2026-07-30 |  |
-| **[Reading Without a Reader: Large Language Models Collapse Reading and Writing into a Single Entangled Code](https://arxiv.org/abs/2607.24797v2)** | 2026-07-30 |  |
+| **[Syntax Without Semantics: Teaching Large Language Models to Code in an Unseen Language](https://arxiv.org/abs/2605.15607v2)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted at COLM 2026</p></details> |
+| **[Chart Specification: Structural Representations for Incentivizing VLM Reasoning in Chart-to-Code Generation](https://arxiv.org/abs/2602.10880v2)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted by Neurocomputing</p></details> |
+| **[Decomposing the Doer Effect in Programming Practice: Code Writing Stands Out Among Active Practice](https://arxiv.org/abs/2608.02541v1)** | 2026-08-03 |  |
+| **[SWE-Touch: Benchmarking Coding Agents When Users Touch the Code](https://arxiv.org/abs/2608.02499v1)** | 2026-08-03 | <details><summary>Prepr...</summary><p>Preprint. Our code is available at https://github.com/Trae1ounG/SWE-Touch</p></details> |
+| **[PhaseLift for Coded Diffraction Patterns: Optimal Sampling Rate](https://arxiv.org/abs/2608.02450v1)** | 2026-08-03 | 32 pages, 4 figures |
+| **[Minimum Distances of Binary Goppa Codes and Constructions with Prescribed Alternating Automorphism Groups](https://arxiv.org/abs/2608.02436v1)** | 2026-08-03 |  |
+| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v6)** | 2026-08-03 |  |
+| **[On Automated and Explainable Provenance of AI-Generated Code](https://arxiv.org/abs/2608.02329v1)** | 2026-08-03 |  |
+| **[Native Non-Clifford Gates in Quantum LDPC Codes: Conditions, Synthesis, and Scaling Limits](https://arxiv.org/abs/2601.22489v2)** | 2026-08-03 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 3 tables, to be presented and appear in the proceedings of IEEE QCE'26 (IEEE Quantum Week 2026)</p></details> |
+| **[Vulnerability Detection in AArch64 Machine Code Using a Digital Twin](https://arxiv.org/abs/2608.02125v1)** | 2026-08-03 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 1 table. Published in Artificial Intelligence (Ukraine), 2026, Vol. 31, No. 2</p></details> |
+| **[Cryptanalysis of LDPC-Based Pseudorandom Error-Correcting Codes](https://arxiv.org/abs/2512.17310v4)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted by USENIX Security 2026</p></details> |
+| **[Characterizing Readability Issue Patterns and the Role of Prompt Design in LLM-Generated Code](https://arxiv.org/abs/2605.13280v2)** | 2026-08-03 |  |
+| **[VulnGym: Benchmarking Coding Agents for Repository-Level Vulnerability Detection](https://arxiv.org/abs/2608.02001v1)** | 2026-08-03 |  |
+| **[Specula: Scaling formal specifications for autonomous model checking of system code](https://arxiv.org/abs/2607.25333v2)** | 2026-08-03 | 17 pages, 11 figures |
+| **[Effective and Efficient Context Retrieval via Partial Dependency Graph for Repository-Level Code Generation](https://arxiv.org/abs/2608.01927v1)** | 2026-08-03 | Accepted by ASE 2026 |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MQSS Client: Interface for Decoupling Quantum Programming Interfaces](https://arxiv.org/abs/2607.28563v1)** | 2026-07-30 |  |
-| **[ScaFE: Data-Efficient Scar Classification with LLM-Generated Clinical Feature Programs](https://arxiv.org/abs/2607.28538v1)** | 2026-07-30 |  |
-| **[Deep R Programming](https://arxiv.org/abs/2301.01188v5)** | 2026-07-30 | v1.0.2 (2026-07-30) |
-| **[Distilling Answer Set Programming Theories from Large Language Models](https://arxiv.org/abs/2607.28086v1)** | 2026-07-30 | <details><summary>Accep...</summary><p>Accepted at NeSy 2026</p></details> |
-| **[Creative Task Cards for Reflection, Self-Efficiency and Self-Regulation in CS1 Introductory Programming: Initial Insights](https://arxiv.org/abs/2607.27863v1)** | 2026-07-30 | <details><summary>In Pr...</summary><p>In Proceedings of The First Reflection in Creative Experience (RiCE) Workshop (RiCE W1) arXiv:2607.24558</p></details> |
-| **[VeriSkill: A Self-Evolution Framework for Program Verification Skills](https://arxiv.org/abs/2607.27733v1)** | 2026-07-30 |  |
-| **[Guiding Large Language Models with Genetic Programming-Evolved Heuristic Knowledge for Dynamic Multi-Mode Project Scheduling](https://arxiv.org/abs/2607.27698v1)** | 2026-07-30 |  |
-| **[SpecFirst: Behavioral Specification Elicitation as a First-Class Step in Agent-Based Program Synthesis from Scratch](https://arxiv.org/abs/2607.27167v1)** | 2026-07-29 |  |
-| **[MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis](https://arxiv.org/abs/2607.27146v1)** | 2026-07-29 |  |
-| **[A Type-and-Effect System for Temporal Dependency Analysis of Render-based Reactive Programs](https://arxiv.org/abs/2607.27074v1)** | 2026-07-29 | <details><summary>56 pa...</summary><p>56 pages, including appendix</p></details> |
-| **[Paraconsistent Semantics for Extended Fuzzy Logic Programs via Approximation Fixpoint Theory [Extended Version]](https://arxiv.org/abs/2605.05286v3)** | 2026-07-29 |  |
-| **[Characterizing Real-World Bugs in Tile Programs for Automated Bug Detection](https://arxiv.org/abs/2605.19652v2)** | 2026-07-29 | <details><summary>In Pr...</summary><p>In Proceedings of the 35th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)</p></details> |
-| **[Automatic programming via large language models with population self-evolution for dynamic fuzzy job shop scheduling problem](https://arxiv.org/abs/2410.22657v2)** | 2026-07-29 | <details><summary>13 pa...</summary><p>13 pages, 10 figures. Accepted for publication in IEEE Transactions on Fuzzy Systems</p></details> |
-| **[How Do LLMs Read Bug Reports? An Empirical Study of Attention in LLMs for Automated Program Repair](https://arxiv.org/abs/2607.25873v1)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted at the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE) 2026 Conference</p></details> |
-| **[WarmTuner: Program-Specific Warm Starts for Compiler Autotuning via Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2607.25831v1)** | 2026-07-28 | 11 pages, 2 figures |
+| **[Self-Supervised Representations for Binary Program Clustering: From Empirical Study to Retrieval-Augmented Learning](https://arxiv.org/abs/2608.02348v1)** | 2026-08-03 |  |
+| **[Lossless Tensor Compression as Program Synthesis](https://arxiv.org/abs/2608.02162v1)** | 2026-08-03 |  |
+| **[SVRepair: Structured Visual Reasoning for Automated Program Repair](https://arxiv.org/abs/2602.06090v2)** | 2026-08-03 |  |
+| **[RL-SPH: Learning to Achieve Feasible Solutions for Integer Linear Programs](https://arxiv.org/abs/2411.19517v8)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. 30 pages, 12 figures, 22 tables</p></details> |
+| **[The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606v4)** | 2026-08-03 | Draft version 4 |
+| **[Thermalizing Stochastic Programs](https://arxiv.org/abs/2608.01615v1)** | 2026-08-03 |  |
+| **[ORCESTRA: VLM-driven Visual Robot programming in Mixed Reality](https://arxiv.org/abs/2608.00775v1)** | 2026-08-01 | <details><summary>4 pag...</summary><p>4 page, 3 figures, 1 table, ISMAR 2026</p></details> |
+| **[CARE: Context-Aware Ranking Evolution with Executable Scoring Programs for Budgeted Reaction Optimization](https://arxiv.org/abs/2606.14581v4)** | 2026-08-01 | <details><summary>27 pa...</summary><p>27 pages, 5 figures. Code: https://github.com/SHITIANYU-hue/care</p></details> |
+| **[The Right Kind of Help: Evaluating the Effectiveness of Feedback Methods in Elementary-Level Visual Programming](https://arxiv.org/abs/2512.11735v2)** | 2026-08-01 | <details><summary>Prepr...</summary><p>Preprint. Accepted as a paper at the ISSEP'26 conference</p></details> |
+| **[Reflection-Satisfaction Tradeoff: Investigating Impact of Reflection on Student Engagement with AI-Generated Programming Hints](https://arxiv.org/abs/2512.04630v2)** | 2026-08-01 | Preprint |
+| **[Triton for MTIA: Bridging the Programming Model Gaps for Custom AI Accelerators](https://arxiv.org/abs/2608.00325v1)** | 2026-07-31 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, to be published in IEEE Micro</p></details> |
+| **[AgenticRepair: Multi-Faceted Program Context Engineering for Agentic Vulnerability Repair](https://arxiv.org/abs/2607.29422v1)** | 2026-07-31 | <details><summary>Under...</summary><p>Under Review at IEEE TSE</p></details> |
+| **[Rational Jacobi Rotations and the Complexity of Approximating Mixed Integer Quadratic Programming](https://arxiv.org/abs/2607.29386v1)** | 2026-07-31 |  |
+| **[Allocation Tracking and Parameter Checking for Parallel Programming Models using Contracts](https://arxiv.org/abs/2607.29303v1)** | 2026-07-31 | <details><summary>A pee...</summary><p>A peer-reviewed version is to be published by Springer as part of the EuroMPI 2026 conference proceedings. This is the originally submitted article</p></details> |
+| **[Metamorphic Testing of Transpilers via Mutation Consistency of Programs](https://arxiv.org/abs/2607.29247v1)** | 2026-07-31 | 11 pages, 4 figures |
 
