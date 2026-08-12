@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 10, 2026
+title: Latest 15 Papers - August 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PACE: Primitive-Aware Code Evolution for Automated Algorithm Design](https://arxiv.org/abs/2608.07395v1)** | 2026-08-07 |  |
-| **[Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education](https://arxiv.org/abs/2608.07364v1)** | 2026-08-07 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
-| **[The Exact Second Generalized Covering Radius of Binary Primitive Triple-Error-Correcting BCH Codes](https://arxiv.org/abs/2608.07215v1)** | 2026-08-07 | <details><summary>23 pa...</summary><p>23 pages. The accompanying verification artifact is available at https://doi.org/10.5281/zenodo.21796632</p></details> |
-| **[DiDPO: Diff-in-Diff Policy Optimization for Coding Agent Training](https://arxiv.org/abs/2608.07147v1)** | 2026-08-07 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, work in progress</p></details> |
-| **[Entanglement-Assisted Quantum Locally Recoverable Codes: Bounds, Optimal Constructions, and Achievability](https://arxiv.org/abs/2608.06854v1)** | 2026-08-07 | <details><summary>Entan...</summary><p>Entanglement-assisted quantum error-correcting codes, quantum locally recoverable codes, Tamo-Barg codes, cyclic codes, and LCD codes</p></details> |
-| **[Understanding and Improving Model Editing for Secure Code Generation](https://arxiv.org/abs/2608.06848v1)** | 2026-08-07 | ISSTA 2026 |
-| **[How Reasoning Shapes Social Bias in LLM-Generated Code?](https://arxiv.org/abs/2608.06829v1)** | 2026-08-07 | ASE 2026 |
-| **[Detection of Emotions in Hindi-English Code Mixed Text Data](https://arxiv.org/abs/2105.09226v6)** | 2026-08-06 |  |
-| **[CoCo: Code as CoT for Text-to-Image Preview and Rare Concept Generation](https://arxiv.org/abs/2603.08652v2)** | 2026-08-06 | <details><summary>21 pa...</summary><p>21 pages, 7 figures, and 3 tables. Accepted to ECCV 2026</p></details> |
-| **[From Absolute to Relative Code Comprehensibility Prediction](https://arxiv.org/abs/2510.03474v2)** | 2026-08-06 |  |
-| **[Learning Globally Reusable Skills for Coding Agents](https://arxiv.org/abs/2608.06153v1)** | 2026-08-06 |  |
-| **[Closed form logical error rate approximations for surface codes](https://arxiv.org/abs/2605.03054v2)** | 2026-08-06 | 14 pages, 7 figures |
-| **[An Exploratory Study of Agent Plans for Agentic AI Coding Tools in Open-Source Software](https://arxiv.org/abs/2608.04661v2)** | 2026-08-06 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 4 tables. Accepted at the 20th International Symposium on Empirical Software Engineering and Measurement (ESEM 2026), Emerging Results, Vision, and Reflection Papers Track</p></details> |
-| **[AgentExecutor: Partial Code Execution via Agentic Context Generation](https://arxiv.org/abs/2608.05959v1)** | 2026-08-06 | ASE 2026 |
-| **[AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents](https://arxiv.org/abs/2608.05891v1)** | 2026-08-06 |  |
+| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v7)** | 2026-08-11 |  |
+| **[MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment](https://arxiv.org/abs/2608.11167v1)** | 2026-08-11 |  |
+| **[Quantum Codes with Arbitrary Z-Rotation logical Gates and Applications to Fault-Tolerant Code Switching](https://arxiv.org/abs/2608.11160v1)** | 2026-08-11 |  |
+| **[Generative AI use in Statistical Research: A Literature Review and Code Generation Case Study](https://arxiv.org/abs/2608.11121v1)** | 2026-08-11 |  |
+| **[Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding](https://arxiv.org/abs/2608.11095v1)** | 2026-08-11 |  |
+| **[Twisted Conjugacy and the Classification of Induced Centrosymmetric Alternant Codes](https://arxiv.org/abs/2608.11056v1)** | 2026-08-11 | <details><summary>Keywo...</summary><p>Keywords: Alternant codes, Generalized Reed--Solomon codes, automorphism groups, twisted conjugacy, projective semilinear group.</p></details> |
+| **[Search-to-Decision Reductions for the Linear and General Code Equivalence Problems](https://arxiv.org/abs/2608.10967v1)** | 2026-08-11 |  |
+| **[Understanding the Architecture of Coding Agents: An Exploratory Study Using a Research Prototype](https://arxiv.org/abs/2608.10934v1)** | 2026-08-11 |  |
+| **[Bounds for Pure Disjoint $(r,δ)$-Quantum Locally Recoverable Codes](https://arxiv.org/abs/2608.10922v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted for presentation at the 2026 IEEE International Symposium on Information Theory (ISIT 2026)</p></details> |
+| **[EvoMem: Memory-Augmented Evolution for Code Optimization](https://arxiv.org/abs/2608.10795v1)** | 2026-08-11 |  |
+| **[Structure of Polycyclic Codes over $\frac{\mathbb{F}_{p^m}[u]}{\langle u^t \rangle}$ and their Cardinalities](https://arxiv.org/abs/2604.03991v2)** | 2026-08-11 |  |
+| **[Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution](https://arxiv.org/abs/2608.08311v2)** | 2026-08-11 |  |
+| **[Optimal Break-Resilient Codes](https://arxiv.org/abs/2607.19673v2)** | 2026-08-11 |  |
+| **[BashCoder-R1: Towards Robust and Explainable Bash Code Generation with Robustness-Aware Group Relative Policy Optimization](https://arxiv.org/abs/2606.27733v3)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted to ISSTA 2026</p></details> |
+| **[Entanglement-assisted quantum locally recoverable codes: bounds and constructions with availability](https://arxiv.org/abs/2608.09886v2)** | 2026-08-11 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Circuit-Based Program Verification: Sequential Circuits as an Intermediate Representation for Verifying C Programs](https://arxiv.org/abs/2608.07397v1)** | 2026-08-07 |  |
-| **[Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes](https://arxiv.org/abs/2602.03381v2)** | 2026-08-07 |  |
-| **[From probability to causality in probabilistic logic programming](https://arxiv.org/abs/2608.07230v1)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted and presented at IJCLR 2025</p></details> |
-| **[Scenix: Sparse-View 3D Scene Reconstruction via Executable Scene Programs](https://arxiv.org/abs/2608.07012v1)** | 2026-08-07 | <details><summary>4 fig...</summary><p>4 figures 5 table 9 pages</p></details> |
-| **[Statistical Analysis of Executability and Program Equivalence in Decompilation for IoT Vulnerability Detection](https://arxiv.org/abs/2608.06960v1)** | 2026-08-07 | <details><summary>Autho...</summary><p>Author's English translation of the paper accepted for publication (in Japanese) in Toukei Suri (Proceedings of the Institute of Statistical Mathematics)</p></details> |
-| **[Non-Termination of Logic Programs Using Patterns](https://arxiv.org/abs/2507.09390v2)** | 2026-08-07 | <details><summary>25 pa...</summary><p>25 pages, presented at the 41st International Conference on Logic Programming, ICLP 2025</p></details> |
-| **[A Time Series Analysis of Malware Uploads to Programming Language Ecosystems](https://arxiv.org/abs/2504.15695v3)** | 2026-08-07 | <details><summary>Proce...</summary><p>Proceedings of the 20th International Conference on Availability, Reliability and Security (ARES 2025) Workshops, Ghent, Springer, pp. 269-285</p></details> |
-| **[Symbolic Graphics Programming with Large Language Models](https://arxiv.org/abs/2509.05208v2)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted by Transactions on Machine Learning Research. (32 pages, 12 figures.) This version refines the paper structure, adds experimental results. Project page: https://spherelab.ai/SGP-Gen/</p></details> |
-| **[The Optimizer Is the Agent: Reasoning-Driven Search across Prompts, Programs, and ML Workflows](https://arxiv.org/abs/2608.06714v1)** | 2026-08-07 |  |
-| **[CFGPNet: Cross-Attention-Based Fused Gradient Programmed Network Framework for Multispectral Object Detection](https://arxiv.org/abs/2608.06205v1)** | 2026-08-06 |  |
-| **[Longitudinal wearable monitoring and polygenic risk for incident major depressive disorder in the All of Us Research Program](https://arxiv.org/abs/2608.06063v1)** | 2026-08-06 |  |
-| **[Noise-aware Verification and Synthesis of Quantum Programs](https://arxiv.org/abs/2608.05807v1)** | 2026-08-06 |  |
-| **[VSMP-IMU: Video-Grounded Semantic Motion Programs for Sensor-Aware Synthetic IMU Generation](https://arxiv.org/abs/2608.05782v1)** | 2026-08-06 | Under review |
-| **[Moment-based linear programming bounds for locally recoverable codes](https://arxiv.org/abs/2608.05758v1)** | 2026-08-06 | Comments are welcome |
-| **[BlockPython: A Process-Aware Agent-Supported Platform for the Transition from Block-Based to Python Programming](https://arxiv.org/abs/2608.05716v1)** | 2026-08-06 | <details><summary>AIED ...</summary><p>AIED 2026 Interactive Event Track</p></details> |
+| **[Enhanced Filtering Algorithms for the Euclidean Traveling Salesperson Problem and its variants in Constraint Logic Programming](https://arxiv.org/abs/2608.10881v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted for publication in Theory and Practice of Logic Programming (TPLP), 36 pages, 14 figures</p></details> |
+| **[CausalRepair: Bridging the Causality Gap in Large Language Model-Based Automated Program Repair via Dual-Slicing](https://arxiv.org/abs/2608.10613v1)** | 2026-08-11 |  |
+| **[Nonlinear Model Predictive Control via Sequential Convex Programming for Drone-to-Drone Docking](https://arxiv.org/abs/2608.10542v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted at IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM) 2026</p></details> |
+| **[Exact Conditional Distributions of Chi-Square-Family Statistics for Two-Way Contingency Tables, by Cell-Separable Dynamic Programming](https://arxiv.org/abs/2608.08576v2)** | 2026-08-11 | <details><summary>25 pa...</summary><p>25 pages, 5 figures, 4 tables. Reproducible code, data, and the derivation companion (DH1-DH8) are openly archived on Zenodo: https://doi.org/10.5281/zenodo.21831680 . Part of a contingency-table methodology series (companions on the honest effect size, the exact conditional interval for Cramer's V, and reporting)</p></details> |
+| **[From Paper to Program: Knowledge Externalization and Bottleneck Diagnosis in AI-Assisted Quantum Many-Body Programming](https://arxiv.org/abs/2604.04089v6)** | 2026-08-11 | <details><summary>20 pa...</summary><p>20 pages, 4 figures. Substantially revised presentation, related-work context, reproducibility documentation, validation-gate wording, limitations, and generative-AI disclosure; numerical results unchanged</p></details> |
+| **[Does the way we write a theory change the program an LLM builds from it? A prospective randomized study of renderer format in LLM theory-to-program translation](https://arxiv.org/abs/2608.10314v1)** | 2026-08-10 | <details><summary>112 p...</summary><p>112 pages, 2 figures; includes supplementary material and five reproducibility annexes. Data: https://doi.org/10.5281/zenodo.21876518. Software: https://doi.org/10.5281/zenodo.21879576</p></details> |
+| **[Learning to Triage Vulnerability Reports from Program Analysis: An Empirical Study in Node.js](https://arxiv.org/abs/2510.20739v2)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted at the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026). The version of record is available at https://doi.org/10.1145/3832783.3837503</p></details> |
+| **[StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning](https://arxiv.org/abs/2603.02637v2)** | 2026-08-10 |  |
+| **[Wrong Design Intent Is Worse Than Never Conditioning: A Derangement-Control Diagnosis of Header Conditioning in CAD Program Completion](https://arxiv.org/abs/2607.23191v3)** | 2026-08-10 | <details><summary>47 pa...</summary><p>47 pages, 4 figures. v4: referee-response revision, no evaluation re-run. Causal claim narrowed to correct-to-wrong content sensitivity; the control's offset vs the unconditioned baseline is arm-invariant and now reported. Cluster-level analysis over 298 distinct inputs is now the headline, with bootstrap intervals. Wrong-target uptake added, control as placebo</p></details> |
+| **[P$^{3}$: Joint Program-and-Proof Planning for Verified Code Generation](https://arxiv.org/abs/2608.09277v1)** | 2026-08-10 |  |
+| **[Real-Time Nonlinear MPC via Sequential Quadratic Programming with Structure-Exploiting ADMM and Interior-Point Methods for Underactuated Double-Pendulum Swing-Up](https://arxiv.org/abs/2608.09272v1)** | 2026-08-10 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 1 table, finalist in the 4th AI Olympics with RealAIGym (https://ai-olympics.dfki-bremen.de)</p></details> |
+| **[GPU-Accelerated Conic Quadratic Programming with Local Linear Convergence under Strict Complementarity](https://arxiv.org/abs/2608.09159v1)** | 2026-08-10 | <details><summary>Sourc...</summary><p>Source code available at https://github.com/Lhongpei/PDHCG</p></details> |
+| **[ContextSniper: AntTrail's Token-Efficient Code Memory for Repository-Level Program Repair](https://arxiv.org/abs/2607.01916v4)** | 2026-08-10 |  |
+| **[LazyHMC: Hamiltonian Monte Carlo Simulation for Lazy, Infinite Dimensional Probabilistic Programs](https://arxiv.org/abs/2608.08588v1)** | 2026-08-09 | 41 pages |
+| **[Deep probabilistic logic programming for diagnostic reasoning from incomplete information: A case study in stroke detection](https://arxiv.org/abs/2608.08561v1)** | 2026-08-09 | <details><summary>Accep...</summary><p>Accepted for presentation at IJCLR 2026. This is the accepted version, _not_ the camera-ready version for the post-proceedings of the conference</p></details> |
 
