@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 20, 2026
+title: Latest 15 Papers - August 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,28 +7,33 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Realizing Logical Diagonal Gates via Transversal Physical $Z$-Rotations in CSS Codes](https://arxiv.org/abs/2608.19094v1)** | 2026-08-19 | 52 pages |
+| **[ChronoAgentic: A Code-based Multi-Agent World Simulator for Physically Grounded Simulation Construction](https://arxiv.org/abs/2605.14398v3)** | 2026-08-20 |  |
+| **[From Agent Behaviour to Agent-Friendly Documentation: An Empirical Study of How Coding Agents Discover, Read, and Write Technical Documentation](https://arxiv.org/abs/2608.20195v1)** | 2026-08-20 | <details><summary>14 pa...</summary><p>14 pages, 1 figure, 10 tables</p></details> |
+| **[Realizing Logical Diagonal Gates via Transversal Physical $Z$-Rotations in CSS Codes](https://arxiv.org/abs/2608.19094v2)** | 2026-08-20 | 53 pages |
+| **[Architecture and Compilation Co-Design for High-Rate Quantum Product Codes on Neutral Atom Arrays](https://arxiv.org/abs/2608.20164v1)** | 2026-08-20 | 20 pages, 16 figures |
+| **[The Generalized Random Access Problem for Linear Codes](https://arxiv.org/abs/2608.20152v1)** | 2026-08-20 |  |
+| **[Generalized Hamming weights of codes arising from complete intersection](https://arxiv.org/abs/2608.19978v1)** | 2026-08-20 | 5 pages |
+| **[Natural Language Code Retrieval for 1C:Enterprise: An Open Benchmark and Efficient Bi-Encoder](https://arxiv.org/abs/2608.19957v1)** | 2026-08-20 |  |
+| **[New upper bounds on covering codes K_q(n,R) for alphabets of size six and seven](https://arxiv.org/abs/2608.19872v1)** | 2026-08-20 | <details><summary>6 pag...</summary><p>6 pages. Ancillary files contain the nine codes and a standalone verifier</p></details> |
+| **[Repo0: Design-Driven Zero-to-All Code Generation](https://arxiv.org/abs/2608.19854v1)** | 2026-08-20 | <details><summary>Our c...</summary><p>Our code and data are available at https://github.com/cslsolow/Repo0</p></details> |
+| **[GridCodex: A RAG-Driven AI Framework for Power Grid Code Reasoning and Compliance](https://arxiv.org/abs/2508.12682v2)** | 2026-08-20 |  |
+| **[SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?](https://arxiv.org/abs/2608.19799v1)** | 2026-08-20 | 26 pages, 7 figures |
+| **[PRAXIS: Graph-Grounded Tacit Knowledge for Domain Code Generation](https://arxiv.org/abs/2608.19784v1)** | 2026-08-20 |  |
+| **[Self-Evolving Coding Agents](https://arxiv.org/abs/2608.03392v2)** | 2026-08-20 |  |
+| **[Improved decoding algorithms for surface codes under independent bit-flip and phase-flip errors](https://arxiv.org/abs/2601.00972v2)** | 2026-08-20 | <details><summary>Updat...</summary><p>Updated discussion of open problems to reflect subsequent results on the complexity and approximability of minimum-weight decoding</p></details> |
 | **[New Constructions of Additive MDS TRS Codes](https://arxiv.org/abs/2608.18904v1)** | 2026-08-19 |  |
-| **[A Configuration-First Framework for Reproducible, Low-Code Machine Learning: a Localization Use Case](https://arxiv.org/abs/2510.25692v5)** | 2026-08-19 | 16 pages, 8 figures |
-| **[Beyond Placement and Articulation: Usage-Driven Code Scenes for Embodied Interaction](https://arxiv.org/abs/2608.18840v1)** | 2026-08-19 |  |
-| **[Constructing Good Abelian Codes via Shift Bounds and Genetic Algorithms](https://arxiv.org/abs/2608.18664v1)** | 2026-08-19 | 13 pages |
-| **[Code Health in LLM-Based Test Generation: Effectiveness and Token Efficiency](https://arxiv.org/abs/2608.18645v1)** | 2026-08-19 | <details><summary>Accep...</summary><p>Accepted at the Engineering Track of the 26th IEEE International Conference on Source Code Analysis and Manipulation (SCAM 2026)</p></details> |
-| **[Hardness of approximation for minimum-weight decoding of two-dimensional topological quantum codes](https://arxiv.org/abs/2608.17109v2)** | 2026-08-19 | <details><summary>Minor...</summary><p>Minor correction to the statement of the approximation bound in the abstract</p></details> |
-| **[Good Stabilizer Codes from Shallow Clifford Circuits with Random Matchings](https://arxiv.org/abs/2608.18536v1)** | 2026-08-19 | <details><summary>33 pa...</summary><p>33 pages, 2 figures, 1 table</p></details> |
-| **[SeqFeed: Improving Agentic RTL Code Generation with Sequential Behavior Feedback](https://arxiv.org/abs/2608.16934v2)** | 2026-08-19 |  |
-| **[A Tutorial on Weight Structure of Polar Codes](https://arxiv.org/abs/2608.18493v1)** | 2026-08-19 | <details><summary>This ...</summary><p>This paper has been accepted by IEEE BITS: The Information Theory Magazine and will appear in the upcoming issue. 14 pages, 7 figures, 2 tables</p></details> |
-| **[ContextSniper: AntTrail's Token-Efficient Code Memory for Repository-Level Program Repair](https://arxiv.org/abs/2607.01916v5)** | 2026-08-19 |  |
-| **[A Jagged Frontier: Evaluating Robustness of Code Agents to Semantics-Preserving Transformations](https://arxiv.org/abs/2608.18389v1)** | 2026-08-18 | 18 pages, 6 figures |
-| **[Toward Inclusive AI-Driven Development: Exploring Gender Differences in Code Generation Tool Interactions](https://arxiv.org/abs/2507.14770v2)** | 2026-08-18 | <details><summary>Stage...</summary><p>Stage 2 RR under review at EMSE. The accepted Stage 1 protocol is publicly archived on OSF (DOI:https://doi.org/10.17605/OSF.IO/TCFJR)</p></details> |
-| **[QuARC-GS: Quantized Anchored Residual Coding for Compact Dynamic Scene Streaming with Gaussian Splatting](https://arxiv.org/abs/2608.18285v1)** | 2026-08-18 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 3 tables</p></details> |
-| **[Professional Software Developers Don't Vibe, They Control: AI Agent Use for Coding in 2025](https://arxiv.org/abs/2512.14012v2)** | 2026-08-18 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Tool to Map AI Programs in the U.S.: A Snapshot from April 2026 and an Analysis of Requirements for AI Majors and Minors](https://arxiv.org/abs/2606.12428v2)** | 2026-08-20 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, accepted to SIGCSE-virtual 2026</p></details> |
+| **[ParaWeb: Parallel Programming Patterns for Web Development](https://arxiv.org/abs/2608.19935v1)** | 2026-08-20 | <details><summary>Prese...</summary><p>Presented at HLPP 2026, 19th International Symposium on High-Level Parallel Programming and Applications, Paris, July 2026. Part of the HLPP 2026 proceedings (hal-05689350, arXiv:2607.12917)</p></details> |
+| **[Program Analysis for Adaptive Data Analysis](https://arxiv.org/abs/2608.19575v1)** | 2026-08-20 | <details><summary>26 pa...</summary><p>26 pages. Published in Proceedings of the ACM on Programming Languages (PACMPL), PLDI 2024</p></details> |
+| **[Hype Meets Reality: Large Language Models as Mutators in Search-based Automated Program Repair of Simulink-Stateflow Models](https://arxiv.org/abs/2608.19347v1)** | 2026-08-19 |  |
 | **[Towards a Deductive Verification Infrastructure for Weighted Programming](https://arxiv.org/abs/2608.18971v1)** | 2026-08-19 |  |
 | **[An Integer Programming Approach to Compute Lower Bounds for Ramsey Numbers Using Circulant Graphs](https://arxiv.org/abs/2608.18769v1)** | 2026-08-19 |  |
 | **[On the Termination Problem for Probabilistic Higher-Order Recursive Programs](https://arxiv.org/abs/1811.02133v5)** | 2026-08-19 | <details><summary>This ...</summary><p>This is a revised version of the paper that appeared in Logical Methods in Computer Science.The original journal publication is available as the version v4 (https://arxiv.org/abs/1811.02133v4)</p></details> |
+| **[APPROVE: Visual End-User-in-the-Loop Robot Programming with LLMs](https://arxiv.org/abs/2608.19281v1)** | 2026-08-19 | <details><summary>Accep...</summary><p>Accepted for publication in Procedia CIRP, Proceedings of the 20th CIRP Conference on Intelligent Computation in Manufacturing Engineering (ICME 2026)</p></details> |
 | **[ContextSniper: AntTrail's Token-Efficient Code Memory for Repository-Level Program Repair](https://arxiv.org/abs/2607.01916v5)** | 2026-08-19 |  |
 | **[aDSL: Agentic 3D Creation via Joint Agent-Program Design](https://arxiv.org/abs/2608.17975v1)** | 2026-08-18 |  |
 | **[Procedural Content Metageneration via Program Search and Continual Abstraction Discovery](https://arxiv.org/abs/2608.17947v1)** | 2026-08-18 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Conference on Games 2026</p></details> |
@@ -36,9 +41,4 @@ labels: documentation
 | **[Likelihood Hacking in Probabilistic Program Synthesis](https://arxiv.org/abs/2603.24126v2)** | 2026-08-18 |  |
 | **[Automating Parent Selection Configuration in Genetic Programming with Agentic AI](https://arxiv.org/abs/2608.17172v1)** | 2026-08-17 |  |
 | **[ORCA: Observability-Grounded Program Repair for Microservice Incidents](https://arxiv.org/abs/2608.17018v1)** | 2026-08-17 |  |
-| **[Evolving Executable Pipeline Programs for AutoML with Language Models](https://arxiv.org/abs/2608.16416v1)** | 2026-08-17 |  |
-| **[Mechanizing Choreographic Programs and Hoare Logic with State Transformers](https://arxiv.org/abs/2608.16346v1)** | 2026-08-17 | <details><summary>To be...</summary><p>To be published in the TyDe 2026 proceedings</p></details> |
-| **[Revisiting the Performance of Generative Artificial Intelligence on Introductory Object-Oriented Programming Assessments: Insights from 2026](https://arxiv.org/abs/2608.16318v1)** | 2026-08-17 |  |
-| **[Type-Directed Discretization of Probabilistic Programs (Extended Version)](https://arxiv.org/abs/2608.16093v1)** | 2026-08-17 | <details><summary>Exten...</summary><p>Extended version of OOPSLA'26 paper (with appendices)</p></details> |
-| **[Rethinking Automated Program Repair: The Impact of Bug Complexity, Fault Localization, and LLM Cost-efficiency](https://arxiv.org/abs/2608.14065v2)** | 2026-08-17 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, 10 tables. Accepted at ESEM 2026</p></details> |
 
