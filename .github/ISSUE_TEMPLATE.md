@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 24, 2026
+title: Latest 15 Papers - August 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The first tight classification of skew-constacyclic codes over finite fields](https://arxiv.org/abs/2608.21339v1)** | 2026-08-21 |  |
-| **[AI-to-AI Code Reviews of GitHub Pull Requests](https://arxiv.org/abs/2608.21311v1)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted at the 20th International Symposium on Empirical Software Engineering and Measurement (ESEM 2026), Emerging Results, Vision, and Reflection Papers Track</p></details> |
-| **[Prompt-Induced Waste in Coding Agents: Reasoning, Effort, Harness Design, and End-to-End Cost](https://arxiv.org/abs/2608.01347v4)** | 2026-08-21 |  |
-| **[Library Hallucinations in LLM-Generated Code: A Risk Analysis Grounded in Developer Queries](https://arxiv.org/abs/2509.22202v4)** | 2026-08-21 | <details><summary>28 pa...</summary><p>28 pages, 1 figure, 13 tables. Accepted to Proceedings of EMNLP 2026</p></details> |
-| **[Realizing Logical Diagonal Gates via Transversal Physical $Z$-Rotations in CSS Codes](https://arxiv.org/abs/2608.19094v3)** | 2026-08-21 | <details><summary>54 pa...</summary><p>54 pages. Minor corrections</p></details> |
-| **[RSE of a Quantum Transport Code and its Effects](https://arxiv.org/abs/2605.21334v2)** | 2026-08-21 | 25 pages |
-| **[PromptResponse: Optimizing Prompts for LLM Coding Tasks](https://arxiv.org/abs/2608.21074v1)** | 2026-08-21 | <details><summary>22 pa...</summary><p>22 pages, 7 figures, 10 listings</p></details> |
-| **[Evaluating Large Language Model Performance on International Maritime Dangerous Goods Code Compliance](https://arxiv.org/abs/2608.21036v1)** | 2026-08-21 | 28 pages, 2 figures |
-| **[PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration](https://arxiv.org/abs/2608.21031v1)** | 2026-08-21 |  |
-| **[Vibe Coding and Web Application Security: A Twin-Prompt Study](https://arxiv.org/abs/2608.20963v1)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted for presentation at the 37th Central European Conference on Information and Intelligent Systems (CECIIS 2026), September 16-18, 2026, Varazdin, Croatia. Author's accepted manuscript</p></details> |
-| **[KREL: Automatic Medical Coding via Knowledge-Guided Reasoning over Clinical Evidence with LLMs](https://arxiv.org/abs/2608.20887v1)** | 2026-08-21 |  |
-| **[LTR-ICD: A Ranking-Aware Framework for Automatic ICD Coding](https://arxiv.org/abs/2510.13922v2)** | 2026-08-21 | <details><summary>9 pag...</summary><p>9 pages, including supplementary materials</p></details> |
-| **[Don't Judge Code by Its Cover: Exploring Biases in LLM Judges for Code Evaluation](https://arxiv.org/abs/2505.16222v2)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted to EACL 2026 (Findings)</p></details> |
-| **[An Extensive Empirical Study on Code Translation Technique](https://arxiv.org/abs/2608.20776v1)** | 2026-08-21 |  |
-| **[Is Vibe Coding Safe? Benchmarking Vulnerability of Agent-Generated Code in Real-World Tasks](https://arxiv.org/abs/2512.03262v3)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted in ICML 2026</p></details> |
+| **[SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?](https://arxiv.org/abs/2608.23564v1)** | 2026-08-24 |  |
+| **[A Geometric Derivation of the Bitner--Ehrlich--Reingold Loopless Gray Code Algorithm](https://arxiv.org/abs/2608.23357v1)** | 2026-08-24 |  |
+| **[Can Coding Agents Build Robust Baselines? A Skill-Based Approach for Automating the Medical Imaging Model-Development Pipeline](https://arxiv.org/abs/2608.23336v1)** | 2026-08-24 | <details><summary>MICCA...</summary><p>MICCAI 2026 Workshop AgenticMed</p></details> |
+| **[Activation-Weighted Seeded Residual Coding for Low-Bit LLM Weight Repair](https://arxiv.org/abs/2608.23144v1)** | 2026-08-24 | 5 pages, 2 figures |
+| **[Optimal pure quantum $(r,δ)$-locally recoverable codes from matrix-product construction](https://arxiv.org/abs/2310.15703v3)** | 2026-08-24 | <details><summary>This ...</summary><p>This version introduces significant new results on quantum locally recoverable codes (quantum LRC) and appears under a new title</p></details> |
+| **[What Process Evaluation of Coding Agents Actually Measures: Action, Task, and Step Are Three Different Levels](https://arxiv.org/abs/2608.22960v1)** | 2026-08-24 | 38 pages, 8 figures |
+| **[Execution-Anchored Hallucination Calibration Reranking for Verilog Code Generation](https://arxiv.org/abs/2608.22938v1)** | 2026-08-24 |  |
+| **[Concepts for Securing Agentic AI Coding and the Terok Environment](https://arxiv.org/abs/2608.22930v1)** | 2026-08-24 | <details><summary>to be...</summary><p>to be published in the proceedings of the AGENSYS workshop (Workshop on Knowledge Discovery, Maintenance and Distributed Intelligence in Multi-Agent Systems) at ECML PKDD 2026 conference in Sept. 2026</p></details> |
+| **[CORE-Bench: A Comprehensive Benchmark for Code Retrieval in the Era of Agentic Coding](https://arxiv.org/abs/2606.11864v3)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted By EMNLP 2026 Main</p></details> |
+| **[LSem2Vec: A Simple yet Effective Two-Stage Approach for Source Code Embedding](https://arxiv.org/abs/2409.14644v5)** | 2026-08-24 | <details><summary>The a...</summary><p>The article has been accepted by Frontiers ofComputer Science (FCS), with the DOI:{10.1007/s11704-026-61288-0)</p></details> |
+| **[Exploring the Potential of Program Flowcharts on Code Generation Using Multimodal LLMs](https://arxiv.org/abs/2607.09146v2)** | 2026-08-24 | <details><summary>21 pa...</summary><p>21 pages, Accepted at the 26th IEEE International Conference on Software Quality, Reliability, and Security (QRS 2026), Regular Papers Track</p></details> |
+| **[SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces](https://arxiv.org/abs/2606.01317v2)** | 2026-08-24 |  |
+| **[Spatio-temporal Path Optimization for Stabilizer-Code-Protected Quantum Networks](https://arxiv.org/abs/2608.22766v1)** | 2026-08-24 | <details><summary>ICNP ...</summary><p>ICNP 2026 extended version</p></details> |
+| **[Prompt-Induced Waste in Coding Agents: Reasoning, Effort, Harness Design, and End-to-End Cost](https://arxiv.org/abs/2608.01347v5)** | 2026-08-24 |  |
+| **[Average-Radius List-Decodability of Random Linear Codes](https://arxiv.org/abs/2608.22663v1)** | 2026-08-23 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evaluating the effects of policy interventions subject to early adoption: A case study of prescription drug monitoring programs and opioid dispensing](https://arxiv.org/abs/2608.23472v1)** | 2026-08-24 |  |
+| **[FormuEvo: LLM-Guided Evolution for Discovering Solver-Efficient Mixed-Integer Programming Formulations](https://arxiv.org/abs/2608.23353v1)** | 2026-08-24 | <details><summary>27 pa...</summary><p>27 pages, 6 figures, and 9 tables. To appear in the Proceedings of EMNLP 2026</p></details> |
+| **[Do Not Copy/Paste: Soft Barriers for Copying in AI-Assisted Programming](https://arxiv.org/abs/2608.22638v1)** | 2026-08-23 | Accepted ASE 2026 |
+| **[VeGo: Direct Deductive Formal Verification of Go Programs for Computer Science Education](https://arxiv.org/abs/2608.22630v1)** | 2026-08-23 | <details><summary>13 pa...</summary><p>13 pages + 2 pages of references, 5 code displays, ancillary reference manual for VeGo</p></details> |
+| **[Programming by Chat: A Large-Scale Behavioral Analysis of 11,579 Real-World AI-Assisted IDE Sessions](https://arxiv.org/abs/2604.00436v2)** | 2026-08-23 |  |
+| **[Bi-EZP: LLM-Guided Bilevel Program Evolution for Ensemble Zero-Cost Proxy Discovery](https://arxiv.org/abs/2608.21927v1)** | 2026-08-22 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 8 tables</p></details> |
+| **[Arctic Auctions, Linear Fisher Markets, and Rational Convex Programs](https://arxiv.org/abs/2511.21637v2)** | 2026-08-21 | 24 pages |
+| **[Dynamic Cogeneration of Bug Reproduction Test in Agentic Program Repair](https://arxiv.org/abs/2601.19066v3)** | 2026-08-21 |  |
+| **[Predicting Early Functional Decline from Longitudinal Laboratory and Vital Sign Trajectories: A Large-Scale Study Using the All of Us Research Program](https://arxiv.org/abs/2608.21589v1)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted for presentation at American Medical Informatics Association (AMIA) Annual Symposium 2026</p></details> |
+| **[Neuro-Formal Verification: Agentic Language-Agnostic Formal Program Reasoning](https://arxiv.org/abs/2608.21516v1)** | 2026-08-21 |  |
 | **[LLMs versus the Halting Problem: Characterizing Program Termination Reasoning](https://arxiv.org/abs/2601.18987v6)** | 2026-08-21 |  |
 | **[When Do Staging Annotations Preserve Semantics? Mechanizing Typed Semantics-Preserving Multi-stage Programming with Let-Insertion (Extended Version)](https://arxiv.org/abs/2606.30854v2)** | 2026-08-21 | <details><summary>29 pa...</summary><p>29 pages; preprint of paper accepted at OOPSLA 2026</p></details> |
 | **[Beyond the Traceback: Using LLMs for Adaptive Explanations of Programming Errors](https://arxiv.org/abs/2608.20896v1)** | 2026-08-21 |  |
 | **[Maximum Covering Network Design on Graphs with Low Connectivity: Dynamic Programming and Block-Cut Trees](https://arxiv.org/abs/2608.20894v1)** | 2026-08-21 |  |
 | **[Behavior Specification-Guided Program Synthesis for Binary Deobfuscation](https://arxiv.org/abs/2608.20628v1)** | 2026-08-21 |  |
-| **[Granthi: Higher-Order Quantum Programming via Unitary Wiring](https://arxiv.org/abs/2608.20443v1)** | 2026-08-20 | <details><summary>OOPSL...</summary><p>OOPSLA 2026. https://github.com/radhajagadeesan/QPL</p></details> |
-| **[A Tool to Map AI Programs in the U.S.: A Snapshot from April 2026 and an Analysis of Requirements for AI Majors and Minors](https://arxiv.org/abs/2606.12428v2)** | 2026-08-20 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, accepted to SIGCSE-virtual 2026</p></details> |
-| **[ParaWeb: Parallel Programming Patterns for Web Development](https://arxiv.org/abs/2608.19935v1)** | 2026-08-20 | <details><summary>Prese...</summary><p>Presented at HLPP 2026, 19th International Symposium on High-Level Parallel Programming and Applications, Paris, July 2026. Part of the HLPP 2026 proceedings (hal-05689350, arXiv:2607.12917)</p></details> |
-| **[Program Analysis for Adaptive Data Analysis](https://arxiv.org/abs/2608.19575v1)** | 2026-08-20 | <details><summary>26 pa...</summary><p>26 pages. Published in Proceedings of the ACM on Programming Languages (PACMPL), PLDI 2024</p></details> |
-| **[Hype Meets Reality: Large Language Models as Mutators in Search-based Automated Program Repair of Simulink-Stateflow Models](https://arxiv.org/abs/2608.19347v1)** | 2026-08-19 |  |
-| **[Towards a Deductive Verification Infrastructure for Weighted Programming](https://arxiv.org/abs/2608.18971v1)** | 2026-08-19 |  |
-| **[Abstract computation over first-order structures. Extras: From programs to decision trees I](https://arxiv.org/abs/2608.20424v1)** | 2026-08-19 | 68 pages, 3 figures |
-| **[An Integer Programming Approach to Compute Lower Bounds for Ramsey Numbers Using Circulant Graphs](https://arxiv.org/abs/2608.18769v1)** | 2026-08-19 |  |
-| **[On the Termination Problem for Probabilistic Higher-Order Recursive Programs](https://arxiv.org/abs/1811.02133v5)** | 2026-08-19 | <details><summary>This ...</summary><p>This is a revised version of the paper that appeared in Logical Methods in Computer Science.The original journal publication is available as the version v4 (https://arxiv.org/abs/1811.02133v4)</p></details> |
-| **[APPROVE: Visual End-User-in-the-Loop Robot Programming with LLMs](https://arxiv.org/abs/2608.19281v1)** | 2026-08-19 | <details><summary>Accep...</summary><p>Accepted for publication in Procedia CIRP, Proceedings of the 20th CIRP Conference on Intelligent Computation in Manufacturing Engineering (ICME 2026)</p></details> |
 
