@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 10, 2026
+title: Latest 15 Papers - September 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Entropy-Regularized Rank-Masked Policy Optimization for Test-Time Reinforcement Learning in Code Generation](https://arxiv.org/abs/2609.09135v1)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference. 15 pages, 4 figures, 11 tables</p></details> |
-| **[ExecCritic: Learn to Test, Test to Improve for Coding Agents](https://arxiv.org/abs/2609.09133v1)** | 2026-09-08 | 35 pages |
-| **[It Is Not My Code Anymore](https://arxiv.org/abs/2609.09022v1)** | 2026-09-08 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 1 table. Research note</p></details> |
-| **[PIC: Revisiting INR for Image Coding with Fast Encoding and Sub-Millisecond Decoding](https://arxiv.org/abs/2609.09020v1)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026. Code is available at https://github.com/actcwlf/PIC</p></details> |
-| **[The Design and Implementation of a Virtual Statistical Computing Lab to Teach R Coding to Introductory Statistics Students](https://arxiv.org/abs/2609.08868v1)** | 2026-09-08 |  |
-| **[The Weight Spectrum of the Affine Grassmann Code $C^{\mathbb A}(3,6)$](https://arxiv.org/abs/2609.08784v1)** | 2026-09-08 | 20 Pages, 1 Table |
-| **[Linear Programming Bounds for LCD Codes via Gauss Phases](https://arxiv.org/abs/2609.08662v1)** | 2026-09-08 | Comments are welcome |
-| **[Introducing HALC: A general pipeline for the systematic and reliable construction of prompts for automated coding with LLMs in the computational social sciences](https://arxiv.org/abs/2507.21831v2)** | 2026-09-08 | <details><summary>62 pa...</summary><p>62 pages, 7 figures and 15 tables. Published in Communication Methods and Measures (Open Access)</p></details> |
-| **[Quantum Matrix-Product Codes: CSS-T Characterization and Maximality](https://arxiv.org/abs/2609.08520v1)** | 2026-09-08 | Comments are welcome |
-| **[Reducing Hallucinations in LLM-Generated Code via Semantic Triangulation](https://arxiv.org/abs/2511.12288v4)** | 2026-09-08 |  |
-| **[Authority Is Not a String: A Capability-Scoped Harness for Prompt-Injection-Resistant Coding Agents](https://arxiv.org/abs/2609.08371v1)** | 2026-09-08 |  |
-| **[Defusing Logic Bombs in Symbolic Execution with LLM-Generated Ghost Code](https://arxiv.org/abs/2603.19239v2)** | 2026-09-08 |  |
-| **[RepoNav: From Snippet Retrieval to File-Centered Repository Navigation for Code Agents](https://arxiv.org/abs/2609.08355v1)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026</p></details> |
-| **[Convolutional Codes from Cyclic Codes with Guaranteed Free and Local Minimum Distances](https://arxiv.org/abs/2609.08296v1)** | 2026-09-08 |  |
-| **[Asymptotically good binary triorthogonal codes and higher-level transversal gates](https://arxiv.org/abs/2609.08203v1)** | 2026-09-08 |  |
+| **[TrajMark: Ownership Attribution and Segment-Level Tamper Localization for Coding-Agent Trajectories](https://arxiv.org/abs/2609.10416v1)** | 2026-09-09 | 41 pages, 8 figures |
+| **[Retrofitting Code Using LLMs to Support Exceptional Behavior](https://arxiv.org/abs/2609.10397v1)** | 2026-09-09 | ISSRE 2026 |
+| **[FrogNano: Training a 4B Coding Agent via Online Task Synthesis](https://arxiv.org/abs/2609.07925v2)** | 2026-09-09 |  |
+| **[Revisiting the Weight Spectrum of the Affine Grassmann Code $C^{\mathbb{A}}(2,m)$](https://arxiv.org/abs/2609.10274v1)** | 2026-09-09 | 9 Pages |
+| **[Frame-Coded Legged Locomotion over Noisy Terrain](https://arxiv.org/abs/2609.10273v1)** | 2026-09-09 |  |
+| **[Learning Logical Operations for Arbitrary Quantum Error Correction Codes](https://arxiv.org/abs/2605.28162v3)** | 2026-09-09 | <details><summary>24 pa...</summary><p>24 pages, 12 figures, 5 tables</p></details> |
+| **[Spectral Comb Shaping for Single Carrier Communication Signals by Polar Codes](https://arxiv.org/abs/2506.13230v3)** | 2026-09-09 | 12 pages, 7 figures |
+| **[Beyond Repository Boundaries: Cross-Repository Graph Retrieval for Code Generation](https://arxiv.org/abs/2609.09987v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to EMNLP Findings 2026</p></details> |
+| **[The kernel-block rank profile and a complete classification of $\mathbb{Z}_2\mathbb{Z}_4\mathbb{Z}_8$-linear Hadamard codes](https://arxiv.org/abs/2609.09969v1)** | 2026-09-09 | <details><summary>25 pa...</summary><p>25 pages; a related paper will be released soon</p></details> |
+| **[Quantum MDS codes from complements of unions of finite-field subsets](https://arxiv.org/abs/2609.09943v1)** | 2026-09-09 | 37 pages |
+| **[SpecBench: Measuring Reward Hacking in Long-Horizon Coding Agents](https://arxiv.org/abs/2605.21384v2)** | 2026-09-09 |  |
+| **[Keep Evaluation Fair: Detecting Data Leakage in Code Generation Benchmarks via Membership Inference Attacks](https://arxiv.org/abs/2609.09865v1)** | 2026-09-09 |  |
+| **[On the Vertices That Belong to All Minimum Identifying Codes](https://arxiv.org/abs/2609.09851v1)** | 2026-09-09 |  |
+| **[Proximity Gaps for Gabidulin Codes and Applications](https://arxiv.org/abs/2609.09838v1)** | 2026-09-09 | 40 pages |
+| **[The Weight Spectrum of the Affine Grassmann Code $C^{\mathbb A}(3,6)$](https://arxiv.org/abs/2609.08784v2)** | 2026-09-09 | 28 Pages, 1 Table |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the Tightness of Standard Relaxations for Mixed-Integer Bilevel Linear Programs](https://arxiv.org/abs/2609.10233v1)** | 2026-09-09 |  |
+| **[The Vibe Shift in Software Engineering: Evaluating AI-Led Conversational Programming for Performance, Cognition, and Responsible Adoption](https://arxiv.org/abs/2609.09560v1)** | 2026-09-09 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 5 tables, Published by International Journal on Advanced Science, Engineering and Information Technology (IJASEIT)</p></details> |
 | **[Distributed Linear Programming on GPU Clusters at Extreme Scale](https://arxiv.org/abs/2609.09108v1)** | 2026-09-08 | 18 pages, 3 figures |
 | **[Embedded Human-Centered Data Science in a Graduate Programming Course: A Framework and Case Study](https://arxiv.org/abs/2609.08982v1)** | 2026-09-08 |  |
 | **[Granthi: Higher-Order Quantum Programming via Unitary Wiring](https://arxiv.org/abs/2608.20443v3)** | 2026-09-08 | <details><summary>OOPSL...</summary><p>OOPSLA 2026. v3. New version with a corrigendum (fixing a soundness error in the typing of sums), and revised proofs of an expanded formal treatment of the compiler (v 1.0.2). Implementation: https://github.com/radhajagadeesan/granthi</p></details> |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Dynamic-Programming-Guided Hierarchical BPE and Empirical Analysis of Vocabulary Pruning](https://arxiv.org/abs/2609.06898v1)** | 2026-09-07 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 3 tables, and 1 algorithm</p></details> |
 | **[Staged Hybrid Quantum-Classical Programming](https://arxiv.org/abs/2609.06743v1)** | 2026-09-06 |  |
 | **[TaxoConf: Taxonomy-Guided Automatic Conference Program Organization](https://arxiv.org/abs/2609.06604v1)** | 2026-09-06 |  |
-| **[Compiling Linear Datalog to SQL for Program Analysis](https://arxiv.org/abs/2609.06301v1)** | 2026-09-05 |  |
-| **[AgentServeSim: Serving-System Simulation and Policy Search for LLM Agent Programs](https://arxiv.org/abs/2606.09613v3)** | 2026-09-05 | Preprint |
 
