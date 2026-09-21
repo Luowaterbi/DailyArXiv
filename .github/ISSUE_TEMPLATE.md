@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 21, 2026
+title: Latest 15 Papers - September 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,33 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation](https://arxiv.org/abs/2609.20822v1)** | 2026-09-17 |  |
-| **[An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804v1)** | 2026-09-17 | 43 pages |
-| **[Stereotypically Yours: Portrayal and Perception of Race-Coded AI Companions](https://arxiv.org/abs/2609.20637v1)** | 2026-09-17 | <details><summary>27 pa...</summary><p>27 pages, 2 figures, 7 tables</p></details> |
-| **[Training-Adaptive Convolutional Sparse Coding via Information Bottleneck for Robust Visual Representation](https://arxiv.org/abs/2609.19122v2)** | 2026-09-17 |  |
-| **[Galois Hulls of Generalized Roth-Lempel Codes and Their Applications to EAQECCs](https://arxiv.org/abs/2609.20453v1)** | 2026-09-17 |  |
-| **[Assessing the Construct Validity of Object-Oriented, Class-Level Code Quality Metrics](https://arxiv.org/abs/2609.20411v1)** | 2026-09-17 | <details><summary>Accep...</summary><p>Accepted to the ESEIW 2026 ESEM - Technical Track</p></details> |
-| **[Norm-One Torus Decompositions and Decoding of Gashkov-Sidel'nikov Codes](https://arxiv.org/abs/2609.20402v1)** | 2026-09-17 |  |
-| **[A Mirror Vanishing Band for Weight Distributions of Binary Linear Codes](https://arxiv.org/abs/2609.20344v1)** | 2026-09-17 |  |
-| **[Generalized Function-Correcting Partition Codes: Bounds and constructions](https://arxiv.org/abs/2605.03370v3)** | 2026-09-17 | <details><summary>We de...</summary><p>We derived linear programming bounds on the optimal redundancy. A shorter version of this work has been accepted for presentation at the IEEE Information Theory Workshop (ITW), 2026</p></details> |
-| **[CodeAssay: A Multi-Metric Benchmark with Audited Ground Truth for LLM Code Generation](https://arxiv.org/abs/2608.03535v2)** | 2026-09-17 | <details><summary>PROFE...</summary><p>PROFES 2026: 27th International Conference on Product-Focused Software Process Improvement</p></details> |
-| **[The Missing Complement: State-Conditioned Minimal Sufficient Evidence for Coding Agents](https://arxiv.org/abs/2609.20050v1)** | 2026-09-17 | <details><summary>32 pa...</summary><p>32 pages, 3 figures. Benchmark and evaluation resources: https://github.com/LordTARN1SHED/SERBench</p></details> |
-| **[Governance-as-Code: Translating EU AI Act Technical Requirements into Executable Compliance Pipelines for Generative AI Systems](https://arxiv.org/abs/2609.20016v1)** | 2026-09-17 | <details><summary>Accep...</summary><p>Accepted at the AI4Law Workshop, ICML 2026. Camera-ready version</p></details> |
-| **[D-Quant: Driftable Entropy Coding for KV Cache Quantization](https://arxiv.org/abs/2609.19880v1)** | 2026-09-17 |  |
-| **[Solutions to Three Conjectures and an Open Problem on Binary BCH Codes](https://arxiv.org/abs/2609.00532v2)** | 2026-09-17 |  |
-| **[LearnActCoder: Role-Aware Error Memory for Adaptive Clinical Coding Agents](https://arxiv.org/abs/2609.19721v1)** | 2026-09-17 |  |
+| **[CodeMidas: Scaling Agentic Coding RL Environments from Code Itself](https://arxiv.org/abs/2609.22068v1)** | 2026-09-18 |  |
+| **[How Researchers Use and Verify AI Coding Assistants: Tasks and Validation Practices in Scientific Programming](https://arxiv.org/abs/2609.22049v1)** | 2026-09-18 |  |
+| **[Assessment of Machine Learning-Based Critical Heat Flux Models in the CTF Subchannel Code for Square Rod Bundle Prediction](https://arxiv.org/abs/2609.21995v1)** | 2026-09-18 | 28 pages, 10 figures |
+| **[Minimum distances of primitive narrow-sense BCH codes via good zero-sets](https://arxiv.org/abs/2609.21994v1)** | 2026-09-18 |  |
+| **[AutoRecLab: Describe the Experiment, Get the Code!](https://arxiv.org/abs/2609.21863v1)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted at the 20th ACM Conference on Recommender Systems (RecSys '26), Demo Track. 4 pages, 2 figures</p></details> |
+| **[Scalable Packet Tracking on FPGAs for Erasure-Coded RDMA over Lossy WANs](https://arxiv.org/abs/2609.21774v1)** | 2026-09-18 | <details><summary>This ...</summary><p>This paper appeared in the 36th International Conference on Field-Programmable Logic and Applications https://2026.fpl.org/</p></details> |
+| **[Constraint Decay: The Fragility of LLM Agents in Backend Code Generation](https://arxiv.org/abs/2605.06445v2)** | 2026-09-18 |  |
+| **[Recall Before Rerank: Benchmarking Deep Learning Models for Large-Scale Code-to-Code Retrieval](https://arxiv.org/abs/2606.27401v2)** | 2026-09-18 | <details><summary>15 pa...</summary><p>15 pages, 4 figures. Accepted for publication in the Proceedings of the 27th International Conference on Web Information Systems Engineering (WISE 2026). Preliminary version (differs in formatting and minor revisions from the final camera-ready version). Source code and benchmark are available at https://github.com/leeeov4/code2code_benchmark</p></details> |
+| **[From Code Archival to Knowledge Graph: Bridging Software Heritage, COAR Notify and Wikidata](https://arxiv.org/abs/2609.21667v1)** | 2026-09-18 | <details><summary>15 pa...</summary><p>15 pages, 4 figures. Accepted at the 7th Wikidata Workshop (Wikidata 2026), co-located with ISWC 2026. Open-source pipeline and code available at https://github.com/ftosoni/swh-wd-reconciliation</p></details> |
+| **[Resolution of an Open Problem on Quasi-Cyclic Codes over $\mathbb{Z}_4$ and New Quaternary Linear Codes](https://arxiv.org/abs/2609.21601v1)** | 2026-09-18 |  |
+| **[GameLogicBench: Evaluating Coding Agents on Runtime Game Logic with Tick-Level State Assertions](https://arxiv.org/abs/2609.21562v1)** | 2026-09-18 | <details><summary>36 pa...</summary><p>36 pages, 9 figures, 13 tables. Xinyu Che, Yunfei Ge, Shihao Li, Yanchen Liu, Hang Yan, and Xinping Lei contributed equally. Jiaheng Liu is the corresponding author. Code and benchmark: https://github.com/NJU-LINK/GameLogicBench</p></details> |
+| **[Information-Gain Rewards over Diversity-Pruned Tests: GT-Anchored Verifier Co-Training for Reliable Code Generation](https://arxiv.org/abs/2609.21208v1)** | 2026-09-18 |  |
+| **[Embedding Drift in Code Vulnerability Models Under Intended Behaviour-Preserving Transformations](https://arxiv.org/abs/2609.21203v1)** | 2026-09-18 |  |
+| **[A geometric approach to the density of rank-metric codes](https://arxiv.org/abs/2609.21189v1)** | 2026-09-18 | 27 pages |
+| **[ReFINE: Scheduling of Distillation and Coding for Rate-Fidelity Tradeoff in Quantum Networks](https://arxiv.org/abs/2609.21152v1)** | 2026-09-17 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Researchers Use and Verify AI Coding Assistants: Tasks and Validation Practices in Scientific Programming](https://arxiv.org/abs/2609.22049v1)** | 2026-09-18 |  |
+| **[Connections Between Quadratic Transform for Fractional Programming and Schur Complement](https://arxiv.org/abs/2609.21730v1)** | 2026-09-18 | 11 pages |
+| **[Programming In-Storage Computing with Located, Stateful Dataflow](https://arxiv.org/abs/2609.19206v2)** | 2026-09-18 |  |
+| **[Collab-Solver: Collaborative Solving Policy Learning for Mixed-Integer Linear Programming](https://arxiv.org/abs/2508.03030v3)** | 2026-09-18 | DAI 2026 |
+| **[Scentree: a framework for generating scenario trees for multistage stochastic programming](https://arxiv.org/abs/2609.21495v1)** | 2026-09-18 |  |
+| **[BoostAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models](https://arxiv.org/abs/2605.09134v4)** | 2026-09-18 | <details><summary>21 pa...</summary><p>21 pages, 2 figures. Accepted at ICML 2026</p></details> |
+| **[Your Programming Students' Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership](https://arxiv.org/abs/2609.21194v1)** | 2026-09-18 | <details><summary>17 pa...</summary><p>17 pages, 9 figures, 7 tables</p></details> |
+| **[GeoSelect: Spatial-Program Execution for Training-Free Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2607.03869v2)** | 2026-09-17 | <details><summary>Accep...</summary><p>Accepted version. Published in IEEE Transactions on Geoscience and Remote Sensing, DOI: 10.1109/TGRS.2026.3734378. 22 pages</p></details> |
 | **[AdaRepair-Mem: Adaptive Experience Orchestration for Repository-Level Program Repair](https://arxiv.org/abs/2609.20130v1)** | 2026-09-17 | 12 pages, 9 figures |
 | **[How Often Does Your Program Fail?](https://arxiv.org/abs/2609.20037v1)** | 2026-09-17 |  |
 | **[Rel: A Programming Language for Relational Data](https://arxiv.org/abs/2504.10323v3)** | 2026-09-17 |  |
@@ -33,12 +41,4 @@ labels: documentation
 | **[A Taxonomy of Programming Languages for Code Generation](https://arxiv.org/abs/2604.00239v3)** | 2026-09-16 |  |
 | **[RayOrch: Programming and Executing Lineage-Controlled Multi-Grain Dataflows for Foundation-Model Data Preparation](https://arxiv.org/abs/2609.18703v1)** | 2026-09-16 | Technical Report |
 | **[An Operator Approach to Register Programs for Catalytic Computing](https://arxiv.org/abs/2609.18692v1)** | 2026-09-16 |  |
-| **[Learning to Program Adaptive Non-Local Observables for Machine Learning](https://arxiv.org/abs/2609.18655v1)** | 2026-09-16 |  |
-| **[Epic: Efficient Programming Paradigm for In-Storage Computing](https://arxiv.org/abs/2609.19206v1)** | 2026-09-16 |  |
-| **[An integer programming-based approach to construct exact two-sample binomial tests with maximum power](https://arxiv.org/abs/2503.13689v3)** | 2026-09-16 | <details><summary>30 pa...</summary><p>30 pages, 6 figures, 11 tables</p></details> |
-| **[A Study of the Reliability of Agentic AI-Generated Programs](https://arxiv.org/abs/2609.18298v1)** | 2026-09-16 |  |
-| **[Experimental Settings in LLM-Based Program Repair: A Study of Inputs, Tool Access, Feedback, and Validation](https://arxiv.org/abs/2609.17993v1)** | 2026-09-16 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 3 tables</p></details> |
-| **[PBEBench: A Multi-Step Programming by Examples Reasoning Benchmark inspired by Historical Linguistics](https://arxiv.org/abs/2505.23126v5)** | 2026-09-16 |  |
-| **[Does AI Assistance Leave a Temporal Fingerprint? Detecting Overreliance in AI-Assisted Writing and Programming](https://arxiv.org/abs/2609.17883v1)** | 2026-09-15 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 2 tables, submitted to AHFE 2026 Hawaii Edition</p></details> |
-| **[An Agentic Framework for Neuro-Symbolic Programming](https://arxiv.org/abs/2601.00743v2)** | 2026-09-15 | <details><summary>23 pa...</summary><p>23 pages. Updated to the NeSy 2026 camera-ready version</p></details> |
 
