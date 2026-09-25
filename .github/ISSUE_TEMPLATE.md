@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 24, 2026
+title: Latest 15 Papers - September 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents](https://arxiv.org/abs/2609.26779v1)** | 2026-09-22 |  |
-| **[Metrics Failure in LLM-Based Code Vulnerability Repair: An Empirical Study and a Change-Aware Screen](https://arxiv.org/abs/2609.26749v1)** | 2026-09-22 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, 11 tables. Code and data: https://github.com/OmNepal/llm-vulnrepair-metrics</p></details> |
-| **[Good Quantum Locally Testable Codes from Product Expansion](https://arxiv.org/abs/2609.26735v1)** | 2026-09-22 |  |
-| **[TraceVIC: Causal Reasoning over Code Evolution for Identifying Vulnerability-Inducing Commits](https://arxiv.org/abs/2609.26711v1)** | 2026-09-22 |  |
-| **[BigO(Bench): Can LLMs Generate Code with Controlled Time and Space Complexity?](https://arxiv.org/abs/2503.15242v3)** | 2026-09-22 |  |
-| **[Transversal non-Clifford gates on good quantum locally testable codes](https://arxiv.org/abs/2609.26691v1)** | 2026-09-22 |  |
-| **[Lower Bounds for all List-Decodable Deletion Codes](https://arxiv.org/abs/2609.26650v1)** | 2026-09-22 |  |
-| **[Annihilator and twisted Euclidean duality for quasi-polycyclic codes](https://arxiv.org/abs/2609.26633v1)** | 2026-09-22 |  |
-| **[Generalizing Manipulation Skills with a Local Coding Agent](https://arxiv.org/abs/2609.26499v1)** | 2026-09-22 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 5 tables. Raman Talwar and Elias Nijs contributed equally</p></details> |
-| **[FeatLens: Feature-Guided Dynamic Code Graph Construction and Retrieval for Repository-Level Code Generation](https://arxiv.org/abs/2609.26480v1)** | 2026-09-22 |  |
-| **[Code Plans, Diffusion Renders: Open-Ended Generative World Modeling](https://arxiv.org/abs/2609.26458v1)** | 2026-09-22 | <details><summary>https...</summary><p>https://becauseimbatman0.github.io/CoDeR</p></details> |
-| **[Support-Primitive Decomposition of Constacyclic Codes over Finite Fields: Coefficients-Based and Roots-Based Descriptions](https://arxiv.org/abs/2609.26414v1)** | 2026-09-22 |  |
-| **[On the Lexical Superstition of Large Language Models for Code Comprehension: Re-evaluation on Code of Low Lexical Quality](https://arxiv.org/abs/2609.26388v1)** | 2026-09-22 | <details><summary>27 pa...</summary><p>27 pages, 9 figures, 12 tables. Submitted to an ACM journal in September 2025. Preprint; manuscript under review. Corresponding author: Ming Li</p></details> |
-| **[AutoSQL: Extracting SQL Templates from Imperative ORM Code in Large-Scale Repositories](https://arxiv.org/abs/2608.15595v2)** | 2026-09-22 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, 8 tables</p></details> |
-| **[Evaluating Coding Agents on Kernel Exploit Generation](https://arxiv.org/abs/2609.25591v1)** | 2026-09-22 |  |
+| **[Coding Agents for Generalized Task and Motion Planning Problems](https://arxiv.org/abs/2609.30233v1)** | 2026-09-24 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 3 tables</p></details> |
+| **[Non-Abelian sheaf quantum LDPC codes: good and magical](https://arxiv.org/abs/2609.30159v1)** | 2026-09-24 |  |
+| **[SciWalker: Synthesizing Scientific Coding Problems with Operator Graphs and Execution Feedback](https://arxiv.org/abs/2609.30054v1)** | 2026-09-24 |  |
+| **[Style, Not Self: Surface Cues Explain Zero-Shot Code Attribution by Large Language Models](https://arxiv.org/abs/2609.30048v1)** | 2026-09-24 | <details><summary>18 pa...</summary><p>18 pages, 1 figure. Code and data: https://github.com/ebarkhordar/llm-collusion</p></details> |
+| **[VietPrism: A large-scale Vietnamese speech and deepfake corpus with diverse dialects and code-switching](https://arxiv.org/abs/2609.30005v1)** | 2026-09-24 | <details><summary>Prepr...</summary><p>Preprint for ICASSP 2027 submission</p></details> |
+| **[Hulls, linear equivalence, and weighted superelliptic codes](https://arxiv.org/abs/2608.02850v2)** | 2026-09-24 | 39 pages, 6 tables |
+| **[CodeGraph: Open-Taxonomy Knowledge Graph for Source Code with Wikidata Grounding](https://arxiv.org/abs/2609.29474v1)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026</p></details> |
+| **[Scanning the Harness: A Repository Study of Configuration Exposures in AI Coding Agents](https://arxiv.org/abs/2609.07360v2)** | 2026-09-24 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 5 tables. Revised exposure definitions, corrected counts, and clarified methodology. Tool: https://github.com/redhat-community-ai-tools/harness-eval; data and scripts: https://github.com/Benkapner/harness-eval-experiments</p></details> |
+| **[RACaP: Agentic Reasoning, Acting, and Coding as Policies for Evolvable Robot Learning](https://arxiv.org/abs/2609.29394v1)** | 2026-09-24 |  |
+| **[Policy as Code: A Coroutine-Bridge Harness for Fast-Reasoning Reliability on CAR-bench](https://arxiv.org/abs/2609.29251v1)** | 2026-09-24 | <details><summary>4 pag...</summary><p>4 pages, 1 figure, 3 tables. Technical report for the winning entry in Track 2 (Cerebras Fast-Reasoning) of the CAR-bench Challenge at IJCAI-ECAI 2026</p></details> |
+| **[On the Impact of Requirement Smells in LLM-Based Code Generation](https://arxiv.org/abs/2609.29208v1)** | 2026-09-24 | <details><summary>This ...</summary><p>This paper has been accepted for presentation at the 27th International Conference on Product-Focused Software Process Improvement (PROFES 2026)</p></details> |
+| **[Self-Evolving Coding Agents](https://arxiv.org/abs/2608.03392v4)** | 2026-09-24 |  |
+| **[Orchestrating AI-Assisted Code Remediation: Socio-Technical Bottlenecks in a Large Industrial Repository](https://arxiv.org/abs/2609.29172v1)** | 2026-09-24 | Preprint |
+| **[Replica Thresholds for Stripeless Erasure Coding Based on Symmetric Block Designs](https://arxiv.org/abs/2609.29149v1)** | 2026-09-24 |  |
+| **[NP-Hardness of Bounded Distance Decoding for Reed-Solomon Codes](https://arxiv.org/abs/2609.29120v1)** | 2026-09-24 | 31 pages |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RAPID: Robot Agentic Programming from Demonstrations](https://arxiv.org/abs/2609.30249v1)** | 2026-09-24 |  |
+| **[Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming](https://arxiv.org/abs/2609.29995v1)** | 2026-09-24 |  |
+| **[A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education](https://arxiv.org/abs/2609.29874v1)** | 2026-09-24 |  |
+| **[Large Language Models for Programming: Actually Fixing or Reimplementing Incorrect Code?](https://arxiv.org/abs/2609.29410v1)** | 2026-09-24 |  |
+| **[Beyond Simple Input-Output Assessment Tasks: Leveraging Automated Programming Assessment for Non-Trivial Courses](https://arxiv.org/abs/2609.29363v1)** | 2026-09-24 |  |
+| **[Schedules Are Solvable Symbols: Tuning-Free Compilation of Tile Programs on Dataflow Architectures](https://arxiv.org/abs/2609.29219v1)** | 2026-09-24 |  |
+| **[VidTutorAssistant: Automating Responses to Programming Tutorial Questions](https://arxiv.org/abs/2609.29129v1)** | 2026-09-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 1 table. Accepted at ASE 2026, Tools and Datasets Track. Author's accepted manuscript</p></details> |
+| **[TileBench: A Controlled Benchmark for Performance Evaluation and Bottleneck Diagnosis of Tile-Based Programming Models](https://arxiv.org/abs/2609.29067v1)** | 2026-09-24 |  |
+| **[Specification-Driven Benchmarking for Automated Program Repair From Static Corpora to Executable Specifications](https://arxiv.org/abs/2609.28896v1)** | 2026-09-24 |  |
+| **[Amplify: A Lightweight Library for Reproducible Nonlinear Programming Problems in Robotics](https://arxiv.org/abs/2609.28377v1)** | 2026-09-23 | <details><summary>21 pa...</summary><p>21 pages, 6 figures, submitted for review; code available at https://github.com/nr-codes/Amplify</p></details> |
+| **[A Deductive Verification Infrastructure for Probabilistic Programs (Extended Version)](https://arxiv.org/abs/2309.07781v3)** | 2026-09-23 | <details><summary>This ...</summary><p>This is an extended and updated version of the the publication at OOPSLA 2023 (https://doi.org/10.1145/3622870)</p></details> |
+| **[Resource-Adaptive Stochastic Gradient Descent for Online Linear Programming without Re-solving](https://arxiv.org/abs/2609.28263v1)** | 2026-09-23 |  |
+| **[A Study of the Reliability of Agentic AI-Generated Programs](https://arxiv.org/abs/2609.18298v2)** | 2026-09-23 |  |
+| **[SpaFactor: Lightweight Spatial Context-Aware Gene Program Modeling for Histology-to-Transcriptomics Inference](https://arxiv.org/abs/2609.28563v1)** | 2026-09-23 |  |
 | **[4-Block Integer Programming is in FPT](https://arxiv.org/abs/2609.26746v1)** | 2026-09-22 | 13 pages, 0 figures |
-| **[Disciplined Bilevel Programming](https://arxiv.org/abs/2609.00644v2)** | 2026-09-22 |  |
-| **[Modular Composition of Inductive Types Using Lean Meta-programming](https://arxiv.org/abs/2609.25427v1)** | 2026-09-21 | SEFM 2026 preprint |
-| **[Robot Programming with Augmented Reality: The Role of Spatial Ability](https://arxiv.org/abs/2602.03544v2)** | 2026-09-21 |  |
-| **[Lifted Bellman Linear Programming for Offline Reinforcement Learning](https://arxiv.org/abs/2609.24489v1)** | 2026-09-21 |  |
-| **[Constrained Program Generation for 3D Reaction Animation with a 0.8B Model](https://arxiv.org/abs/2609.24457v1)** | 2026-09-21 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 2 tables. Hongyuan Wang and Daming Luo contributed equally to this work</p></details> |
-| **[DCL-GPGLS: Dynamic Curriculum Learning for Genetic Programming Guided Local Search in Large-Scale Vehicle Routing](https://arxiv.org/abs/2609.24105v1)** | 2026-09-21 | 14 pages, 3 figures |
-| **[Genetic Programming with Behaviour-based Niching for Learning Guided Local Search in Vehicle Routing Problems](https://arxiv.org/abs/2609.24104v1)** | 2026-09-21 | 15 pages, 3 figures |
-| **[Infrequent Resolving Algorithm for Online Linear Programming](https://arxiv.org/abs/2408.00465v8)** | 2026-09-21 | <details><summary>With ...</summary><p>With very few resolvings, we can achieve constant regret (even without the non-degeneracy assumption) for OLP and NRM problems</p></details> |
-| **[Djinnlang: Higher-Level Programming by Unambiguous Specification with an LLM in the Compiler](https://arxiv.org/abs/2609.23954v1)** | 2026-09-21 |  |
-| **["I can do whatever I put my mind to!" How prioritizing belonging in the design of technology-based programs can support foster-involved youth with self-efficacy, self-expression, and personal exploration](https://arxiv.org/abs/2609.23861v1)** | 2026-09-20 |  |
-| **[The Mathematical Evolution of Addressing: From Yushchenko's Address Programming Language to A Mathematics of Arrays How Addressing Evolved into a Mathematical Theory of Indexing, Array Computation, and Machine Realization](https://arxiv.org/abs/2609.23854v1)** | 2026-09-20 |  |
-| **[Power and Limitations of Linear Programming Decoder for Quantum LDPC Codes](https://arxiv.org/abs/2508.04769v2)** | 2026-09-20 | <details><summary>16 pa...</summary><p>16 pages, 6 figures; accepted in IEEE Transactions on Information Theory</p></details> |
-| **[A Fixed-Parameter Algorithm for 4-Block Integer Programming](https://arxiv.org/abs/2609.23711v1)** | 2026-09-20 |  |
-| **[Real-to-Sim Generation: Synthesizing Scenario Programs from Real-World Data via Constraint Solving](https://arxiv.org/abs/2609.23342v1)** | 2026-09-20 | <details><summary>31 pa...</summary><p>31 pages, 4 figures, 4 tables. Accepted at OOPSLA 2026, to appear in PACMPL Vol. 10, No. OOPSLA2, Article 395 (DOI: 10.1145/3839527). This is the full version with supplementary material</p></details> |
 
