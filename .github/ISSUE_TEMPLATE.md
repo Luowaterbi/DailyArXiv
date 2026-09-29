@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2026
+title: Latest 15 Papers - September 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Source Code to Network Profile: Automated and Traceable MUD Profile Generation for IoT Devices](https://arxiv.org/abs/2609.31594v1)** | 2026-09-25 |  |
-| **[Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer](https://arxiv.org/abs/2609.31587v1)** | 2026-09-25 | <details><summary>13 pa...</summary><p>13 pages. Code and data: https://github.com/haw-ai-i/roundtrip</p></details> |
-| **[A First Look at the Self-Admitted Technical Debt in Test Code: Taxonomy and Detection](https://arxiv.org/abs/2510.22409v3)** | 2026-09-25 |  |
-| **[Sipser-Spielman meets Dijkgraaf-Witten: non-Abelian qLDPC codes via twisted sheaf gauge theory and almost-constant-overhead magic state fountain](https://arxiv.org/abs/2609.31541v1)** | 2026-09-25 | <details><summary>66 pa...</summary><p>66 pages + 15 figures</p></details> |
-| **[A search-to-decision reduction for the linear code equivalence problem](https://arxiv.org/abs/2609.31517v1)** | 2026-09-25 |  |
-| **[Direct Preference Optimization for English-Mandarin Code-Switching Speech Recognition in Audio LLMs](https://arxiv.org/abs/2605.23975v2)** | 2026-09-25 |  |
-| **[CODESKILL: Learning Self-Evolving Skills for Coding Agents](https://arxiv.org/abs/2605.25430v2)** | 2026-09-25 |  |
-| **[New distance bounds for one-generator quasi-cyclic codes with applications to Hermitian LCD codes and entanglement-assisted quantum codes](https://arxiv.org/abs/2609.31300v1)** | 2026-09-25 |  |
-| **[Scanning the Harness: Configuration Exposures in AI Coding-Agent Supply Chains](https://arxiv.org/abs/2609.07360v3)** | 2026-09-25 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 5 tables. Revised exposure definitions, corrected counts, and clarified methodology. Tool: https://github.com/redhat-community-ai-tools/harness-eval; data and scripts: https://github.com/Benkapner/harness-eval-experiments</p></details> |
-| **[Semantic Navigation for Issue Localization in Code Repository](https://arxiv.org/abs/2609.31176v1)** | 2026-09-25 |  |
-| **[Orchestrating AI-Assisted Code Remediation: Socio-Technical Bottlenecks in a Large Industrial Repository](https://arxiv.org/abs/2609.29172v2)** | 2026-09-25 | Submitted |
-| **[Up and Down the Abstraction Ladder: Code-Based Skills for Language Agents](https://arxiv.org/abs/2609.31076v1)** | 2026-09-25 |  |
-| **[On Function-Correcting Codes in the Lee Metric](https://arxiv.org/abs/2507.17654v4)** | 2026-09-25 | <details><summary>Accep...</summary><p>Accepted in Journal of Algebra</p></details> |
-| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | <details><summary>21 pa...</summary><p>21 pages, 3 tables, 2 algorithms</p></details> |
-| **[List decoding of toric codes](https://arxiv.org/abs/2510.01811v2)** | 2026-09-25 |  |
+| **[Tracekit: Tamper-Evident Intent-Reasoning-Action Auditing for Autonomous Coding Agents](https://arxiv.org/abs/2609.35659v1)** | 2026-09-28 | <details><summary>13 pa...</summary><p>13 pages, 5 figures. Code and data: https://github.com/LoopGlitch26/Tracekit</p></details> |
+| **[CoSE-E: A Benchmark for Code-switched Speech Evaluation in Enterprise Settings](https://arxiv.org/abs/2609.35645v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted to SALMA Workshop (Oral) at EMNLP 2026</p></details> |
+| **[GPUPhysBench: Benchmarking Coding Agents for Correct and Efficient GPU Physics Simulation](https://arxiv.org/abs/2609.35639v1)** | 2026-09-28 | 41 pages |
+| **[Low-Weight Canonical Logical Bases from Pair-Partition Codes](https://arxiv.org/abs/2609.35601v1)** | 2026-09-28 | 13 pages, 2 tables |
+| **[WeaveMark: Robust and Scalable Multi-bit LLM Watermarking via Coded Payload Spreading](https://arxiv.org/abs/2609.02177v2)** | 2026-09-28 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 16 tables. v2: added extended comparisons (payload scalability, generalization across model families), additional robustness results (insertion/deletion, truncation, copy-paste, rewriting), context-window and statistical reliability analyses; revised presentation</p></details> |
+| **[The Compiler May Read It, the Agent May Not: Keeping Part of a Research Code Away from a Coding Agent](https://arxiv.org/abs/2609.35557v1)** | 2026-09-28 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, 1 table. Ancillary files: the classification and history scripts with their outputs</p></details> |
+| **[SynthCoder: Anti-pattern identification and model training for FIM mode code completion](https://arxiv.org/abs/2508.15495v4)** | 2026-09-28 | <details><summary>Publi...</summary><p>Published in Empirical Software Engineering, 40 pages</p></details> |
+| **[Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence](https://arxiv.org/abs/2609.35432v1)** | 2026-09-28 | Technical report |
+| **[Do Coding Agents Reuse Existing Code or Reinvent the Wheel?](https://arxiv.org/abs/2609.35357v1)** | 2026-09-28 |  |
+| **[Unequal Error Protection for Digital Semantic Communication with Channel Coding](https://arxiv.org/abs/2508.03381v3)** | 2026-09-28 |  |
+| **[Trajectory-Level Security Debt in LLM Coding Agents](https://arxiv.org/abs/2609.35199v1)** | 2026-09-28 |  |
+| **[Improved bounds for constant-power and low-power error-correcting cooling codes](https://arxiv.org/abs/2609.35061v1)** | 2026-09-28 |  |
+| **[SkillBloat: Token Amplification Attacks via Skill Injection in LLM Coding Agents](https://arxiv.org/abs/2608.21929v2)** | 2026-09-28 |  |
+| **[JevVibe: Efficient Classification-Guided Secure Code Generation](https://arxiv.org/abs/2609.34963v1)** | 2026-09-28 |  |
+| **[Audit the Scaffold, Not the Checkpoint: A Stationarity Dichotomy for Recursive Self-Improvement in Agentic Coding](https://arxiv.org/abs/2609.34924v1)** | 2026-09-28 | <details><summary>9 pag...</summary><p>9 pages main text, 46 pages total, 9 figures, 5 tables</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Programs-of-Layers in LLMs through the Lens of Cortical Areas](https://arxiv.org/abs/2609.31360v1)** | 2026-09-25 |  |
-| **[Fixed-parameter tractable inference for discrete probabilistic programs, via string diagram algebraisation](https://arxiv.org/abs/2604.25321v2)** | 2026-09-25 | <details><summary>Exten...</summary><p>Extended version of the paper published in the proceedings of LICS 2026, with an appendix containing the omitted proofs and two supplementary sections. This version corrects several errors of the initially published version and the earlier preprint; the revision notice at the end describes the corrections</p></details> |
-| **[Representation-Guided Generation and Integration of Executable Programs for Robot Manipulation](https://arxiv.org/abs/2609.31337v1)** | 2026-09-25 |  |
-| **[SPO: Discovering Adaptive Large Neighborhood Search Operators via Stackelberg Program Optimization](https://arxiv.org/abs/2609.31179v1)** | 2026-09-25 |  |
-| **[Lifted Bellman Linear Programming for Offline Reinforcement Learning](https://arxiv.org/abs/2609.24489v2)** | 2026-09-25 |  |
-| **[Faster Linear Programming with $\sqrt{\mathrm{rank}}$ Linear System Solves](https://arxiv.org/abs/2609.30853v1)** | 2026-09-25 |  |
-| **[SUN: Agentic Robot Policy Learning with Persistent Task Programs](https://arxiv.org/abs/2608.31167v2)** | 2026-09-25 |  |
-| **[Scaffold-Constrained Subset Dynamic Programming for Exact SSE Clustering](https://arxiv.org/abs/2609.30477v1)** | 2026-09-24 |  |
-| **[RAPID: Robot Agentic Programming from Demonstrations](https://arxiv.org/abs/2609.30249v1)** | 2026-09-24 |  |
-| **[Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming](https://arxiv.org/abs/2609.29995v1)** | 2026-09-24 |  |
-| **[A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education](https://arxiv.org/abs/2609.29874v1)** | 2026-09-24 |  |
-| **[Large Language Models for Programming: Actually Fixing or Reimplementing Incorrect Code?](https://arxiv.org/abs/2609.29410v1)** | 2026-09-24 |  |
-| **[Beyond Simple Input-Output Assessment Tasks: Leveraging Automated Programming Assessment for Non-Trivial Courses](https://arxiv.org/abs/2609.29363v1)** | 2026-09-24 |  |
-| **[Schedules Are Solvable Symbols: Tuning-Free Compilation of Tile Programs on Dataflow Architectures](https://arxiv.org/abs/2609.29219v1)** | 2026-09-24 |  |
-| **[VidTutorAssistant: Automating Responses to Programming Tutorial Questions](https://arxiv.org/abs/2609.29129v1)** | 2026-09-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 1 table. Accepted at ASE 2026, Tools and Datasets Track. Author's accepted manuscript</p></details> |
+| **[Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence](https://arxiv.org/abs/2609.35432v1)** | 2026-09-28 | Technical report |
+| **[From Data to Program: Fast & Direct Generative Program Inference from Empirical Data](https://arxiv.org/abs/2609.35348v1)** | 2026-09-28 | <details><summary>51 pa...</summary><p>51 pages, 20 figures,</p></details> |
+| **[Better Understanding, Better Fixes? A Study of Hallucination in LLM-based Automated Program Repair](https://arxiv.org/abs/2609.04909v2)** | 2026-09-28 |  |
+| **[Codoku: Renewable Program-Reasoning Challenges for Frontier Coding Agents](https://arxiv.org/abs/2609.34661v1)** | 2026-09-28 |  |
+| **[Episodic Loops: Finitary Event Structures and Operational Semantics for C11 Programs with Retries](https://arxiv.org/abs/2609.34646v1)** | 2026-09-28 | <details><summary>115 p...</summary><p>115 pages (42 pages main text plus appendices), 19 figures, 2 tables. Reference implementation: https://github.com/christiankissig/mordor ; Isabelle/HOL mechanisation: https://github.com/christiankissig/isa-smrd-opsem</p></details> |
+| **[Disciplined Biconvex Programming](https://arxiv.org/abs/2511.01813v3)** | 2026-09-28 |  |
+| **[Distribution-Aware Programming: Learning Specialized Solvers from Experience](https://arxiv.org/abs/2605.14141v3)** | 2026-09-28 |  |
+| **[Improving Large Language Models for Code through Runtime Program-State Reasoning](https://arxiv.org/abs/2609.34359v1)** | 2026-09-28 |  |
+| **[MoSPR: Histology-to-Gene Expression Prediction with Morpho-Spatial Macrostates and Low-Rank Molecular Programs](https://arxiv.org/abs/2609.34280v1)** | 2026-09-28 |  |
+| **[JET: Judge-Guided Evolution at Test Time for Agent Programs](https://arxiv.org/abs/2609.34126v1)** | 2026-09-28 |  |
+| **[Faultless: A Program Equivalence Technique for Validating and Evaluating Neural Decompilers](https://arxiv.org/abs/2609.34089v1)** | 2026-09-28 |  |
+| **[Program-Verified Self-Evolution for Vision-Language Models](https://arxiv.org/abs/2609.33855v1)** | 2026-09-27 | 26 pages |
+| **[Faster but Not Wiser: GitHub Copilot Decouples Programming Performance from Code Comprehension in Brownfield Tasks](https://arxiv.org/abs/2511.02922v3)** | 2026-09-27 | 25 pages |
+| **[RefineRL: Advancing Competitive Programming with Self-Refinement Reinforcement Learning](https://arxiv.org/abs/2604.00790v2)** | 2026-09-27 |  |
+| **[NxM-Version Programming for Quantum Software: High-Level Components across Frameworks and Engines](https://arxiv.org/abs/2609.33255v1)** | 2026-09-27 |  |
 
