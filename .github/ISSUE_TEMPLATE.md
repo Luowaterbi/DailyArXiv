@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 05, 2026
+title: Latest 15 Papers - October 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SWE-chat: Coding Agent Interactions From Real Users in the Wild](https://arxiv.org/abs/2604.20779v2)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted at COLM 2026</p></details> |
-| **[AutoCompact: Learning When to Compact Context in Long-Horizon Coding Agents](https://arxiv.org/abs/2610.02163v1)** | 2026-10-01 |  |
-| **[4D and 5D Layer Codes through Color Routing](https://arxiv.org/abs/2605.18961v2)** | 2026-10-01 | <details><summary>revis...</summary><p>revisions to the introduction and overview, mostly to provide a better high-level overview of the proof</p></details> |
-| **[Emergence-as-Code as a Foundation for Reliable Self-Governance](https://arxiv.org/abs/2602.05458v3)** | 2026-10-01 |  |
-| **[Universality Sacrifices Reliability in Classical-Quantum Channel Coding](https://arxiv.org/abs/2610.01941v1)** | 2026-10-01 | 5+23 pages |
-| **[Recovery Set Structures and Service Rates of Codes Obtained by the Plotkin-type Construction](https://arxiv.org/abs/2610.01900v1)** | 2026-10-01 |  |
-| **[Code Owns the Simulation, Jev Owns the Evaluation](https://arxiv.org/abs/2610.01834v1)** | 2026-10-01 | <details><summary>10 pa...</summary><p>10 pages main text, 20 pages total with appendix; 6 figures, 7 tables. Preprint</p></details> |
-| **[Are AI Coders Snitches? An Empirical Study of Pretraining Data Detection on Code Large Language Models](https://arxiv.org/abs/2507.17389v2)** | 2026-10-01 |  |
-| **[CONTRA: Discovering and Qualifying Behavior-Changing Questions for Selective Clarification in LLM Code Generation](https://arxiv.org/abs/2610.01769v1)** | 2026-10-01 | <details><summary>15 pa...</summary><p>15 pages. Code: https://github.com/fangz-cs/Contra</p></details> |
-| **[Asymptotically unit-rate storage codes from binary BCH codes](https://arxiv.org/abs/2610.01733v1)** | 2026-10-01 | 11 pages, no figures |
-| **[Code Detectors Have a Half-Life: Obsolescence and Metric Illusions in LLM-Generated Code Detection](https://arxiv.org/abs/2610.01664v1)** | 2026-10-01 |  |
-| **[Zero2Repo: Can Coding Agents Build Repositories from Scratch?](https://arxiv.org/abs/2609.38269v2)** | 2026-10-01 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 8 tables</p></details> |
-| **[Optimal Universal Coding of Integers](https://arxiv.org/abs/2610.01563v1)** | 2026-10-01 |  |
-| **[Fourier-Curve Constellations under Tangential Perturbation: Covariance-Aware Soft Demapping on Coded Links](https://arxiv.org/abs/2604.24918v3)** | 2026-10-01 | <details><summary>Submi...</summary><p>Submitted to IEEE for publication. Exact detection-theoretic analysis is developed in a companion letter, see arXiv:2604.14844 [cs.IT]</p></details> |
-| **[Key-Reuse Vulnerability of Phase-Keyed Fourier-Curve Modulation: Relation Leakage and Key-Refresh Cost on Coded Links](https://arxiv.org/abs/2610.01484v1)** | 2026-10-01 | <details><summary>Submi...</summary><p>Submitted to IEEE for publication</p></details> |
+| **[A Spectrum-Based Converse for Quantum State Discrimination and Its Applications to Classical-Quantum Channel Coding](https://arxiv.org/abs/2610.06840v1)** | 2026-10-05 |  |
+| **[Sipser-Spielman meets Dijkgraaf-Witten: non-Abelian qLDPC codes via twisted sheaf gauge theory and almost-constant-overhead magic state fountain](https://arxiv.org/abs/2609.31541v2)** | 2026-10-05 | <details><summary>68 pa...</summary><p>68 pages of main text and 17 figures + appendices</p></details> |
+| **[Quantum Message Passing Convergence and Vanishing Block-Error Probability for Random LDPC Codes](https://arxiv.org/abs/2609.05857v2)** | 2026-10-05 |  |
+| **[Improved Decoding of Quantum Tanner Codes Using Generalized Check Nodes](https://arxiv.org/abs/2603.05486v2)** | 2026-10-05 | <details><summary>Submi...</summary><p>Submission for possible publication</p></details> |
+| **[Large Language Model-Guided Discovery of Weight-Five Bivariate Bicycle Codes](https://arxiv.org/abs/2610.06623v1)** | 2026-10-05 |  |
+| **[AECP: Artifact-Exclusive Communication Protocol for Multi-Agent Code Generation](https://arxiv.org/abs/2610.06481v1)** | 2026-10-05 |  |
+| **[Improved Characterization of the Memory-Rate Tradeoff for Demand-Private Coded Caching With Multiple Demands](https://arxiv.org/abs/2604.11492v3)** | 2026-10-05 | <details><summary>22 pa...</summary><p>22 pages, 2 figures. Extended version prepared for journal submission. The conference version was accepted at IEEE GLOBECOM 2026; for the version corresponding to the conference paper, see v2. This version contains substantial new results; the title and author list have been updated</p></details> |
+| **[CAS I: A Geometric Coding Theorem](https://arxiv.org/abs/2607.13796v2)** | 2026-10-05 |  |
+| **[Learning LDPC codes with density evolution over relaxed protographs](https://arxiv.org/abs/2607.08484v2)** | 2026-10-05 | <details><summary>A sho...</summary><p>A short version of this paper has been accepted for presentation at IEEE GLOBECOM 2026 Workshops: Workshop on Channel Coding beyond 5G. This extended version of the paper has been submitted to the IEEE Transactions on Communications journal</p></details> |
+| **[MoCAR: Motion-code Coordinate-aware AutoRegression for Continuous Trajectory Forecasting](https://arxiv.org/abs/2610.06210v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Camera-ready version</p></details> |
+| **[Correct Code, Broken Contributions? SWE-CC: Benchmarking Repository Policy Compliance for Coding Agents](https://arxiv.org/abs/2610.06193v1)** | 2026-10-05 | <details><summary>39 pa...</summary><p>39 pages, 6 figures. Benchmark and source code: https://github.com/dangtruong01/swe-cc-arxiv</p></details> |
+| **[Introducing Code-Switched Contexts to Cognitively-Inspired Bilingual Model Training](https://arxiv.org/abs/2610.06161v1)** | 2026-10-05 | <details><summary>EMNLP...</summary><p>EMNLP 2026, BabyLM Challenge; 18 pages, 6 figures</p></details> |
+| **[Security Is More Than a Library Call: How Security Features Live in Code](https://arxiv.org/abs/2610.06132v1)** | 2026-10-05 |  |
+| **[Identification Codes for Ad Hoc Networks: Use Cases and Challenges](https://arxiv.org/abs/2610.06123v1)** | 2026-10-05 | <details><summary>10 pa...</summary><p>10 pages with 4 figures</p></details> |
+| **[A Complete, Formal Semantics for Rust Source Code](https://arxiv.org/abs/2610.06003v1)** | 2026-10-05 | <details><summary>Submi...</summary><p>Submitted to ACM TOPLAS</p></details> |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ROWBench: Do Video Models Render What the Program Specifies?](https://arxiv.org/abs/2610.02205v1)** | 2026-10-01 |  |
-| **[InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.02196v1)** | 2026-10-01 | <details><summary>Proje...</summary><p>Project page: https://sirui-xu.github.io/InterEvolve</p></details> |
-| **[Linear Programming Representations and Strongly Polynomial Algorithms for Robust Markov Decision Processes](https://arxiv.org/abs/2610.02131v1)** | 2026-10-01 |  |
-| **[Reinforcement Learning to Accelerate Primal-Dual Hybrid Gradient for Linear Programming](https://arxiv.org/abs/2610.01546v1)** | 2026-10-01 | 35 pages, 4 figures |
-| **[Disciplined Bilevel Programming](https://arxiv.org/abs/2609.00644v3)** | 2026-10-01 |  |
-| **[A Taxonomy of Programming Languages for Code Generation](https://arxiv.org/abs/2604.00239v4)** | 2026-10-01 |  |
-| **[Correctness, Convergence, and AI-Generated Code Detection: A Longitudinal Study of Student and Large Language Model Code in Introductory Programming](https://arxiv.org/abs/2610.00863v1)** | 2026-10-01 | <details><summary>accep...</summary><p>accepted at Koli Calling '26</p></details> |
-| **[Reformulation-Contrastive Learning for Mixed Integer Programs](https://arxiv.org/abs/2610.00730v1)** | 2026-09-30 |  |
-| **[Program Learning with Verifiable Rewards: Symbolic Backpropagation for Post-Training LLMs](https://arxiv.org/abs/2608.28421v2)** | 2026-09-30 | <details><summary>Error...</summary><p>Errors in the benchmarks and experimental sections on the baseline numbers. The experiments in the paper are being discarded by the authors</p></details> |
-| **[UNIQ: Communication-Efficient Distributed Quantum Computing via Unified Nonlinear Integer Programming](https://arxiv.org/abs/2512.00401v2)** | 2026-09-30 |  |
-| **[MatLoom: Layered Text-to-Material Generation in a Compact Program Space](https://arxiv.org/abs/2609.40322v1)** | 2026-09-30 | 27 pages, 8 figures |
-| **[Query-Limited RAM Programs and their Applications](https://arxiv.org/abs/2609.40194v1)** | 2026-09-30 |  |
-| **[EndoWake: Modeling Wind by Linear Programming for Wind Farm Layout Optimization](https://arxiv.org/abs/2609.40157v1)** | 2026-09-30 | <details><summary>30 pa...</summary><p>30 pages + 12 pages of supplementary material (appended after the references). Replication package: https://doi.org/10.5281/zenodo.22017424</p></details> |
-| **[Structure over Pixels: Learning Variable-Length Visual Programs](https://arxiv.org/abs/2605.27696v3)** | 2026-09-30 |  |
-| **[MemCodex: Self-Programming Hierarchical Memory for Language Agents](https://arxiv.org/abs/2609.39765v1)** | 2026-09-30 | Work in progress |
+| **[User Misconceptions of LLM-Based Conversational Programming Assistants](https://arxiv.org/abs/2510.25662v3)** | 2026-10-05 | <details><summary>Exten...</summary><p>Extends a paper presented at the ICSE 2026 Journal Ahead Workshop (JAWs)</p></details> |
+| **[Teaching a Minimalist Machine to Discover Recursive Programs for Arithmetic](https://arxiv.org/abs/2610.06304v1)** | 2026-10-05 | <details><summary>15 pa...</summary><p>15 pages, 5 figures. Accepted for oral presentation at the 6th International Joint Conference on Learning and Reasoning 2026. Code: https://github.com/cognitive-modeling/minimalist-machine/tree/IJCLR-2026</p></details> |
+| **[Answer Set Networks: Casting Answer Set Programming into Deep Learning](https://arxiv.org/abs/2412.14814v2)** | 2026-10-05 | 16 pages, 9 figures |
+| **[PROWBench: Do Video Models Render What the Program Specifies?](https://arxiv.org/abs/2610.02205v2)** | 2026-10-05 | <details><summary>Proje...</summary><p>Project page: https://alaya-lab.github.io/PROWBench</p></details> |
+| **[Inverse Mixed-Integer Programming: Learning Constraints then Objective Functions](https://arxiv.org/abs/2510.04455v3)** | 2026-10-05 | 63 pages |
+| **[On Best-Possible One-Time Programs](https://arxiv.org/abs/2603.00544v2)** | 2026-10-05 | <details><summary>72 pa...</summary><p>72 pages; preprint. Substantially revised exposition and proofs; strengthened impossibility results and added a separation between SEQ and testable security</p></details> |
+| **[Online Linear Programming with Batching](https://arxiv.org/abs/2408.00310v2)** | 2026-10-04 |  |
+| **[Programming Manufacturing Robots with Imperfect AI: LLMs as Tuning Experts for FDM Print Configuration Selection](https://arxiv.org/abs/2603.22118v2)** | 2026-10-04 | <details><summary>Accep...</summary><p>Accepted at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026</p></details> |
+| **[Safe Ergodic Control for Multi-Robot Systems via Quadratic Programming](https://arxiv.org/abs/2610.05258v1)** | 2026-10-04 |  |
+| **[SpecAgent: Empowering Program Verification with Agentic Synthesis of Formal Program Specifications](https://arxiv.org/abs/2610.05132v1)** | 2026-10-04 |  |
+| **[A FeFET Voltage-to-Time Converter with Offset Trim by Programmed Multilevel State in 28-nm CMOS](https://arxiv.org/abs/2610.05016v1)** | 2026-10-04 |  |
+| **[Decompiling Quantum Assembly into Structured Programs](https://arxiv.org/abs/2610.05012v1)** | 2026-10-04 |  |
+| **[InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.02196v2)** | 2026-10-04 | <details><summary>Proje...</summary><p>Project page: https://sirui-xu.github.io/InterEvolve</p></details> |
+| **[EasyClassifier: Honest, Reproducible Machine-Learning Classification for Researchers Who Do Not Program](https://arxiv.org/abs/2610.04758v1)** | 2026-10-03 |  |
+| **[Nonlinear Density-Driven Optimal Control (D2OC) for Multi-Agent Spatial Coverage via Sequential Convex Programming](https://arxiv.org/abs/2610.04545v1)** | 2026-10-03 |  |
 
