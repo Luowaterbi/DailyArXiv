@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 23, 2026
+title: Latest 15 Papers - October 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Code
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Best Programming Language for Tokenmaxxing: An Investigation of Coding Agent Behavior Across Programming Languages](https://arxiv.org/abs/2607.22807v2)** | 2026-10-21 |  |
-| **[SWE-DIVE: Multi-Turn Coding Agent Evaluation with Dynamic User Simulation](https://arxiv.org/abs/2610.30047v1)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2026 workshop "Grounded User Simulation for Model Evaluation and Training: Diversity, Fidelity, and Validity'' (non-archival)</p></details> |
-| **[Code Comprehensor: Hierarchical Documentation and Cross-Modal Retrieval for Large Repositories](https://arxiv.org/abs/2610.30016v1)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted at 42nd International Conference on Software Maintenance and Evolution</p></details> |
-| **[On optimal (v,5,3,1) optical orthogonal codes](https://arxiv.org/abs/2610.30003v1)** | 2026-10-21 |  |
-| **[Learning to Interfere in Non-Orthogonal Multiple-Access Joint Source-Channel Coding](https://arxiv.org/abs/2504.03690v2)** | 2026-10-21 | <details><summary>20 pa...</summary><p>20 pages, 19 figures, 4 tables, including appendix. Published in IEEE Transactions on Wireless Communications</p></details> |
-| **[Benchmarking Large Language Models for Detecting Satirical Code-Mixed Sentences](https://arxiv.org/abs/2610.29907v1)** | 2026-10-21 | 35 pages, 8 figures |
-| **[PAUSE: Search-Free Steering of Coding Agents Before Their First Source-Code Edit](https://arxiv.org/abs/2610.29870v1)** | 2026-10-21 | 21 pages |
-| **[Compaction Laundering: Provenance Destruction in Context-Compacting Coding Agents](https://arxiv.org/abs/2610.29869v1)** | 2026-10-21 | <details><summary>29 pa...</summary><p>29 pages, 5 figures. Source code, raw data, and recorded live demonstrations at https://github.com/pixee/flat-compaction-attacks-oct-2027</p></details> |
-| **[Linear Complementary Pairs of MDS Codes from Elliptic Curves](https://arxiv.org/abs/2610.29835v1)** | 2026-10-21 | 14 pages |
-| **[UserSWE: Evaluating Coding Agents in Multi-Turn Conversations with Dynamic Users](https://arxiv.org/abs/2610.29822v1)** | 2026-10-21 |  |
-| **[On the maximum length of cyclic MDS codes](https://arxiv.org/abs/2610.29810v1)** | 2026-10-21 |  |
-| **[Some Results on the Weight Spectrum of Binary Reed-Muller Codes $RM(m-7,m)$](https://arxiv.org/abs/2610.29807v1)** | 2026-10-21 | 36 pages |
-| **[Systematic Codes Correcting Two Deletions with Three Redundant Symbols over Large Alphabets](https://arxiv.org/abs/2609.38259v2)** | 2026-10-21 | 52 pages |
-| **[AssureCode: Structured Justification for Trustworthy Agentic Coding](https://arxiv.org/abs/2610.29758v1)** | 2026-10-21 |  |
-| **[On Almost MDS codes holding $(n-k-1)$-designs and an open problem on Witt design](https://arxiv.org/abs/2610.29744v1)** | 2026-10-21 | 18 pages |
+| **[The Exhaustive Peres Transform: Extraction and Universal Coding](https://arxiv.org/abs/2610.26396v2)** | 2026-10-22 |  |
+| **[The Cheng-Murray Conjecture on Deep Holes of Full-Length Reed-Solomon Codes](https://arxiv.org/abs/2610.31531v1)** | 2026-10-22 |  |
+| **[AuditCoder: Process-Auditable Code Generation through Responsibility-Preserving Task Graphs](https://arxiv.org/abs/2607.29529v2)** | 2026-10-22 | <details><summary>Prepr...</summary><p>Preprint. 29 pages, 7 figures. Code and data are available at the project repository</p></details> |
+| **[Adaptive Skill Granularity for Coding Agents: Runtime Routing and Macro-to-Micro Recovery](https://arxiv.org/abs/2610.31461v1)** | 2026-10-22 |  |
+| **[Deep holes of full-length Reed--Solomon codes: uniform bounds and exact classifications](https://arxiv.org/abs/2610.31460v1)** | 2026-10-22 | 43 pages |
+| **[ConQEC: Concolic Testing for Quantum Error-Correcting Code Implementations](https://arxiv.org/abs/2610.31443v1)** | 2026-10-22 | <details><summary>12 pa...</summary><p>12 pages. Accepted at the 49th IEEE/ACM International Conference on Software Engineering (ICSE 2027)</p></details> |
+| **[Homomorphic Encryption with Coset Code Construction](https://arxiv.org/abs/2610.31437v1)** | 2026-10-22 | 28 pages |
+| **[SyRA-CS: Synthetic-to-Real Adaptation for Code-Switched ASR with Meta-Learning](https://arxiv.org/abs/2610.31415v1)** | 2026-10-22 |  |
+| **[Sum-rank analogues of Reed--Muller codes over Abelian Galois extensions](https://arxiv.org/abs/2610.31358v1)** | 2026-10-22 |  |
+| **[RIPPLE: Recovery Internalization through Process-Level Policy Learning and Effect-Aware Credit for Long-Horizon Agentic Coding](https://arxiv.org/abs/2610.31276v1)** | 2026-10-22 |  |
+| **[Chordal Construction of Column-Twisted Reed--Solomon Codes](https://arxiv.org/abs/2610.31257v1)** | 2026-10-22 |  |
+| **[Construction and Decoding of Convolutional Codes with optimal Column Distances](https://arxiv.org/abs/2601.20825v2)** | 2026-10-22 |  |
+| **[On generalized covering radii of binary primitive double-error-correcting BCH codes](https://arxiv.org/abs/2603.21068v2)** | 2026-10-22 | <details><summary>14 pa...</summary><p>14 pages,revised based on referee comments</p></details> |
+| **[ResGVC: Residual Coding for High-fidelity Generative Video Compression](https://arxiv.org/abs/2610.31039v1)** | 2026-10-22 |  |
+| **[Extension of MDS Codes over Finite Fields](https://arxiv.org/abs/2610.31023v1)** | 2026-10-22 |  |
 
 ## Program
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dancing Diffusion: Learning Continuous Programs for Image Generation and Editing](https://arxiv.org/abs/2610.28003v2)** | 2026-10-22 | <details><summary>Added...</summary><p>Added links to the code release and project page; manuscript and results unchanged. Code: https://github.com/mistakes-glitch/declabeldiff . Project page: https://mistakes-glitch.github.io/declabeldiff/</p></details> |
+| **[AgenticEvolve: Evolutionary Program Search with Persistent Language Model Agents that Design and Run Experiments](https://arxiv.org/abs/2610.31326v1)** | 2026-10-22 | <details><summary>23 pa...</summary><p>23 pages, including supplementary material. The source code is available at https://github.com/pengzy-cosmo/AgenticEvolve</p></details> |
+| **[SCOPE: Compiling Natural-Language Policies into Neurosymbolic Predicate Programs](https://arxiv.org/abs/2610.31062v1)** | 2026-10-22 |  |
+| **[TrustedCode: Evaluating Large Language Models for Developing Trusted Code through Automated Program Verification](https://arxiv.org/abs/2610.30432v1)** | 2026-10-21 |  |
 | **[VoxProg: 3D Spatial Reasoning through Voxel Programming](https://arxiv.org/abs/2610.30127v1)** | 2026-10-21 | <details><summary>Proje...</summary><p>Project page: https://voxprog.github.io</p></details> |
 | **[The Best Programming Language for Tokenmaxxing: An Investigation of Coding Agent Behavior Across Programming Languages](https://arxiv.org/abs/2607.22807v2)** | 2026-10-21 |  |
 | **[The Hitchhiker's Guide to Program Analysis, Part III: Mostly Harmless LLMs](https://arxiv.org/abs/2606.15122v2)** | 2026-10-21 |  |
+| **[How Prompt Style Affects AI Accuracy and Speed in Competitive Programming](https://arxiv.org/abs/2610.30223v1)** | 2026-10-21 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 7 tables. Code and data: https://github.com/erering/AI-prompt-research</p></details> |
 | **[TileCas: Cascading Kernel Development Across Programming Abstractions](https://arxiv.org/abs/2610.14740v2)** | 2026-10-21 | <details><summary>25 pa...</summary><p>25 pages, 7 figures. Updated code repository link and adjusted placement of Figure 1</p></details> |
 | **[Multiobjective Preexpectation Reasoning for Probabilistic Programs](https://arxiv.org/abs/2608.13268v2)** | 2026-10-21 |  |
+| **[Detection Is Not Enough: Reasoning Traces as Testable Program Hypotheses](https://arxiv.org/abs/2610.30200v1)** | 2026-10-21 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 9 tables. Code and stored outputs: https://github.com/S2V3/Detection-is-not-enough</p></details> |
 | **[Interpretable Cutting Plane Selection for Mixed-Integer Linear Programming Using Genetic Programming](https://arxiv.org/abs/2610.29311v1)** | 2026-10-21 |  |
 | **[A minimum witness for the 3/2 configuration-linear-program gap in two-weight graph balancing, unique at its size](https://arxiv.org/abs/2608.13318v3)** | 2026-10-20 | <details><summary>37 pa...</summary><p>37 pages, 12 figures, 1 table. v3: corrects the infeasibility-verdict count behind the six-machine sweep (4,228,054, not 4,231,347), a false remark on the vertex hypothesis and two internal contradictions; the coNP consequence is stated precisely; exploratory LP bounds are labelled numerical; overstatements narrowed. Code and data: https://doi.org/10.17605/OSF.IO/SKX86</p></details> |
 | **[On the algebraic analysis of runtime distribution of probabilistic programs](https://arxiv.org/abs/2607.01856v3)** | 2026-10-20 |  |
 | **[Covariance-Aware Transformers for Quadratic Programming and Decision Making](https://arxiv.org/abs/2602.14506v2)** | 2026-10-20 | <details><summary>Publi...</summary><p>Published in the proceedings of the Conference on Language Modeling (COLM), 2026</p></details> |
-| **[manylp: reproducible, exact, and batched linear programming for genome-scale dynamic flux balance analysis](https://arxiv.org/abs/2610.14566v2)** | 2026-10-20 | 36 pages, 3 figures |
-| **[GenoMAS: Guided Multi-Agent Programming for Scientific Discovery from Genomic Data](https://arxiv.org/abs/2507.21035v4)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Findings. Project page at https://liu-hy.github.io/GenoMAS/ and code at https://github.com/Liu-Hy/GenoMAS</p></details> |
-| **[Noise-aware Verification and Synthesis of Quantum Programs](https://arxiv.org/abs/2608.05807v2)** | 2026-10-20 |  |
-| **[Dancing Diffusion: Learning Continuous Programs for Image Generation and Editing](https://arxiv.org/abs/2610.28003v1)** | 2026-10-20 |  |
-| **[Finding Memory Leaks in C/C++ Programs via Neuro-Symbolic Augmented Static Analysis](https://arxiv.org/abs/2603.27224v6)** | 2026-10-20 | 16 pages |
-| **[Tensor computing application programming interface: An application-oriented, lightweight API for portable high-performance tensor network computations](https://arxiv.org/abs/2512.23917v2)** | 2026-10-20 | 46 pages, 10 figures |
 
